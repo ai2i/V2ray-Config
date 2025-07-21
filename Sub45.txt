@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9cd13592-4ea9-4320-a910-af51a25e4aef@62.212.70.94:2090?type=tcp&security=reality&pbk=2ijB2vzukb0W-bYBFFZujTv6V-lrOTVuhxVKU8uxTRo&fp=chrome&sni=zhaket.com&sid=e9&spx=%2F-%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40expressvpn_420%20%7C%2025
-vless://bb691001-faf8-4b4e-af2e-bfb27780f689@FASTSHOVPNTELEGRAM.fast.hosting-ip.com:80?mode=auto&path=%2FFASTSHOVPN%3Fed%3D2048&security=&encryption=none&host=crazyofferzzshopp.com&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40fastshovpn%20%7C%204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40free1_vpn%20%7C%2011
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2Fproxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40imhdiyvp%20%7C%209
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.21.221:989#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40ip_cf_config%20%7C%208
@@ -503,3 +501,5 @@ vless://092f6989-74a2-5deb-841c-46622fd8f96d@151.101.66.133:443?security=tls&sni
 vless://0a0d2832-ef39-4abc-aa26-30e7ae92b7a1@ir01.oghabvps.com:13560?type=tcp&path=/&host=208.67.222.222&headerType=http&security=none#✅@v2ray_configs_pools
 vless://0ac2cfd0-9ff1-4b82-882b-8c651c464ae9@94.183.158.10:8083?path=/&security=none&encryption=none&type=ws#✅@v2ray_configs_pools
 vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?path=/&security=none&encryption=none&type=ws#✅@v2ray_configs_pools
+vless://0d998d17-411f-4a9a-be9e-187e942cceac@91.107.170.231:24070/?type=grpc&serviceName=t.me/entryNET&authority=&security=reality&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&fp=chrome&sni=yahoo.com&sid=93&spx=/#t.me/entryNET/config=1837971175450557
+vless://0e64b00f-b722-47d4-aff3-b94c293680ae@83.217.9.233:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=0a6ba2716a409da6#🇹🇷🌍𝐹𝓇𝑒𝑒 𝒯ü𝓇𝓀𝒾𝓎𝑒 𝒮𝑒𝓇𝓋𝑒𝓇 | 𝒳𝒫𝓁𝓊𝓈 𝒱𝒫𝒩🌍🇹🇷
