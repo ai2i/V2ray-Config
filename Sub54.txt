@@ -85,6 +85,7 @@ vless://98371613-b71d-4185-9e8a-eb7ba73373b4@edt-f5k.pages.dev:443/?type=ws&encr
 vless://9926ee97-4398-48dd-b263-2863c62f5c41@COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK:80?path=/&security=&encryption=none&type=ws#Telegram:@config_proxy 🔥
 vless://997744ee-c8bb-45e8-ab86-583e58a30b6e@91.99.98.186:30618?encryption=none&security=none&type=tcp&headerType=http&host=exo.ir#✅@v2ray_configs_pools
 vless://9a1fe05a-53d3-46db-bb00-8c11e94d8af4@real-all3.sdcards1.ir:8520?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e701a013553059ba#t.me/entryNET/config=1837924493131756
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443/?type=ws&encryption=none&flow=&host=kawaiifreevpn-7ds.pages.dev&path=/?ed=2560&security=tls&sni=kawaiifreevpn-7ds.pages.dev&fp=chrome#Telegram:@config_proxy 🔥
 vless://9ef68890-9a43-4f28-b118-1921dbdd6b1e@46.8.227.178:81/?type=tcp&encryption=none&flow=#Telegram:@config_proxy 🔥
 vless://Telegram--TokaVpn--TokaVpn@91.99.184.35:3070/?type=grpc&encryption=none&flow=&serviceName=23145vless&sni=journalofbigdata.springeropen.com&fp=chrome&security=reality&pbk=Sq2cfOPGoEQVuMZxcenxBRD8Y6oslb_7z_pfsJ2BPgg&sid=e782bc#Telegram:@config_proxy 🔥
 vless://Telegram-TokaVpn-TokaVpn-@91.99.184.35:3060/?type=grpc&encryption=none&flow=&serviceName=23145vless&sni=journalofbigdata.springeropen.com&fp=chrome&security=reality&pbk=mruN_C8EQxa11ez_NVmtFqf8oLEatFn6OIVtnJPZ_TI&sid=87#Telegram:@config_proxy 🔥
@@ -502,4 +503,3 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoidXMtNC1zc3Qu
 
 vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.251.4:443?security=tls&sni=abc.vpneee.top&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&fp=chrome#🇺🇸[openproxylist.com]
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.218.15.238:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?security=&encryption=none&type=grpc#12208
