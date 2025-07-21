@@ -163,9 +163,6 @@
 
 
 
-
-
-
 #profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
@@ -503,3 +500,6 @@ vless://55b2c464-f627-45be-9778-01bf6c30b220@151.101.2.165:80?security=none&type
 vless://5de46b0d-10fd-4162-8997-5003f9da30e0@172.66.132.196:443?path=/tel-@confingam=?ed=2560&security=tls&encryption=none&host=mmd-p9k.PagEs.Dev&fp=chrome&type=ws&sni=mmd-p9k.PagEs.Dev#channel™ @Confingam📡
 vless://5eb0c157-07fc-4cf2-bc48-640a96a9f99c@104.21.72.109:443?path=@Confingman @Confingman @Confingman @Confingman @Confingman @Confingman&security=tls&alpn=h2,http/1.1&encryption=none&host=pamchall.com&fp=chrome&type=ws&sni=PamcHalL.coM#Telegram:@config_proxy 🔥
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443?type=ws&host=configmr.pages.dev&path=/telegram@v2ray_configs_pools/?ed=2560&security=tls&fp=chrome&sni=ConFIgmr.PaGeS.dEV&alpn=h2,http/1.1#Telegram:@config_proxy 🔥
+vless://6819793b-2c02-4e3f-9fad-478d7d6cd83e@108.162.193.81:443?security=tls&sni=cs9qfa.allgums.com&type=ws&host=cs9qfa.allgums.com&path=/wss&alpn=http/1.1#Telegram:@config_proxy 🔥
+vless://69959a80-dfac-492a-929a-7b90e99e586f@45.14.50.90:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=JoinBadeChannel@antimeli&fp=chrome&pbk=PcuYTFb8OI0uf1tTf2MFbmGVvkM0yQCJQ82mz6EYWDI&sid=00adae3cabf8#Telegram:@config_proxy 🔥
+vless://6c0ae1ed-7fcc-4706-a548-fe879b4902ec@151.101.194.133:80?security=none&type=ws&host=jetservices55.ir&path=/?ed=2560#Telegram:@config_proxy 🔥

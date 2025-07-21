@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
-vless://0517b463-2302-48d5-9b50-8dd2e0e1d638@46.31.79.119:80?type=xhttp&path=/wellp&host=wellp.global.ssl.fastly.net&mode=auto&security=reality&pbk=rFRgOG1YES2qi6d1xyihs21ourOyv7xRi9MnLd-3x1U&fp=chrome&sni=journalofbigdata.springeropen.com&sid=d99c&spx=/#@Alfa_v2ray_ng نت ملی 🇹🇷برای اتصال دائمی جوین شو
-vless://05471638-53a5-4033-8d47-3716f2e7ddb9@subseven.iranfreedomserver.com:20340?security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=speedtest.net&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @TEHRANARGO | کانال ما 🫆
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.121.218:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#فرانسه 🇫🇷 @V2xay
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.66.125:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.233.194:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
@@ -503,3 +500,6 @@ vless://1a27f653-82aa-ef55-9fab-a68ce7967a74@speedtest.net:80?mode=auto&path=/&s
 vless://1a35bdb9-217d-4fc5-acef-1fbff95c6b68@31.15.16.95:1010?mode=gun&security=none&encryption=none&type=grpc&serviceName=MoonV2r---Telegram---Channel#@Alfa_v2ray_ng کانالمون 😿
 vless://1a36bf60-47d6-4fc0-a5b6-4e8864f70a54@Pishgam.sdcards.ir:2052?path=/@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER?ed=2087&security=&encryption=none&host=amiri2.server-dev2.ir&type=ws#@CUSTOMVPNSERVER
 vless://1a827c35-7a17-48d8-a9f5-eeed323ca57b@91.99.141.177:443?security=reality&encryption=none&pbk=SJt4jAvhiR5MVRnl-OPj2BWUXZT6p4oH-Ugl3B0b-VA&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=8ad4b0d652d3e8#@varn_Net
+vless://1a827c35-7a17-48d8-a9f5-eeed323ca57b@91.99.141.177:443?security=reality&encryption=none&pbk=SJt4jAvhiR5MVRnl-OPj2BWUXZT6p4oH-Ugl3B0b-VA&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=8ad4b0d652d3e8#هر روز کانفینگ = @MoneySeae
+vless://1a8539db-bb26-4ea6-82b9-68b29adfdbcd@Www.speedtest.net:2095?type=httpupgrade&host=Fi1.vipmehspd.ir.&path=/@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02&security=none#Telegram:@FREE_VPN02
+vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?path=/Telegram-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=kIngOFIRAN.PAGes.DEv&fp=chrome&type=ws&sni=kingOfIRaN.Pages.DEV#@V2rayNG3
