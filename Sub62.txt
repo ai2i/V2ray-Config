@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue/?@CONFINGAM_CONFINGAM_CONFINGAM_CONFINGAM?ed=2048&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#Germany 🇩🇪™ @confingam 📡
-vless://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk:80?flow=&path=/&type=ws#Telegram:@config_proxy 🔥
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@mOoDy-LoCk.SEotoolSfOrYOU.Co.uK:80?flow=&path=/&type=ws#Telegram:@config_proxy 🔥
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.185:2198?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1837892724694979
 vless://83a85a41-fb7f-43e0-9c15-d199509a9624@178.162.244.224:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Germany 🇩🇪™ @confingam 📡
@@ -503,3 +501,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:806#%F0%9F
 ss://17d7913a-da39-4e09-8634-8734679a19ae@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#Telegram:@config_proxy 🔥
 ss://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=/?ed=2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v14.pronetwork.com#Telegram:@config_proxy 🔥
 ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3h2&encryption=none&host=EbRhP7yUx0.ToRsAnSpOrT16.oRg&type=ws&sni=EbRhP7yUx0.ToRsAnSpOrT16.oRg#Telegram:@config_proxy 🔥
+ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.170.59.120:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#Telegram:@config_proxy 🔥
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.59:80?path=/&security=none&encryption=none&host=ipsycho.suex12.ir&type=ws#Telegram:@config_proxy 🔥
