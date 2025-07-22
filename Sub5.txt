@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@Academi_vpn²
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@CaV2ray ⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@SRCVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@V2ray1_Ng
@@ -502,4 +503,3 @@ trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&securi
 trojan://blue2024@104.16.113.194:443?sni=td.promote.icu#[🇨🇦]t.me/original_pound
 trojan://blue2024@104.16.179.237:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838387041122249
 trojan://blue2024@104.16.223.123:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838390058497012
-trojan://blue2024@104.16.251.122:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838386976662446

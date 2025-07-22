@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?path=/&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=DO-iTforyOu-E1P.PAgeS.dEV&fp=chrome&type=ws&sni=DO-iTforyOu-E1P.PAgeS.dEV#𝗝𝗼𝗶𝗻 ➠ @TEHRANARGO | کانال ما 🫆
+vless://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?path=/0u5r7kvREbroqNEu?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=do-itforyou-e1p.pages.dev&fp=chrome&type=ws&sni=DO-iTforyOu-E1P.PAgeS.dEV#@HiByeVPNN
+vless://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?path=/I?ed=512&security=tls&encryption=none&host=DO-iTforyOu-E1P.PAgeS.dEV&fp=chrome&type=ws&sni=DO-iTforyOu-E1P.PAgeS.dEV#T.ME/Eternal_Connect | 🌍
 vless://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?path=/TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=DO-iTforyOu-E1P.PAgeS.dEV&fp=chrome&type=ws&sni=DO-iTforyOu-E1P.PAgeS.dEV#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?path=/V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&security=tls&encryption=none&host=DO-iTforyOu-E1P.PAgeS.dEV&fp=chrome&type=ws&sni=DO-iTforyOu-E1P.PAgeS.dEV#Telegram @v2rayng_fars
 vless://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?path=/proNG1&security=tls&encryption=none&host=DO-iTforyOu-E1P.PAgeS.dEV&fp=chrome&type=ws&sni=DO-iTforyOu-E1P.PAgeS.dEV#@proNG1/parham929292
@@ -71,7 +74,6 @@ vless://8f82bbec-3226-4615-b3cd-e08239f5a9f9@198.41.216.98:8080?path=/@MaSTeRSeR
 vless://8f887aef-b1b0-47dc-9fe9-53f61d21efad@185.146.173.18:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=telewebion.dns-shop.ir&fp=chrome&type=ws&sni=telewebion.dns-shop.ir#@Alfred_Config
 vless://8f887aef-b1b0-47dc-9fe9-53f61d21efad@185.146.173.18:443?path=/?ed=2048&security=tls&encryption=none&host=telewebion.dns-shop.ir&type=ws#@Alfred_Config
 vless://8f949a7b-c566-4daf-a6ff-8e93ce92ce88@151.101.3.8:80?path=ws/?ed=2048&security=none&encryption=none&host=welcomtofreeboarders.com&type=ws#🇫🇮 AzadMarz [ All net ]-Join:@AzadMarz
-vless://8fba1e9e-9d0b-480f-9d41-b796647eacef@198.244.142.235:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#Telegram:@config_proxy 🔥
 vless://8fba1e9e-9d0b-480f-9d41-b796647eacef@51.75.169.41:2053?mode=gun&security=reality&encryption=none&authority=&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&fp=chrome&type=grpc&serviceName=2053vless&sni=sourceforge.net&sid=5640288dca4f8519#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
 vless://8fbf5134-e08b-4e87-9f79-41f78664d8d5@45.33.96.160:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#Channel id: @ShadowProxy66 🇺🇸
 vless://8fbf5134-e08b-4e87-9f79-41f78664d8d5@45.33.96.160:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Telegram:@config_proxy 🔥
@@ -501,5 +503,3 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=/&security=
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#Channel id: @ShadowProxy66 🇨🇦
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.67.169.132:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#Channel id: @ShadowProxy66 🇨🇦
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.67.169.132:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#⭐️
