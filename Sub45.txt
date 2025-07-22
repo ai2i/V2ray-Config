@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@bored_vpn
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net&security=tls&encryption=none&alpn=http/1.1&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram+:+@V2rayEnglish
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&encryption=none&host=Kz3V0zHz0P.dAsTaTsArD.oRg&fp=chrome&type=ws&sni=Kz3V0zHz0P.dAsTaTsArD.oRg#Telegram:@config_proxy 🔥
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&encryption=none&host=Kz3V0zHz0P.dAsTaTsArD.oRg&fp=chrome&type=ws&sni=Kz3V0zHz0P.dAsTaTsArD.oRg#t.me/entryNET/config=1837983757609062
 vless://34661549-d217-4afb-b511-c6c34655d983@213.142.133.165:11228?security=reality&encryption=none&pbk=ZH8w5JZXcWHBRI7F5r2k6CHSVXSROX_zjziDSx2YjmE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cdn77.com&sid=4df4b2b9b547fbf7#t.me/entryNET/config=1837991369778490
@@ -186,6 +183,7 @@ trojan://telegram-id-privatevpns@15.188.241.61:22222?security=tls&alpn=http%2F1.
 vless://8ef62fcb-038a-40ec-ae4b-bf40fc6305a0@188.114.97.3:443?type=xhttp&path=%2FYavanna%2F&host=&mode=stream-one&security=tls&fp=randomized&alpn=http%2F1.1%2Ch2%2Ch3&sni=Varda.Manwe.ir#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40proxie%20%7C%2015
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40prrofile_purple%20%7C%20128
 vless://5908ce55-7289-4671-9d3f-b509f78091ed@sweden.a1mshop.com:14703?security=none&encryption=none&host=analytics.google.com&headerType=http&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40selinc%20%7C%2010
+vless://V2RAXX---@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX#%E2%9D%94%20XX%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2raxx%20%7C%208
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTGVhdEZ0OEloTnV3Sm9SY28xTXV5@23.177.185.63:49454#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40v2ray_free_conf%20%7C%2019
 vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@PRActiCaL-CoMPlaint.SEoToolsFoRYOu.cO.uK:80?path=%2F%3F--%2FV2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS--&security=none&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayng_fars%20%7C%2019
 trojan://telegram-id-v2rayvpnchannel@15.188.241.61:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2015
@@ -503,3 +501,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#🇩🇪DE-138.124.115.157-0254
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU=@194.87.31.68:443#🇳🇱NL-194.87.31.68-0276
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#🇳🇱NL-213.109.147.242-0368
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMWhqaVVtU2d1Y2d6WVlKMFd0cXdX@77.246.102.112:60117#🇳🇱NL-77.246.102.112-0300
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFEwWg==@83.147.18.163:8388#@Merlin_ViP
