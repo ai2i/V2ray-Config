@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?type=ws&security=none&path=/34COh9NCiin5SJMk?ed=2560&host=VngSuPpLY.IP-DdnS.com#🇵🇭|@V2BUX
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.211.214:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.211.214:8880?path=/LGTE4FBhMm0wY9yE?ed&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@V2RAYNG_1378
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.211.214:8880?path=/LGTE4FBhMm0wY9yE?ed&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#t.me/entryNET/config=1838362314053113
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.211.214:8880?path=/LGTE4FBhMm0wY9yE?ed&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🔥𝗳𝗿𝗲𝗲 𝗰𝗼𝗻𝗳𝗶𝗴: @𝗮𝘇𝗮𝗱𝗶𝗻𝗲𝘁𝟮𝟱
@@ -503,3 +501,5 @@ vless://f5d0fbd6-03bd-48c7-b8ed-7c54d9aa3cfa@91.99.7.227:44667?type=xhttp&mode=a
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.227.185.247:8880?type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=cJydPsZ25g4KQeuu8tGZE-9l6uB6uvdHZxyAfa3NrAQ&sid=e3bbc3601946f0e4&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇺🇸@EVAY_VPN
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@37.140.242.245:8880?type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=cJydPsZ25g4KQeuu8tGZE-9l6uB6uvdHZxyAfa3NrAQ&sid=e3bbc3601946f0e4&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇹🇷@EVAY_VPN
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=&encryption=none&type=ws#@HiByeVPNN❤️‍🔥
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&type=ws#@HiByeVPNN❤️‍🔥
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&type=ws#TELEGERAM : @PRUOXYI

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.162:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇫🇷TM-@AZARBAYJAB1(GPRS)
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.175:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇫🇷TM-@AZARBAYJAB1(GPRS)
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#@varn_Net
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Alfa_v2ray_ng 🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Confingman🚸3️⃣
@@ -503,3 +501,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=g
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh30v8.waipdirect.shop#Channel : @Mrsoulb 🏴🏳
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh30v8.waipdirect.shop#[🇺🇸]ae_proxy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh30v8.waipdirect.shop#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh30v8.waipdirect.shop#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh30v8.waipdirect.shop#🟢 @server_free2 🟢

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://SVNTEAM1@SvnFree.GiSvn.ir:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#🇩🇪TCP-51
-vless://SVNTEAM3@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-22
 vless://SVNTEAM3@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-24
 vless://SVNTEAM3@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-21
 vless://SVNTEAM3@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-23
@@ -503,3 +501,5 @@ vless://aaab38ac-37d9-4f1b-825d-6b65279a01d5@www.speedtest.net:2096?path=/@V2RAY
 vless://aaacbcb-acab-acab-abdc-bccaabcabcba@127.0.0.1:8080?security=tls&type=tcp#Telegram:@config_proxy 🔥
 vless://aaacbcb-acab-acab-abdc-bccaabcabcba@127.0.0.1:8080?security=tls&type=tcp#t.me/entryNET/config=1838365210992928
 vless://aaacc50f-fe98-45e8-96f7-b1938416774e@38.180.188.57:40002?security=reality&encryption=none&pbk=xIVS8EShmnJd6HDzSgRcKGFFz0eFCQ1-_a8GN_X3EUM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com&sid=89923c3d#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
+vless://aaafd33e-bda8-47e9-bc33-116ce13c0b27@5.255.120.217:80?mode=auto&path=/pwp&security=reality&encryption=none&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&host=blee.p.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=8c#@CaV2ray ⚡️
+vless://aaafd33e-bda8-47e9-bc33-116ce13c0b27@5.255.120.217:80?mode=auto&path=/pwp&security=reality&encryption=none&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=8c#@CaV2ray ⚡️
