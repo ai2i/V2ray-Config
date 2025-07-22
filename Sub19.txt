@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?path=/BaRAyeIran?ed=2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&type=ws#@azadiiivpn ✨
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@116.203.32.109:2087?mode=gun&security=reality&encryption=none&pbk=gUIqr0-OS4pZYeLZ3nfpH775LAV7ruMUmDNO04vL11g&fp=chrome&type=grpc&sni=www.target.com&sid=2b2e#@V2rayNG3
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@95.217.183.108:2087?security=reality&sni=www.target.com&fp=chrome&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&sid=bc6f0833&type=grpc&encryption=none#@awlix_ir
+vless://cbc68f99-54f8-4605-8fac-69d8c9fdb1e7@135.181.201.193:51168?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://cbfbc5e3-4b53-4854-931e-c9ac61719636@104.24.0.137:8080?path=/khkdjhsd?ed=2048&security=&encryption=none&host=in2772.novintecc.ORG.&type=httpupgrade#@varn_Net
 vless://cbfbc5e3-4b53-4854-931e-c9ac61719636@104.24.0.137:8080?path=/khkdjhsd?ed=2048&security=&encryption=none&host=in2772.novintecc.ORG.&type=httpupgrade#🔗 Telegram : @Viturey 🔒
 vless://cbfbc5e3-4b53-4854-931e-c9ac61719636@104.24.0.137:8080?path=/khkdjhsd?ed=2048&security=none&encryption=none&host=in2772.novintecc.ORG.&type=httpupgrade#@Alfa_v2ray_ng کانالمون 😘
@@ -499,7 +503,3 @@ vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=TELEGRAM---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay
-vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=TELEGRAM---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---@V2xay---&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay
-vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
-vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&encryption=none&headerType=none&type=tcp#@TEHRANARGO چنل تلگرام
-vless://dc80ee7e-bad0-450c-a218-f12e05680885@141.11.202.250:2096?path=/?ed=2096&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=arm1.dollardoon.com&fp=chrome&type=ws&sni=arm1.dollardoon.com#@v2rayfast_7❤️‍🔥
