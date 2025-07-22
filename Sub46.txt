@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://adb9d042-061d-4e89-92d0-f8e2304b466d@31.44.7.38:8443?type=tcp&headerType=http&host=zula.ir&security=none#-@SaghiVpnXRoboT 1⚡️ 🇺🇸
+vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=/?ed=2560&security=tls&encryption=none&host=sub.divib.dynv6.net&type=ws&sni=sub.divib.dynv6.net#@Capoit
+vless://b28eb861-1748-4200-ba72-278669edc33b@104.18.26.90:443?path=/?ed=2560&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=barayeiranmahsang.mahmoodchitooz.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org#@TEHRANARGO
+vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.24.158.0:2052?security=none&type=ws&sni=register.tunnelbreaking.shop&host=register.tunnelbreaking.shop&encryption=none&type=ws&path=/&sni=register.tunnelbreaking.shop&headerType=none#Telegram:@config_proxy 🔥
+vless://bacbaac-bcaa-baca-badc-bccacabbabca@127.0.0.1:8080?security=tls&type=tcp#t.me/entryNET/config=1837975515060176
+vless://bf291cc2-0e99-4a9e-a53c-5e0383af1fe4@xpanel-ir.panelfreedom.com:2092?security=&encryption=none&host=parsabr.com&headerType=http&type=tcp#@Capoit
+vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Capoit
+vless://c9139373-8b2c-415f-9c03-08f242197d63@151.101.64.155:80?type=ws&host=devfreedomnetbyalireza.com&path=/TeleGram.Channel@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG-?ed=2048#Telegram:@config_proxy 🔥
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=vless8-ekh.pages.dev&fp=chrome&type=ws&sni=vless8-ekh.pages.dev#t.me/entryNET/config=1837976270068951
 vless://caa5d2a1-0718-4945-a41a-697a44f94875@104.26.9.21:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=/?ed=2048&fp=chrome&alpn=h3,h2#Telegram:@config_proxy 🔥
 vless://ccabbaa-bcaa-caab-adbc-cccbcaababba@127.0.0.1:1080?security=tls&type=tcp#Telegram:@config_proxy 🔥
 vless://ce7b5e36-a3a0-4f61-af4d-6ca132f892c5@103.57.64.48:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=sLOqi_GLDpQTPbqpUIAHoBqDCzIamePjAy701bD7mWI&sid=7DdB966b#t.me/entryNET/config=1837974652861970
@@ -494,12 +503,3 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org&allowInsecure=1#✅@v2ray_configs_pools
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=rc6.freeguard.org#✅@v2ray_configs_pools
 trojan://2ee85121-31de-4581-a492-eb00f606e392@51.81.203.233:443?security=tls&headerType=none&type=tcp&sni=rs4.freeguard.org#✅@v2ray_configs_pools
-trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.30.167:443?security=tls&sni=3y.2032.pp.ua#✅@v2ray_configs_pools
-trojan://4732adfa16c6450bbef87264e41332db@jobscareerfortoday.com:443?allowInsecure=1#t.me/entryNET/config=1837964569872400
-trojan://4732adfa16c6450bbef87264e41332db@jobscareerfortoday.com:443?allowInsecure=1#t.me/entryNET/config=1837964569873188
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.5:443/?type=tcp&security=tls&sni=trus.moonfree.top&allowInsecure=1#✅@v2ray_configs_pools
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.23:443/?type=tcp&security=tls&sni=trus.moonfree.top&allowInsecure=1#✅@v2ray_configs_pools
-trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
-trojan://51c44c4e-f8c2-4419-a52b-b4b7bd915078@ap.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
-trojan://58dcd460-65df-47b1-b062-517df30bef29@usa.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
-trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443/?type=tcp&security=tls#✅@v2ray_configs_pools

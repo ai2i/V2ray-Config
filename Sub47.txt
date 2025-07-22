@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.30.167:443?security=tls&sni=3y.2032.pp.ua#✅@v2ray_configs_pools
+trojan://4732adfa16c6450bbef87264e41332db@jobscareerfortoday.com:443?allowInsecure=1#t.me/entryNET/config=1837964569872400
+trojan://4732adfa16c6450bbef87264e41332db@jobscareerfortoday.com:443?allowInsecure=1#t.me/entryNET/config=1837964569873188
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.5:443/?type=tcp&security=tls&sni=trus.moonfree.top&allowInsecure=1#✅@v2ray_configs_pools
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.23:443/?type=tcp&security=tls&sni=trus.moonfree.top&allowInsecure=1#✅@v2ray_configs_pools
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
+trojan://51c44c4e-f8c2-4419-a52b-b4b7bd915078@ap.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
+trojan://58dcd460-65df-47b1-b062-517df30bef29@usa.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
+trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443/?type=tcp&security=tls#✅@v2ray_configs_pools
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a10.taipeicitygovernment.kyiv.ua:3462/?type=tcp&security=tls&sni=45.32.28.232#✅@v2ray_configs_pools
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@my.singaporenodeserverone.kyiv.ua:443/?type=tcp&security=tls&sni=45.32.28.232#✅@v2ray_configs_pools
 trojan://7778e684-f435-4166-bf9e-0256cb28bf10@15.197.162.184:443/?type=tcp&security=tls&sni=download2hkt.windowsupdate.lol&allowInsecure=1#✅@v2ray_configs_pools
@@ -494,12 +503,3 @@ vless://f503c72d-485e-4091-9d0c-9ad34d61c914@31.58.144.156:12765?path=/telegram@
 vless://f503c72d-485e-4091-9d0c-9ad34d61c914@31.58.144.156:12765?path=/telegram@FergalVpnMod&security=none&encryption=none&host=cloudflare.com&type=ws#✅@v2ray_configs_pools
 vless://f503c72d-485e-4091-9d0c-9ad34d61c914@31.58.144.156:12765?path=/telegram@FergalVpnMod&security=none&encryption=none&host=cloudflare.com&type=ws#🇩🇪🌍𝙶𝚎𝚛𝚖𝚊
 vless://f503c72d-485e-4091-9d0c-9ad34d61c914@31.58.144.156:12765?path=/telegram@FergalVpnMod&security=none&encryption=none&host=cloudflare.com&type=ws#🇩🇪🌍𝙶𝚎𝚛𝚖𝚊𝚗𝚢 𝙻𝚘𝚌𝚊𝚝𝚒𝚘𝚗 | 𝚇𝙿𝚕𝚞𝚜 𝚅𝙿𝙽🌍🇩🇪
-vless://f503c72d-485e-4091-9d0c-9ad34d61c914@31.58.144.156:12765?path=/telegram@v2ray_configs_pools&security=none&encryption=none&host=cloudflare.com&type=ws#✅@v2ray_configs_pools
-vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?path=/?ed=2560&security=tls&encryption=none&host=brmahasang.ahaysiahzangi.dpdns.org&fp=chrome&type=ws&sni=brmahasang.ahaysiahzangi.dpdns.org#✅@v2ray_configs_pools
-vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?path=/v2ray_configs_pools?ed=2560&security=tls&encryption=none&host=brmahasang.ahaysiahzangi.dpdns.org&fp=chrome&type=ws&sni=brmahasang.ahaysiahzangi.dpdns.org#✅@v2ray_configs_pools
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=none&encryption=none&type=ws#t.me/entryNET/config=1837969791155809
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=&type=ws&path=/&encryption=none#🇮🇷IR | @v2ray_configs_pools
-vless://f954f48a-3448-4824-b500-69a583c8b902@65.109.191.119:4041?mode=gun&security=none&encryption=none&type=grpc&serviceName=MoonL_V2ray_Channel#✅@v2ray_configs_pools
-vless://f954f48a-3448-4824-b500-69a583c8b902@65.109.191.119:4041?mode=gun&security=none&encryption=none&type=grpc&serviceName=v2ray_configs_pools_Channel#✅@v2ray_configs_pools
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@159.242.242.63:8880?path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net/&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#🇺🇸 | @External_Net
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@162.159.243.19:8880?path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net/&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws&sni=hk.laoyoutiao.link#🏴‍☠️ | @External_Net

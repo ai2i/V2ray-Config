@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://466b7f03-31c4-478b-b3a8-c02cfb52703f@de1a.configsrv.pw:2070?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
-vless://466b7f03-31c4-478b-b3a8-c02cfb52703f@de1a.configsrv.pw:2070?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Germany-72524 / @V2rayN5
-vless://4676ddbd-57e4-4348-9d10-3676979825cc@ir1.phantompanel.shop:2098?security=none&type=tcp&headerType=http&path=/favicon.ico&host=speedtest.net#🇬🇧 | 𝗩𝗜𝗣 𝘅𝟮 | @zedbaz_vpn
 vless://4676ddbd-57e4-4348-9d10-3676979825cc@ir1.phantompanel.shop:2098?security=none&type=tcp&headerType=http&path=/favicon.ico&host=speedtest.net#🇬🇧 | 𝗩𝗜𝗣 𝘅𝟮 | @zedbaz_vpn ➖➖➖➖➖➖➖➖
 vless://468d811a-8540-4517-9779-0f542b5150d2@104.24.7.232:80?encryption=none&security=none&type=ws&host=mute-wood-561e-ppal.megiva7664.workers.dev&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io#Telegram:@config_proxy 🔥
 vless://46a9de01-147d-4e1f-babf-c50bb2be91ad@151.101.3.8:80?type=ws&host=befreewithus.com&path=/&security=none#Channel:@BeFreeWithUs
@@ -51,6 +48,8 @@ vless://484d4e5b-7ec0-84bc-98fc-b55bb8037f38@portal12.saladshirazi.com:443?secur
 vless://484d4e5b-7ec0-84bc-98fc-b55bb8037f38@portal12.saladshirazi.com:443?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://484d4e5b-7ec0-84bc-98fc-b55bb8037f38@portal12.saladshirazi.com:443?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#هلند 🇳🇱 @V2xay
 vless://484d4e5b-7ec0-84bc-98fc-b55bb8037f38@portal12.saladshirazi.com:443?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://485f9f63-ab0b-42b1-99e3-a1e33e201f26@151.101.194.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws/?ed=2052#Telegram:@config_proxy 🔥
+vless://485f9f63-ab0b-42b1-99e3-a1e33e201f26@151.101.194.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws/?ed=2052#t.me/entryNET/config=1838326832491605
 vless://486857ea-817a-ed57-4df5-76ab488039d0@shop.fox-11-fox.com:2052?security=none&encryption=none&headerType=none&type=tcp#@EmpireVpn7🇩🇪
 vless://48735946-f706-4873-b9b6-d9f0255475cc@85.9.206.79:443?security=reality&encryption=none&pbk=QYWJdS4JDdSmQKeMkJfPshFuz0bC3jhm9yW3uJfQFmw&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com&sid=b4#WiFi-@SRCVPN-11
 vless://487b3b3a-aeeb-431a-b3e2-a541ae2fc27c@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🌳 Telegram | @Green_WPN
@@ -67,6 +66,7 @@ vless://4918f06b-b872-452e-8a0f-42ee51a2008c@sZ.wWW.SPeeDTesT.nET.6.7.8.9.cLoUdF
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?path=/&security=&encryption=none&type=ws#@AblNet7 🇩🇪 Germany ws (tal)
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?path=/&security=&encryption=none&type=ws#🔗 Telegram : @Viturey 🔒
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?path=/&security=none&encryption=none&type=ws#@Selinc
+vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?path=/&security=none&encryption=none&type=ws#⭐️
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?security=none&encryption=none&type=ws&path=/#King_v2raay-code12
 vless://492592c5-1b82-48cd-bc5d-a83633054c72@91.107.163.43:42370/?type=grpc&serviceName=@ZedBaz_vpn&authority=&security=reality&pbk=xSfwwBYg9e6BdXVgmH8pRW83SgKOocyvGcw57xSeHTk&fp=chrome&sni=yahoo.com&sid=479f4834&spx=/#@zedbaz_vpn
@@ -243,6 +243,7 @@ vless://4e4a22ba-7a59-4a6f-9af4-2f9705fc4745@91.107.180.100:443?type=grpc&servic
 vless://4e4eef3d-bbda-4801-dbf2-0fd23d1cc339@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
 vless://4e4fe94d-d9f2-4679-879a-b06fbb28ddf1@172.67.110.107:8080?path=/?ed=2560&security=&encryption=none&host=831tg.na15iwpb.workers.dev&type=ws#@varn_Net
 vless://4e57e34d-fc11-486e-9dbb-bcce9db1c39d@178.162.244.226:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@varn_Net
+vless://4e57e34d-fc11-486e-9dbb-bcce9db1c39d@178.162.244.226:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram:@config_proxy 💦
 vless://4e57e34d-fc11-486e-9dbb-bcce9db1c39d@178.162.244.226:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://4e8c4478-fbf4-49c1-be81-fb7fb4b15505@216.22.5.158:443?mode=gun&security=reality&encryption=none&pbk=eEu-1On0nmxllOef7lnC8l1a0H3YaMLePOOOxsO68FE&fp=chrome&spx=/&type=grpc&serviceName=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE&sni=maps.google.com&sid=87f5bf72d8025e#[🇺🇸]𝘁.𝗺𝗲/𝗖𝗼𝗻𝗙𝗶𝗚𝗟𝗶𝗡𝗘
 vless://4e8c4478-fbf4-49c1-be81-fb7fb4b15505@216.22.5.158:443?mode=gun&security=reality&encryption=none&pbk=fJcGfhnximoKyMNlblJRSZDu1G3CPoqxF8qCP3NgJws&fp=chrome&spx=/&type=grpc&serviceName=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE&sni=tgju.org&sid=87f5bf72d8025e#مسافری از هند
@@ -502,4 +503,3 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.157:443?type=tcp&headerT
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#@G0Dv2ray
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#@Selinc
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#@V2RAYNG_1378
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#Channel id: @ramgamevpn 🇺🇸
