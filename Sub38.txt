@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-
-vless://e76bf05c-a242-4c12-b162-bde4bc5eb6a0@fr-2-rvp.medicaldream.ir:443?security=tls&sni=fr-2-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=fr-2-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20FR%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
 vless://e96b9e7b-095a-58e1-a54e-e8e0cbc7f188@nl-1-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20NL%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 
@@ -503,3 +500,6 @@ vless://6d47d0cf-4ef8-4101-a3b9-9126b6875dc0@151.101.130.228:80?security=none&ty
 vless://6d47d0cf-4ef8-4101-a3b9-9126b6875dc0@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v20.drlimit.net#Telegram:@config_proxy 🔥
 vless://6db976a9-5d35-4327-9f9b-5bd2650ef628@srv1.amazon-osishop.ir:8880?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇩🇪 Moft_Vpn کانال
 vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443?path=/iqySBCJZh3v7AmTx?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&fp=chrome&type=ws&sni=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev#@Moft_Vpn کانال
+vless://71b7cafa-7d98-4190-ae0f-6654886edd5b@germany.playshoptv.com:9090?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
+vless://71b7cafa-7d98-4190-ae0f-6654886edd5b@germany.playshoptv.com:9090?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.49:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=/youlingkaishi#t.me/entryNET/config=1838012892638311
