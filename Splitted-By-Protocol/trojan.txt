@@ -13,7 +13,6 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:4448?allowInsecure=1&sni=
 trojan://Aimer@92.243.74.180:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:3596?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:32962?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
-trojan://SdCqFLcA@36.151.251.57:40252?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.238:2078?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:443?allowInsecure=0&sni=m.avhxc.cn#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40stairnode
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:40937?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
@@ -57,7 +56,6 @@ trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?allowInsecure=0#
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
 trojan://-EleP1yiGc6SD72p-m8Brw@78.39.9.168:6161?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=gg&sni=speedtest.net#🇩🇪@EXPRESSVPN_420
-trojan://0028109a-37ed-4ded-b858-e566388a904c@44.243.227.87:20230?security=tls&sni=421421.xyz#t.me/entryNET/config=1838367346817556
 trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053/?type=ws&host=t.hongkong6.qzz.io&path=/?ed=2560&security=tls&sni=t.hongkong6.qzz.io&fp=chrome#Trojan
 trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053?path=/?ed=2560&security=tls&host=t.hongkong6.qzz.io&fp=chrome&type=ws&sni=t.hongkong6.qzz.io#Channel id: @ShadowProxy66 🇨🇦
 trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053?path=/?ed=2560&security=tls&host=t.hongkong6.qzz.io&fp=chrome&type=ws&sni=t.hongkong6.qzz.io#🔗 Telegram : @Viturey 🔒
@@ -146,6 +144,7 @@ trojan://K7N8flfyok@www.chatgameone.ir:36557?type=tcp&path=/&host=zula.ir&header
 trojan://KhMXaEsWE0@lion.diacotowhidian.com.tr:80?mode=gun&security=tls&alpn=h3,h2,http/1.1&fp=chrome&type=grpc&sni=lion.diacotowhidian.com.tr#آلمان 🇩🇪 @𝗩𝟮𝘅𝗮𝘆
 trojan://NISHIKUITAN111@104.17.141.12:443?allowInsecure=1#t.me/entryNET/config=1838371011067659
 trojan://NISHIKUITAN111@104.25.101.22:443?allowInsecure=1#t.me/entryNET/config=1838378608080758
+trojan://NISHIKUITAN111@172.64.193.143:443?allowInsecure=1#t.me/entryNET/config=1838382334101789
 trojan://NewUser2@104.248.18.2:1935/?type=tcp&security=tls&sni=x2-germany-digitalocean-v2.devefun.org#@Filter_breaker | Germany
 trojan://NewUser3@154.197.64.242:8443/?type=tcp&security=tls&sni=ngepx3.ambercc.filegear-sg.me#@Filter_breaker | Singapore
 trojan://NewUser4@104.248.18.3:1935/?type=tcp&security=tls&sni=x3-germany-digitalocean-v2.devefun.org#@Filter_breaker | Germany
@@ -297,8 +296,8 @@ trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&header
 trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%B4%20%7C%20trojan%20%7C%20%40teamvpnpro%20%7C%206
 trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayngconfig%20%7C%2045
 trojan://telegram-id-v2rayvpnchannel@13.36.14.125:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2013
-trojan://ZU%290ryc%24VSrG@104.17.148.22:443?path=%2Ftrg2dhGAnG15ULOP7i%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=randomized&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#%F0%9F%87%A7%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 trojan://vip@www.wto.org:443?path=%2F%3Fed%3D2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#%F0%9F%87%AC%F0%9F%87%A7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+trojan://ZU%290ryc%24VSrG@104.17.148.22:443?path=%2Ftrg2dhGAnG15ULOP7i%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=randomized&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#%F0%9F%87%A7%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#%3E%3E%40shadowproxy66%3A%3AUS
 trojan://ZU)0ryc$VSrG@uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev:443?security=tls&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV&fp=randomized&alpn=http/1.1&type=ws&path=/trg2dhGAnG15ULOP7i?ed%3D2560#%3E%3E%40DailyV2RY%3A%3AUS
 trojan://telegram-id-directvpn@15.188.36.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%3E%3E%40DirectVPN%3A%3AFR
