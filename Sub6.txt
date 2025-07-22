@@ -3,24 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://q1r2s3t4-3456-7bcd-8abc-9012abcdef12@104.21.25.490:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
-trojan://r2s3t4u5-5678-9abc-def0-1234567890ab@185.146.173.3150:443?type=ws&host=trojan.de.vpnfree.org&path=/trojan#@Filter_breaker | Germany
-trojan://rXLpdbFugHcjfsmz1uaiLQ@195.182.38.66:2087?security=tls&sni=sec1.freevnet.click&fp=chrome&headerType=none&type=tcp#Prime_verse1
-trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@CaV2ray ⚡️
-trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@V2rayNG3
-trojan://rhSacvSrrW@join-dailyconfigs.resurrection-time.sbs:56807?mode=gun&security=reality&pbk=ZDqMqclXIFjaEvYbYCElqQXLgglpsP06zKTpHrq2EQ4&fp=chrome&spx=/&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060&sni=fafait.net&sid=fe3a2e89#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
-trojan://rhSacvSrrW@join-dailyconfigs.resurrection-time.sbs:56807?mode=gun&security=reality&pbk=ZDqMqclXIFjaEvYbYCElqQXLgglpsP06zKTpHrq2EQ4&fp=chrome&spx=/&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060&sni=fafait.net&sid=fe3a2e89#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
-trojan://s3t4u5v6-5678-9abc-def0-1234567890ab@104.21.25.500:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
-trojan://t4u5v6w7-5678-9abc-def0-1234567890ab@104.21.25.510:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
-trojan://telegram-id-directvpn@18.199.233.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
-trojan://telegram-id-directvpn@3.68.1.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1838333310038373
-trojan://telegram-id-directvpn@35.181.120.43:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# @Confing_chanel
-trojan://telegram-id-directvpn@51.44.89.249:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@varn_Net
-trojan://telegram-id-directvpn@63.177.166.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
-trojan://telegram-id-directvpn@63.178.209.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
-trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
-trojan://telegram-id-privatevpns@18.199.233.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
-trojan://telegram-id-privatevpns@3.68.1.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1838333121342151
+trojan://telegram-id-privatevpns@3.68.1.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-privatevpns@35.181.120.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk @Confing_chanel
 trojan://telegram-id-privatevpns@35.181.18.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@varn_Net
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
@@ -92,7 +75,6 @@ vless://01763caa-bd69-47f8-89c4-031b2f0bd8ff@91.107.180.100:443?mode=gun&securit
 vless://01763caa-bd69-47f8-89c4-031b2f0bd8ff@91.107.180.100:443?mode=gun&security=reality&encryption=none&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=/V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&type=grpc&serviceName=@SobyV2ray&sni=zula.ir&sid=f3#@v2rayng_fars 🚀 Telegram
 vless://01763caa-bd69-47f8-89c4-031b2f0bd8ff@91.107.180.100:443?type=grpc&mode=gun&serviceName=@SobyV2ray&security=reality&fp=chrome&sni=zula.ir&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&sid=f3&spx=/#Channel : @CaptalVpn🏴‍☠️
 vless://01860891-2645-420f-a494-a653d960f58d@151.232.51.247:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷@vpn11ir
-vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@CanfigVip+🍕
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@warp_city
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Irancell-@SRCVPN-5
@@ -122,6 +104,7 @@ vless://02690c4d-fa55-4bbe-9703-10e027562bf2@91.107.180.100:45489?security=none&
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.68.95:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#Telegram+:+@V2RAYUSAIR
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.68.95:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#Telegram:@config_proxy 🔥
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.20:80?path=/7YVyoVNnbaVzgl6D?ed=2560&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#Telegram+:+@V2RAYUSAIR
+vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.20:80?security=&type=ws&path=/7YVyoVNnbaVzgl6D?ed=2560&host=vghavi32.ip-ddns.com&encryption=none#Superv2ray24 بیا در خدمت باشیم
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#Telegram+:+@V2RAYUSAIR
 vless://028dbbbb-a5d4-4ac0-ad33-b5f39e4d8b93@www.epolice.ir.aparat.127.0.0.1.ir.fast.hosting-ip.com:80?mode=auto&path=/@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPN?ed=8880&security=none&encryption=none&host=farmservice.ir&type=xhttp#@DarkHub_VPN.4
 vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?security=none&encryption=none&headerType=none&type=tcp#(@vmesskhodam)free config wifi
@@ -299,6 +282,7 @@ vless://08dd9945-356f-4ae2-8c9b-7a80346871fe@46.8.68.253:8443?security=reality&e
 vless://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&sni=hq3.newretr432as.info#@V2rayNG3
 vless://09094697-6036-4097-a906-7a8ddb7ef839@151.101.2.219:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false, "xmux": {"maxConcurrency": "16-32", "maxConnections": 0, "cMaxReuseTimes": "64-128", "cMaxLifetimeMs": 0, "hMaxRequestTimes": "800-900", "hKeepAlivePeriod": 0}}&host=tesmarz.global.ssl.fastly.net&type=xhttp#@Selinc
 vless://09094697-6036-4097-a906-7a8ddb7ef839@151.101.2.219:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false, "xmux": {"maxConcurrency": "16-32", "maxConnections": 0, "cMaxReuseTimes": "64-128", "cMaxLifetimeMs": 0, "hMaxRequestTimes": "800-900", "hKeepAlivePeriod": 0}}&host=tesmarz.global.ssl.fastly.net&type=xhttp#@V2rayng_market_1378
+vless://097b8c5f-9557-440e-9a7f-997e3378b55a@www.speedtest.net:2052?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&security=none#XpnTeam🇳🇱-jr8y93ujz
 vless://09800fe3-3223-4a89-92cd-bab6e84e6ee5@bless.network:443?encryption=none&security=tls&sni=azarandooz.hotminerfarsi.workers.dev&alpn=h3,h2,http/1.1&fp=chrome&allowInsecure=1&type=ws&host=azarandooz.hotminerfarsi.workers.dev&path=/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot#@AzarAndoozVPNbot
 vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.104:42157?security=reality&encryption=none&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=cd4457b1#azadiiivpn mtn 🎀
 vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.105:42157?security=reality&encryption=none&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=cd4457b1#🇩🇪𝚙𝚒𝚗𝚐: 210.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
@@ -483,7 +467,6 @@ vless://13dea011-7fe6-43db-a0cb-e9661cd86b25@srv7.amazon-osishop.ir:8880?securit
 vless://13e26f64-2e0c-4461-92cd-d83294cc18f0@104.21.94.69:443?type=ws&host=ddddvvbhy7.000890604.xyz&path=/WfxcqrR5ycVpIit2OdWk0KwirdY&security=tls&fp=chrome&sni=dDDDvvbHY7.000890604.xYz&alpn=http/1.1#@configMs
 vless://13fb974a-86d6-4440-b9ee-207ff89b628f@172.67.21.239:2052?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com&headerType=http&type=tcp#@CUSTOMVPNSERVER
-vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com&headerType=http&type=tcp#@V2rayNGcloud
 vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com&headerType=http&type=tcp#@V2rayNGcloud-@bluVPNir
 vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com&headerType=http&type=tcp#@XpnTeam 🇮🇷
 vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -503,3 +486,20 @@ vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560/?JOK
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=@BIA_CHANEL@RK_VPS&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#ᴬᴸᴸ¹🇩🇪➣@RK_VPS
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=@vpnserverrr&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#🌩️ @FreakConfig
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=@vpnserverrr&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#Telegram:@config_proxy 🔥
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=@vpnserverrr&security=none&encryption=none=&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#@icv2ray
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#در صورت قطع شدن وارد کانال @ConfigFast شوید
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.56.112:80?path=/BaRAyeIran?ed=2560&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&type=ws#@CaV2ray ⚡️
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.56.112:80?path=/BaRAyeIran?ed=2560&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&type=ws#@V2ray1_Ng
+vless://148ab94f-a243-4125-b0cc-464686fb9388@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷join @Evay_vpn🚀
+vless://148ab94f-a243-4125-b0cc-464686fb9388@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷join @Evay_vpn🚀  🛍برای کانفیگ های بیشتر جوین بشید :  @Evay_vpn | @Evay_vpn @Evay_vpn | @Evay_vpn @Evay_vpn
+vless://14FuseVPN----------ProxyPJ@pj.bestirstorei.top:62000?mode=gun&security=reality&encryption=none&authority=@Confingman @Confingman @Confingman @Confingman @Confingman&pbk=BiugAGWpcH4kTwIsUDeRh83FPxapxYfLuh4Gpi1Qb3s&fp=chrome&spx=/&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=116440bf#Telegram : @Confingman 🟦
+vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel@vmessorg
+vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
+vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🟢 @server_free2 🟢
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com#@CUSTOMVPNSERVER
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com#@V2rayNGcloud-@bluVPNir
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com#آلمان 🇩🇪 @V2xay
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?type=tcp&headerType=none&security=tls&sni=cdn.chandplus.com&alpn=h3,h2,http/1.1&allowInsecure=true#Config🇫🇮@Do_itforyou
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@cdn.chandplus.com:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3,h2,http/1.1&allowInsecure=1&type=tcp&headerType=none#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
