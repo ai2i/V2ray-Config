@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6cd35205-ccd3-426b-bfd7-677957aea695@cb4.connectbaash.info:4404?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#DALTON_PING
+vless://6cd35205-ccd3-426b-bfd7-677957aea695@cb4.connectbaash.info:4404?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#Telegram @v2rayng_fars
 vless://6cd35205-ccd3-426b-bfd7-677957aea695@cb4.connectbaash.info:4404?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://6cd35205-ccd3-426b-bfd7-677957aea695@cb4.connectbaash.info:4404?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🛡️ @FreakConfig
 vless://6cf7c214-f7e5-4458-ad48-04fc625da1d6@DarkHub_VPN.DarkHub_VPN.DarkHub_VPN.fast.hosting-ip.com:80?mode=packet-up&path=/@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPN?ed=8880&security=none&encryption=none&host=yjc.ir&type=xhttp#Join -to▶️ @DarkHub_VPN.17
@@ -501,5 +503,3 @@ vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&enc
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@vmesskhodam)تلگراممون
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#Telegram+@vmessorg
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=http&type=tcp#Bya To @IRAN_V2RAY1
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&headerType=http&host=bmw.com&path=/#Config🇩🇪@Do_itforyou

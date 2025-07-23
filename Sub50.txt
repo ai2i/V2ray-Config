@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.35.206.24:443#t.me/entryNET/config=1837971740842036
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.79.248.193:443#t.me/entryNET/config=1837966464043829
 ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA==@176.32.35.68:10111#✅@v2ray_configs_pools
 ss://YWVzLTI1Ni1nY206NTYwYjdkNjVjMWY0YjEyYQ==@195.58.49.147:10106#✅@v2ray_configs_pools
@@ -502,4 +503,3 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeE
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.131.154:8880?path=/C5itOz6YmbLanD7F?ed=2560&security=&alpn=http/1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=chrome&type=ws&sni=vngsUPPly.IP-DDnS.CoM#✅@v2ray_configs_pools
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.131.154:8880?path=/C5itOz6YmbLanD7F?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#✅@v2ray_configs_pools
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.210.16:8880?path=/TJhZjFeb0fQLVntH?ed=2560&security=&alpn=http/1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=chrome&type=ws&sni=vngsuPPly.IP-dDNs.CoM#✅@v2ray_configs_pools
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.210.16:8880?path=/TJhZjFeb0fQLVntH?ed=2560&security=&alpn=http/1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=chrome&type=ws&sni=vngsuPPly.IP-dDNs.CoMتعداد#✅@v2ray_configs_pools

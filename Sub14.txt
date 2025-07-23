@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=http&type=tcp#Bya To @IRAN_V2RAY1
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&headerType=http&host=bmw.com&path=/#Config🇩🇪@Do_itforyou
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&fp=chrome&type=tcp#@V2RAY_VMESS_free
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://7d2df3b7-51d5-4ebd-a6f6-0ecfd69c27d8@ip2.yw5jk.org:80?type=xhttp&path=/@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF?ed=2048&host=lool-fool.global.ssl.fastly.net&mode=auto&security=none#⚜️Telegram: @IP_CF
@@ -501,5 +503,3 @@ vless://8b95b25e-7170-4aee-8024-3e4d1d121106@jet.wwilli.shop:8080?type=tcp&secur
 vless://8b9ad1d1-4156-4149-fd42-d4d86d2da569@151.101.64.155:80?type=ws&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=KEISJWJ.COM&security=none#WS - @XPNTEAM-3n94me86a
 vless://8bca284c-d2f2-4367-999c-5f490a872c2d@37.27.15.167:2052?mode=gun&security=reality&encryption=none&authority=Telegram+:&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&fp=chrome&type=grpc&serviceName=2052vless&sni=sourceforge.net&sid=4156caa9#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
 vless://8bdd089b-c3a9-4c56-a16f-58d07ad209b4@172.67.21.239:80?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=none&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
-vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.16.103.97:80?path=Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=chrome&type=ws&sni=aymng.bahareh.dpdns.org#JOIN to @IRAN_V2RAY1
-vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.16.76.167:80?path=/?ed=2560&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=chrome&type=ws&sni=aymng.bahareh.dpdns.org#@V2RAY_VMESS_free mtn
