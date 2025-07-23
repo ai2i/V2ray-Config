@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.62.168-0312
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.157-0188
 vmess://ewogICAgImFkZCI6ICJ0d2p4bG5ub2xqeGMyLmpraGtnai54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJmaWxlLmRpbmd0YWxrLmNvbSIsCiAgICAiaWQiOiAiZTE1YWMzY2UtNmExYS00MTJhLWFhMDctNGJjNTJkYWE1OTM1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL21hcmtldC9hZT9lZD01MTIiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e58J+HvFRXLTExMS4yNDcuNDEuMzUtMDk4OCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#%F0%9F%87%A9%F0%9F%87%AADE-147.45.178.200-0301
@@ -264,6 +265,7 @@ vless://69456078-ca34-4f08-be26-fb189a3720c2@xe51-nl11cdn1.unlimiteddev.org:1010
 vless://69456078-ca34-4f08-be26-fb189a3720c2@xe51-nl11cdn1.unlimiteddev.org:1010?security=none&encryption=none&host=nimbaha.unlimiteddev.co&headerType=http&type=tcp#Telegram:@config_proxy 🔥
 vless://6bf993b8-328f-4d88-9c8e-71057b825d78@91.99.113.54:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#t.me/entryNET/config=1837978727197681
 vless://6cf830c7-167b-4bfa-be9b-5ef74ef149d7@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram:@config_proxy 🔥
+vless://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.Co.Uk:80?path=/&security=none&encryption=none&type=ws#Telegram:@config_proxy 🔥
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@118.47.65.248:30012?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560&alpn=http/1.1#Telegram:@config_proxy 🔥
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@192.9.158.188:443?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560&alpn=http/1.1#Telegram:@config_proxy 🔥
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@212.183.88.100:443?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560&alpn=http/1.1#Telegram:@config_proxy 🔥
@@ -479,8 +481,6 @@ vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=m
 vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=free5.loopycloudcfjiasucdn.us.kg&path=%2F&host=free5.loopycloudcfjiasucdn.us.kg#%E9%A6%99%E6%B8%AF%F0%9F%87%AD%F0%9F%87%B0-%E4%B9%9D%E9%BE%99-CDN+%7C+1x
 
 vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=free6.loopycloudcfjiasucdn.us.kg&path=%2F&host=free6.loopycloudcfjiasucdn.us.kg#%E6%96%B0%E5%8A%A0%E5%9D%A1%F0%9F%87%B8%F0%9F%87%AC-CDN+%7C+1x
-
-
 
 
 

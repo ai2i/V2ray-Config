@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@82.23.138.5:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#hibyevpn--IR-20 @HiByeVPNN
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.213.192.222:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#hibyevpn--IR-21 @HiByeVPNN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&authority=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=grpc#Telegram:@config_proxy 🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#t.me/entryNET/config=1837883098475145
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
@@ -464,8 +466,6 @@ vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security
 
 
 vless://be684ee9-422a-4307-8bc6-43ba0797c91b@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=free1.loopycloudcfjiasucdn.us.kg&path=%2F&host=free1.loopycloudcfjiasucdn.us.kg#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A21.83+GB
-
-
 
 
 

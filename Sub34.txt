@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=/v2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#@V2ray1_Ng
 vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?type=xhttp&path=/v2raybluecrystal&host=v2raybluecrystal.global.ssl.fastly.net&mode=auto&security=reality&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&fp=chrome&sni=journalofbigdata.springeropen.com&sid=5426024033df45&spx=/#@v2raybluecrystal نت ملی 🇩🇪برای اتصال دائمی جوین شو
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.6:19151?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@Selinc
 vless://851517dc-09a9-4716-bf11-e386a5b648fa@t.nargil00.site:10260?encryption=none&security=none&type=tcp&headerType=http#@Daily_Configs
@@ -503,3 +502,4 @@ vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@104.18.26.90:443?path=/Join---@MTMV
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@104.18.32.151:443?path=/?ed=2560/?FREEV2RNGBIA_CHANEL@FREEV2RNG&security=tls&encryption=none&host=barayeiranmahsang.sabzipolobamahi.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.sabzipolobamahi.dpdns.org#🇨🇦𝕁𝕠𝕀ℕ-@𝔽𝕣𝕖𝕖𝕍𝟚𝕣𝕟𝕘
 vless://b5dfbf2e-9a5a-41b5-a13b-6728f190ce03@jackson.thelord.top:10205?security=none&encryption=none&headerType=none&type=tcp#@freevpnn11
 vless://b611cdc4-9107-4e5d-aa1d-e494af7fac2e@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@viturey  🇺🇸🇺🇸
+vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.24.158.0:2052?path=/&security=none&encryption=none&host=register.tunnelbreaking.shop&type=ws#HiByeVPNN

@@ -89,6 +89,8 @@
 
 
 
+
+
 hysteria2://90ccd512-7978-48d0-8f14-5b44d60bb26c@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A24.08%20GB
 
 
@@ -501,5 +503,3 @@ vless://2d0b88c0-bdd0-46a3-ad5a-f32cb639197d@104.21.80.1:2095?type=httpupgrade&h
 vless://329535df-1a2f-4ff3-9426-c0ffc1ec772d@smartgermany2mtn.haftyek.ir:12345?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://329535df-1a2f-4ff3-9426-c0ffc1ec772d@smartnetherlandsmtn.haftyek.ir:12345?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://329535df-1a2f-4ff3-9426-c0ffc1ec772d@smartunitedstatesmtn.haftyek.ir:12345?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
-vless://347c666a-f909-4394-f5b2-715e914db254@151.101.194.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=meloch-de.com&fp=chrome&alpn=h3,h2,http/1.1#Telegram:@config_proxy 🔥
-vless://35d6531f-93ad-4dfe-b5ba-b8c3ef8698d4@104.21.64.1:443?security=tls&alpn=h2,http/1.1&encryption=none&host=2-7uo.pages.dev&fp=chrome&type=ws&sni=2-7Uo.PagEs.DEv#Telegram:@config_proxy 🔥

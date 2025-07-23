@@ -6,6 +6,7 @@
 
 
 
+
 hysteria2://76b6c695-3529-4ad8-a689-dfc6aec414e8@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A254.82%20GB
 
 
@@ -502,4 +503,3 @@ vless://d85090ca-3504-4a1e-8bb1-0c2ed3fc74b0@p1.3dfigures.ir:80?mode=auto&path=/
 vless://d8c46469-b638-43a1-9bb0-6a94464389bc@104.17.147.22:2096?security=tls&sni=bj.ababeil12.ir&type=ws&host=bj.ababeil12.ir&path=/Tel:@NT_Safe&fp=chrome&alpn=h3,h2,http/1.1#t.me/entryNET/config=1838012573794061
 vless://dc580147-c87c-4527-bf90-192eb1cf62d1@172.67.163.189:2095?encryption=none&security=none&type=ws&host=sTART.siTeg52770.WoRkErs.DEV&path=/t0DCEkrZ7kAbLwDv/MC4wLjAuMA==?ed=2560#t.me/entryNET/config=1838015530587393
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&headerType=none&type=tcp#@MOFT_VPN کانال
-vless://de9575f0-62de-4451-8fd0-5cef172f7ad9@vp2.diesevip.shop:28146?encryption=none&security=none&type=tcp&headerType=http#@Daily_Configs
