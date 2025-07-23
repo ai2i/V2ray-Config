@@ -126,6 +126,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 hysteria2://90ccd512-7978-48d0-8f14-5b44d60bb26c@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A53.5%20GB
 
 
@@ -390,6 +399,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?mode=gun&security=n
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#NetAccount
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#server01012 کانال
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?type=grpc&mode=gun&serviceName=&authority=#Telegram:@config_proxy 🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&mode=gun&serviceName=&authority=#Telegram:@config_proxy 🔥
 vless://e1946dd6-5599-4886-911b-447ff38cd8f9@mikk.mehchannel.com.tr:26257?security=none&encryption=none&headerType=none&type=tcp#NetAccount
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#🦅 @AblNet7 🦅
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@45.131.210.140:443/?path=/WrQunvc9WRIaU32H?ed=#/Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=getasa.ir&type=ws&sni=gEtaSa.IR#Telegram:@config_proxy 🔥
@@ -439,16 +449,6 @@ vmess://eyJhZGQiOiIxMzguMTk5LjE0Ni4xODEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
-
-
-
-
-
-
-
-
-
-
 
 
 
