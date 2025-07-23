@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://53e30ee0-2552-4078-a7f8-6fb03d721ce9@62.212.79.51:18302?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://53f38d71-34c1-4313-8147-f0c5818e8fd7@DailyConfigs.resurrection-time.sbs:23070?mode=gun&security=reality&encryption=none&authority=Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs&pbk=DI3hyYVn-i6lpHfHtP0ELZIVfYrgy1qwjq4y5qgH6D0&fp=chrome&spx=/&type=grpc&serviceName=Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs?ed=443&sni=gitlab.com&sid=a38104#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?host=redfree8mahsang6.redfree8.ir&type=ws&security=none&path=/Telegram@V2ray_Alpha/?ed=2560&encryption=none#telegram-@vmesskhodam
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@Asak_Vpn
@@ -503,3 +502,4 @@ vless://5d71b518-9f52-414a-abf2-b806684233be@its.zarashop0.ir:2087?mode=gun&secu
 vless://5d71b518-9f52-414a-abf2-b806684233be@pic2.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#Telegram | @FNET00📱
 vless://5d744d08-1f24-4c50-a587-94c2e6ddf924@5.133.102.59:80?mode=auto&path=/bread&security=reality&encryption=none&pbk=6xEqt7g9Q7zJD8rtAzA_8rODvZ9ZJwlv3uOH1cXujzI&host=bread.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=43#TELEGERAM : @PRUOXYI
 vless://5d744d08-1f24-4c50-a587-94c2e6ddf924@5.133.102.59:80?mode=auto&path=/bread&security=reality&encryption=none&pbk=6xEqt7g9Q7zJD8rtAzA_8rODvZ9ZJwlv3uOH1cXujzI&host=bread.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=43#Telegram 🆔Alfa_v2ray_ng 😎
+vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.237.155.226:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#Channel id: @ShadowProxy66 🇺🇸

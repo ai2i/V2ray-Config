@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.237.155.226:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#Channel id: @ShadowProxy66 🇺🇸
 vless://5d8bc42a-d345-4bd3-a844-4b90afc44670@104.16.76.55:80?encryption=none&security=none&type=ws&host=patient-shadow-baf1-ppal03.hohel98085.workers.dev&path=/?ed=2560#💣Ch: @pPal03💣جوین بدید💣
 vless://5d8bc42a-d345-4bd3-a844-4b90afc44670@104.24.138.64:80?encryption=none&security=none&type=ws&host=patient-shadow-baf1-ppal03.hohel98085.workers.dev&path=/?ed=2560#💣Ch: @pPal03💣جوین بدید💣
 vless://5da27733-3527-479e-bb81-4c5a9c75d83f@viphamester.wolfmoon.ir:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=okala.com&sni=viphamester.wolfmoon.ir#@V2rayNG3
@@ -503,3 +502,4 @@ vless://726581ee-ce7b-45f8-8835-5494352b2800@172.66.40.99:8080?path=/telegram-CO
 vless://726581ee-ce7b-45f8-8835-5494352b2800@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=god-morning.motorphrotan.ir.&type=httpupgrade#[🇩🇪]@configLINE
 vless://727ca3b9-8cb6-44da-a24c-d44da6332436@ir1.phantompanel.shop:19309?security=none&type=tcp&headerType=http&path=/robots.txt&host=towhidshop.org#🇩🇪 | 𝗩𝗜𝗣 𝘅𝟮 | @zedbaz_vpn
 vless://727ca3b9-8cb6-44da-a24c-d44da6332436@ir1.phantompanel.shop:19309?security=none&type=tcp&headerType=http&path=/robots.txt&host=towhidshop.org#🇩🇪 | 𝗩𝗜𝗣 𝘅𝟮 | @zedbaz_vpn ➖➖➖➖➖➖➖➖
+vless://72aeacb0-49a3-41b0-a4f6-380d3be88a5e@151.101.2.133:443?path=/ws&security=tls&encryption=none&host=bale.ai&fp=chrome&type=ws&sni=live.wkrq.com#🌟Telegram:@Asak_Vpn

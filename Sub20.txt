@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-1.webnama.com.tr:3799?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#@Filter_breaker_🇫🇷
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-3.webnama.com.tr:1429?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#@Filter_breaker_🏴
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-4.webnama.com.tr:3789?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#@Filter_breaker_🇺🇸
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-5.webnama.com.tr:4928?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#@Filter_breaker_🇳🇱
@@ -503,3 +502,4 @@ vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.18.26.90:443?path=/WrQunvc9WRIa
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.18.26.90:443?path=/WrQunvc9WRIaU32H?ed=2560/proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1&security=tls&encryption=none&host=getasa.ir&type=ws&sni=gEtaSa.IR#@proNG1 🇺🇸 US 2
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.18.26.90:443?path=@Confingman @Confingman&security=tls&encryption=none&host=getasa.ir&type=ws&sni=gEtaSa.IR#Telegram : @Confingman1️⃣🇺🇸
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.18.26.90:443?type=ws&security=tls&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=getasa.ir&sni=gEtaSa.IR#🇺🇸|@V2BUX
+vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.18.26.90:443?type=ws&security=tls&path=/Tel-V2ray_Alpha?ed=2560&host=getasa.ir&sni=gEtaSa.IR#🇩🇪|@V2BUX

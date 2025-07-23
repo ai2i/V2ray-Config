@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1es-ovh.devefun.net#@V2rayNG3
 trojan://v0w1x2y3-9012-3bcd-4abc-5678abcdef56@104.21.25.360:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://v6w7x8y9-3456-7bcd-8abc-9012abcdef12@104.21.25.530:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://vip@104.26.4.57:443?security=tls&headerType=none&type=tcp&sni=heihu880.pages.dev#@AZARBAYJAB1
@@ -503,3 +502,4 @@ vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=/Pak91jq
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Babakari.ir&type=ws#Telegram+@vmessorg
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Boy9ja.abdo.fr&type=ws#Telegram+@vmessorg
 vless://144a26e2-2f35-46ac-b944-057b3806a027@5.75.193.170:4433?security=&encryption=none&headerType=&type=tcp#Telegram:@config_proxy 🔥
+vless://144a26e2-2f35-46ac-b944-057b3806a027@5.75.193.170:4433?security=none&encryption=none&headerType=none&type=tcp#Germany 🇩🇪™ @cobfingam 📡

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1d7b8a06-5122-4d98-b31d-8887eabe78b3@www.speedtest.net:8443?security=tls&encryption=none&host=de3vipys.sevenploos.com&fp=chrome&type=ws&sni=de3vipys.sevenploos.com#@freevpnn11کانال تلگرام ما
 vless://1d7b8a06-5122-4d98-b31d-8887eabe78b3@www.speedtest.net:8443?security=tls&encryption=none&host=de4vipys.sevenploos.com&fp=chrome&type=ws&sni=de4vipys.sevenploos.com#@freevpnn11کانال تلگرام ما
 vless://1d7b8a06-5122-4d98-b31d-8887eabe78b3@www.speedtest.net:8443?security=tls&encryption=none&host=fn2vipys.sevenploos.com&fp=chrome&type=ws&sni=fn2vipys.sevenploos.com#@freevpnn11کانال تلگرام ما [🇫🇮]
 vless://1d7b8a06-5122-4d98-b31d-8887eabe78b3@www.speedtest.net:8443?security=tls&encryption=none&host=nlvipys.sevenploos.com&fp=chrome&type=ws&sni=nlvipys.sevenploos.com#@freevpnn11کانال تلگرام ما [🇳🇱]
@@ -503,3 +502,4 @@ vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDq
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=/Kytglts3cGhwlsZV/MjEzLjE3MC4xNTcuMQ&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 623
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/CY6EnyeHmgNASXJI/MTU5LjY5LjE0LjEzOA?ed=8080&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TiTAntAbLoMaNAhamraH.Ir.#@warp_city 637
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/EXnHlhJs0uij9Kac/MTU4LjE4MC44Mi4xODY&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 632
+vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/JHVdDlmFTThrY7WI/NjIuMy4xMi4xODU&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 626

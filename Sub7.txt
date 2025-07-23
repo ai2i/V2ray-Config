@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://144a26e2-2f35-46ac-b944-057b3806a027@5.75.193.170:4433?security=none&encryption=none&headerType=none&type=tcp#Germany 🇩🇪™ @cobfingam 📡
 vless://144a26e2-2f35-46ac-b944-057b3806a027@5.75.193.170:4433?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://144a26e2-2f35-46ac-b944-057b3806a027@5.75.193.170:4433?security=none&encryption=none&headerType=none&type=tcp#🪽🇩🇪 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 : @Volt_Network 🇩🇪🪽
 vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=/jmgjhhws&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=638874929583954786.zagreb-prx-dnraaad.info#@AZARBAYJAB1
@@ -503,3 +502,4 @@ vless://24145c32-ebea-49d0-92d3-e3e089083108@109.122.247.128:31311?security=none
 vless://24145c32-ebea-49d0-92d3-e3e089083108@109.122.247.128:31311?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram+@vmessorg
 vless://24329cb2-7c78-41d8-93b8-2cc60344d254@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@viturey  🇺🇸🇺🇸
 vless://2451a952-fedd-4fa6-9ad7-0d2f5998ae4b@dailyconfigs.resurrection-time.sbs:40735?encryption=none&security=reality&sni=github.com&fp=chrome&pbk=zOCZ24y2Y3T5D1v69NJ15rDUp1WZJOSWHTM1I0hqOTc&sid=10&spx=/&type=grpc&authority=Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs&serviceName=Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs?ed=443&mode=gun#Tel:@Daily_Configs
+vless://2492c521-153a-40dd-8646-038d79b24487@87.248.152.60:26604?path=/&security=none&encryption=none&host=speedtest.net&type=ws#@ATOVPN
