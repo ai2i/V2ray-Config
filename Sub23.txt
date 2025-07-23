@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://eacdd4fc-718c-40e3-bab1-40fe822fda2d@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🍉 @FreakConfig
+vless://eb37c073-3fe1-4a38-a1f4-f50a831e47e3@151.101.3.8:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2560&security=none&encryption=none&host=CONFiGLiNEEE.COM&type=xhttp#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
+vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/&security=tls&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#@V2RAY_VMESS_free
+vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/Tel-@V2RAYNG_1378&security=tls&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#@V2RAYNG_1378
+vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#@V2ray1_Ng
+vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#Bya To @IRAN_V2RAY1
+vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#@Selinc
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#@V2RAYROZ
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#@V2ray_confing33
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
@@ -496,10 +503,3 @@ vless://fbfd2517-580b-4b48-8e5b-a528e66612ac@Mol1.misaghreserve.ir:80?path=/Pak9
 vless://fc264e2f-753b-43fd-878c-c8f82b4bc502@172.67.40.158:443?type=ws&host=hiddifyreplace2.safavidempire.org&path=/76fe1f74-5804-4a5a-8b9d-5f877d90a9c6&security=tls&fp=chrome&sni=hiddifyreplace2.safavidempire.org#@configMs
 vless://fc264e2f-753b-43fd-878c-c8f82b4bc502@172.67.40.158:443?type=ws&path=/76fe1f74-5804-4a5a-8b9d-5f877d90a9c6&security=tls&sni=hiddifyreplace2.safavidempire.org&allowInsecure=true#Config🇩🇪@Do_itforyou
 vless://fc27ebd9-312f-47e7-b515-cbcd7a182d19@193.24.105.24:61?security=none&encryption=none&type=ws#🇨🇵@EXPRESSVPN_420
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=&encryption=none&headerType=none&type=tcp#@HiByeVPNN❤️‍🔥
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#Bya To @Iran_V2ray1
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#Channel : @CaptalVpn 🏴🏳
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#فنلاند 🇫🇮 @V2xay
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
