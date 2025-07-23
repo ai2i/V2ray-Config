@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.24.254.125:80?encryption=none&security=none&type=ws&host=sweet-glade-2430-ppal03.xasev15708.workers.dev&path=/?ed=2560#🔥Ch: @pPal03🔥جوین بدید عزیزانم🔥
-vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.101.86:80?path=/BaRAyeIran?ed=2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&type=ws#@CaV2ray ⚡️
-vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80?host=br.presskiwi.dpdns.org&type=ws&security=&path=/?ed=2560&encryption=none#Telegram+@vmesskhodam
-vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80?path=/?ed=2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&type=ws#@azadiiivpn¹²🎀
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80?path=/?ed=2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&type=ws#@icv2ray
 vless://b8c0e2a4-0e1f-2a3b-4c5d-6e7f8a9b0c1d@103.195.103.93:8443?security=tls&type=ws&host=v2ray.sohala.uk&path=/ws#@Filter_breaker | Singapore
 vless://b8c24464-1925-4338-b431-1f3673434ccf@crm.xpersian.com:8443?security=reality&encryption=none&pbk=eUzR83jhnC_Mq_tOuIHKW4sPa_D2jjYSeyrunYS-Zm4&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=33c48970a3f211ed#هلند 🇳🇱 @V2xay
@@ -276,8 +272,11 @@ vless://c26a127f-4b8f-4cc1-eae2-7c53745ce705@Www.speedtest.net:8880?type=ws&path
 vless://c27e0180-7b4a-49ba-a862-a62f5e2bc17d@94.182.142.16:2020?security=none&encryption=none&headerType=none&type=tcp#@CaV2ray ⚡️
 vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@nl01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=e499f276e7bd6420#Telegram:@config_proxy 🔥
 vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@nl01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=e499f276e7bd6420#t.me/entryNET/config=1838441270849585
+vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@nl01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=e499f276e7bd6420#🇳🇱 Telegram 🆔Alfa_v2ray_ng
 vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#Telegram:@config_proxy 🔥
+vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#🇷🇺 Telegram 🆔Alfa_v2ray_ng
 vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@tr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#t.me/entryNET/config=1838441900228866
+vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@tr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#🇹🇷 Telegram 🆔Alfa_v2ray_ng
 vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@home.acangame.site:4444?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@V2rayNG3
 vless://c2da0d92-e1a1-41eb-aaef-30cacc64f516@144.76.231.24:27717?security=none&encryption=none&headerType=none&type=tcp#@v2ray_market11
 vless://c2dfeec4-35c8-4722-9945-58b97d069941@216.24.57.207:8443?path=/&security=tls&encryption=none&host=wolf.vip-amir.shop&type=ws&sni=wolf.vip-amir.shop#@varn_Net
@@ -299,7 +298,6 @@ vless://c2e4a6c8-3b4c-5d6e-7f8a-9b0c1d2e3f4a@45.138.160.101:443?security=tls&sni
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=/&security=&encryption=none&type=ws#@AblNet7 🇩🇪 Germany ws (tal)
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=/&security=&encryption=none&type=ws#🔗 Telegram : @Viturey 🔒
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=/&security=none&encryption=none&type=ws#Telegram:@config_proxy 🔥
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=/&security=none&encryption=none&type=ws#آلمان 🇩🇪 @V2xay
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=/&security=none&encryption=none&type=ws#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
@@ -426,6 +424,7 @@ vless://c55ef976-d9f5-41d9-8bfb-c57853a66327@www.speedtest.net:443?path=/qp8ihox
 vless://c599cae9-f5e8-46ca-8fa2-194b774f5a3b@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#rfeaeguj
 vless://c599cae9-f5e8-46ca-8fa2-194b774f5a3b@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#rfeaeguj  🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹  Gr
 vless://c5b69a7f-8e71-4425-8613-0f3c2a97d6d7@185.133.125.10:19161?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#فرانسه 🇫🇷 @V2xay
+vless://c5c58553-b1e3-494b-954e-4628216cb1ea@172.66.40.99:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇩🇪🇩🇪
 vless://c5d7e9f0-1a2b-4c3d-8e9f-0a1b2c3d4e5f@185.199.229.118:443?security=tls&sni=v2ray.sohala.uk&type=ws&host=v2ray.sohala.uk&path=/ws#@Filter_breaker | Germany
 vless://c5e011a7-6de9-4eec-96bc-e38d424785ba@95.179.162.59:8443?security=reality&encryption=none&pbk=0cq2Hb48xoxO-DvY40HycXGqZd3XmB90_g1pSShCpjs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.gamingserverstream.ir&sid=711bc39b#MCI-@SRCVPN-3
 vless://c5ef1e11-689c-406f-abe7-47e315ea2c70@d7.vixsm.ir:4811?security=none&encryption=none&headerType=none&type=tcp#🌟Telegram:@Asak_Vpn
@@ -503,3 +502,4 @@ vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?security=no
 vless://c84ddb7c-7703-42a3-a22a-3ff9e5513f9a@195.58.58.88:32391?path=/&security=&encryption=none&host=45f4d22d.Mareza.pages.dev&type=ws#@V2ray_confing33
 vless://c84ddb7c-7703-42a3-a22a-3ff9e5513f9a@195.58.58.88:32391?path=/&security=&encryption=none&host=45f4d22d.Mareza.pages.dev&type=ws&sni=45f4d22d.Mareza.pages.dev#🔗 Telegram : @Viturey 🔒
 vless://c85a75ad-a478-4fd2-86eb-efcfc3157088@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
+vless://c861ee6e-6755-4483-a82f-592abb5cd327@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡

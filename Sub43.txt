@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Parsashonam-286@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#Telegram:@config_proxy 🔥
-vless://Parsashonam-286@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#t.me/entryNET/config=1838014649852278
-vless://Parsashonam-286@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056=ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann&host=De.Parsashonam.CfD.&security=none#Telegram:@config_proxy 🔥
 vless://Parsashonam-286@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://Parsashonam-286@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1838014651741345
 vless://Parsashonam-Bot-2@185.146.173.39:8080?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#Telegram:@config_proxy 🔥
@@ -35,6 +32,7 @@ vless://bb691001-faf8-4b4e-af2e-bfb27780f689@FASTSHOVPNTELEGRAM.fast.hosting-ip.
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@MODERN-pRomISe.SEOtOolSForyOU.co.Uk:80?path=/&security=none&encryption=none&type=ws#t.me/entryNET/config=1838014712641223
 vless://bea44815-cda6-42f8-a0a9-a5877d2ea734@142.132.227.65:34560?security=none&encryption=none&headerType=none&type=tcp#@Moft_Vpn ‌کانال
 vless://bfc04e96-d4d4-43c3-8b39-30d2793e9de5@de.chatoochak.com:443?type=ws&security=none&host=&path=/#t.me/entryNET/config=1838015654493463
+vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=/&security=none&encryption=none&type=ws#Telegram:@config_proxy 🔥
 vless://c55ef976-d9f5-41d9-8bfb-c57853a66327@www.speedtest.net:443?path=/qp8ihoxMLXPfQWaw?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=skynet.zistarvinbiotech.ir&fp=chrome&type=ws&sni=skYNet.ZIStArviNBiOtEch.Ir#@Moft_Vpn کانال
 vless://c60c5106-08b1-4fe7-eff9-d665d62f3030@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=nmcior945cnfastmciedjed834.global.ssl.fastly.net&path=/&mode=auto#@Daily_Configs
 vless://c60c5106-08b1-4fe7-eff9-d665d62f3030@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=nmcior945cnfastmciedjed834.global.ssl.fastly.net&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
@@ -503,3 +501,5 @@ vless://4603faec-ab2e-40dd-ac72-85b7b0ab390f@45.12.30.16:8080/?path=%2F%3Fv2ray_
 vless://5c9fa74d-c08b-43f6-b1da-f21a6cd287f4@104.17.148.22:80/?type=ws&encryption=none&flow=&host=dizdiz.navidsports.ir.&path=%2F%3Fed%3D80#%F0%9F%9A%9829%40oneclickvpnkeys
 vless://6fc3195e-e1ad-4e1b-8552-ac88e2780364@194.182.79.70:31516/?type=grpc&encryption=none&flow=&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=tUuTbwQPiJSQXexLrOXTo6DsoOsXw_TTRSormnX8emk&sid=5f3c96#%F0%9F%9A%9817%40oneclickvpnkeys
 vmess://eyJhZGQiOiJ3d3cubGx4bGx4bC5jbGljayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyNDZiYmUyMS0xNDUwLTQ2MTAtYjE5NC05YjFlMGRiYzVkYTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMjQ2YmJlMjEtMTQ1MC00NjEwLWIxOTQtOWIxZTBkYmM1ZGExIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+amDI4QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://9926ee97-4398-48dd-b263-2863c62f5c41@confident-club.seotoolsforyou.co.uk:80/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%9A%9885%40oneclickvpnkeys
+vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl1.pokerad.sbs:80/?type=tcp&encryption=none&flow=#%F0%9F%9A%9890%40oneclickvpnkeys

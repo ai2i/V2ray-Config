@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-hysteria2://76b6c695-3529-4ad8-a689-dfc6aec414e8@nexiamg.688997.xyz:20157/?insecure=1&sni=nexiamg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E7%BE%8E%E5%9B%BD
-
 hysteria2://76b6c695-3529-4ad8-a689-dfc6aec414e8@nexiarb.688997.xyz:20257/?insecure=1&sni=nexiarb.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E6%97%A5%E6%9C%AC
 
 hysteria2://76b6c695-3529-4ad8-a689-dfc6aec414e8@nexiateq.688997.xyz:20957/?insecure=1&sni=nexiateq.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%9C%9F%E8%80%B3%E5%85%B6
@@ -503,3 +501,5 @@ vless://007d3ef7-b3cb-4681-917e-c5edeebdbb6c@94.183.158.12:8083?path=%2F&securit
 vless://375deee9-50a5-4e9b-be57-fa12908d5497@146.190.169.110:8990?security=reality&type=tcp&headerType=&path=&host=&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&sid=9912311de4630f2d#%F0%9F%87%BA%F0%9F%87%B8%20new%20york%202
 vless://375deee9-50a5-4e9b-be57-fa12908d5497@mostaq1.seluna.ir:8990?security=reality&type=tcp&headerType=&path=&host=&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&sid=9912311de4630f2d#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%202
 vless://375deee9-50a5-4e9b-be57-fa12908d5497@165.232.82.89:8990?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=firefox&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&sid=9912311de4630f2d#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%201
+vless://375deee9-50a5-4e9b-be57-fa12908d5497@sanga.kesslershop.ir:8990?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=firefox&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&sid=9912311de4630f2d#%F0%9F%87%B8%F0%9F%87%AC%20Singapore
+vless://375deee9-50a5-4e9b-be57-fa12908d5497@canada.kesslershop.ir:8990?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=firefox&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&sid=9912311de4630f2d#%F0%9F%87%A8%F0%9F%87%A6%20Canada%202
