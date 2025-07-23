@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://acbaabc-acba-abac-abcd-cababcccabab@127.0.0.1:8080?security=tls&type=tcp#Telegram:@config_proxy 🔥
+vless://acbaabc-acba-abac-abcd-cababcccabab@127.0.0.1:8080?security=tls&type=tcp#t.me/entryNET/config=1837984324606319
+vless://acbacba-baac-bcaa-cdab-baabccbcbcaa@127.0.0.1:8080?security=tls&type=tcp#Telegram:@config_proxy 🔥
+vless://b4ca0a63-5af0-4826-89dc-d1578c202a14@irc.testvp2.sbs:443/?encryption=none&security=none&type=tcp&headerType=none#Telegram:@config_proxy 🔥
+vless://b5e2422c-1647-4d47-831c-95a02a34806f@141.94.237.82:8880?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=JG9LhBsn2LwpT3Iv4kk6oPql-rcPdxYYGVzUSnwxEmY&sid=365302#Telegram:@config_proxy 🔥
+vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.24.158.0:2052?path=/&security=none&encryption=none&host=register.tunnelbreaking.shop&type=ws#t.me/entryNET/config=1837983945975978
+vless://bab6b157-a6e8-4756-a485-dcb4ca476eb9@server2.fergalvpnmod.com:25126?mode=gun&security=reality&encryption=none&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&type=grpc&serviceName=Telegram:@FergalVpnMod&sni=cloudflare.com&sid=1e#Telegram:@config_proxy 🔥
+vless://bab6b157-a6e8-4756-a485-dcb4ca476eb9@server2.fergalvpnmod.com:25126?mode=gun&security=reality&encryption=none&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&type=grpc&serviceName=Telegram:@v2ray_configs_pools&sni=cloudflare.com&sid=1e#Telegram:@config_proxy 🔥
 vless://bacacba-caba-acba-cbda-cbaaccbbacab@127.0.0.1:1080?security=tls&type=tcp#Telegram:@config_proxy 🔥
 vless://c082b973-bf76-4138-9b6f-e91a001c11e8@balanced-de.irancdngame.com:2012?security=reality&encryption=none&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY&headerType=none&fp=chrome&type=tcp&sni=www.pcmag.com#@varn_Net
 vless://c082b973-bf76-4138-9b6f-e91a001c11e8@cdn.irancdngame.com:80?path=/&security=&encryption=none&host=host-eagle-win.global.ssl.fastlg.net&type=xhttp#@varn_Net
@@ -433,6 +441,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@94.131.21.174:54075#🇺🇸US-94.131.21.174-0376
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#🇺🇸US-94.131.21.174-0375
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#🇳🇱NL-193.29.139.202-0228
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#🆔@DarkHub_VPN🆔@DarkHub_VPN🆔@DarkHub_VPN🆔@DarkHub_VPN🆔@DarkHub_VPN🆔@DarkHub_VPN🆔@DarkHub_VPN🆔@DarkHub_VPN🆔@DarkHub_VPN🆔@DarkHub_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#🇱🇹LT-45.87.175.22-0370
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#🇱🇹LT-45.87.175.28-0234
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#@vasl_bashim
@@ -448,15 +457,20 @@ ss://YWVzLTI1Ni1nY206YXRqZ3NKWG1jdg==@103.15.91.171:52327#🇻🇳VN-103.15.91.1
 trojan://takaz?cuswo-r?_ojuMit@i=rAcrETl&lb1fro?L1uP=@me=*NlWEbrlsP#t@d_8@104.22.5.240:8443?security=tls&sni=quiz.vidio.com.vidio.us.kg&type=ws&host=quiz.vidio.com.vidio.us.kg&path=/pyip=s10.serv00.com:15661&fp=chrome&alpn=h3#t.me/entryNET/config=1837981429044244
 trojan://telegram-id-privatevpns@52.211.62.97:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1837983254935082
 vless://007d3ef7-b3cb-4681-917e-c5edeebdbb6c@94.183.158.12:8083?path=/&security=none&encryption=none&type=ws#@vasl_bashim
+vless://028dbbbb-a5d4-4ac0-ad33-b5f39e4d8b93@www.epolice.ir.aparat.127.0.0.1.ir.fast.hosting-ip.com:80?mode=auto&path=/@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPN?ed=8880&security=none&encryption=none&host=farmservice.ir&type=xhttp#@DarkHub_VPN.4
+vless://076fdc56-4bf7-45d1-b70e-01f54e4a6d1f@104.27.39.172:2086?path=/@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPN?ed=8880&security=none&encryption=none&host=Www.nnMn.YskBs.kDbDuB.jsiHsbS.Www.ClouD.faler.FjfUb.KetAbChI.ToP.&type=httpupgrade#Join -to▶️ @DarkHub_VPN.10
+vless://08dd9945-356f-4ae2-8c9b-7a80346871fe@46.8.68.253:8443?security=reality&encryption=none&pbk=z2hD-NZQ53ZHpiapikkkuXJOoiqqjVLTgyZAc-0XWlU&headerType=none&fp=chrome&spx=/@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPN?ed=8880&type=tcp&sni=refersion.com&sid=89#Join -to▶️ @DarkHub_VPN.16
 vless://0fe270d2-ddae-4d90-b415-818c57710cc5@151.101.195.8:80?security=none&type=xhttp&headerType=&path=/Telegram@Merlin_ViP&host=althoughoutmanoeuvreforenenst.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#Telegram:@Merlin_ViP v.2
 vless://0fe270d2-ddae-4d90-b415-818c57710cc5@91.99.7.227:44666?security=reality&type=xhttp&headerType=&path=/Telegram@Merlin_ViP&host=google.com&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=www.yahoo.com&fp=chrome&pbk=IoFzzRce9vslGGZsfrwzoIbgv_OglekC2xAhwiMhewg&sid=2fb7c7018a233465#Telegram:@Merlin_ViP v.1
 vless://11338fbe-71f7-47da-bc29-e74780eda3d3@172.64.149.109:8443?security=tls&sni=server39.998877.best&type=ws&host=server39.998877.best&path=/drtgoiuy/fd?ed=2560#t.me/entryNET/config=1837980992843292
 vless://124b3799-aa8e-4d7a-ad7e-a474ecf4b159@151.101.67.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#Telegram:@config_proxy 🔥
+vless://1351f295-20e7-4024-8f2e-da58b12877e4@188.114.96.0:2086?path=/@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPN?ed=8880&security=none&encryption=none&host=Www.nnMn.YskBs.kDbDuB.jsiHsbS.Www.ClouD.faler.FjfUb.KetAbChI.ToP.&type=httpupgrade#Join -to▶️ @DarkHub_VPN.13
 vless://16f7d18c-03b2-4cfa-8e2e-52d6f12c822c@138.68.80.111:443/?mode=gun&security=reality&encryption=none&pbk=GikS1jaIrS5BR7D3EObm-o-AMdUaMtmPlkLdUzXH8mM&fp=chrome&spx=/&type=grpc&serviceName=@DARK_VPNir-@DARK_VPNir-@DARK_VPNir-@DARK_VPNir-@DARK_VPNir-@DARK_VPNir-@DARK_VPNir-@DARK_VPNir-&sni=tgju.org&sid=19c8906f#Telegram:@config_proxy 🔥
 vless://17034eef-9472-45cc-bca5-a71f90e36244@104.21.112.1:8080?path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@vmessorg----@unlimiteddev----@unlimiteddev?ed=2480&security=none&encryption=none&host=join-to-unlimiteddev.sabadyt.ir&type=ws#Telegram+:+@V2rayEnglish
 vless://1aae9657-c653-495d-e8ad-8ca52916cea8@47.245.87.17:443?security=tls&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=/ws#Telegram:@config_proxy 🔥
 vless://1aee4293-4d70-49b3-8524-839ce85db0ab@129.146.46.191:443?security=reality&encryption=none&pbk=QE5l0RUqs4OsH3j3u_xHm06-4NlILmQivZUJqiEx11o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=download-porter.hoyoverse.com&sid=6314e825#Telegram:@config_proxy 🔥
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Channel id: @ShadowProxy66 🇨🇦
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@DarkHub_VPN🇦🇪
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@vasl_bashim
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@vasl_bashim
 vless://203c9f6d-8e7c-4458-aaf8-e4f4c1ccf4e0@151.101.0.155:80?security=none&type=ws&host=S.P.D.N.E.T.Cloudflarepanelo.Ir.&path=/spdnet?ed=2048#t.me/entryNET/config=1837982436115574
@@ -489,17 +503,3 @@ vless://31865946-8488-4edc-88e3-6a26d35bf72d@194.182.79.142:11744?mode=gun&secur
 vless://31865946-8488-4edc-88e3-6a26d35bf72d@194.182.79.142:11744?mode=gun&security=reality&encryption=none=-@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2&pbk=pglxO6QdgE1SmjPijag4CbRZND--yCn-EoKagGTm6Cw&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=55#Telegram:@config_proxy 🔥
 vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?path=/?ed=2048&security=none&encryption=none&host=NIce-APartMEnt.ZULAir.ORg&type=ws#@vasl_bashim
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#@vasl_bashim
-vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80/?security=none&encryption=none&type=ws&path=/#Telegram:@config_proxy 🔥
-vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@vasl_bashim
-vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?security=none&encryption=none&type=ws&path=/#Telegram:@config_proxy 🔥
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_Verse?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&fp=chrome&type=ws&sni=PaGes.deV#@vasl_bashim
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/___---------?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&fp=chrome&type=ws&sni=PaGes.deV#@vasl_bashim
-vless://3e969c36-76f6-4c03-a6e0-f53b64534cc2@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=AngrY-aNSwER.oneeAt.co&type=ws#Telegram:@config_proxy 🔥
-vless://4841ad88-0bad-45c4-a3d6-d64d60493983@104.26.1.117:2083?security=tls&sni=mah.ailreza.org.tr&type=grpc&serviceName=telegramchannel-@free_v2rayyy-@free_v2rayyy-@free_v2rayyy-@free_v2rayyy-@free_v2rayyy#Telegram:@config_proxy 🔥
-vless://4a5f09db-d9d4-4f1a-9b7d-65ad15a33026@chat.deepseek.com:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=/melo#Telegram:@config_proxy 🔥
-vless://4a5f09db-d9d4-4f1a-9b7d-65ad15a33026@mn.co:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=/melo#Telegram:@config_proxy 🔥
-vless://4a5f09db-d9d4-4f1a-9b7d-65ad15a33026@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=/melo#Telegram:@config_proxy 🔥
-vless://4a5f09db-d9d4-4f1a-9b7d-65ad15a33026@tgju.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=/melo#Telegram:@config_proxy 🔥
-vless://4a5f09db-d9d4-4f1a-9b7d-65ad15a33026@www.speedtest.net:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=/melo#Telegram:@config_proxy 🔥
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Telegram@server_free2/?ed=2560#@Daily_Configs
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#Telegram+:+@V2rayEnglish
