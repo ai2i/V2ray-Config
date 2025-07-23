@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#🇺🇸 | @External_Net
+vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir# @confing_chanel
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir# vipV2rayNGnp
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#@Capoit
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#@Selinc
@@ -501,5 +503,3 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9O
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@HIBYEVPNN
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@HiByeVPNN
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@v2rayvpn2
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#[🇵🇱]ae_proxy
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🔗 Telegram : @Viturey 🇨🇦

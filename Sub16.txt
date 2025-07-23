@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://Parsashonam-285@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam 🇩🇪     حتما ipv6 فعال باشه
+vless://Parsashonam-285@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@v2rayNGcloud🇩🇪
 vless://Parsashonam-285@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Parsashonam 🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-285@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@v2rayNGcloud🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-286@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#✱ @Viturey ✱
@@ -501,5 +503,3 @@ vless://a80274e2-ff42-48b7-9817-41a5b56e0c72@Networknim.cam:34927?fragment=&secu
 vless://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?security=none&encryption=none&headerType=http&fp=chrome&type=tcp#@V2RAY_VMESS_free
 vless://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?security=none&encryption=none&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://a80c0c8c-fadc-4e31-97da-e9132494229c@us.v2shop2.xyz:8080?mode=stream-one&type=tcp&path=/&security=none&host=www.analytics.google.com&headerType=http#10-57631
-vless://a80c0c8c-fadc-4e31-97da-e9132494229c@us.v2shop2.xyz:8080?mode=stream-one&type=tcp&path=/&security=none&host=www.analytics.google.com&headerType=http#Telegram:@config_proxy 🔥
-vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1838463486423069
