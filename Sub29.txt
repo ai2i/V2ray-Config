@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@cdnjs.com:443?security=tls&sni=rAyAn-08.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-08.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
-
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@change.org:443?security=tls&sni=rAyAn-10.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-10.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-4
-
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@feedly.com:443?security=tls&sni=rAyAn-12.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-12.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-6
-
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@medium.com:443?security=tls&sni=rAyAn-10.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-10.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-4
-
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@ns1.cloudflare.com:443?security=tls&sni=RayAN-09.pAraStOo.DpdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-09.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
 
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.visa.com.br:443?security=tls&sni=RayAN-09.pAraStOo.DpdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-09.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
@@ -503,3 +495,11 @@ vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
 vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?encryption=none&security=none&type=ws&host=NIce-APartMEnt.ZULAir.ORg&path=%2F%3Fed%3D2048#%40Daily_Configs
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?security=tls&sni=pq-japan3.09vpn.com&allowInsecure=1&type=ws&path=/vless/&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP%20%7C%20@v2ray_configs_pools`
+vless://98371613-b71d-4185-9e8a-eb7ba73373b4@edt-f5k.pages.dev:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=edt-f5k.pages.dev&fp=chrome&type=ws&sni=edt-f5k.pages.dev#✅@v2ray_configs_pools
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools`
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&type=grpc#@kanalvpn_bot|3`
+vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443?path=%2Ftelegram%40v2ray_configs_pools%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=configmr.pages.dev&fp=randomized&type=ws&sni=ConFIgmr.PaGeS.dEV#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?path=%2Ftelegram%40v2ray_configs_pools%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=configmr.pages.dev&fp=randomized&type=ws&sni=ConFIgmr.PaGeS.dEV#✅@v2ray_configs_pools
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@rusrv.vpnsparta.pro:57456#🇫🇮[@rat_leak]
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=IyFpLkXk17.jOoLaJoOlA.OrG&alpn=h3%2Ch2&fp=chrome&type=ws&host=IyFpLkXk17.jOoLaJoOlA.OrG&path=%2F#%40Daily_Configs

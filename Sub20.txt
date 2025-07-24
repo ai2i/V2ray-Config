@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c6323e39-cc7b-4ddb-b7b8-f795aedc3f7c@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
+vless://c6323e39-cc7b-4ddb-b7b8-f795aedc3f7c@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
 vless://c635c8ef-6495-4e3b-9993-9a2dcae0bf91@104.16.53.11:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇩🇪🇩🇪
 vless://c6517fd5-6c44-421e-b469-e476144bf0f6@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
 vless://c699685e-b072-4141-9406-ee22f89f13ed@x8-germany-amazon-v2-rug6e.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?security=none&encryption=none&type=ws#Bya To @IRAN_V2RAY1
@@ -151,7 +153,6 @@ vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?path=/&security=
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?security=tls&alpn=h3&encryption=none&host=vless10-9sc.pages.dev&fp=chrome&type=ws&sni=vless10-9sc.pages.dev#@G0DV2RAY
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?security=tls&alpn=h3&encryption=none&host=vless10-9sc.pages.dev&fp=chrome&type=ws&sni=vless10-9sc.pages.dev#IRAN 340 (@Cook_Vpn) free
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?security=tls&alpn=h3&encryption=none&host=vless10-9sc.pages.dev&fp=chrome&type=ws&sni=vless10-9sc.pages.dev#IRAN 340 (@Outline_Vpn) free
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?security=tls&alpn=h3&encryption=none&host=vless10-9sc.pages.dev&fp=chrome&type=ws&sni=vless10-9sc.pages.dev#Telegram:@config_proxy 🔥
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.19.144.212:443?type=ws&security=tls&path=/Tel-@V2ray_Alpha&host=111-aw3.pages.dev&sni=111-aw3.pages.dev#🇲🇨|@V2BUX
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@45.80.111.221:443?security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=chrome&type=ws&sni=vless8-ekh.pages.dev#🟡 @server_free2 🟡
 vless://c9b85c37-b3ec-4e8d-ef61-e8edde961338@85.133.146.85:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@V2rayNG3
@@ -267,7 +268,6 @@ vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?mode=gun&security
 vless://cd3045dd-ee13-4b93-9e78-3caf3e053a16@jet.wwilli.shop:8080?security=none&encryption=none&headerType=none&type=tcp#willi-ad 40-100.00GB📊
 vless://cd3045dd-ee13-4b93-9e78-3caf3e053a16@jet.wwilli.shop:8080?security=none&encryption=none&headerType=none&type=tcp#willi-ad 40-100.00GB📊   حجم 🟥🟥🟥 گیگ
 vless://cd54a584-2aeb-4a81-8558-84822c5e60d1@13.212.218.130:443?security=reality&encryption=none&pbk=J2bRPBQbUXzfoe-sch7fxMlzKqaX2L0kEm4Rcly6Kgo&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=d0c43a7737#@G0Dv2ray
-vless://cd54a584-2aeb-4a81-8558-84822c5e60d1@3.237.177.172:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=J2bRPBQbUXzfoe-sch7fxMlzKqaX2L0kEm4Rcly6Kgo&sid=d0c43a7737&fp=chrome&spx=/#Telegram:@config_proxy 🔥
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#@V2rayNG3
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?security=tls&encryption=none&type=ws&host=vip1-romax-tiktok.hsjsak.ir&path=vless-ws/?ed&sni=vip1-romax-tiktok.hsjsak.ir&fp=chrome#Awlix_ir
 vless://cd8a8019-8584-4943-a1ac-fc41f054d480@DailyConfigs.resurrection-time.sbs:40735?mode=gun&security=reality&encryption=none&authority=Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs&pbk=zOCZ24y2Y3T5D1v69NJ15rDUp1WZJOSWHTM1I0hqOTc&fp=chrome&spx=/&type=grpc&serviceName=Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs?ed=443&sni=github.com&sid=10#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ

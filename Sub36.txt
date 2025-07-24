@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=/&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws @Confing_chanel
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=/&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#برای کانفینگ های جدید عضو شو @MoneySeae
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.89.111.198:2052?encryption=none&security=none&type=ws&host=omidyzvg2.kamaleriz.info&path=/#@Daily_Configs
-vless://83a85a41-fb7f-43e0-9c15-d199509a9624@178.162.244.224:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @ShadowProxy66 🇩🇪
-vless://83e47814-bc89-4133-8e0d-1d59678249c4@47.243.126.92:47381?security=none&encryption=none&headerType=none&type=tcp#@warp_city
-vless://83e7335a-5020-49d7-9df1-e954dce82cfe@P5.3dfigures.ir:3440?type=tcp&security=none#V2raybluecrystal
 vless://83e7335a-5020-49d7-9df1-e954dce82cfe@P5.3dfigures.ir:3440?type=tcp&security=none#V2raybluecrystal  ۵۰ گیگ
 vless://846feb28-3267-4002-8b8c-dfbe3da2516d@150.241.99.63:80?type=xhttp&path=/v2raybluecrystal&host=v2raybluecrystal.global.ssl.fastly.net&mode=auto&security=reality&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&fp=chrome&sni=journalofbigdata.springeropen.com&sid=5426024033df45&spx=/#@v2raybluecrystal نت ملی 🇩🇪برای اتصال دائمی جوین شو
 vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=/v2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#@V2ray1_Ng
@@ -503,3 +497,9 @@ vless://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=non
 vless://aa136e7a-7046-4df5-a0ea-6c2b07a2834f@95.179.247.124:50516?type=tcp&headerType=none&security=none#@bluVPNir
 vless://aa2e8771-c340-4f4e-cd4a-f862d4925c3c@Www.speedtest.net:80?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#=/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&security=none&encryption=none&host=www.speedtest.net.XpnviP.ir.&type=ws#@bored_vpn
 vless://aa7be483-8de0-4f4f-96fb-bf3ea7d9624c@hu.varzesh3esteghlal.ir:2095?encryption=none&security=none&type=httpupgrade&host=hu.varzesh3esteghlal.ir&path=/ed?=2052#@Daily_Configs
+vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?encryption=none&security=tls&sni=web.xhamster.biz.id&type=ws&host=web.xhamster.biz.id&path=/Free-CF-Proxy-AT4#@Daily_Configs
+vless://aaacc50f-fe98-45e8-96f7-b1938416774e@38.180.188.57:40002?security=reality&encryption=none&pbk=xIVS8EShmnJd6HDzSgRcKGFFz0eFCQ1-_a8GN_X3EUM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com&sid=89923c3d#@Daily_Configs
+vless://aaafd33e-bda8-47e9-bc33-116ce13c0b27@5.255.120.217:80?type=xhttp&path=/pwp&host=bleep.global.ssl.fastly.net&mode=auto&security=reality&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&fp=chrome&sni=journalofbigdata.springeropen.com&sid=8c&spx=/#@v2raybluecrystal نت ملی 🇳🇱برای اتصال دائمی جوین شو
+vless://aabccab-abac-aacb-cadb-bcbacbaaccab@127.0.0.1:8080?security=tls&type=tcp#Telegram:@config_proxy 🔥
+vless://aaccabb-abac-abca-dacb-aabacbccabbc@127.0.0.1:1080?security=tls&type=tcp#t.me/entryNET/config=1838043090567118
+vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@PRActiCaL-CoMPlaint.SEoToolsFoRYOu.cO.uK:80?path=/&security=&encryption=none&type=ws#Channel id: @ShadowProxy66 🇨🇦
