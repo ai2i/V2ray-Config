@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://83dc5c38-92fb-4d92-adb2-038575a12d49@194.182.79.250:52612?mode=gun&security=reality&encryption=none&authority=&pbk=tVPnI0CG8zT6VlwpceDzo2WqrNwBSUMbYk0_08ybxhs&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=78a48e1e#opennet_ir
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.198.54:8880?path=%2Fa5B32PZjS8yfkA3C%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=randomized&type=ws&sni=vngsuPPLY.IP-ddNs.coM#%40%E1%B4%85%E1%B4%80%C9%AA%CA%9F%CA%8F_%E1%B4%84%E1%B4%8F%C9%B4%EA%9C%B0%C9%AA%C9%A2%EA%9C%B1
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@194.182.79.142:11745?mode=gun&security=reality&encryption=none&authority=&pbk=hgaeyKQWo1Cf0fDhXVD2AZKI6DfOhBhjsSSfccW7ADo&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=26a52325#opennet_ir```
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=random&type=ws&sni=vl.hongkong6.qzz.io#%40%E1%B4%85%E1%B4%80%C9%AA%CA%9F%CA%8F_%E1%B4%84%E1%B4%8F%C9%B4%EA%9C%B0%C9%AA%C9%A2%EA%9C%B1
+vless://aa374d55-b368-4121-8f02-7e6bd9ef1924@194.182.79.43:25245?mode=gun&security=reality&encryption=none&authority=&pbk=uv1gMqjxJ-bF5Xjix_d5M4qGK0-VmGyrU5ZMtiXrhHg&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=16b619c73e22#opennet_ir
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.222.98:8880?path=%2FuLF6HXZ7986oF7Yg%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=randomized&type=ws&sni=VngSupply.Ip-DdNS.com#%40%E1%B4%85%E1%B4%80%C9%AA%CA%9F%CA%8F_%E1%B4%84%E1%B4%8F%C9%B4%EA%9C%B0%C9%AA%C9%A2%EA%9C%B1
 vless://17953b21-65ee-4b59-bf8f-6ebe90601e85@51.38.207.189:2082?path=%2F&security=none&encryption=none&host=refersion.com&type=ws#Telegram%20%3A%20FarshidHUB%20%DA%AF%D8%B1%D9%88%D9%87%20%D9%85%D9%86%20%D9%87%D9%85%DB%8C%D8%B4%D9%87%20%D8%B4%D9%85%D8%A7%20%D8%B1%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D9%86%DA%AF%D9%87%E2%80%8C%20%D9%85%DB%8C%D8%AF%D8%A7%D8%B1%D9%85`
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=none&encryption=none&type=ws#%40kinds_of_vibes%20%F0%9F%9A%80`
 vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?type=ws&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&path=/linkws?ed%3D2560&security=tls&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe#Telegram
@@ -497,9 +503,3 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:39701?allowInsecure=1&s
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:16158?allowInsecure=1&sni=www.baidu.com#%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:32063?allowInsecure=1&sni=www.baidu.com#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:8117?allowInsecure=1&sni=www.baidu.com#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:3596?allowInsecure=1&sni=www.baidu.com#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:32962?allowInsecure=1&sni=www.baidu.com#%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1dGM2MzcDRZekV5TXc=@13.212.193.32:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20%231
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveU5GZHJNazVUYzNweVpraHVNako2WlcweGJGbFc=@188.166.220.70:37708#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VkVjNlFFVnVhMlZzZEdWZmJtOTBhV1ltSmxSSE9rQk9iM1JwWmw5RGFHRjA=@152.53.2.128:34045#%E5%A5%A5%E5%9C%B0%E5%88%A9%7C%40ripaojiedian
