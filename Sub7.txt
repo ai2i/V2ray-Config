@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://10bf842c-ff96-4460-b18c-55d4c3740fc9@91.98.21.58:18606?mode=gun&security=reality&encryption=none&pbk=9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew&fp=chrome&spx=/&type=grpc&serviceName=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&sni=www.cdn77.com#@EmpireVpn7🇩🇪
-vless://10d4011e-1257-423b-8007-5a8f6517acaa@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#BINEXTIFY 🇩🇪 SPEED-zjdrjt62e
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?path=/&security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=chrome&type=ws&sni=masaleini.mahsaamini.dpdns.org#کانال+ما+در+تلگرام+@Asak_Vpn+🔥
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?path=/&security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=chrome&type=ws&sni=masaleini.mahsaamini.dpdns.org#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
 vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pingless.com&fp=chrome&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&sid=b6&type=tcp&headerType=none#@Daily_Configs
@@ -305,8 +303,10 @@ vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&en
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@Iran_V2RAY1
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#GB 2 🇬🇧 | @v2xay
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#GB 🇬🇧 | @v2xay
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1838555523645781
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 @ConfVip کانفیگ رایگان جوین شو تلگرام
 vless://194d8644-1921-40d8-9954-61790accf528@cb22.connectbaash.info:4422?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://194d8644-1921-40d8-9954-61790accf528@cb22.connectbaash.info:4422?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
