@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://541b75c0-4648-4074-bf12-685d53ec2eea@nl.dnszone.top:45600?security=none&encryption=none&headerType=none&type=tcp#@ff_kikor  🇩🇪
 vless://541b75c0-4648-4074-bf12-685d53ec2eea@nl.dnszone.top:45600?security=none&encryption=none&headerType=none&type=tcp#@ff_kikor  🇲🇫
 vless://541b75c0-4648-4074-bf12-685d53ec2eea@nl.dnszone.top:45600?security=none&encryption=none&headerType=none&type=tcp#@ff_kikor  🇳🇱
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053/?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=chrome&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#Telegram:@config_proxy 🔥
@@ -502,4 +503,3 @@ trojan://trojan@91.193.58.0:443?type=ws&sni=wahaha.yingyangkuaixian.dpdns.org&pa
 trojan://tg-fq521free@194.76.18.129:443?type=ws&sni=torjan.xn--xhq44j.eu.org&path=/&host=torjan.xn--xhq44j.eu.org#%E6%9C%AA%E7%9F%A512
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?sni=rc6.freeguard.org#US4%2037.2KB%2Fs
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:32765?sni=www.baidu.com#%E6%9C%AA%E7%9F%A513
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.13:9141?sni=www.baidu.com#%E6%9C%AA%E7%9F%A514

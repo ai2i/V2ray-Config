@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e00dbb1a-1978-43bc-bd76-fa236748de05@95.164.3.121:443?type=tcp&security=reality&pbk=XY8doX6twfJ6qzioiuOzQCxHyiLWiv8YpKA-lD01AjI&fp=chrome&sni=google.com&sid=9c&spx=/#Telegram:@config_proxy 💦
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.18.26.90:443?type=ws&security=tls&path=/Tel-V2ray_Alpha?ed=2560&host=getasa.ir&sni=gEtaSa.IR#Telegram:@config_proxy 🔥
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?security=&encryption=none&type=grpc#Telegram:@config_proxy 🔥
 vless://e52245fa-7353-4e55-87d0-9e210e8de69a@151.101.130.219:80?mode=auto&path=/test?ed=2048/?Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps&security=none&encryption=none&host=test01ne_cool.global.ssl.fastly.net&type=xhttp#🇫🇴@SimChin_iR جوین شید
@@ -473,7 +474,6 @@ vless://43fe3d6a-2edd-4494-9a64-dc6aeedc5cc2@1750158741.tencentapp.cn:443?mode=m
 
 
 hysteria2://250a274b-d8dd-4bb3-a4a6-79a596f4e5e3@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A298.15%20GB
-
 
 
 

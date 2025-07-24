@@ -38,6 +38,7 @@
 
 
 
+
 hysteria2://0151af46-04a6-42da-a09c-c5940c57186b@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A262.86%20GB
 
 
@@ -502,4 +503,3 @@ vless://cef149e8-73a9-4802-8f9e-a51edbdb6889@ro.dtmezon.com:49750?security=&encr
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=azadnet-7py.pages.dev&type=ws&sni=azadnet-7py.pages.dev#ae_proxy
 vless://d10fae09-dd50-4067-90cf-f3e09eb9c206@89.47.202.38:80?security=none&encryption=none&headerType=none&type=tcp#Telegram+:+@V2rayEnglish
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cloudflare.182682.xyz:443?path=/snippets&security=tls&encryption=none&host=test.saas.cname.123153.xyz&fp=chrome&type=ws&sni=test.saas.cname.123153.xyz#Telegram:@config_proxy 🔥
-vless://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@Selinc
