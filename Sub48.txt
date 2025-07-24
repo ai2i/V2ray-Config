@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=#Join---v2ray_configs_pools?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram:@config_proxy 🔥
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram:@config_proxy 🔥
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed&security=none&encryption=none&host=VngSuPpLY.IP-DDnS.com&type=ws#Telegram:@config_proxy 🔥
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-pdeoxy-free--Telegram--config-proxy-free?ed=2560&security=none&encrypdkdkskn=none&host=VngSuPpLY.IP-DdnS.com&type=ws#t.me/entryNET/config=1837995334221449
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=G9j2KeHn0E.gItI5.oRg&type=ws&host=G9j2KeHn0E.gItI5.oRg&path=/#Telegram:@config_proxy 🔥
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=Q9nSh0S85k.KaGhAz.OrG&type=ws&host=Q9nSh0S85k.KaGhAz.OrG&path=/#Telegram:@config_proxy 🔥
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=Q9nSh0S85k.KaGhAz.OrG&type=ws&host=Q9nSh0S85k.KaGhAz.OrG&path=/#t.me/entryNET/config=1837994202044635
@@ -503,3 +499,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@205.233.181.213:8880?allowInsecure=
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@167.68.42.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#US_speednode_0125
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.13.55.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#US_speednode_0126
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.129.165.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#US_speednode_0127
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@130.250.137.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @xixv2ray /?ed=2560#US_speednode_0128
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@161.145.150.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0129
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@159.246.55.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#US_speednode_0130
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@14.102.228.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#US_speednode_0131

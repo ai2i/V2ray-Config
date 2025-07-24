@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?security=none&type=ws&path=/?ed=2048&host=TW.kKpopH4Zmc.ZUlaIr.orG&packetEncoding=xudp&encryption=none#@NetAccount
-vless://813e1424-c68d-4e96-ac5f-e7b6dfe79605@151.101.193.46:80?type=ws&host=vpngaming.ir&path=/#Telegram:@config_proxy 🔥
-vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#Telegram:@config_proxy 🔥
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=/&security=&encryption=none&host=vkvd127.mycdn.me&type=ws#@varn_Net
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=/&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#برای کانفینگ های جدید عضو شو @MoneySeae
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.89.111.198:2052?encryption=none&security=none&type=ws&host=omidyzvg2.kamaleriz.info&path=/#@Daily_Configs
-vless://83a85a41-fb7f-43e0-9c15-d199509a9624@178.162.244.224:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @ShadowProxy66 🇩🇪
-vless://83e47814-bc89-4133-8e0d-1d59678249c4@47.243.126.92:47381?security=none&encryption=none&headerType=none&type=tcp#@warp_city
 vless://83e7335a-5020-49d7-9df1-e954dce82cfe@P5.3dfigures.ir:3440?type=tcp&security=none#V2raybluecrystal
 vless://83e7335a-5020-49d7-9df1-e954dce82cfe@P5.3dfigures.ir:3440?type=tcp&security=none#V2raybluecrystal  ۵۰ گیگ
 vless://846feb28-3267-4002-8b8c-dfbe3da2516d@150.241.99.63:80?type=xhttp&path=/v2raybluecrystal&host=v2raybluecrystal.global.ssl.fastly.net&mode=auto&security=reality&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&fp=chrome&sni=journalofbigdata.springeropen.com&sid=5426024033df45&spx=/#@v2raybluecrystal نت ملی 🇩🇪برای اتصال دائمی جوین شو
@@ -210,6 +202,7 @@ vless://96095804-6e2b-4ed4-8bd5-49c28cb73679@194.182.79.64:14074?mode=gun&securi
 vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?path=/ecY3gziM8W6ud5yj?ed&security=tls&alpn=http/1.1&encryption=none&host=gulf-d96.pages.dev&fp=chrome&type=ws&sni=gulf-d96.pages.dev#🟢 @server_free2 🟢
 vless://96479a22-9333-4b03-9912-4dd26acef75e@104.21.112.1:443?path=/9EkfcCDedhvB19xj?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#HiByeVPNN
 vless://96479a22-9333-4b03-9912-4dd26acef75e@104.21.112.1:443?path=/9EkfcCDedhvB19xj?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.21.112.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Channel : @Mrsoulb 🏴🏳
 vless://96479a22-9333-4b03-9912-4dd26acef75e@104.21.112.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://96479a22-9333-4b03-9912-4dd26acef75e@104.21.112.1:443?type=ws&host=nextfilmtomovies.site&path=/9EkfcCDedhvB19xj?ed=2560&security=tls&fp=chrome&sni=NExtfilmtOmovies.sitE&alpn=http/1.1#Channel : @CaptalVpn🏴‍☠️
 vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?encryption=none&security=tls&sni=NExtfilmtOmovies.sitE&alpn=http/1.1&fp=chrome&type=ws&host=nextfilmtomovies.site&path=/9EkfcCDedhvB19xj?ed=2560#@Daily_Configs
@@ -222,6 +215,7 @@ vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhv
 vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Channel : @@CaptalVpn 🏴🏳
+vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Channel : @Mrsoulb 🏴🏳
 vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#HiByeVPNN
 vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#🌈انواع کانفیگ های رایگان در تلگرام : Viturey@
 vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
@@ -503,3 +497,9 @@ vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?securit
 vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e701a013553059ba#[🇩🇪]ae_proxy
 vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e701a013553059ba#ae_proxy
 vless://acf0ec9e-5b24-4d8b-b589-49b5b4c68ac7@150.241.101.222:29742?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=fPtoPIDDJIW4pSY8TAFM0BKPA0ELOkX7ssc3i23SXlE&sid=75813316#Telegram:@config_proxy 🔥
+vless://acfd8033-b189-4d79-b392-4fafe14b522d@www.speedtest.net:8443?security=tls&encryption=none&host=de2vipys.sevenploos.com&fp=chrome&type=ws&sni=de2vipys.sevenploos.com#28/1
+vless://ad13ed40-3f74-490a-ba83-c9bf6067b8d0@www.parsvds.com:2096?path=/2096/@V2RayyNGvpn?ed=1024&security=tls&alpn=h2,http/1.1&encryption=none&host=Tu.MiRAcLEprESenT.ToP.&fp=chrome&type=httpupgrade&sni=Tu.MiRAcLEprESenT.ToP.#🇨🇵@V2RayyNGvpn کانال ما در تلگرام 🇨🇵همراه‌اول-ایرانسل-رایتل
+vless://ad7009df-b770-48fe-85a5-a65e973ddbb6@151.101.3.9:80?type=xhttp&path=/Telegram@viturey?ed=2048&host=bpi5.global.ssl.fastly.net&mode=auto&security=none#Telegram@viturey 🇸🇪🇸🇪
+vless://ad7009df-b780-48fe-85a5-a65e973ddbb6@151.101.3.9:80?type=xhttp&path=/Telegram@viturey?ed=2048&host=bpi5.global.ssl.fastly.net&mode=auto&security=none#Telegram@viturey 🇸🇪🇸🇪
+vless://adb9d042-061d-4e89-92d0-f8e2304b466d@31.44.7.38:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Daily_Configs
+vless://ae48f95d-9b6a-454b-849b-2ecf7922487b@v3.fandogh4.ir:2053?path=/C7OSXPN9yV234T1Y?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=dash.beginnertopro.ir&fp=chrome&type=ws&sni=dash.beginnertopro.ir#@warp_city

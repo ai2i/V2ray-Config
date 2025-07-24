@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0af87088-87c9-403b-9369-70186cb711c3@fgjh.speedgloobalontop.ir:2053?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#Telegram:@config_proxy 🔥
-vless://0af87088-87c9-403b-9369-70186cb711c3@fran.speedgloobalontop.ir:2053/?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#Telegram:@config_proxy 🔥
-vless://0af87088-87c9-403b-9369-70186cb711c3@fran.speedgloobalontop.ir:2053?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#Telegram:@config_proxy 🔥
-vless://0af87088-87c9-403b-9369-70186cb711c3@fran.speedgloobalontop.ir:2053?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#t.me/entryNET/config=1838022954576250
 vless://0af87088-87c9-403b-9369-70186cb711c3@hibbb.fast.hosting-ip.com:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=sdkdsd2.global.ssl.fastly.net&type=xhttp#Telegram:@config_proxy 🔥
 vless://0ee990e4-d854-483f-ac4b-d920d0909601@cellone.learn-new.ir:443?security=reality&alpn=http/1.1&encryption=none&pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=khanacademy.org&sid=6acf3ba5790e4324#Telegram:@config_proxy 🔥
 vless://0ee990e4-d854-483f-ac4b-d920d0909601@cellone.learn-new.ir:443?security=reality&alpn=http/1.1&encryption=none&pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=khanacademy.org&sid=6acf3ba5790e4324#t.me/entryNET/config=1838021633174669
@@ -502,4 +498,8 @@ vless://5ca25681-6e38-4598-a7f6-9d6c69494009@nl-1-rvp.medicaldream.ir:443?securi
 
 
 vless://6149f52f-06fd-47e5-bc22-e5507dbaca02@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A100+GB
+
+
+
+
 
