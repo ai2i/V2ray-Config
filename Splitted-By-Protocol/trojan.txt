@@ -87,6 +87,7 @@ trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=h
 trojan://27e473f8-d610-4b04-bdf7-d0c39b47c897@cdns.doon.eu.org:8443?sni=cdn-node-oss-99.paofu.de&allowInsecure=1&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
 trojan://27e473f8-d610-4b04-bdf7-d0c39b47c897@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&allowInsecure=1&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国04 付费推荐：https://dafei.de
 trojan://27e473f8-d610-4b04-bdf7-d0c39b47c897@ssrsub.cloudflare.182682.xyz:8443?sni=cdn-node-oss-99.paofu.de&allowInsecure=1&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国05 付费推荐：https://dafei.de
+trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443/?type=grpc&serviceName=raChT39pjLFYRAO6JLn303d&security=tls&sni=XCdvFgt.986986.sHOP&alpn=h2&fp=chrome#xcdvfgt.986986.shop tls grpc CDN trojan § 443 26
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#FNET00
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&host=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&sni=nacho-rerun-crepe.stark-industries.solutions#2🇩🇪➣@EVAY_VPN
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&security=tls&sni=chop-wrist-bud.stark-industries.solutions#@EVAY_VPN🇧🇪
@@ -110,8 +111,6 @@ trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&typ
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Bya To @IRAN_V2RAY1
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Bya To @Iran_V2ray1
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#T.me/Asak_Vpn
-trojan://6gZh2JbfhQ@104.248.18.1:1935?type=tcp&headerType=none&security=tls&fp=chrome&sni=x1-germany-digitalocean-v2.devefun.org#@FREE_VPN02-@FREE_VPN02
-trojan://6gZh2JbfhQ@104.248.18.1:1935?type=tcp&headerType=none&security=tls&fp=chrome&sni=x1-germany-digitalocean-v2.devefun.org#@free_vpn02
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?type=tcp&security=tls#🇬🇧英国
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?type=tcp&security=tls&headerType=#@shadoowvpnn|🇳🇱|TROJAN
 trojan://7fec5d9d-4a06-377f-9fc3-6c1fef6a7f4b@111.47.212.170:20139/?type=tcp&security=tls&sni=z139.hongkongnode.top#🄵🄺 🇯🇵 日本•高速139•铂金
@@ -306,18 +305,13 @@ trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sn
 trojan://telegram-id-v2rayvpnchannel@3.77.178.12:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2014
 trojan://ZU%290ryc%24VSrG@104.17.148.22:443?path=%2Ftrg2dhGAnG15ULOP7i%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=randomized&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#%F0%9F%87%A7%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#%3E%3E%40shadowproxy66%3A%3AUS
-trojan://telegram-id-directvpn@63.178.189.136:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%3E%3E%40DirectVPN%3A%3ADE
-trojan://telegram-id-directvpn@18.153.112.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%3E%3E%40DirectVPN%3A%3ADE
-trojan://telegram-id-directvpn@13.36.14.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%3E%3E%40DirectVPN%3A%3AFR
-trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=%2F#%3E%3E%40ShadowsocksM%3A%3AUS
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&fp=chrome&type=tcp&headerType=none#%3E%3E%40ShadowsocksM%3A%3AUS
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&type=tcp&headerType=none#%3E%3E%40ShadowsocksM%3A%3AUS
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&fp=chrome&allowInsecure=1&type=tcp&headerType=none#%3E%3E%40ShadowsocksM%3A%3AUS
-trojan://telegram-id-privatevpns@63.178.189.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%3E%3E%40PrivateVPNs%3A%3ADE
-trojan://telegram-id-privatevpns@18.153.112.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%3E%3E%40PrivateVPNs%3A%3ADE
-trojan://telegram-id-privatevpns@13.36.14.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%3E%3E%40PrivateVPNs%3A%3AFR
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#%3E%3E%40shadowproxy66%3A%3AUS
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.17.148.22:8443?path=%2Ftrwidp0ENHXMUNX4bA%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ&security=tls&alpn=http%2F1.1&host=invincible.fafa20.shop&fp=randomized&type=ws&sni=inVinciBLe.fafa20.sHop#%3E%3E%40shadowproxy66%3A%3AUS
+trojan://telegram-id-privatevpns@35.181.196.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%3E%3E%40PrivateVPNs%3A%3AFR
+trojan://telegram-id-directvpn@35.181.196.98:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%3E%3E%40DirectVPN%3A%3AFR
+trojan://auto@172.67.174.252:443?security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev&type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F#%3E%3E%40v2ray_configs_pool%3A%3AUS
+trojan://auto@172.66.45.2:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=%2F#%3E%3E%40v2ray_configs_pool%3A%3AUS
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-192.3.107.252-0324
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-4918
 trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.185.211-5513
@@ -422,6 +416,8 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&sni=rc
 trojan://2ee85121-31de-4581-a492-eb00f606e392@51.81.203.233:443?security=tls&sni=rs4.freeguard.org&type=tcp#@NetAccount
 trojan://2f9b71f8-0ff1-4f49-a759-2d300b7c4c09@104.21.46.90:443?path=/9wAaF67mglzN6jop7uR&security=tls&alpn=http/1.1&host=iiiiuuuyyyyy.freevpnatm.dpdns.org&fp=chrome&type=ws&sni=IiiIUuUyyYyy.freEvpNaTM.dpdNS.orG#@warp_city 592
 trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=/685uFbiRrgAsHzTP8d&security=tls&alpn=http/1.1&host=90.taipei108.dpdns.org&fp=chrome&type=ws&sni=90.tAIpEI108.dpDnS.orG#@V2ray1_Ng
+trojan://6gZh2JbfhQ@104.248.18.1:1935?type=tcp&headerType=none&security=tls&fp=chrome&sni=x1-germany-digitalocean-v2.devefun.org#@FREE_VPN02-@FREE_VPN02
+trojan://6gZh2JbfhQ@104.248.18.1:1935?type=tcp&headerType=none&security=tls&fp=chrome&sni=x1-germany-digitalocean-v2.devefun.org#@free_vpn02
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#🔗 Telegram : @Viturey 🔒
 trojan://@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@62.60.176.240:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@confing_chanel
 trojan://@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@62.60.176.240:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@vipV2rayNGnp
