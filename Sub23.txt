@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ed4e6954-22ee-4417-bfb3-63c9e26eb1bc@65.109.207.127:33810?security=none&encryption=none&host=bmw.com/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&type=tcp#telegram 🇫🇮 @V2WRAY
+vless://ed579b5e-96df-413c-8133-8a907b931866@CONFiGLiNE.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=arkadashyasin.io&type=xhttp# @confing_chanel
 vless://ed579b5e-96df-413c-8133-8a907b931866@CONFiGLiNE.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=arkadashyasin.io&type=xhttp#vipV2rayNGnp
 vless://ed5d3df0-61c9-4f3d-9891-3adec1e14463@144.76.231.27:51406?type=tcp&security=none#v2ray_market11
 vless://ed5e7f5b-03a9-43e3-a2ff-4346c023561b@fast.peace.lemoex.blog:80?mode=auto&path=/&security=none&encryption=none&host=mmad-patrick-fn.global.ssl.fastly.net&type=xhttp#@azadiiivpn
@@ -501,5 +503,3 @@ vless://ff2a5849-fa87-43ae-829e-42e75e0c08ba@185.146.173.185:2052?path=Telegramj
 vless://ff7cc2a2-beb0-4bd5-908d-bec8d8adf18c@freesanjeshtestsanesh.sanjeshvipspeed.ir:7642?security=none&encryption=none&host=https://www.soft98.ir&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay
 vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@cert.realtechshop.top:666?security=none&encryption=none&headerType=none&type=tcp#فنلاند 🇫🇮 @V2xay
 vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@full.VIGIlantecOllecTIOn.shop:666?security=none&encryption=none&headerType=none&type=tcp#Telegram+@vmessorg
-vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@join.vizzpn.telegram.for.more.freevpn.vizzfrag.ir:666?security=none&encryption=none&headerType=none&type=tcp#Telegram: @vizzpn-عضو کانال شو تا قطع نشی
-vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@web.bandarhp.ir:666?security=none&encryption=none&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay

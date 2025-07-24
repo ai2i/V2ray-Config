@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/EXnHlhJs0uij9Kac/MTU4LjE4MC44Mi4xODY&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 632
-vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/JHVdDlmFTThrY7WI/NjIuMy4xMi4xODU&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 626
-vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/QdRVz1eSwuT9ClmZ/MzQuODguNjMuMTYw?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@V2ray1_Ng
-vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/QdRVz1eSwuT9ClmZ/MzQuODguNjMuMTYw?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 620
-vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/b8lYoWmwWRS871gy/MTQ0LjIyLjI1Mi4xMjQ&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 659
-vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/c4tjlIC7U45DzHLo/MTkzLjEyMy44MS4xMDU&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 635
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/ldgoce3ZXB4kJ1Cl/NDcuNzYuMjE4LjE2Mw&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 664
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f9@104.17.147.22:443?path=/Telegram@V2ray_Alpha/=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TiTantabloMAnahamrah.Ir#🇮🇷Irancell-@Filter_breaker
 vless://4def9b45-592c-43e5-a62b-987beffa5d33@5.75.197.204:35487?security=reality&encryption=none&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=0b886008af8942c3#آلمان 🇩🇪 @V2xay
@@ -503,3 +497,9 @@ vless://7f1c42b8-069d-4fbe-8cdc-0fc1a131c8a8@104.21.36.57:443?path=/wsv/7f1c42b8
 vless://7f1c42b8-069d-4fbe-8cdc-0fc1a131c8a8@104.21.36.57:443?type=ws&host=avtice.fullmargintraders.com&path=/wsv/7f1c42b8-069d-4fbe-8cdc-0fc1a131c8a8&security=tls&fp=chrome&sni=avtice.fullmargintraders.com#Telegram : @CaptalVpn🏴‍☠️
 vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&encryption=none&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=86#@V2ray1_Ng
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.17.153.206:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#Telegram:@config_proxy 🔥
+vless://8028ec53-49b4-4d2a-9f79-7456ec6559ea@91.99.172.196:16672/?type=ws&path=@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@ToakVpn&host=&security=none#Telegram @ToKaVpn🇩🇪
+vless://8058f619-5305-4c4c-b764-509685f68c91@prod2-hge-cloud01-hybrid-t01.cyberscaler.com:18616?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🔥 @ramshoop🇩🇪🇺🇸
+vless://8058f619-5305-4c4c-b764-509685f68c91@prod2-hge-cloud01-hybrid-t01.cyberscaler.com:18616?type=tcp&path=/&host=www.speedtest.net&headerType=http&security=none#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#@V2RAYROZ
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#☁️ @server_free2 ☁️
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?security=none&encryption=none&headerType=none&type=tcp#Telegram+:+@Mrsoulb+🏳🏴

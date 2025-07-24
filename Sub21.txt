@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#🛡️ @FreakConfig
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#𝗝𝗼𝗶𝗻 ➠ @TEHRANARGO | کانال ما 🫆
 vless://e2d6455c-9846-4502-8394-16b8c1c07b68@172.66.47.25:443?path=/&security=tls&encryption=none&host=GrOupYOUNeS.PAGes.DEV&type=ws&sni=GrOupYOUNeS.PAGes.DEV#Telegram : @Alfa_v2ray_ng 🔥
 vless://e2d6455c-9846-4502-8394-16b8c1c07b68@188.114.96.3:443?path=/Orib1TRRDQo8XqMa?ed=2560&security=tls&encryption=none&host=GrOUPyoUnEs.PAGEs.DEv&fp=chrome&type=ws&sni=GrOUPyoUnEs.PAGEs.DEv#@V2RAY_VMESS_free
@@ -501,5 +503,3 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9O
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@HiByeVPNN🩶
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@IRan_V2ray1
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@Selinc
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@V2RAYROZ
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@V2ray_confing33

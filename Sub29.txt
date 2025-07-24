@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#SamouraiVPN`
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#SamouraiVPN%20%F0%9F%87%AE%F0%9F%87%B7%20GRPC`
-vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087/?type=ws&encryption=none&flow=&host=vl.hongkong6.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=vl.hongkong6.qzz.io&fp=random#%F0%9F%90%A382%40oneclickvpnkeys
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&host=vngsupply.ip-ddns.com&path=/fgvtHUpS6R8Rv8s5?ed%3D%23/Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed%3D2560&security=none#mm%20VPN`
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram+%3A+%40V2rayEnglish`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:8080#SamouraiVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#SamouraiVPN
 vless://63743432-0783-4a05-811d-8f8307fc9ba5@188.114.96.3:2053?encryption=none&security=tls&sni=Mopo.PAGeS.Dev&type=ws&host=Mopo.PAGeS.Dev&path=%2Fyegpde3b85hjgkhw%3Fed%3D2560#✅@v2ray_configs_pools
@@ -503,3 +498,8 @@ hysteria2://4VDmo53kWX@185.219.81.33:20675?insecure=1&obfs=salamander&obfs-passw
 hysteria2://4VDmo53kWX@185.219.81.33:50757?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal3
 hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:19338?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal2%20%231
 hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:40408?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal%20%231
+hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:47294?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal3%20%231
+hysteria2://%40warp_city@jnir-5.pichondan.com:35000?insecure=0&sni=pichondan.com&obfs=salamander&obfs-password=@warp_city#%40warp_city
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%40Daily_Configs%20%233
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40warp_city%20%231
+hysteria2://Ys1Z1iA996@78.138.118.228:22527?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal2%20%232

@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1f316a8c-86b0-4c8c-8a99-70fa253391a4@shafie.sarok2012.ir:1367?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
-vless://1f316a8c-86b0-4c8c-8a99-70fa253391a4@shafie.sarok2012.ir:1367?security=none&type=tcp&headerType=http&host=bmw.com&packetEncoding=xudp&encryption=none#@V2ray_confing33
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?host=pari.parinazz.dpdns.org&type=ws&security=none&path=/?ed=2560&encryption=none#id-@vmesskhodam
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#@Selinc
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#@V2RAYNG_1378
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.181.110:80?path=/?ed=2580&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#@Selinc
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.114.48:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#🇮🇷Irancell-@Filter_breaker
 vless://1f5056ca-fb4c-4b51-a31e-891083588351@www.speedtest.net:80?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed=2560&host=pamchall.com.&type=ws#⚡🇫🇮mosiv2
 vless://1f625d8c-c8e2-4241-b288-92178cbc3001@213.142.149.141:500?security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=bmi.ir&headerType=http&type=tcp#@TEHRANARGO
@@ -503,3 +497,9 @@ vless://4d4cccc7-db3c-42eb-85ac-ddd23931ad98@172.66.40.99:8080?path=/telegram-CO
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed=2560&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#🌟 @AblNet7 🌊💥
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=/Kytglts3cGhwlsZV/MjEzLjE3MC4xNTcuMQ&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 623
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/CY6EnyeHmgNASXJI/MTU5LjY5LjE0LjEzOA?ed=8080&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TiTAntAbLoMaNAhamraH.Ir.#@warp_city 637
+vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/EXnHlhJs0uij9Kac/MTU4LjE4MC44Mi4xODY&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 632
+vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/JHVdDlmFTThrY7WI/NjIuMy4xMi4xODU&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 626
+vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/QdRVz1eSwuT9ClmZ/MzQuODguNjMuMTYw?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@V2ray1_Ng
+vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/QdRVz1eSwuT9ClmZ/MzQuODguNjMuMTYw?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 620
+vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/b8lYoWmwWRS871gy/MTQ0LjIyLjI1Mi4xMjQ&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 659
+vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/c4tjlIC7U45DzHLo/MTkzLjEyMy44MS4xMDU&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@warp_city 635
