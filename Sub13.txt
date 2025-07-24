@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN❤️‍🔥🌋
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@V2ray1_Ng
@@ -503,3 +500,6 @@ vless://80e5c818-a1d8-59f4-e67a-93faf8a89cf8@144.126.245.239:443?mode=gun&securi
 vless://8106b22a-17ef-44f7-9e17-6425aef9d427@62.212.70.94:2090?type=tcp&security=reality&pbk=QXWMxdRWr0o_Rqe3I3r20NUREf3eqIl28tRRT1TPSXo&fp=chrome&sni=zhaket.com&sid=e9&spx=/-@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420#🇳🇱@EXPRESSVPN_42
 vless://8106b4c2-d457-4834-9842-e60720bbf359@217.114.40.9:6500?security=&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@varn_Net
 vless://8106b4c2-d457-4834-9842-e60720bbf359@217.114.40.9:6500?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@UCIRANIR - @pr_vpn #2
+vless://8106b4c2-d457-4834-9842-e60720bbf359@217.114.40.9:6500?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@V2ray_confing33
+vless://8106b4c2-d457-4834-9842-e60720bbf359@217.114.40.9:6500?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#https://t.me/confing_chanel
+vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#@vmesskhodam

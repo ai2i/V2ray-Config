@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c936567b-58a8-43c9-ba12-a91f6bfb8a6d@zula.ir:8080?security=none&encryption=none&type=ws&host=waded.narcoshop.ir.&path=/#Awlix_ir
-vless://c943eaf7-70c6-45f1-bd3a-71360eedf16b@151.101.3.8:80?path=/containers/fi&security=none&encryption=none&host=kz2bsFTSqPeMEJ1Z.de&type=ws#Join To @IRAN_V2RAY1
-vless://c95740bb-b3be-44f9-9fa4-260c3fbec6de@37.27.15.167:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e3c5c005cae07eb8#@V2rayNG3
 vless://c958f783-f87a-40bf-9d0a-38d4b987fcf4@DailyConfigs.resurrection-time.sbs:23070?mode=gun&security=reality&encryption=none&authority=Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs&pbk=DI3hyYVn-i6lpHfHtP0ELZIVfYrgy1qwjq4y5qgH6D0&fp=chrome&spx=/&type=grpc&serviceName=Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs?ed=443&sni=gitlab.com&sid=a38104#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 vless://c958f783-f87a-40bf-9d0a-38d4b987fcf4@dailyconfigs.resurrection-time.sbs:23070?encryption=none&security=reality&sni=gitlab.com&fp=chrome&pbk=DI3hyYVn-i6lpHfHtP0ELZIVfYrgy1qwjq4y5qgH6D0&sid=a38104&spx=/&type=grpc&authority=Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs&serviceName=Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs?ed=443&mode=gun#@Daily_Configs
 vless://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443?security=tls&sni=4cbba020.fastpurnet3.pages.dev&type=ws&host=4cbba020.fastpurnet3.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&fp=chrome#@Filter_breaker | United States
@@ -503,3 +500,6 @@ vless://d71357cc-638a-0b8a-ac7d-dd580e294281@5.181.171.10:443?security=reality&e
 vless://d741cd4e-f631-4569-9a92-455901a4e34a@142.93.231.14:38116?type=ws&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&path=/#@EVAY_VPN🇳🇱
 vless://d74847f0-1fe8-46cb-972d-f441109cdc9b@www.wto.org:443?encryption=none&security=tls&sni=19.forfreedom10.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=19.forfreedom10.workers.dev&path=/socks5://219.154.210.157:9999#t.me/entryNET/config=1838509910978179
 vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@x101-join.outline-vpn.cloud:2096?path=/?ed=2048&security=tls&encryption=none&host=jp.vps.wengmail.link&type=ws&sni=jp.vps.wengmail.link#@V2RAYROZ+|+همه+اپراتور+ها
+vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.34.157.214:442?encryption=none&security=none&type=grpc#@awlix_ir
+vless://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?host=france24.com&type=tcp&security=none&encryption=none&headerType=http#@vmesskhodam
+vless://d7807075-738b-4032-8124-f11eb88dd097@best1.bestshop10.ir:16072?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@V2rayNG3

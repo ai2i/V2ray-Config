@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a7a60671-ab3f-4293-81d8-0f1d563b56eb@Www.speedtest.net:2095?type=httpupgrade&host=Fi1.vipmehspd.ir.&path=/@FREE_VPN02@FREE_VPN02@FREE_VPN02&security=none#Telegram:@FREE_VPN02
-vless://a7c9e1f3-7b8c-9d0e-1f2a-3b4c5d6e7f8a@185.199.229.121:443?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Filter_breaker | Germany
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.90.54.161:443?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=a4844ba7#@G0Dv2ray
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.90.54.161:443?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=a4844ba7#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
 vless://a80274e2-ff42-48b7-9817-41a5b56e0c72@Networknim.cam:34927?fragment=&security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?security=none&encryption=none&headerType=http&fp=chrome&type=tcp#@V2RAY_VMESS_free
@@ -503,3 +500,6 @@ vless://ba33b115-72b0-41a5-9220-2a2c4ff65d3d@172.66.40.99:8080?path=/telegram-CO
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@151.101.3.8:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@speedtest.net:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#@melov2ray🇩🇪
+vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=/olem/ws?ed=1024#@melov2ray🇫🇮
+vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#@melov2ray🇩🇪
+vless://ba46706a-9ff3-4cd6-ab89-e54f6f8ece10@2.188.227.134:2070?type=tcp&security=none#@bolbolvpn 👈 چنل ما
