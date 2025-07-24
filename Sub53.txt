@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmb0tlcURPVjlOQ2lETU1XVGlET29R@62.60.216.61:1080#✅@v2ray_configs_pools
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHBDakxLVWF1RGlPclBTSWt5bUV0@81.19.141.45:443#✅@v2ray_configs_pools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpseVc0THVEV0pnSERBbkMzWkRadHNW@81.19.141.45:443#✅@v2ray_configs_pools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@CaptalVpn🏴‍☠️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#Telegram@ConfingV2RaayNG
@@ -501,5 +503,3 @@ vless://e7bd4304-cc14-428e-9a50-6931cce37665@151.101.192.155:80?security=none&ty
 vless://e902ef3f-118c-45dd-b093-02833846434e@172.67.191.189:2096?path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&security=tls&encryption=none&host=eiiim.danesh-bonyan.Store&type=ws&sni=J0in-Te1egram-eiiim.danesh-bonyan.Store#🔗 Telegram : @Viturey 🔐
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=#/Join---v2ray_configs_pools?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#✅@v2ray_configs_pools
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#✅@v2ray_configs_pools
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#✅@v2ray_configs_pools
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🦤@AblNet7🐔

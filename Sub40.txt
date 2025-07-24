@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+hysteria2://0151af46-04a6-42da-a09c-c5940c57186b@nexiadg.688997.xyz:20557/?insecure=1&sni=nexiadg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%BE%B7%E5%9B%BD
+
 hysteria2://0151af46-04a6-42da-a09c-c5940c57186b@nexiaels.688997.xyz:20757/?insecure=1&sni=nexiaels.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E4%BF%84%E7%BD%97%E6%96%AF
 
 hysteria2://0151af46-04a6-42da-a09c-c5940c57186b@nexiahg.688997.xyz:20357/?insecure=1&sni=nexiahg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E9%9F%A9%E5%9B%BD
@@ -501,5 +503,3 @@ ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@80.92.204.106:9097#%F0%9F%87%A9%F0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#%F0%9F%87%B7%F0%9F%87%B8RS-194.71.126.31-0268
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.119.47-0266
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#%F0%9F%87%A8%F0%9F%87%B4CO-154.223.16.212-0276
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.152-0275
-ssr://MTUwLjEwNy40Ni4yMTo4MDgzOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6YVVaeGJucFRjMk5PLz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcmZDZmg3QklTeTB4TlRBdU1UQTNMalEyTGpJeExUQXlPVEElM0QmcHJvdG9wYXJhbT0=

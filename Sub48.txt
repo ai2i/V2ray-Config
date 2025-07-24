@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?path=/&security=none&encryption=none&type=ws#t.me/entryNET/config=1837995837683046
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.26:8880/?type=ws&encryption=none&flow=&host=sk.laoyoutiao.link&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560#Telegram:@config_proxy 🔥
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.26:8880?type=ws&encryption=none&flow=&host=sk.laoyoutiao.link&path=/Telegram🇨🇳+@MxlShare+@WangCai2+/?ed=2560#Telegram:@config_proxy 🔥
 vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?security=reality&encryption=none&pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a31a8d04622560#Telegram:@config_proxy 🔥
 vless://fcb53fa5-93e7-4599-ad2b-0da49a3b8857@hibbb.fast.hosting-ip.com:80/?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=spuull.global.ssl.fastly.net&type=xhttp#Telegram:@config_proxy 🔥
@@ -501,5 +503,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.185.161.156:8880?allowInsecure=
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.229.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#US_speednode_0139
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@159.112.235.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0140
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@195.13.55.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0141
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@104.129.167.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0142
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.230.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/Telegram🇨🇳تعداد#US_speednode_0144
