@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.193:8880?allowInsecure=1&sni=kjgx.laoyoutiao.link&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram@WangCai2#GB_speednode_0133
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.104:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#GB_speednode_0134
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.13:8880?allowInsecure=0&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#GB_speednode_0135
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.162:8880?allowInsecure=1&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramğŸ‡¨ğŸ‡³#GB_speednode_0136
@@ -503,3 +502,4 @@ hysteria2://yoP8tOtEhMTSBUPY9LwnHABvFE@18.136.211.127:14933?security=tls&insecur
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206K2Q5allMTHBRRUd0N3dCT2wrV0VlMngzRGJqSHFlbTJoUEZ4ajlWL0xqYz06emNCQkVJSjJuQTNBWGFhMEZRc0FiNUhGTlBTQWZzY0MxOWs2aTFJY0RSVT1ANjUuMTA5LjIwMy4yMDY6MzgwMzY=#King_v2raay-code22
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206R1dNYjRRcEcrbzJkeUc3UU96aS9sYXpqOHY1RTFvV2lWTC9UM0NMSFU0ST06NUxBU0wwa3pQdHo4VW1KbWVoK1NrekpvL1NQdDRhTkMrN01GbnRjSVc1RT0=@80.209.239.158:53755#🇱🇹[Telegram:Vpn
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RnlHNkVsam9WZUR5QzZ2VUcxdUxqekQxcmtnWnM0NEd5RDVZNXNoSTY2ND06VDVNWElGazdYUCswaW9GOUJaci9TTjVVTjNJTnRoQ0hBNEFvUUk0UXpRMD0=@91.107.242.241:10145#@ev2rayy
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RnlHNkVsam9WZUR5QzZ2VUcxdUxqekQxcmtnWnM0NEd5RDVZNXNoSTY2ND06VDVNWElGazdYUCswaW9GOUJaci9TTjVVTjNJTnRoQ0hBNEFvUUk0UXpRMD0=@91.107.242.241:10147#@ev2rayy
