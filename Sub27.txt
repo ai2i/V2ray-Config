@@ -3,52 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-au-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-au-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-ca-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-ca-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-de-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-de-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-fr-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-fr-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-gb-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-gb-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-ie-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-ie-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-in-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-in-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-jp-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-jp-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-se-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%B8%F0%9F%87%AA%20%E7%91%9E%E5%85%B8%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-se-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%B8%F0%9F%87%AA%20%E7%91%9E%E5%85%B8%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-sg-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-sg-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
-
-
-
-
-
-
-
 
 
 
@@ -86,7 +40,7 @@ hysteria2://5d28b886-c97e-48bc-b742-488b468d7acb@nexiarb.688997.xyz:20257/?insec
 
 hysteria2://5d28b886-c97e-48bc-b742-488b468d7acb@nexiateq.688997.xyz:20957/?insecure=1&sni=nexiateq.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%9C%9F%E8%80%B3%E5%85%B6
 
-hysteria2://5d28b886-c97e-48bc-b742-488b468d7acb@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A922.26%20MB
+hysteria2://5d28b886-c97e-48bc-b742-488b468d7acb@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A0
 
 hysteria2://5d28b886-c97e-48bc-b742-488b468d7acb@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-18
 
@@ -118,7 +72,7 @@ hysteria2://7e5e92b7-40ef-4438-85e1-e47f2f06024d@nexiarb.688997.xyz:20257/?insec
 
 hysteria2://7e5e92b7-40ef-4438-85e1-e47f2f06024d@nexiateq.688997.xyz:20957/?insecure=1&sni=nexiateq.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%9C%9F%E8%80%B3%E5%85%B6
 
-hysteria2://7e5e92b7-40ef-4438-85e1-e47f2f06024d@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A37.76%20GB
+hysteria2://7e5e92b7-40ef-4438-85e1-e47f2f06024d@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A34.81%20GB
 
 hysteria2://7e5e92b7-40ef-4438-85e1-e47f2f06024d@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-16
 
@@ -193,7 +147,7 @@ hysteria2://b7cdbd83-5325-4e3d-bf30-bc01179e5db5@nexiarb.688997.xyz:20257/?insec
 
 hysteria2://b7cdbd83-5325-4e3d-bf30-bc01179e5db5@nexiateq.688997.xyz:20957/?insecure=1&sni=nexiateq.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%9C%9F%E8%80%B3%E5%85%B6
 
-hysteria2://b7cdbd83-5325-4e3d-bf30-bc01179e5db5@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A70.56%20GB
+hysteria2://b7cdbd83-5325-4e3d-bf30-bc01179e5db5@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A68.5%20GB
 
 hysteria2://b7cdbd83-5325-4e3d-bf30-bc01179e5db5@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-17
 
@@ -503,3 +457,49 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49
 vmess://ewogICAgImFkZCI6ICI1MjdjYjIuODI3YTRjMzkuc2hvcCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInNnMDJzLjgyN2E0YzM5LnNob3AiLAogICAgImlkIjogIjk1Mjc5N2I2LTIxYTAtNGU2Ni05MjM5LTMwZWY1YzBlZmNkZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE5LjQxLjE3Ni0wMjczIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.148.178:443#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.148.178-1808
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#%F0%9F%87%A8%F0%9F%87%A6CA-142.4.216.225-0296
+ss://YWVzLTI1Ni1nY206YXRqZ3NKWG1jdg==@103.15.91.171:52327#%F0%9F%87%BB%F0%9F%87%B3VN-103.15.91.171-0272
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%F0%9F%87%B7%F0%9F%87%B4RO-185.126.237.38-4957
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#%F0%9F%87%BB%F0%9F%87%B3VN-103.163.218.2-0276
+vmess://ewogICAgImFkZCI6ICI0NS4xMzYuMjQ1LjE3NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYmJhMTVmMzUtZjE2Zi00YjAzLWE1MGUtZjg2NGQ4N2YyNmM5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDI1MDEzLAogICAgInBzIjogIvCfh7fwn4e6UlUtNDUuMTM2LjI0NS4xNzctMDUzOSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#%F0%9F%87%A9%F0%9F%87%AADE-185.177.229.245-0278
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#%F0%9F%87%AA%F0%9F%87%B8ES-45.154.206.192-0280
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#%F0%9F%87%AB%F0%9F%87%B7FR-77.105.166.12-4844
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#%F0%9F%87%BB%F0%9F%87%B3VN-103.163.218.2-4878
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%F0%9F%87%B5%F0%9F%87%B1PL-92.118.205.228-0321
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.202-0341
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#%F0%9F%87%B9%F0%9F%87%B7TR-62.133.63.212-4845
+ss://YWVzLTI1Ni1nY206Tml6bkx2b0l1eQ==@220.124.31.130:19378#%F0%9F%87%B0%F0%9F%87%B7KR-220.124.31.130-0292
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%A8%F0%9F%87%ADCH-204.136.10.115-0279
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0282
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.165.233.93:989#%F0%9F%87%B5%F0%9F%87%BEPY-38.165.233.93-0284
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#%F0%9F%87%AC%F0%9F%87%A7GB-46.226.163.225-0344
+ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.18-4998
+vmess://ewogICAgImFkZCI6ICI1MS43OS4xMDIuMjUzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh6jwn4emQ0EtNTEuNzkuMTAyLjI1My0wOTA3IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vmess://ewogICAgImFkZCI6ICI0NS4xMzYuMjQ1LjE3NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMTJjMTczOWItZTNiMC00ZDMyLTg0NGYtMmEwNDlhYWNhY2RlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIyMDgxLAogICAgInBzIjogIvCfh7fwn4e6UlUtNDUuMTM2LjI0NS4xNzctMDkzOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICIyLjE4OC4yMTkuNDMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImIyZTM4NjIxLTAzNWItNDNmOC04NGE1LWU5MjE2MDc2MmZjMyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4NDQzLAogICAgInBzIjogIvCfh67wn4e3SVItMi4xODguMjE5LjQzLTAyODciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.18-4890
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.18-4892
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@80.92.204.106:9025#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-4946
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.69-0339
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0290
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@80.92.204.106:9010#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-4899
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.119.47-0298
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-0338
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.168:989#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.168-4826
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.251-0316
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@80.92.204.106:9000#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-0305
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#%F0%9F%87%B7%F0%9F%87%B8RS-194.71.126.31-0289
+ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@80.92.204.106:9097#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-4943
+ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@80.92.204.106:9046#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-4944
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#%F0%9F%87%B3%F0%9F%87%B1NL-51.15.23.63-0283
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%F0%9F%87%B5%F0%9F%87%B7PR-185.47.255.22-0308
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#%F0%9F%87%B9%F0%9F%87%B7TR-62.133.63.212-0307
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@80.92.204.106:9037#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-0295
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0300
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#%F0%9F%87%B2%F0%9F%87%B0MK-46.183.185.37-0302
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.134.57:443#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.134.57-0660
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#%F0%9F%87%A6%F0%9F%87%B9AT-95.163.176.37-0288
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#%F0%9F%87%B7%F0%9F%87%BARU-185.126.239.250-0318
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-0303
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#%F0%9F%87%BB%F0%9F%87%B3VN-160.19.78.75-1843
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#%F0%9F%87%A9%F0%9F%87%AADE-147.45.178.200-0918
