@@ -380,7 +380,6 @@ vless://7fa08b3d-86d8-4b14-92b3-4c56a83f027d@viop.fast.hosting-ip.com:80?mode=au
 vless://7fb1a822-bd72-4a27-b987-89a4dd398142@188.245.167.113:465?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
 vless://7fbf5b8-1a92-4fef-804a-a88069244000@91.107.180.100:443?type=grpc&serviceName=@SobyV2ray&authority=&security=reality&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&sni=zula.ir&sid=f3&spx=/#SOB!X SHOP 🚀-@SobyV2ray
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.221.162.239:2222?security=none&type=tcp#Telegram:@config_proxy 🔥
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.134.91.31:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#Telegram:@config_proxy 🔥
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.149.196.130:2222?security=none&type=tcp#Telegram:@config_proxy 🔥
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.186.15.180:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#Telegram:@config_proxy 🔥
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv4.cloudjetm.com:2222?security=none&encryption=none&headerType=none&type=tcp#🌟Telegram:@Asak_Vpn
@@ -503,3 +502,4 @@ vless://8353df77-8e39-426f-ac44-bb12ae192f99@PARMIS.CROCODILESERVER.IR:443?secur
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@147.78.140.159:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo&path=/&fp=chrome#@Filter_breaker | Bulgaria
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.185:2198?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=/&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws @Confing_chanel
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=/&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#@CanfigVip+🍕
