@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.222.98:8880?path=/uLF6HXZ7986oF7Yg?ed=2560&security=none&alpn=http/1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=chrome&type=ws&sni=VngSupply.Ip-DdNS.com#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.222.98:8880?security=tls&sni=VngSupply.Ip-DdNS.com&alpn=http/1.1&fp=chrome&type=ws&path=/uLF6HXZ7986oF7Yg?ed&host=vngsupply.ip-ddns.com&packetEncoding=xudp&encryption=none#@NetAccount
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.248.63:443?path=/ycqlKbi40f2kVjZS?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=chrome&type=ws&sni=VNGsUppLY.IP-ddnS.COm#🌈انواع کانفیگ های رایگان در تلگرام : Viturey@
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.50.105:443?path=/ycqlKbi40f2kVjZS?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=chrome&type=ws&sni=VNGsUppLY.IP-ddnS.COm#🌈انواع کانفیگ های رایگان در تلگرام : Viturey@
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?encryption=none&security=none&type=ws&host=vngsupply.ip-ddns.com&path=/fgvtHUpS6R8Rv8s5?ed=2560#@Daily_Configs
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?encryption=none&security=none&type=ws&host=vngsupply.ip-ddns.com&path=/fgvtHUpS6R8Rv8s5?ed=2560#✅ @vistav2ray  👈👈کانال ما
@@ -179,6 +176,7 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9O
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2&security=none&encryption=none&host=vngsupplY.IP-DdnS.com&type=ws#🔥𝗳𝗿𝗲𝗲 𝗰𝗼𝗻𝗳𝗶𝗴: @𝗮𝘇𝗮𝗱𝗶𝗻𝗲𝘁𝟮𝟱
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@HIBYEVPNN
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@HiByeVPNN
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@SaghiVpnX[🇨🇦]
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@v2rayvpn2
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram ID: @Viturey 🇨🇦
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#[🇵🇱]ae_proxy
@@ -503,3 +501,5 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZ
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram : @Confingman🌂🎴
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram : @Confingman🚸3️⃣
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram : @V2RAYROZZZ 2
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram id : @Viturey
