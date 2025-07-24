@@ -473,9 +473,15 @@ hysteria2://b5c1b004cd051ef2f6ffedda2e47d538@206.71.158.40:33331?sni=jnir-1.pich
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?security=tls&insecure=1&sni=www.bing.com#Telegram@vmessorg
 hysteria2://dbe172973c29534833c6fae3d706d9e7@91.217.119.51:443/?sni=www.google.com&obfs=salamander&obfs-password=VpnHubMarKeT&insecure=1#🇹🇷¹ @VpnHubMarKeT
 hysteria2://dbe172973c29534833c6fae3d706d9e7@91.217.119.51:443/?sni=www.google.com&obfs=salamander&obfs-password=VpnHubMarKeT&insecure=1#🇹🇷¹ @VpnHubMarKeT  @VpnHubMarKeT ⚡️
+hysteria2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@caca.yinheyz.cfd:33756?protocol=udp&insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇨🇦 @Filter_breaker | CA-مونترال
+hysteria2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@frfr.yinheyz.cfd:33426?protocol=udp&insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇫🇷 @Filter_breaker | FR-پاریس
+hysteria2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@gbgb.yinheyz.cfd:33996?protocol=udp&insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇬🇧 @Filter_breaker | GB-لندن
+hysteria2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@inin.yinheyz.cfd:33756?protocol=udp&insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇮🇳 @Filter_breaker | IN-بنگالور
+hysteria2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@nlnl.yinheyz.cfd:33856?protocol=udp&insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇳🇱 @Filter_breaker | NL-آمستردام
+hysteria2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@sgsg.yinheyz.cfd:33686?protocol=udp&insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇸🇬 @Filter_breaker | SG-سنگاپور
+hysteria2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@usus.yinheyz.cfd:33856?protocol=udp&insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇺🇸 @Filter_breaker | US-نیویورک
 hysteria2://f39a270d-c46e-4a39-a998-b33660291e7e@nexiadg.688997.xyz:20557?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=nexiadg.688997.xyz#آلمان 🇩🇪 @V2xay
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?security=tls&obfs=salamander&obfs-password=dbc688df29e582d3&insecure=1&sni=www.google.com#@V2rayNG3
-hysteria2://k1sCJ4SJQj@p1.3dfigures.ir:501?security=tls&obfs=salamander&obfs-password=Djxsjduwue&insecure=1#آلمان 🇩🇪 @V2xay
 hysteria2://user10.thisismeSUperkl19201@shade.zone1.center:443?security=tls&obfs=salamander&obfs-password=mkv_SEfr-salamdash&insecure=0#(@vmesskhodam)چنلمون
 hysteria2://user12.myserverSEFR097@knock.zone1.center:443?security=tls&obfs=salamander&obfs-password=The_Sefr-salamdash&insecure=0#آلمان 🇩🇪 @V2xay
 hysteria2://xKiDlrNd3g@138.199.174.25:8080/?sni=www.speedtest.net&obfs=salamander&obfs-password=765894239048dsjkh&insecure=1#@v2ray_market11
@@ -497,9 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0VFdoNDdOTXZGN1N5WDZyUlVURkQ0@31.210.43.145:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#🇻🇪𝚙𝚒𝚗𝚐: 205.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080#@V2RAY_VMESS_free
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#@EXPRESSVPN_420
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#@V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#@awlix_ir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#@HiByeVPNN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#کانال+ما+در+تلگرام+@Asak_Vpn+💛
