@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
-vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://7804e50e-6563-4016-a1e7-58b62f138aa2@n2vpn-helper.projectis.ir:2083?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی
 vless://7814883a-ff1c-42d5-9da6-45bec1f1caa4@199.34.228.178:2095?path=/?ed=2095&security=none&encryption=none&host=9943580d7b7ee2dd.9943580d7b7ee2dd.mObIleGGatte.Ir&type=httpupgrade#⚜️Telegram: @IP_CF
 vless://78163b85-0a24-407d-aa9c-72a63e6d9843@99823232.webnama.com.tr:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@NETMelliAnti
@@ -27,7 +25,6 @@ vless://78fd6adb-e449-4ee3-f28e-b996662c53e5@tify-binex-join.espikernajafi.ir:20
 vless://7923ab80-64bf-4abe-aedc-70e270a5b37a@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#☁️@confing_chanel
 vless://793cfe55-44d8-49be-a088-20474d6791d7@79.132.192.72:41343?path=/&security=none&encryption=none&type=ws#@V2rayNG3
 vless://79446fec-4083-488a-bef7-903545cf585d@68.183.155.178:443?security=reality&encryption=none&pbk=6cZDQMvhZhWTGiY-SwGwqQwfqKh9jrNtx1ZtwN6_rQA&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=692577f2f1e7#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
-vless://795cb42f-3bb7-40ad-a7ce-8256ecefc3bd@65.109.219.163:2088?mode=gun&security=reality&encryption=none&pbk=Bcs7ta0FcUPw0_shHjnQY0Vdle4nbg5smmKM-nuteCc&fp=chrome&spx=/&type=grpc&sni=microsoft.com&sid=0b10e3#Telegram:@config_proxy 🔥
 vless://795cb42f-3bb7-40ad-a7ce-8256ecefc3bd@65.109.219.163:8087?mode=gun&security=reality&encryption=none&pbk=Bcs7ta0FcUPw0_shHjnQY0Vdle4nbg5smmKM-nuteCc&fp=chrome&spx=/&type=grpc&sni=microsoft.com&sid=0b10e3#@Cook_Vpn_همراه اول پرسرعت
 vless://79823cd0-bfd9-4782-b2bd-29423c8d7893@104.18.26.90:2052/?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=&encryption=none&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&type=httpupgrade#[⚡]ae_proxy
 vless://79823cd0-bfd9-4782-b2bd-29423c8d7893@104.18.26.90:2052?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=&encryption=none&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&type=httpupgrade#@bored_vpn
@@ -68,6 +65,7 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@188.42.89.145:443?path=/@Rayan_Conf
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@188.42.89.145:443?path=/@Rayan_Configfp&security=tls&encryption=none&host=rayan-12.leila.dpdns.org&type=ws&sni=rAyAn-12.LeIlA.DpDnS.OrG#@HiByeVPNN👈❤️‍🔥🌐
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@fonts.net:443?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=rayan-12.leila.dpdns.org&fp=chrome&type=ws&sni=rAyAn-12.LeIlA.DpDnS.OrG#Telegram:@config_proxy 🔥
 vless://7a8d449f-8f00-4b7b-8c87-f44af9898a57@167.99.216.10:45500?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون ✨
+vless://7a8d449f-8f00-4b7b-8c87-f44af9898a57@167.99.216.10:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram : @V2RAYROZZZ
 vless://7ab49074-a703-4c12-8047-57e44d34da50@zula.ir:80?path=/iran.ir?ed=2048&security=none&encryption=none&host=U1s.sportxshop.site.&type=ws#@V2rayNG3
 vless://7ab96eee-eec9-4ab1-a3e0-94cf28f4f321@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM🇩🇪
 vless://7ad891be-5fad-4cca-b6d6-d67a3a881590@meli_proxyy.vip-plan.org:29947?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
@@ -109,6 +107,10 @@ vless://7b93b058-f902-48a1-90a0-918ab81fb9fc@94.232.168.16:30501?security=none&e
 vless://7b93b058-f902-48a1-90a0-918ab81fb9fc@94.232.168.16:30501?security=none&encryption=none&headerType=none&type=tcp#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
 vless://7babd487-be4a-4392-b28e-0bbed53c82cd@185.226.119.16:8080?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@v2ray313 کانالمون 🥹
 vless://7babd487-be4a-4392-b28e-0bbed53c82cd@188.121.121.89:8080?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@v2ray313 کانالمون 🤡
+vless://7babd487-be4a-4392-b28e-0bbed53c82cd@fl-vip.digitalldns.net:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#Telegram:@config_proxy 🔥
+vless://7babd487-be4a-4392-b28e-0bbed53c82cd@fl-vip.digitalldns.net:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#t.me/entryNET/config=1838588428351885
+vless://7badc6bf-e902-4595-b4e8-448f2c144f31@91.107.180.100:443?mode=gun&security=reality&encryption=none&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=/&type=grpc&serviceName=@SobyV2ray&sni=zula.ir&sid=f3#Telegram : @V2RAYROZZ
+vless://7badc6bf-e902-4595-b4e8-448f2c144f31@91.107.180.100:443?mode=gun&security=reality&encryption=none&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=/&type=grpc&serviceName=@SobyV2ray&sni=zula.ir&sid=f3#Telegram : @V2RAYROZZZ100gig ریکشن نزنی قطع
 vless://7bb9c746-42f0-48ad-b404-1236f0c44042@65.109.208.147:30652?type=tcp&path=/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray&host=radar.arvancloud.ir&headerType=http&security=none#@BanV2ray🇫🇮
 vless://7bd338e7-703e-4310-9871-78393a40d483@193.238.153.70:11044?security=none&encryption=none&headerType=none&type=tcp#IRAN 252 (@Outline_Vpn) free
 vless://7bd61408-ba77-4f18-8c78-41da6b4d90dc@all2.golnar-clod.ir:8880?path=/?ed=80&security=none&encryption=none&host=top.golnar-clod.ir&type=httpupgrade#Telegram : @AZARBAYJAB1MCI
@@ -195,7 +197,6 @@ vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&enc
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#Telegram+@vmessorg
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=http&type=tcp#Bya To @IRAN_V2RAY1
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&headerType=http&host=bmw.com&path=/#Config🇩🇪@Do_itforyou
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&fp=chrome&type=tcp#@V2RAY_VMESS_free
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&type=tcp#@v2ray313 کانالمون 😄
@@ -294,7 +295,6 @@ vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@nl.cosmonet.online:443?security=rea
 vless://7f9f019f-0471-4f8f-bffb-13bb7dfce2c3@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://7fa08b3d-86d8-4b14-92b3-4c56a83f027d@viop.fast.hosting-ip.com:80?mode=auto&path=/Amirrezagol?ed=2560&security=none&encryption=none&host=amirrezagol.global.ssl.fastly.net&type=xhttp#@Filter_breaker-US
 vless://7fb1a822-bd72-4a27-b987-89a4dd398142@188.245.167.113:465?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
-vless://7fbf5b8-1a92-4fef-804a-a88069244000@91.107.180.100:443?type=grpc&serviceName=@SobyV2ray&authority=&security=reality&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&sni=zula.ir&sid=f3&spx=/#SOB!X SHOP 🚀-@SobyV2ray
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.188.211.118:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#Telegram:@config_proxy 🔥
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.243.24.130:2222?security=none&type=tcp#Telegram:@config_proxy 🔥
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.190.55.177:2222?security=none&type=tcp#Telegram:@config_proxy 🔥
@@ -384,7 +384,7 @@ vless://81ed7265-be10-498b-c96f-46789e81ac88@fahra-isbsus-iwbsha.haratipulan.ir:
 vless://8222f4cb-187b-42fa-a965-a4b84edbc15e@cdns.doon.eu.org:2095?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国09 付费推荐：https://dafei.de
 vless://8222f4cb-187b-42fa-a965-a4b84edbc15e@csgo.com:2095?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国07 付费推荐：https://dafei.de
 vless://8222f4cb-187b-42fa-a965-a4b84edbc15e@ssrsub.cloudflare.182682.xyz:2095?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国08 付费推荐：https://dafei.de
-vless://822d89bc-77b4-4f2b-a2c8-d6d65cf68364@217.114.40.8:6400?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#unilmit-t7ek518o
+vless://822d89bc-77b4-4f2b-a2c8-d6d65cf68364@217.114.40.1:6400?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#unilmit-t7ek518o
 vless://823df8b2-2809-480f-e4e4-5dc6439e08eb@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
 vless://826bf006-c9c5-46fe-b0d9-8c459c814be7@77.110.103.21:50810?type=xhttp&mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=reality&fp=chrome&sni=zhaket.com&pbk=MCx8u0S8L-ugMhcNC-u2WteqvI_oaM9_0-5jP6atIx4&sid=19dc3c81&spx=/#🇳🇱@Shh_Proxy | All¹
 vless://829619da-d88e-4c12-acd5-4172f8145d22@62.60.216.61:8443?security=reality&encryption=none&pbk=Itg7rBe40jt_FLzZ7gmbuApmnkDDQDxa2E1gZRxLfgk&headerType=none&fp=chrome&type=tcp&sni=www.cdnjs.cloudflare.com&sid=947ba02be8959504#@V2RAY_VMESS_free
