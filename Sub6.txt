@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://DBMhoSEBXa@join-dailyconfigs.resurrection-time.sbs:56807?mode=gun&security=reality&pbk=ZDqMqclXIFjaEvYbYCElqQXLgglpsP06zKTpHrq2EQ4&fp=chrome&spx=/&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060&sni=fafait.net&sid=fe3a2e89#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
+trojan://DHvyBZAYmM@x5-france-scaleway-v2.devefun.org:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x5-france-scaleway-v2.devefun.org#@Selinc
+trojan://DHvyBZAYmM@x5-france-scaleway-v2.devefun.org:1935?sni=x5-france-scaleway-v2.devefun.org&fp=chrome&type=tcp&security=tls&headerType=none#@shadoowvpnn🇫🇷
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#@V2rayNG3
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=chrome&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#@V2RAY_VMESS_free
 trojan://K7N8flfyok@www.chatgameone.ir:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@icv2ray
@@ -500,6 +503,3 @@ vless://07af5265-c931-4b5a-a3e1-25de5c5b1fbf@ems.irimcs.org:2053?type=grpc&servi
 vless://07b18ab5-ad4f-428d-b361-16a46e1b7253@panel-finland-2.subcenter.net:2002?type=tcp&path=/&host=@HOOKVPN_cisco&headerType=http#Hookvpn-test-583664502252
 vless://07b804cf-beaf-4f8b-b664-5dc675636a78@217.114.40.8:6100?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@UCIRANIR - @pr_vpn #3
 vless://07b804cf-beaf-4f8b-b664-5dc675636a78@217.114.40.8:6100?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@meli_proxyy
-vless://07c60fed-a328-4952-bc39-51ff564d720d@join-dailyconfigs.resurrection-time.sbs:39840?mode=gun&security=reality&encryption=none&pbk=qzBVYXrYgRN2U6XXnT9UcPXMk9K61YgIOajyayn7GhY&fp=chrome&spx=/&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060&sni=openai.com&sid=63f2#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
-vless://07e4b0e8-32ab-4b3f-819a-2ebcb158d8a2@91.107.151.153:443?security=reality&encryption=none&pbk=doLJKYk2mlGk0_6djrQabvaZOV83Sco5EqeKkdklcgo&host=/BIA_CHANEL@JOKERRVPN&headerType=none&fp=chrome&spx=/Copy-az-chahnnel-JOKERRVPN&type=tcp&sni=tgju.org&sid=265a1f1e2e#@v2ray313 کانالمون 🤩
-vless://07eaf930-14df-4508-9ad3-d3aae5e10ab1@91.134.88.205:443?type=tcp&security=tls&sni=france.linceed.se#@EVAY_VPN🇩🇪
