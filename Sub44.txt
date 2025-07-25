@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+vless://106ec985-43f9-4999-b975-adcab5c57b5a@uk-2-rvp.medicaldream.ir:443?security=tls&sni=uk-2-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=uk-2-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
 vless://10a3530f-0dfc-4c09-87a6-511aad948cae@us-1-rvp.medicaldream.ir:443?security=tls&sni=us-1-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=us-1-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20US%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://1c75a8a4-e5fb-4406-8885-705c6a7f0fd4@se-1-cbt.medicaldream.ir:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=se-1-cbt.medicaldream.ir&encryption=none#Rayan%20-%20CBT%20-%20SE%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE4NS4xMjYuMjM5LjI1MDo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDE5My4yOS4xMzkuMjAyOjgwODA=#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.202-0200
 vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HufCfh7xUVy0xMTEuMjQ3LjQxLjM1LTA5ODEiLAogICJhZGQiOiAiaHl0dHR0ZXNndnZ4YjIuamtoa2dqLnh5eiIsCiAgInBvcnQiOiA4MCwKICAiaWQiOiAiZTE1YWMzY2UtNmExYS00MTJhLWFhMDctNGJjNTJkYWE1OTM1IiwKICAiYWlkIjogMCwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogbnVsbCwKICAiaG9zdCI6ICJmaWxlLmRpbmd0YWxrLmNvbSIsCiAgInBhdGgiOiAiL21hcmtldC9zZz9lZD01MTIiLAogICJ0bHMiOiBmYWxzZSwKICAic25pIjogIiIKfQ==
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0A4OS40Ni4yMzguMzU6OTg5#%F0%9F%87%B1%F0%9F%87%BBLV-89.46.238.35-0320
-vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HufCfh7xUVy0xMTEuMjQ3LjQxLjM1LTA5ODMiLAogICJhZGQiOiAidHdqeGxubm9sanhjMi5qa2hrZ2oueHl6IiwKICAicG9ydCI6IDgwLAogICJpZCI6ICJlMTVhYzNjZS02YTFhLTQxMmEtYWEwNy00YmM1MmRhYTU5MzUiLAogICJhaWQiOiAwLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiBudWxsLAogICJob3N0IjogImZpbGUuZGluZ3RhbGsuY29tIiwKICAicGF0aCI6ICIvbWFya2V0L3NnP2VkPTUxMiIsCiAgInRscyI6IGZhbHNlLAogICJzbmkiOiAiIgp9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDIyMy4xNjUuNC4xNzM6OTkw#%F0%9F%87%B9%F0%9F%87%BCTW-223.165.4.173-0336

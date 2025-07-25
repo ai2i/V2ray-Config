@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://86f90371-59d6-44e2-ab00-94c5ab16d2bc@192.109.200.254:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=NPYS2vq3gQlU2h9EzaL-_93PIEpHLEHDSo8eYWCjw3o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=torah.org&sid=8f64b0695b3b46de#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40icv2ray%20%7C%2010
+vless://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40info_2it_channel%20%7C%2010
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40ip_cf_config%20%7C%208
 vmess://eyJhZGQiOiJubC5kbnN6b25lLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MWQ3NTA1YS1kYWYyLTRiNzEtYTdiZS1lOGMzODE3Y2Q0NDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ1NTAwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyBGUiB8IFx1ZDgzZFx1ZGQzNCB8IHZtZXNzIHwgQG1vd2pwcm94eSB8IDUifQ
 trojan://telegram-id-privatevpns@18.192.190.191:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2ray_free_conf%20%7C%2018
@@ -501,5 +503,3 @@ vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=/&
 vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?path=/?ed&security=none&encryption=none&host=VAST-RAdIo.zuLAIR.oRG&type=ws#t.me/entryNET/config=1837920653983407
 vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?encryption=none&security=tls&sni=my.digikala.dynv6.net&type=ws&host=my.digikala.dynv6.net#Telegram : @Ezaccess1 Server : USA - 3
 vless://6bf993b8-328f-4d88-9c8e-71057b825d78@91.99.113.54:443/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#Telegram:@config_proxy 🔥
-vless://6f284683-f117-49a9-8091-a1099b4ccdf2@45.129.36.85:3500/?encryption=none&flow=&host=Atinad.ir&type=tcp&headerType=http#Telegram:@config_proxy 🔥
-vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443?path=/Tel-@V2ray_Alpha/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&fp=chrome&type=ws&sni=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev#t.me/entryNET/config=1837921473554294
