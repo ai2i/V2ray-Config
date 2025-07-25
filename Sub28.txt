@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#%3E%3E%40V2rayNG3%3A%3ANL
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AGB
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?encryption=none&security=none&sni=pqh28v5.waipdirect.shop&alpn=&type=grpc&host=pqh28v5.waipdirect.shop#%3E%3E%40DailyV2RY%3A%3AUS
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?encryption=none&security=none&sni=pqh25v7.waipdirect.shop&alpn=&type=grpc&host=pqh25v7.waipdirect.shop#%3E%3E%40DailyV2RY%3A%3AUS
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?type=grpc&security=&encryption=none#%3E%3E%40DailyV2RY%3A%3AUS
 vless://6ff4852a-de6e-423e-8561-3131e63120c6@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706545587.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706545587.amsterdam-prx-dnraaal.info&path=/wrvyqows#%3E%3E%40DailyV2RY%3A%3AGB
@@ -503,3 +500,6 @@ vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@ns1.cloudflare.com:443?security=tls
 
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.visa.com.br:443?security=tls&sni=RayAN-09.pAraStOo.DpdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-09.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
 
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.visaeurope.ch:443?security=tls&sni=rAyAn-08.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-08.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
+
+vless://51229b66-51c4-56c1-b0ea-01b98cb20721@45.82.246.106:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.82.246.106&encryption=none#Rayan%20-%20SSM%20-%20KR%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
