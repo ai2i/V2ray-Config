@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e701a013553059ba#@CanfigVip+🍕+|+VIP+⭐
-vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e701a013553059ba#@Selinc
-vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e701a013553059ba#@V2ray1_Ng
-vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e701a013553059ba#@meli_proxyy
-vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e701a013553059ba#@v2ray313 کانالمون ⚡
 vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e701a013553059ba#Bya To @Iran_V2ray1
 vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e701a013553059ba#Config VIP @iran_v2ray1
 vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e701a013553059ba#TELEGERAM : @PRUOXYI
@@ -45,6 +40,7 @@ vless://ad5e7710-15f4-4cb8-c3bd-302bb5540263@151.101.67.8:80?type=xhttp&path=/@X
 vless://ad87c8ac-09e8-4b52-89a8-0bcda34990f1@5.75.193.253:443?security=reality&encryption=none&pbk=CMB9AENkMsO9qHpxrdodZurjDEW4-l9ruDjsyZYzvVQ&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=journalofbigdata.springeropen.com&sid=f6#🇩🇪 | @External_Net
 vless://addbd8bc-dcf1-4a24-9eef-25639a32b47b@104.18.26.90:2053?path=/latest?ed=2560&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=lexi.ai351.com&fp=chrome&type=ws&sni=lexi.ai351.com#💯T.me/Asak_Vpn💯
 vless://adf0bd1b-ed5e-497f-b877-987fa9c430c2@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
+vless://adff06be-5a8e-4870-84ef-d8e5c8a6644f@151.101.3.8:80?path=ws/?ed=2048&security=none&encryption=none&host=welcomtofreeboarders.com&type=ws#🇫🇮 AzadMarz [ all net ]-JOIN  : @AzadMarz
 vless://ae2228d1-9b8f-4914-9e0a-68a115f8dbe1@174.138.13.224:15891?security=reality&encryption=none&pbk=4FNDHgDP2lnetuRioH6DsE9kMnDyhkJ2NHLMpZgyci0&headerType=none&fp=chrome&type=tcp&sni=ftp.debian.org&sid=10f1#@FILTERK0SH
 vless://ae45d38b-39fd-46b9-81b6-4ff25bc59e4e@216.22.5.102:443?mode=auto&path=/sdf&security=none&encryption=none&type=xhttp#@meli_proxyy
 vless://ae46b11f-d203-448c-bca7-dec72490a11e@iranvipen.1dlkimi.ir:248?security=&encryption=none&host=fast.com&headerType=http&type=tcp#@Capoit
@@ -204,6 +200,8 @@ vless://b28446a5-c6ba-4c53-af62-4a7d067d51fd@142.93.171.104:443?mode=auto&path=/
 vless://b28446a5-c6ba-4c53-af62-4a7d067d51fd@142.93.171.104:443?mode=auto&path=/dashboard?ed=2560&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&fp=chrome&type=xhttp&sni=refersion.com&sid=27e6b66aa77662fb#[🇩🇪] Germany 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 : @Volt_Network
 vless://b28446a5-c6ba-4c53-af62-4a7d067d51fd@142.93.171.104:443?mode=auto&path=/dashboard?ed=2560&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&fp=chrome&type=xhttp&sni=refersion.com&sid=27e6b66aa77662fb#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://b28446a5-c6ba-4c53-af62-4a7d067d51fd@142.93.171.104:443?security=reality&encryption=none&type=xhttp&path=/dashboard?ed=2560&sni=refersion.com&sid=27e6b66aa77662fb&fp=chrome&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&mode=auto&extra={  "xPaddingBytes" : "100-1000"}#Telegram:@king_v2raay
+vless://b28446a5-c6ba-4c53-af62-4a7d067d51fd@luna.postpapet.ir:8443?mode=auto&path=/dashboard?ed=2560&security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&fp=chrome&type=xhttp&sni=refersion.com&sid=27e6b66aa77662fb#@NETMelliAnti
+vless://b28446a5-c6ba-4c53-af62-4a7d067d51fd@luna.postpapet.ir:8443?mode=auto&path=/dashboard?ed=2560&security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&fp=chrome&type=xhttp&sni=refersion.com&sid=27e6b66aa77662fb#Telegram:@config_proxy 🔥
 vless://b28446a5-c6ba-4c53-af62-4a7d067d51fd@luna.postpapet.ir:8443?type=xhttp&mode=auto&path=/dashboard?ed=2560&security=reality&fp=chrome&sni=refersion.com&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#@SaghiVpnX[🇬🇧]
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.109.107:80?path=/?ed=2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=chrome&type=ws&sni=coco.mahmoodchitooz.dpdns.org#JOIN to @IRAN_V2RAY1
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=/?ed=2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=chrome&type=ws&sni=coco.mahmoodchitooz.dpdns.org#@CaV2ray ⚡️
@@ -503,3 +501,5 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&path=/xh
 vless://bbb3bbac-cbeb-42dc-edec-b92f51892ad8@185.209.21.36:14066?type=tcp&security=reality&pbk=TZJPEYvn09bJPo7jNiMJaSl-qYSJ2vgPMU1it_PwMH8&fp=chrome&sni=tgju.org&sid=&spx=/&flow=xtls-rprx-vision#@meli_proxyy
 vless://bbc62372-5e9e-4144-de1d-0bda3b9bd2be@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=/?ed=2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#@CaV2ray ⚡️
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=/?ed=2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#@bad_raqs'
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=/?ed=2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#@v2ray313 کانالمون 🥲

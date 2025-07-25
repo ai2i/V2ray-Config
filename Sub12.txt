@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=auto.tas-bazi.com&fp=chrome&type=xhttp&sni=auto.tas-bazi.com#@AblNet7 🇮🇷 نت ملی
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=auto.tas-bazi.com&fp=chrome&type=xhttp&sni=auto.tas-bazi.com#@vmesskhodam)تلگراممون
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=auto.tas-bazi.com&fp=chrome&type=xhttp&sni=auto.tas-bazi.com#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥:@EXPRESSVPN_420🏂²
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=fariba.tas-bazi.com&fp=chrome&type=xhttp&sni=fariba.tas-bazi.com#@AblNet7 🇮🇷 نت ملی
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=fariba.tas-bazi.com&fp=chrome&type=xhttp&sni=fariba.tas-bazi.com#🇩🇪@AZARBAYJAB1
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=lama.tas-bazi.com&fp=chrome&type=xhttp&sni=lama.tas-bazi.com#@AblNet7 🇮🇷 نت ملی
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=lama.tas-bazi.com&fp=chrome&type=xhttp&sni=lama.tas-bazi.com#🇩🇪@AZARBAYJAB1
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=mahsa.tas-bazi.com&fp=chrome&type=xhttp&sni=mahsa.tas-bazi.com#JOIN to @IRAN_V2RAY1
@@ -503,3 +498,8 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=/57
 vless://57dc6594-2553-4b56-bcd3-2de76b0e3dd9@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🟩 Telegram | @Green_WPN
 vless://5809653f-f6b7-4cbe-af23-8ff632d3de27@104.31.16.65:2087?type=grpc&serviceName=Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY&security=tls&fp=&alpn=h2,http/1.1&sni=xnxv2ray.mioRay.cfd#🇩🇪-CONFIG BY I @XNXV2RAY-Hamrahaval
 vless://5809653f-f6b7-4cbe-af23-8ff632d3de27@8.208.26.224:2087?type=grpc&serviceName=Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY&security=tls&fp=&alpn=h2,http/1.1&sni=xnxv2ray.mioRay.cfd#🇩🇪-CONFIG BY I @XNXV2RAY-irancell
+vless://5827b7dd-69bf-092f-8a29-bf5c34527bf4@Dl.fox-11-fox.com:677?security=none&type=tcp&headerType=http&path=/BL&host=uptvs.com#آلمان (2) 🇩🇪
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@135.84.79.177:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=ip.langmanshanxi.top&type=ws&sni=ip.langmanshanxi.top#🛒@v2rayngsupbot 🛡️@ai_duet
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@199.34.229.177:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=ip.langmanshanxi.top&type=ws&sni=Telegram-channel-WangCai2#🛒@v2rayngsupbot 🛡️@ai_duet
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.26.27.188:8880?path=/&security=none&encryption=none&host=ip.langmanshanxi.top&type=ws&sni=Telegram-channel-WangCai2#Telegram @v2rayng_fars
+vless://584bb6f2-aaf3-48a6-b154-b03238bb1e07@v2hich.fast.hosting-ip.com:80?path=/@SvnProBot?ed=2560&security=none&encryption=none&host=shad.ir&type=ws#@CaV2ray ⚡️
