@@ -10,6 +10,11 @@
 
 
 
+
+
+
+
+
 vless://032a21d1-140a-5f18-ac02-0e23b5b4650d@45.12.132.142:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.12.132.142&encryption=none#Rayan%20-%20SSM%20-%20HU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://032a21d1-140a-5f18-ac02-0e23b5b4650d@www.speedtest.net:443?security=tls&sni=hu-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=hu-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20HU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
@@ -498,8 +503,3 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#Telegram%3A%20%40v2node
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880/?mode=gun&security=none&encryption=none&type=grpc#✅@v2ray_configs_pools
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=&encryption=none&type=grpc#Telegram%3A%20%40v2node
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&security=none&type=ws&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443#%40Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTc2NzIxYS1lMzkwLTRkYmYtYjRmOS03MmMzZmViOTU5NGM%3D@45.76.180.205:31298#%F0%9F%91%89%20%40Hddify%20%7C%7C%20%DA%86%D9%86%D9%84%20%D9%87%D8%AF%DB%8C%D9%81%D8%A7%DB%8C%20%F0%9F%8D%84`
-vless://60882caa-4e74-42a2-be70-220755fc1551@digitalocean.com:443/?type=ws&encryption=none&flow=&host=rayan-olala.parvaneh.dpdns.org&path=%2F%3Fed%3D2560fp%3Dchrome&security=tls&sni=rayan-olala.parvaneh.dpdns.org#%F0%9F%8E%B544%40oneclickvpnkeys
-vless://60882caa-4e74-42a2-be70-220755fc1551@104.19.173.68:443?encryption=none&security=tls&sni=rayan-olala.parvaneh.dpdns.org&type=ws&host=rayan-olala.parvaneh.dpdns.org&path=%2F%3Fed%3D2560#%40Daily_Configs
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v6.waipdirect.shop:8880?encryption=none&security=none&sni=pqh24v6.waipdirect.shop&type=grpc#✅v2ray_configs_pools

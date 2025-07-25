@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&fp=chrome&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#@V2rayNG3
+vless://bd08e1b7-e20b-414b-abca-f40ed69b5253@78.141.196.65:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@v2ryngfree+سرچ+کن+بیا+تو+کانال
+vless://bd0cba05-561a-49ac-8fe0-b05ccef7a79d@151.101.3.8:80?type=ws&host=befreewithus.com&path=/&security=none#Channel:@BeFreeWithUs
+vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#@v2rayngsupbot💎
+vless://bd134ebe-650c-4bd6-a208-2463b226adb2@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷
 vless://bd18ae3f-2d45-4fa5-8f5f-b653983d785c@mci.itv2ray.shop:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ITv2ray&sni=tel.itv2ray.shop#Tel:+@ITv2ray-100G+MCI
 vless://bd18ae3f-2d45-4fa5-8f5f-b653983d787c@mci.itv2ray.shop:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ITv2ray&sni=tel.itv2ray.shop#Tel:+@ITv2ray-100G+MCI
 vless://bd33dca5-e673-4c02-a629-f7fa368e2333@5.161.151.225:6009?mode=auto&security=reality&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=cUB48wKXH2f7PNrZDtwt0UQ9uf5sMIXA5W_IA8twtGc&fp=chrome&spx=/&type=xhttp&sni=adtarget.com.tr&sid=dc5db021ae2038a9#🇺🇸 | @asrnovin_ir
@@ -498,8 +503,3 @@ vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?security=tls&sni
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/?ed=2560&host=vless8-ekh.pages.dev&fp=chrome&sni=vless8-ekh.pages.dev&alpn=h3#🇧🇪|@V2BUX
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=telegram-channel-@Do_itforyoutelegram-channel-@Do_itforyoutelegram-channel-@Do_itforyoutelegram-channel-@Do_itforyou&host=vless8-ekh.pages.dev&fp=chrome&sni=vless8-ekh.pages.dev&alpn=h3#🇩🇪|@V2BUX
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.16.253.83:443?path=/&security=tls&alpn=h3&encryption=none&host=vless7-7a1.pages.dev&type=ws&sni=vless7-7a1.pages.dev#@Viturey 🌱
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?path=/&security=tls&alpn=h3&encryption=none&host=vless10-9sc.pages.dev&fp=chrome&type=ws&sni=vless10-9sc.pages.dev#Telegram : @Alfa_v2ray_ng 🔥
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?security=tls&alpn=h3&encryption=none&host=vless10-9sc.pages.dev&fp=chrome&type=ws&sni=vless10-9sc.pages.dev#@G0DV2RAY
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?security=tls&alpn=h3&encryption=none&host=vless10-9sc.pages.dev&fp=chrome&type=ws&sni=vless10-9sc.pages.dev#IRAN 340 (@Cook_Vpn) free
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?security=tls&alpn=h3&encryption=none&host=vless10-9sc.pages.dev&fp=chrome&type=ws&sni=vless10-9sc.pages.dev#IRAN 340 (@Outline_Vpn) free
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.19.144.212:443?type=ws&security=tls&path=/Tel-@V2ray_Alpha&host=111-aw3.pages.dev&sni=111-aw3.pages.dev#🇲🇨|@V2BUX
