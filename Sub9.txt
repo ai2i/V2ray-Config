@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.137.85:80?path=/?ed=2560&security=none&encryption=none&host=fggerlad.gerald81.dpdns.org&fp=chrome&type=ws&sni=fggerlad.gerald81.dpdns.org#@G0Dv2ray
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.137.85:80?path=/?ed=2560&security=none&encryption=none&host=fggerlad.gerald81.dpdns.org&fp=chrome&type=ws&sni=fggerlad.gerald81.dpdns.org#JOIN to @IRAN_V2RAY1
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.67.226.132:80?path=/?ed=2560&security=none&encryption=none&host=fggerlad.gerald81.dpdns.org&type=ws#@CaV2ray ⚡️
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/@ShadowProxy66-?ed=2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#@AZARBAYJAB1 🇳🇱
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/@ShadowProxy66-?ed=2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#@HiByeVPNN
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/@ShadowProxy66-?ed=2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#@ShadowProxy66 🇳🇱
@@ -123,6 +120,7 @@ vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@est01-vlr01.tcp-reset-club.net:443?
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@est01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#🛡️ @FreakConfig
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@est01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#🇪🇪 | @External_Net
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ind01-vlr01.tcp-reset-club.net:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31&spx=/#@meli_proxyy
+vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ind01-vlr01.tcp-reset-club.net:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31&spx=/#t.me/entryNET/config=1838655117823705
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none#Tel:@Daily_Configs
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#@Selinc
@@ -137,7 +135,6 @@ vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?s
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#MTN @NetAccount
 vless://2a0e68d1-56e9-43cc-802f-5cbc617e8e98@66.228.49.44:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#Channel id: @ShadowProxy66 🇺🇸
-vless://2a0e68d1-56e9-43cc-802f-5cbc617e8e98@69.164.195.66:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#@varn_Net
 vless://2a0e68d1-56e9-43cc-802f-5cbc617e8e98@69.164.195.66:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://2a0e68d1-56e9-43cc-802f-5cbc617e8e98@69.164.195.66:443?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
 vless://2a0e68d1-56e9-43cc-802f-5cbc617e8e98@69.164.195.66:443?type=xhttp&path=/&host=&mode=stream-one&security=none#@meli_proxyy
@@ -243,6 +240,7 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?encryption=none&se
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@v2ray313 کانالمون🪽
@@ -379,7 +377,6 @@ vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@pscresearch.faculty.ucdavis.edu:443
 vless://2f899c15-090f-4c76-8260-62be0d02d0f5@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://2f95b3fd-0a0a-41b4-812c-dbaac89a8ea5@loatl.The-eNd.tech:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@loatvpn :چنل سازنده&sni=ch.ChanEl-The-eNd.cloud#The'end+Channel:+@loatvpn+|+MTN
 vless://2fa98116-094c-4b92-a516-f5c6316145b2@104.18.8.74:443?encryption=none&security=tls&sni=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&alpn=h2,http/1.1&fp=chrome&type=ws&host=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&path=/admin#@v2ray_market11
-vless://2fafdcd6-08c9-4891-d1ce-b7c4a44261ca@193.238.153.120:19728?security=&encryption=none&headerType=none&type=tcp#@varn_Net
 vless://2fafdcd6-08c9-4891-d1ce-b7c4a44261ca@193.238.153.120:19728?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN🩶
 vless://2fafdcd6-08c9-4891-d1ce-b7c4a44261ca@193.238.153.120:19728?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://2fafdcd6-08c9-4891-d1ce-b7c4a44261ca@193.238.153.120:19728?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
@@ -503,3 +500,6 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zan
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Channel@vmessorg
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram : @Alfa_v2ray_ng 🔥
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#✅ @vistav2ray  👈👈کانال ما
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🇮🇷 @ConfVip کانفیگ رایگان جوین شو تلگرام
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net/V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram @v2rayng_fars
