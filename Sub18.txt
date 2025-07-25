@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://DIGIV2RAY@www.speedtest.net:2095?path=/tm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.hichinago.ir.&type=httpupgrade#@Digiv2ray-2🇩🇪
-vless://DIGIV2RAY@www.speedtest.net:2095?path=/tm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#@Digiv2ray-2🇩🇪
-vless://DIGIV2RAY@www.speedtest.net:2095?path=/tm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.dalekishe.ir.&type=ws#@Digiv2ray-1🇩🇪
 vless://DIGIV2RAY@www.speedtest.net:2095?path=/tm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#@Digiv2ray-1🇩🇪
 vless://DIGIV2RAy@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#@Digiv2ray-2🇩🇪
 vless://DIGIV2RAy@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#@Digiv2ray-1🇩🇪
@@ -503,3 +500,6 @@ vless://a0db1c74-7a03-4bad-9b4b-ced8d1d22315@85.9.100.153:8080?security=&encrypt
 vless://a0db981c-da56-4a9e-88ea-3645a8a770fe@CONFiGLiNE.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=serverplus.co&type=xhttp#شتر🐪
 vless://a0e0fc1f-e056-4ca0-b0fe-3af4fecd70e1@45.55.212.210:443?security=reality&encryption=none&pbk=vi3w2Fhxm959AJySnMWGZwFLnppnLbAoFEZ9seJ8Ph8&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=036c2e0826c4#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
 vless://a0e8f5ff-602a-4fbf-83da-f50d538c21fc@185.155.72.152:39984?path=/&security=none&encryption=none&type=ws#@CaV2ray ⚡️
+vless://a0e8f5ff-602a-4fbf-83da-f50d538c21fc@en2.fastplus.shop:39984?path=/&security=none&encryption=none&type=ws#@CaV2ray ⚡️
+vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.16.184.194:80?encryption=none&security=none&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=/?ed=2560#👁Ch: @pPal03👁جوین بدید گوگولیا👁
+vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.24.247.189:80?encryption=none&security=none&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=/?ed=2560#👁Ch: @pPal03👁جوین بدید گوگولیا👁

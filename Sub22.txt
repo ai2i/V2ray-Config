@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ccfbd5c8-f3b4-4192-9b4e-42e8ebd78f21@31.47.51.143:50438?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
-vless://ccfbd5c8-f3b4-4192-9b4e-42e8ebd78f21@31.47.51.143:50438?security=none&encryption=none&headerType=none&type=tcp#NL 2 🇳🇱 | @v2xay
-vless://ccfbd5c8-f3b4-4192-9b4e-42e8ebd78f21@31.47.51.143:50438?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://ccfbd5c8-f3b4-4192-9b4e-42e8ebd78f21@31.47.51.143:50438?security=none&encryption=none&headerType=none&type=tcp#Telegram : @MR_SOULB
 vless://ccfbd5c8-f3b4-4192-9b4e-42e8ebd78f21@31.47.51.143:50438?type=raw&security=none#🇳🇱@V2BUX
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@ns1.cloudflare.com:443?path=/Telegram@V2ray_Alpha/?ed=2550&security=tls&encryption=none&host=cr7.medicaldream.ir&fp=chrome&type=ws&sni=cr7.medicaldream.ir#@V2rayNG3
@@ -503,3 +500,6 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.116.131:443?path=/Telegram-@
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.7.174:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=chrome&type=ws&sni=mmdv2.pages.dev#@V2rayNG3
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.40.63:443?path=Telegram-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mmdv2.pages.dev&fp=chrome&type=ws&sni=mmdv2.pages.dev#@V2rayNG3
 vless://da08534a-bfca-4ac0-bd2a-2e3846bfcbc0@104.26.13.8:2052?path=/&security=&encryption=none&host=q7.19kalA.co&type=ws#⚜️Telegram: @IP_CF
+vless://da128246-33b0-4c88-a44e-d91e9e0a1e05@[2606:4700:3034::ac43:d09b]:443/?type=ws&encryption=none&flow=&host=sssccvvbgnhj.2030.pp.ua&path=/h7mdGDLZfB9JsgTazwz9&security=tls&sni=SsscCvVbgnhJ.2030.Pp.ua&alpn=http/1.1&fp=chrome&packetEncoding=xudp#sssccvvbgnhj.2030.pp.ua tls WS CDN vless § 443 7
+vless://da136ee3-4759-48ee-a593-62ea5a6c845d@91.99.215.196:443?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
+vless://da136ee3-4759-48ee-a593-62ea5a6c845d@91.99.215.196:443?security=none&encryption=none&headerType=none&type=tcp#Telegram @v2rayng_fars

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-hy2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@caca.yinheyz.cfd:33756?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=caca.yinheyz.cfd#CA@Filter_breaker
-hy2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@frfr.yinheyz.cfd:33426?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=frfr.yinheyz.cfd#FR@Filter_breaker
-hy2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@gbgb.yinheyz.cfd:33996?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=gbgb.yinheyz.cfd#GB@Filter_breaker
 hy2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@inin.yinheyz.cfd:33756?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=inin.yinheyz.cfd#IN@Filter_breaker
 hy2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@nlnl.yinheyz.cfd:33856?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=nlnl.yinheyz.cfd#NL@Filter_breaker
 hy2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@sgsg.yinheyz.cfd:33686?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=sgsg.yinheyz.cfd#SG@Filter_breaker
@@ -503,3 +500,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Channel id: @AZARBAYJAB1 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Free$ IRAN 2 (@Outline_Vpn)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#IRAN 205 (@Outline_Vpn) free
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#PersianGulf (@Outline_Vpn)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#PersianGulf 3100 (@Outline_Vpn)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#PersianGulf 500 (@Outline_Vpn)

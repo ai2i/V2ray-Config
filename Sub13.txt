@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5918eb34-eee9-4848-9a5e-8bfd162aa0c8@webshecan.mywire.org:2087?security=reality&sni=www.speedtest.net&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sid=53242a95&spx=&type=tcp&flow=xtls-rprx-vision#@WebShecan-16 Mordad-1
-vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=/Tel-@Config_Rayegan/?ed=2560&security=tls&encryption=none&host=user2-P2L.pAgES.dev&type=ws&sni=user2-P2L.pAgES.dev#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
-vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=/Tel-@V2RAYNG_1378/?ed=2560&security=tls&encryption=none&host=user2-P2L.pAgES.dev&type=ws&sni=user2-P2L.pAgES.dev#@V2RAYNG_1378
 vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=/Tel-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=user2-P2L.pAgES.dev&type=ws&sni=user2-P2L.pAgES.dev#@V2RAYROZ
 vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=/Tel-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=user2-P2L.pAgES.dev&type=ws&sni=user2-P2L.pAgES.dev#@V2ray1_Ng
 vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=/Tel-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=user2-P2L.pAgES.dev&type=ws&sni=user2-P2L.pAgES.dev#@VITUREY ♡
@@ -503,3 +500,6 @@ vless://6a51aa8b-e8fc-4039-8351-0e3d1c05d5ce@151.101.3.8:80?mode=auto&path=/@Xpn
 vless://6a51aa8b-e8fc-4039-8351-0e3d1c05d5ce@151.101.3.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://6a51aa8b-e8fc-4039-8351-0e3d1c05d5ce@151.101.3.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#XpnTeam🇳🇱-mc07gz1z8
 vless://6a6c2353-0e16-4723-ca96-a2eea53f1586@fr.irimcs.org:2087?encryption=none&security=reality&sni=greenpepper.ir&fp=chrome&pbk=sORv_HDGkdPL66DXBNctiC_2k3XD_Zq-QRRJL9XFwWU&sid=49f9&spx=/&type=grpc&serviceName=Telegram:@catvpns&mode=gun#@catvpns 🇩🇪
+vless://6a6d732d-60b7-48df-a78a-609ea519843c@free-gb.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#Telegram:@config_proxy 🔥
+vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?path=/Telegram-@V2ray_Alpha/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=TESt-TEsT-TEST-TEsT.pAGes.dEV&fp=chrome&type=ws&sni=test-teSt-tEsT-teSt.pagES.DEv#@V2rayNG3
+vless://6a8a05fe-1250-4927-876b-59dc767924c9@ir.holy3buy.website:27364?type=tcp&security=none#⚜️Telegram: @IP_CF
