@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@62.60.176.240:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#fft7ukhi
+trojan://AQYZMBIoZd@104.25.197.102:8443?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&host=cdn65667.boshrachoice.ir&fp=chrome&type=ws&sni=cdn65667.boshrachoice.ir#@HIBYEVPNN
+trojan://AQYZMBIoZd@104.25.197.102:8443?sni=cdn65667.boshrachoice.ir&fp=chrome&host=cdn65667.boshrachoice.ir&alpn=h3,h2,http/1.1&type=ws&security=tls&path=/?ed#@shadoowvpnn|🇩🇪|TROJAN
+trojan://AQYZMBIoZd@104.25.197.102:8443?type=ws&path=/?ed=2048&host=cdn65667.boshrachoice.ir&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=cdn65667.boshrachoice.ir#@v2ray_market11
+trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#@V2rayNG3
 trojan://Aimer@103.116.7.133:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#💯T.me/Asak_Vpn💯
 trojan://Aimer@135.84.74.254:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#🇦🇹AZARBAYJAB1
 trojan://BWDcALS5TU@lllliraniv2rayllll.norooz.shop:2083?security=tls&sni=lllliraniv2rayllll.norooz.shop&alpn=h3,h2&fp=chrome&type=grpc&serviceName=iraniV2ray&mode=multi#Tel:iraniV2ray
@@ -158,6 +163,7 @@ trojan://telegram-id-directvpn@18.199.233.194:22223?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@3.77.162.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@confing_chanel
 trojan://telegram-id-directvpn@3.77.162.60:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@NetAccount
 trojan://telegram-id-directvpn@51.44.89.249:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@varn_Net
+trojan://telegram-id-directvpn@63.176.119.129:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1838634481847198
 trojan://telegram-id-directvpn@63.177.166.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-directvpn@63.178.209.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
@@ -168,6 +174,7 @@ trojan://telegram-id-privatevpns@3.68.1.93:22222?security=tls&alpn=http/1.1&head
 trojan://telegram-id-privatevpns@3.77.162.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# @confing_chanel
 trojan://telegram-id-privatevpns@3.77.162.60:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@NetAccount
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
+trojan://telegram-id-privatevpns@63.176.119.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1838634922791086
 trojan://telegram-id-privatevpns@63.176.186.43:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]ae_proxy
 trojan://telegram-id-privatevpns@63.177.166.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
@@ -349,7 +356,6 @@ vless://0333b495-1f8b-4d75-be2e-11c023bf78e5@upload.ir:80?encryption=none&securi
 vless://033623ec-b7a2-4773-8475-3b78bb0b012e@cdn.dominicpv.shop:80?mode=auto&path=/?ed=2056&security=none&encryption=none&host=qweusisi.global.ssl.fastly.net&type=xhttp#@V2rayN5
 vless://03363eef-b981-464f-dec0-8efd39ec7c82@128.140.36.164:443?mode=gun&security=reality&encryption=none&pbk=YJ3tlixp_GFIlmvuMSVQOCi3BAKKixdJthWMzSSBlXw&fp=chrome&spx=/&type=grpc&serviceName=telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ&sni=mega.io#آلمان 🇩🇪 @V2xay
 vless://033bb687-202b-40f1-81e0-400182ffb617@Filter5050.nabxcsjghjs2004.shop:22113?mode=gun&security=reality&encryption=none&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&fp=chrome&spx=/&type=grpc&serviceName=&sni=cdn.discordapp.com&sid=a7cf4983#Filter5050-Test1
-vless://034a08f5-0816-4591-8bb3-3fdf237f2463@www.speedtest.net:2096?type=xhttp&path=/test?ed=2096&host=pars.stepson.ir&mode=auto&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=pars.stepson.ir#t.me/entryNET/config=1838623786339318
 vless://03517ec0-976e-4cac-b84b-146fc4c7b023@199.232.13.32:80?path=/Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry?ed=2048&security=&encryption=none&host=Apple-SIB.ir&type=ws#WS | @ipV2Ray
 vless://03631162-452d-4c21-b0cc-fa652b0895a4@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&security=&encryption=none&host=Zedmodeonjoinyour-name.global.ssl.fastly.net&type=xhttp#🇩🇪 Telegram @SRCVPN
 vless://037e0bcf-b483-4bf2-a41a-39ef4d32a463@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷
@@ -436,6 +442,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.162.60:22224?security=tls&sni=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.162.60:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@confing_chanel
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.178.12:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.196.98:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.119.129:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Telegram:@config_proxy 🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.166.9:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.209.45:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 vless://05594345-8f7a-41bb-8e8a-5ab87a64ade4@104.17.148.22:80?security=none&type=httpupgrade&host=epic-franch-sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaa.xn--g28h.TeAm-sOftMeTo.IR.&path=/?ed=2048#Telegram:@config_proxy 🔥
@@ -496,10 +503,3 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.49.134:443?path=/?ed=2560&se
 vless://06ec083d-2a70-4ca2-9f3d-19442b58fc4e@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
 vless://06f14984-f7b0-43af-9694-e54f18f9daa5@193.3.182.246:2070/?type=tcp&security=none#@bolbolvpn 👈 چنل ما
 vless://06f5a7cb-3842-49d0-a498-d4165c0eb956@test-lets-wildcard.spotifycdn.org:443?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&fp=chrome&type=xhttp&sni=www.tgju.org&sid=7f2798f9#(@vmesskhodam)join bede-estefade-kon
-vless://06f5a7cb-3842-49d0-a498-d4165c0eb956@test-lets-wildcard.spotifycdn.org:443?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&fp=chrome&type=xhttp&sni=www.tgju.org&sid=7f2798f9#@EXPRESSVPN_420 | کانال تلگرام ❤️‍🔥
-vless://06f73c30-b767-492f-ad4f-50226053aa4f@iran.nikirani.sfree.persianmemberiranmember.shop:8443?encryption=none&security=reality&sni=tuyaeu.com&fp=chrome&pbk=g2n6BaJw9Wfs7PqXVkodEAeaCCXKgxtJ2N0qAzKDCgw&sid=c22ed49b&spx=/&type=tcp&headerType=http&host=varzesh3.com#Telegram:@config_proxy 🔥
-vless://06ff78d1-762f-47a6-81c7-9ebb1a24192f@45.159.148.180:2053?security=none&type=ws&headerType=&path=/path&host=google.com#🇳🇱 vless + تانل 2
-vless://06ff78d1-762f-47a6-81c7-9ebb1a24192f@m2.mixproject.ir:442?security=tls&type=httpupgrade&headerType=&path=/inboundsCWNeRzWFjgWHWZFw?ed=2560&host=&sni=name.giftsata.ir&fp=chrome&alpn=h3,h2,http/1.1#🇳🇱 MTN - هلند - ضد فیلتر  7860131882_a7b1
-vless://06ff78d1-762f-47a6-81c7-9ebb1a24192f@nlmarz.dorodorodaram.xyz:9191?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#🇳🇱 vless - هلند - tcp تانل 7860131882_a7b1
-vless://07132133-d0f7-4f4c-83df-0f1d4a204bba@151.101.3.8:80?path=ws/?ed=2048&security=none&encryption=none&host=welcomtofreeboarders.com&type=ws#🇫🇮 AzadMarz [ All net ]-JOIN  : @AzadMarz
-vless://073b2f7b-edc1-4b7e-a537-ac267406bd21@104.18.26.90:8080?path=/&security=none&encryption=none&host=cloud.kuckenpq.ir&type=httpupgrade#@pardazeshvpn

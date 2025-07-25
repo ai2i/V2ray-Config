@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+hy2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@nlnl.yinheyz.cfd:33856?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=nlnl.yinheyz.cfd#NL@Filter_breaker
+hy2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@sgsg.yinheyz.cfd:33686?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=sgsg.yinheyz.cfd#SG@Filter_breaker
+hy2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@usus.yinheyz.cfd:33856?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=usus.yinheyz.cfd#US@Filter_breaker
+hy2://iMqY3uG_5pgEj3hCfyHB-0vB@143.198.235.49:443/?insecure=1#🇺🇸美国 加利福尼亚州 圣克拉拉 DIGITALOCEAN-ASN（使劲造）
+hy2://nfsn666@45.207.222.138:8888/?insecure=1&sni=hk.nfsn666.gq#Channel id: @ShadowProxy66 🇭🇰
+hy2://vlJbyJEtcNjHvV6dnkZ1Z4VjpI@13.212.75.22:10264/?insecure=1&sni=bing.com#新加坡
+hysteria2://22f2c759db51b3d0@109.120.135.123:12122?security=tls&obfs=salamander&obfs-password=de8287cd33b05fa3&insecure=1&sni=www.google.com#@V2rayNG3
+hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiabx.688997.xyz:20857?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&sni=nexiabx.688997.xyz&insecure=1#TEL > @SaghiVpnXBOT- 🍌
+hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiadg.688997.xyz:20557?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&sni=nexiadg.688997.xyz&insecure=1#TEL > @SaghiVpnXBOT- 🍌
 hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiahg.688997.xyz:20357?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&sni=nexiahg.688997.xyz&insecure=1#TEL > @SaghiVpnXBOT- 🍌
 hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiahl.688997.xyz:20457?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&sni=nexiahl.688997.xyz&insecure=1#TEL > @SaghiVpnXBOT- 🍌
 hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiamg.688997.xyz:20157?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&sni=nexiamg.688997.xyz&insecure=1#TEL > @SaghiVpnXBOT- 🍌
@@ -171,7 +180,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5V1lWZEE3MWg1dkZsM3ZqeFlVVHJl@h110vpnde.outlinekeys.net:21712#آلمان 🇩🇪 @V2xay
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZmpZZENLMkpNNk11NG01UGtxUzFX@178.209.52.181:8443#Power🔥@antimeli-AllNet-🇨🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5d1lzbHAwUktzcGowS3B1a0Vsand3@h110vpnus.outlinekeys.net:9483#آمریکا 🇺🇸 @V2xay
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#@-CHANEL-PRUOXYI  🌀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#@HiByeVPNN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#@HiByeVPNN🩶
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#[🇳🇱]ae_proxy
@@ -346,7 +354,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@Ca
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@EVAY_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@EXPRESSVPN_420
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@EXPRESSVPN_420 🇬🇧
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@SaghiVpnX[🇺🇸]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#Channel id: @XpnTeam🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#FNET00
@@ -496,10 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig.usecharge.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#@EXPRESSVPN_420 👈🏻 کانال‌ ما All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#IRAN 116 (@Outline_Vpn) Free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#IRAN 125 (@Outline_Vpn) Free
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#🇬🇧+@AstroVPN_official
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#🌐𝚙𝚒𝚗𝚐: 202.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@EVAY_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@FILTERK0SH🇧🇭🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@bored_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Channel id: @AZARBAYJAB1 🇬🇧
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Free$ IRAN 2 (@Outline_Vpn)
