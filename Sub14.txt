@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7804e50e-6563-4016-a1e7-58b62f138aa2@n2vpn-helper.projectis.ir:2083?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی
 vless://7814883a-ff1c-42d5-9da6-45bec1f1caa4@199.34.228.178:2095?path=/?ed=2095&security=none&encryption=none&host=9943580d7b7ee2dd.9943580d7b7ee2dd.mObIleGGatte.Ir&type=httpupgrade#⚜️Telegram: @IP_CF
 vless://78163b85-0a24-407d-aa9c-72a63e6d9843@99823232.webnama.com.tr:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@NETMelliAnti
 vless://78163b85-0a24-407d-aa9c-72a63e6d9843@all97-vip.f-sub.com:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@NETMelliAnti
@@ -503,3 +502,4 @@ vless://8626ecbf-7b79-4fa9-ad09-1a86c84c8e41@www.zula.ir:80?path=/JOKERRVPN-JOKE
 vless://862873ea-4ea7-4207-b8d3-8f3c440f0afc@all2.golnar-clod.ir:8880?path=/?ed=80&security=none&encryption=none&host=saraq.golnar-clod.ir&type=httpupgrade#Telegram : Prime_Verse
 vless://8657fada-f21d-422b-9a2d-3c47d93c11bd@91.99.231.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#داخل کانال و ربات عضو شوید👇
 vless://86892e3f-83ed-49c1-ade2-c12f8ace1487@84.32.190.1:2200?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram : @EXPRESSVPN_420
+vless://869e096b-3cc5-4336-a618-f8acc6d421d1@209.38.244.147:80?type=tcp&headerType=http&host=nobitex.ir&security=none#@AKLISvpn🔹🇩🇪DE

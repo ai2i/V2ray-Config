@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#%3E%3E%40Outline_Vpn%3A%3ANL
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless8-ekh.pages.dev&type=ws&sni=vless8-ekh.pages.dev#%3E%3E%40vmess_vless_v2rayng%3A%3AUS
 vless://775152cc-c811-496a-b222-d9764146203f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638885878652634282.stockholm-prx-dnraaao.info&type=ws&alpn=&host=638885878652634282.stockholm-prx-dnraaao.info&path=/ldtzopws#%3E%3E%40DailyV2RY%3A%3AFR
 vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@PRActiCaL-CoMPlaint.SEoToolsFoRYOu.cO.uK:80?path=%2F&security=&encryption=none&type=ws#%3E%3E%40shadowproxy66%3A%3ADE
@@ -429,6 +428,7 @@ vless://f0784a01-0a59-5711-a093-48add864588f@45.12.139.51:443?security=tls&sni=z
 vless://f0784a01-0a59-5711-a093-48add864588f@www.speedtest.net:443?security=tls&sni=lu-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lu-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20LU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
 vless://f9bac203-a7cd-561a-bc86-2c98cd68eea2@45.12.144.8:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.12.144.8&encryption=none#Rayan%20-%20SSM%20-%20LU%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
 
 
 
