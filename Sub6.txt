@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://T9xcEjdUWx@62.60.176.240:36557?type=tcp&path=/@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN&host=zula.ir&headerType=http&security=none#@BORED_VPN
+trojan://Xa4^l(;.;B#a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=chrome&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#@v2ray313 کانالمون 😏
+trojan://Xa4^l(;.;B#a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=chrome&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#Join To @IRAN_V2RAY1
 trojan://Xa4^l(;.;B#a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=chrome&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#Telegram : @EXPRESSVPN_420
 trojan://ZGUyZGM3RjGiMw==@94.182.172.166:3128?path=/fr/t/w/aE8ki-gyP7zZ9GzM?ed=2047&security=none&host=mail.nic.ir&type=ws#فرانسه 🇫🇷
 trojan://ZU)0ryc$VSrG@104.17.148.22:443?path=/trg2dhGAnG15ULOP7i?ed=2560&security=tls&alpn=http/1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=chrome&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#@Selinc
@@ -195,7 +198,6 @@ vless://-----v2ray_fark-----@zula.ir:2087?type=grpc&serviceName=@v2ray_fark@v2ra
 vless://----V2RAXX----@V2RAXX-channel.cataba.ir:1234?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX#🇩🇪ALL ¹ @V2RAXX
 vless://----telegram--ISVvpn----1@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=eDg.IsVcLoD.cOm&fp=chrome&type=ws&sni=eDg.IsVcLoD.cOm#TLS-ALL-@ISVvpn
 vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=eDg.IsVcLoD.cOm&fp=chrome&type=ws&sni=eDg.IsVcLoD.cOm#TLS-ALL-@ISVvpn
-vless://---DIGiV2RAY---@discord.gg:80?encryption=none&security=none&type=ws&host=ædígí.RadioTeHran.oRG.&path=/Digiv2ray-#Telegram:@config_proxy 🔥
 vless://---mahanvpn+mahan+++@172.67.160.192:8080?path=/?ed=2048&security=&encryption=none&host=dEbngCbC.kouRdspEed.ir.&type=httpupgrade#🔑🇩🇪Mahanvpn- MCI/MTN/WIFI✓-s1-mtn
 vless://---mahanvpn+mahan++@172.67.160.192:8080?path=/?ed=2048&security=&encryption=none&host=dEbngCbC.kouRdspEed.ir.&type=httpupgrade#🔑🇩🇪Mahanvpn- MCI/MTN/WIFI✓-s1-mtn
 vless://---mahanvpn+mahan+@172.67.160.192:8080?path=/?ed=2048&security=&encryption=none&host=dEbngCbC.kouRdspEed.ir.&type=httpupgrade#
@@ -203,7 +205,6 @@ vless://---mahanvpn+mahan+@172.67.160.192:8080?path=/?ed=2048&security=&encrypti
 vless://--V2RAXX@speedtest.net:80?mode=auto&path=/Telegram,V2RAXX,Telegram,?ed=2048&security=none&encryption=none&host=V2RAXX-join.global.ssl.fastly.net&type=xhttp#🇩🇪ALL ¹ @V2RAXX
 vless://--V2RAXXX--@151.101.128.155:80?mode=auto&path=/Telegram,V2RAXX,Telegram,?ed=2048&security=none&encryption=none&host=V2RAXX-join.global.ssl.fastly.net&type=xhttp#🇩🇪ALL ¹ @V2RAXX
 vless://--V2RAXXX--@speedtest.net:80?mode=auto&path=/Telegram,V2RAXX,Telegram,?ed=2048&security=none&encryption=none&host=V2RAXX-join.global.ssl.fastly.net&type=xhttp#🇩🇪ALL ¹ @V2RAXX
-vless://-VPNCUSTOMIZE-@fishlab.ucdavis.edu:443?encryption=none&security=tls&sni=fishlab.ucdavis.edu&type=ws&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&path=/#Telegram:@config_proxy 🔥
 vless://0001691a-e408-461c-9a09-96e46c156bdb@hydrovpnsrv1.craftedrpg.ir:443?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://0043c18f-c3a8-4762-9815-b54989eabdd5@Hh.somo44.sbs:8080?path=/hhvghhv&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree-MCİ
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?path=/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=tls&alpn=http/1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=chrome&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#@HiByeVPNN
@@ -292,6 +293,7 @@ vless://01df2d23-7db7-432c-96d2-9ec8bb25fb0a@www.speedtest.net:8080?encryption=n
 vless://01eaac5d-392b-49ce-da48-5267712b6b21@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
 vless://0222b0e1-04f2-456e-9049-8c97f9b7a9b4@151.101.3.8:80?path=ws/?ed=2048&security=none&encryption=none&host=welcomtofreeboarders.com&type=ws#🇫🇮 AzadMarz [ All net ]-JOIN  : @AzadMarz
 vless://022f5112-3844-4fa8-bd52-c144feb929e7@gr.globalunlimitedinternet.xyz:1911?encryption=none&security=reality&sni=www.refersion.com&fp=chrome&pbk=VCwUyNFL_IMTZfEKeIUYEuXbPfzCpuUBGNW1kAu2VW4&sid=32aaf12b&spx=/grpc.reality&type=grpc&authority=&serviceName=grpc.reality&mode=gun#77•Tel: @@Confing_chanel🚀
+vless://022f5112-3844-4fa8-bd52-c144feb929e7@gr.globalunlimitedinternet.xyz:1911?mode=gun&security=reality&encryption=none&pbk=VCwUyNFL_IMTZfEKeIUYEuXbPfzCpuUBGNW1kAu2VW4&fp=chrome&spx=/grpc.reality&type=grpc&serviceName=grpc.reality&sni=www.refersion.com&sid=32aaf12b#TELEGERAM : @PRUOXYI
 vless://0256f329-5015-4497-be29-ff9ead0537ac@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🟩 Telegram | @Green_WPN  ❌ Enable: No
 vless://02690c4d-fa55-4bbe-9703-10e027562bf2@91.107.180.100:45489?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#🌈انواع کانفیگ های رایگان در تلگرام : Viturey@
@@ -497,9 +499,7 @@ vless://080ab9d1-66da-4711-96c6-9bdeb6c90093@31.7.73.146:17778?security=none&enc
 vless://080d0b89-697f-4de9-840f-67c2d400a6c7@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷
 vless://08111b5d-1eb3-4178-b8d1-6c4c22a8fe89@91.107.180.49:443?type=tcp&security=reality&fp=chrome&sni=tgju.org&pbk=oDHdhbvtMCXmEpcRuxDLJsRxzs79FnfwPOgJrdkeOmE&sid=4f&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----#🇩🇪@EVAY_VPN
 vless://082301e1-f977-4f39-b972-a6cf58ebc4ba@85.133.228.184:444?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون ☹️
-vless://082594e0-5116-4387-a289-038baf66f6f3@fr2.magicvpn.shop:11422?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#Telegram:@config_proxy 🔥
 vless://086cf79c-589a-4726-a57f-ca32a2f52c9b@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#znih19l0
 vless://086cf79c-589a-4726-a57f-ca32a2f52c9b@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#znih19l0  🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 vless://088fc8fb-9293-43a6-8f5d-e88e671e370b@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://0897db57-01b2-4207-94e2-0f41664ab85d@104.18.26.90:443?encryption=none&security=tls&sni=2free2.aparatir.xyz&fp=chrome&type=ws&host=2free2.aparatir.xyz&path=/admin#@v2ray_market11
-vless://08a21af5-3a9a-4345-a461-ddd8a0c75915@ConfigX2ray.fast.hosting-ip.com:80?mode=auto&path=/telegram-ConfigX2ray,telegram-ConfigX2ray,telegram-ConfigX2ray,telegram-ConfigX2ray,telegram-ConfigX2ray,telegram-ConfigX2ray,telegram-ConfigX2ray,telegram-ConfigX2ray?ed=80&security=none&encryption=none&host=ConfigX2ray.io&type=xhttp#@ConfigX2ray
