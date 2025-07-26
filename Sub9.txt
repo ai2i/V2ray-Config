@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2053/?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2053?mode=gun&security=tls&encryption=none&type=grpc#@AblNet7🇩🇪 Germany grpc tls (4e0)
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2087/?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2087?mode=gun&security=tls&encryption=none&type=grpc#@AblNet7🇩🇪 Germany grpc tls (4e0)
@@ -503,3 +502,4 @@ vless://2f95b3fd-0a0a-41b4-812c-dbaac89a8ea5@loatl.The-eNd.tech:2083?mode=gun&se
 vless://2fa98116-094c-4b92-a516-f5c6316145b2@104.18.8.74:443?encryption=none&security=tls&sni=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&alpn=h2,http/1.1&fp=chrome&type=ws&host=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&path=/admin#@v2ray_market11
 vless://2fafdcd6-08c9-4891-d1ce-b7c4a44261ca@193.238.153.120:19728?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN🩶
 vless://2fafdcd6-08c9-4891-d1ce-b7c4a44261ca@193.238.153.120:19728?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
+vless://2fafdcd6-08c9-4891-d1ce-b7c4a44261ca@193.238.153.120:19728?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥

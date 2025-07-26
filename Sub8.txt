@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443?security=reality&encryption=none&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=1f#🇩🇪 | @External_Net
 vless://17a7a43e-fc4d-4bce-94df-124e54026a72@panel1.zapserver.top:53217?security=&encryption=none&headerType=none&type=tcp#@proNG1/parham929292
 vless://17a7a43e-fc4d-4bce-94df-124e54026a72@panel1.zapserver.top:53217?security=none&encryption=none&headerType=none&type=tcp#@AblNet7 🇮🇷 نت ملی
 vless://17a7a43e-fc4d-4bce-94df-124e54026a72@panel1.zapserver.top:53217?security=none&encryption=none&headerType=none&type=tcp#🔥@AblNet7 🇮🇷 نت ملی 🔥
@@ -503,3 +502,4 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.24.36:8880/?type=httpupgrade&
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020/?type=tcp&encryption=none&flow=#Telegram:@config_proxy 🔥
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020/?type=tcp&encryption=none&flow=#@SaghiVpnX[🇩🇪]
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020/?type=tcp&encryption=none&flow=#Telegram:@config_proxy 🔥
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2053/?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
