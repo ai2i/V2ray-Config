@@ -3,22 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#%3E%3E%40V2rayNG3%3A%3ANL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#%3E%3E%40V2rayNG3%3A%3ANL
-vless://80d1f%6559-60f4-4272-%61280-820%651%65f0%61754@104.18.24.113:443?path=%2F%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y%3Fed%3D2048&security=tls&encryption=none&host=www.sp%65%65dt%65st.n%65t.googl%65.com.b%69ng.com.y%61hoo.com.pubgmob%69l%65.dns-dyn%61m%69c.n%65t&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#%3E%3E%40mehrosaboran%3A%3AUS
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%3E%3E%40v2ray_configs_pool%3A%3AUS
-vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-roof.atena.dpdns.org&fp=chrome&type=ws&sni=rayan-roof.atena.dpdns.org#%3E%3E%40Outline_Vpn%3A%3AUS
-vless://80d1f%6559-60f4-4272-%61280-820%651%65f0%61754@172.66.40.99:443?path=%2F%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y%3Fed%3D2048&security=tls&encryption=none&host=www.sp%65%65dt%65st.n%65t.googl%65.com.b%69ng.com.y%61hoo.com.pubgmob%69l%65.dns-dyn%61m%69c.n%65t&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#%3E%3E%40mehrosaboran%3A%3AUS
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#%3E%3E%40v2ray1_ng%3A%3ADE
-vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh29v3.hiddendom.shop&alpn=h2&type=grpc&host=pqh29v3.hiddendom.shop#%3E%3E%40DailyV2RY%3A%3AUS
-vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh29v1.hiddendom.shop&alpn=h2&type=grpc&host=pqh29v1.hiddendom.shop#%3E%3E%40DailyV2RY%3A%3AUS
-vless://80d1f%6559-60f4-4272-%61280-820%651%65f0%61754@162.159.129.11:443?path=%2F%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y%3Fed%3D2048&security=tls&encryption=none&host=www.sp%65%65dt%65st.n%65t.googl%65.com.b%69ng.com.y%61hoo.com.pubgmob%69l%65.dns-dyn%61m%69c.n%65t&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#%3E%3E%40mehrosaboran%3A%3AUS
-vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.18.252.199:2052?encryption=none&security=none&type=ws&host=register.tunnelbreaking.shop&path=%2F#%3E%3E%40DailyV2RY%3A%3AFR
-vless://80d1f%6559-60f4-4272-%61280-820%651%65f0%61754@104.17.147.22:443?path=%2F%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y%3Fed%3D2048&security=tls&encryption=none&host=www.sp%65%65dt%65st.n%65t.googl%65.com.b%69ng.com.y%61hoo.com.pubgmob%69l%65.dns-dyn%61m%69c.n%65t&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#%3E%3E%40mehrosaboran%3A%3AUS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGUzNjMxMi0xNmQ0LTQ5YzItYWQxOC02MTBiZjZkMDVkNjM%3D@tur.fastsoonlink.com:40019#%3E%3E%40v2ray1_ng%3A%3ATR
-vmess://eyJhZGQiOiIxODEuMjE1LjE1NC4yMjciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGVlOGEyMGUtYmY3MS00N2MzLWEwYTMtMGM4Njk5NGNkM2RjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUyMSIsInBzIjoiPj5ARGFpbHlWMlJZOjpVUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
-vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.47.82:2053?encryption=none&security=tls&sni=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv&fp=randomized&type=ws&host=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv&path=%2FoqLIXWAi6lzpnumQ#%3E%3E%40DailyV2RY%3A%3AUS
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?encryption=none&security=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AUS
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?flow=&type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105%3D443&security=none#%3E%3E%40vmessorg%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#%3E%3E%40ShadowsocksM%3A%3AGB
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%3E%3E%40v2rayng_fast%3A%3AUS
@@ -356,12 +340,31 @@ vless://f9bac203-a7cd-561a-bc86-2c98cd68eea2@45.12.144.8:443?security=tls&sni=zu
 
 
 
+
+
+
+
 hysteria2://271ff99c-273e-4c3b-a145-d8e8f50bb3bd@ld-de-01.644449.xyz:20000?mport=20000-50000&sni=ld-de-01.644449.xyz#%E5%BE%B7%E5%9B%BD%EF%BD%9Chy2%E7%9B%B4%E8%BF%9E%EF%BD%9C1x
 
 hysteria2://271ff99c-273e-4c3b-a145-d8e8f50bb3bd@ld-jp-lease.644449.xyz:20000?mport=20000-50000&sni=ld-jp-lease.644449.xyz#%E6%97%A5%E6%9C%AC02%EF%BD%9Chy2%E7%9B%B4%E8%BF%9E%EF%BD%9C1x
 
 
 hysteria2://271ff99c-273e-4c3b-a145-d8e8f50bb3bd@zl-us-b1.644449.xyz:20000?mport=20000-50000&sni=zl-us-b1.644449.xyz#%E7%BE%8E%E5%9B%BDb1%EF%BD%9Chy2%E7%9B%B4%E8%BF%9E%EF%BD%9C1x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -500,6 +503,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%F0%9F%87%AC%F0%9F%87%A
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.163-0252
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.100.205.48:989#%F0%9F%87%AC%F0%9F%87%A7GB-62.100.205.48-0248
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9MD-185.153.197.5-0262
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.164-0243
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.144-0183
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.235-0199
