@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5159e44f-b4cf-49d9-a4c2-5620a6431e87@www.speedtest.net:443?security=tls&type=ws&headerType=&path=/hajmi?ed=2050&host=nb-de.nitter.ir&sni=nitter.ir&fp=chrome&alpn=http/1.1&fragment=1-10,0-1,tlshello&allowInsecure=1#🇩🇪 ☁️ [TLS]
 vless://5159e44f-b4cf-49d9-a4c2-5620a6431e87@www.speedtest.net:443?security=tls&type=ws&headerType=&path=/hajmi?ed=2560&host=nb-en.nitter.ir&sni=nitter.ir&fp=chrome&alpn=http/1.1&fragment=1-10,0-1,tlshello#🏴󠁧󠁢󠁥󠁮󠁧󠁿 ☁️ [TLS]
 vless://5159e44f-b4cf-49d9-a4c2-5620a6431e87@www.speedtest.net:443?security=tls&type=ws&headerType=&path=/hajmi?ed=2560&host=nb-fi.nitter.ir&sni=nitter.ir&fp=chrome&alpn=http/1.1&fragment=1-10,0-1,tlshello&allowInsecure=1#🇫🇮 ☁️ [TLS]
 vless://5159e44f-b4cf-49d9-a4c2-5620a6431e87@www.speedtest.net:443?security=tls&type=ws&headerType=&path=/hajmi?ed=2560&host=nb-us.nitter.ir&sni=nitter.ir&fp=chrome&alpn=http/1.1&fragment=1-10,0-1,tlshello#🇺🇸 ☁️ [TLS]
@@ -140,6 +139,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.135:8880?path=/Channel i
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.135:8880?path=/Channel id: @ShadowProxy66?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇬🇧@AZARBAYJAB1
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.203:8880?path=Telegram@ShadowProxy66/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@v2ray313 کانالمون 🇧🇿
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.203:8880?path=Telegram@ShadowProxy66/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇳🇱@AZARBAYJAB1
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.203:8880?path=Telegram@proxy_daemi66/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram:@config_proxy 🔥
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.131:80?path=/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@NETMelliAnti : چنل کانفیگ
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@v2rayngzendegimamad🕊️
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam/@proNG1/@parham92929292/@proNG1/@parham92929292/@proNG1/@parham92929292@2/?ed=2560&security=&encryption=none&host=redfree8.pooriashop.ir&type=ws#@Filter_breaker | Netherlands
@@ -346,7 +346,6 @@ vless://55605610-d5e8-4f76-8032-9452370fa1a2@online.4zkaban.xyz:80?encryption=no
 vless://55737b22-c50a-491a-8cd3-69f84e67e3f7@www.zula.ir:80?path=/telegram=V_2RAYNGVPN&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=httpupgrade#@V_2rayngVpn
 vless://55804aa7-210c-48e2-ba03-05ad80f201cf@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?path=/containers/fi&security=none&encryption=none&host=tsvCY5W4AP61qVbo.net&type=ws#@v2ray313 کانالمون 🩰
-vless://55918e13-2ce8-484d-9e15-643206a80dcd@p.faraghost.sbs:28338?type=grpc&serviceName=Telegram:@Ghostray_Ng&authority=&security=reality&pbk=iNpnCGDf4E4ZR-_STyfA3Unh-zK8c2gJbtshJ_QZsnY&fp=chrome&sni=www.cloudflare.com&sid=c3a7aaac59&spx=/#@Ghostray_NG
 vless://55a4210c-e765-427f-813d-0c55b763f6b0@199.247.28.17:44914?mode=auto&path=/&security=reality&encryption=none&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&spx=/&type=xhttp&sni=black-moai.com&sid=1ac2a2dde288#Telegram : @Alfa_v2ray_ng 🔥
 vless://55b596f8-1a15-4752-b0b5-9198b3680fd7@c1.arshiashop.org:2086?type=ws&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇹🇷 | @Evay_vpn
 vless://55bf4a5e-af61-44e3-b105-cb373c987d2a@104.21.72.109:443?path=/Channel---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=pamchall.com&fp=chrome&type=ws&sni=PamcHalL.coM#🇫🇮tls+@ELiV2RAY
@@ -503,3 +502,4 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=/?ed=2560&s
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed=2560#@awlix_ir
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=Telegram-@V2ray_Alpha&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#@V2rayNG3
