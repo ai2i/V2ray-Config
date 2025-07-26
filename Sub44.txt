@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://878879e6-4f80-4e85-a415-85533b536d13@v19.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%3E%3E%40DailyV2RY%3A%3ADE
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=G53mRtZwS9.sAlAmGoJaI09-2.iNfO&type=ws&alpn=h3h2&host=G53mRtZwS9.sAlAmGoJaI09-2.iNfO&path=/#%3E%3E%40DailyV2RY%3A%3AGB
 vless://027f5bd9-4095-484c-b149-2fae488b457b@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638883051421404077.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638883051421404077.amsterdam-prx-dnraaal.info&path=/rlrsttws#%3E%3E%40DailyV2RY%3A%3AUS
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sid=974a74bf#%3E%3E%40v2ray1_ng%3A%3ADE
 vless://b79ee06f-d158-48c3-b32d-7ecb90f5f317@91.99.232.132:39954?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40vip_vpn_2022%3A%3ADE
@@ -503,3 +501,5 @@ vmess://ewogICAgImFkZCI6ICJvcnZwczIuaG9yc2VubWEubmV0IiwKICAgICJhaWQiOiAwLAogICAg
 vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMjAuMTYyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAib3J2cHMyLmhvcnNlbm1hLm5ldCIsCiAgICAiaWQiOiAiNTdlNTk1ZTYtZWY1NC00ZTBkLWI4ZGYtZTk2ZGI5NjEyYjk5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2hvcnNlbiIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS4yMC4xNjItMDY1NyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293#%F0%9F%87%BA%F0%9F%87%B8US-45.55.2.232-0190
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%F0%9F%87%BA%F0%9F%87%B8US-64.74.163.130-5207
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.179-5186
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.188-5174
