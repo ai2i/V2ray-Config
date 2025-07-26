@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://ZU)0ryc$VSrG@104.17.148.22:443?path=/trg2dhGAnG15ULOP7i?ed=2560&security=tls&alpn=http/1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=chrome&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#@Selinc
+trojan://ZU)0ryc$VSrG@104.17.148.22:443?path=/trg2dhGAnG15ULOP7i?ed=2560&security=tls&alpn=http/1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=chrome&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#Telegram @v2rayng_fars
+trojan://ZU)0ryc$VSrG@104.17.148.22:443?path=/trg2dhGAnG15ULOP7i?ed=2560&security=tls&alpn=http/1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=chrome&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#آلمان 🇩🇪 @V2xay
+trojan://ZU)0ryc$VSrG@104.17.148.22:443?path=/trg2dhGAnG15ULOP7i?ed=2560&security=tls&alpn=http/1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=chrome&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#🛡️ @FreakConfig
 trojan://a17dec70-4213-11f0-8ece-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🧡
 trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@104.21.24.195:443/?type=ws&host=RFgTHYu7.999836.Xyz&path=/mFvK3LJyIAe8ydvnmRKWDa8&security=tls&sni=RFgTHYu7.999836.Xyz&fp=chrome#t.me/entryNET/config=1838718599248703
 trojan://a7c7bbf0-48a1-11f0-b880-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤯
@@ -10,7 +14,6 @@ trojan://a8664a30-29cc-11f0-92d4-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://ab052d70-48a0-11f0-bea4-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💯
 trojan://ab33eed0-4684-11f0-8b81-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray❤️
 trojan://aba831c0-4213-11f0-a2d6-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤍
-trojan://acbcbaa-caba-bcaa-cbda-ccbbaacbaacb@127.0.0.1:8080?security=tls&type=tcp#@SaghiVpnX[🏳️‍🌈]
 trojan://amclubs@103.160.204.1:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#@V2rayNG3
 trojan://auto@104.20.19.168:2083?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@V2rayNG3
 trojan://b22214b0-29cc-11f0-a493-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🧡
@@ -155,7 +158,6 @@ trojan://vpn@109.120.132.80:2025?type=ws&path=/&security=none#Config🇸🇪@Do_
 trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#.
 trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&headerType=none&type=tcp#@V2rayNG3
 trojan://y9z0a1b2-5678-9abc-def0-1234567890ab@104.21.25.540:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
-trojan://your_password@188.114.99.0:443?security=tls&type=ws&sni=aws-ge-frankfurt-1.f1cflinea.com&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#@SaghiVpnX[🇺🇸]
 trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=tpmwh.phooeyunfold.com#@V2rayNG3
 vless://-----v2ray_fark-----@103.160.204.88:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
 vless://-----v2ray_fark-----@103.160.204.92:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
@@ -199,7 +201,6 @@ vless://--V2RAXXX--@151.101.128.155:80?mode=auto&path=/Telegram,V2RAXX,Telegram,
 vless://--V2RAXXX--@speedtest.net:80?mode=auto&path=/Telegram,V2RAXX,Telegram,?ed=2048&security=none&encryption=none&host=V2RAXX-join.global.ssl.fastly.net&type=xhttp#🇩🇪ALL ¹ @V2RAXX
 vless://0001691a-e408-461c-9a09-96e46c156bdb@hydrovpnsrv1.craftedrpg.ir:443?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://0043c18f-c3a8-4762-9815-b54989eabdd5@Hh.somo44.sbs:8080?path=/hhvghhv&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree-MCİ
-vless://004a8863-6276-4b58-9699-435423582a78@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#Telegram:@config_proxy 🔥
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?path=/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=tls&alpn=http/1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=chrome&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#@HiByeVPNN
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?path=/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=tls&alpn=http/1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=chrome&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#@V2RAYROZ
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?path=/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=tls&alpn=http/1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=chrome&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#@meli_proxyy
@@ -270,12 +271,10 @@ vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#WiFi-@SRCVPN-12
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#ترکیه 🇹🇷 @V2xay
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🛡️ @FreakConfig
-vless://01936e6b-191c-46dd-a08e-54e0f5d074b1@www.speedtest.net:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=/melo#@SaghiVpnX[🇨🇦]
 vless://01b77e15-d624-429c-89bd-a14aad24c1ab@151.101.3.8:80?type=xhttp&host=kiosyour-name.global.ssl.fastly.net&path=/=BeFreeWithUs?ed=2048&mode=auto&security=none#Channel:@BeFreeWithUs
 vless://01c34306-f273-4dba-a451-55c444dd580c@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://01c83d31-8215-4f85-b94b-8c64a92a040a@151.101.3.8:80?mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none&encryption=none&host=joinshhproxybede.com&type=xhttp#@EmpireVpn7🇫🇷
 vless://01c83d31-8215-4f85-b94b-8c64a92a040a@151.101.3.8:80?type=xhttp&mode=auto&host=joinshhproxybede.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇮🇹@Shh_Proxy | All¹
-vless://01ca32a9-21ad-4103-a005-42658322f485@pishgam.sdcards.ir:2095?security=none&type=httpupgrade&headerType=&path=/?ed=2095&host=price.tehrantolidi.ir#Telegram:@config_proxy 🔥
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed=2560#🐬Ch: @pPal03🐬جوین بدید عزیزانم🐬
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed=2560#🐬Ch: @pPal03🐬جوین بدید عزیزانم🐬
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?security=&type=ws&path=/?ed=2560&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&encryption=none#@awlix_ir
@@ -396,6 +395,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.121.218:22224?path=/telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.28.202:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=/telegram-channel-vlessconfig&packetEncoding=xudp&encryption=none#@NetAccount
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.223.183:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Telegram:@config_proxy 🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.66.125:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.93.118:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Telegram:@config_proxy 🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.233.194:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.231.59:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Filter_breaker | Germany
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.162.60:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=/telegram-channel-vlessconfig&packetEncoding=xudp&encryption=none#@NetAccount
