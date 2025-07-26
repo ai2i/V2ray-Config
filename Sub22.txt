@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=chrome&type=ws&sni=vless8-ekh.pages.dev#@HiByeVPNN | منبع کانفیگای وصل
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=chrome&type=ws&sni=vless8-ekh.pages.dev#@NpvV2rayFilTer
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=chrome&type=ws&sni=vless8-ekh.pages.dev#@SaghiVpnX[🇭🇰]
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=chrome&type=ws&sni=vless8-ekh.pages.dev#@Selinc
@@ -503,3 +502,4 @@ vless://d4a451cb-bc9a-4003-8e87-031d7ee57fcc@www.speedtest.net:80?path=/&securit
 vless://d4af3edf-0a58-492e-b6c8-b3f3238df7c1@51.222.158.243:8443?path=/proNG1&security=tls&encryption=none&host=/proNG1&fp=chrome&type=ws&sni=ov-canada3.09vpn.com#@proNG1/parham929292
 vless://d4dad102-eb19-4bca-a536-a5d278fe3e0e@91.107.130.221:50453?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://d4dad102-eb19-4bca-a536-a5d278fe3e0e@91.107.130.221:50453?flow=&type=tcp&headerType=none&security=none#Channel :@vmessorg
+vless://d4dad102-eb19-4bca-a536-a5d278fe3e0e@91.107.130.221:50453?flow=&type=tcp&headerType=none&security=none#t.me/entryNET/config=1838682296844823

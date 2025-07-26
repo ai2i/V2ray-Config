@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&encryption=none&host=NGINX.NSCl.IR&fp=chrome&type=ws&sni=NGINX.NSCl.IR#Mci 250 (@Outline_Vpn) free
 vless://75fde681-ec64-4654-86fa-30732e8e179c@162.159.129.11:443?path=/assets&security=tls&encryption=none&host=NGINX.NSCl.IR&fp=chrome&type=ws&sni=NGINX.NSCl.IR#@V2RAY_VMESS_free
 vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=/assets#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@meli_proxyy
 vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#
@@ -503,3 +502,4 @@ vless://8222f4cb-187b-42fa-a965-a4b84edbc15e@ssrsub.cloudflare.182682.xyz:2095?s
 vless://822d89bc-77b4-4f2b-a2c8-d6d65cf68364@217.114.40.1:6400?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#unilmit-t7ek518o
 vless://823df8b2-2809-480f-e4e4-5dc6439e08eb@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
 vless://826bf006-c9c5-46fe-b0d9-8c459c814be7@77.110.103.21:50810?type=xhttp&mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=reality&fp=chrome&sni=zhaket.com&pbk=MCx8u0S8L-ugMhcNC-u2WteqvI_oaM9_0-5jP6atIx4&sid=19dc3c81&spx=/#🇳🇱@Shh_Proxy | All¹
+vless://829619da-d88e-4c12-acd5-4172f8145d22@62.60.216.61:8443?security=reality&encryption=none&pbk=Itg7rBe40jt_FLzZ7gmbuApmnkDDQDxa2E1gZRxLfgk&headerType=none&fp=chrome&type=tcp&sni=www.cdnjs.cloudflare.com&sid=947ba02be8959504#@V2RAY_VMESS_free
