@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://bb691001-faf8-4b4e-af2e-bfb27780f689@FASTSHOVPNTELEGRAM.fast.hosting-ip.com:80?mode=auto&path=/FASTSHOVPN?ed=2048&security=none&encryption=none&host=crazyofferzzshopp.com&type=xhttp#@moft_vpn کانال
+vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@MODERN-pRomISe.SEOtOolSForyOU.co.Uk:80?path=/&security=none&encryption=none&type=ws#t.me/entryNET/config=1838014712641223
 vless://bea44815-cda6-42f8-a0a9-a5877d2ea734@142.132.227.65:34560?security=none&encryption=none&headerType=none&type=tcp#@Moft_Vpn ‌کانال
 vless://bfc04e96-d4d4-43c3-8b39-30d2793e9de5@de.chatoochak.com:443?type=ws&security=none&host=&path=/#t.me/entryNET/config=1838015654493463
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=/&security=none&encryption=none&type=ws#Telegram:@config_proxy 🔥
@@ -501,5 +503,3 @@ vless://42de51a3-0380-71d7-039c-62c268c37b4b@www.cafeariel.ir.nl.studentcp.ir:16
 #profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs

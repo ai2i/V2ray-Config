@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://db08cd72-94fb-46ef-a1e2-015538566194@188.114.97.0:8080?path=/telegram-TwixService,telegram-TwixService,telegram-TwixService,telegram-TwixService,telegram-TwixService?ed=8080&security=none&encryption=none&host=google.com.irancell.com.mci.ir.speedtest.ne.soft98.ir.cafebazaar.ir.zeblibala.site.&type=httpupgrade#t.me/entryNET/config=1838047867769136
+vless://db08cd72-94fb-46ef-a1e2-015538566194@188.114.97.0:8080?type=httpupgrade&path=/telegram-TwixService,telegram-TwixService,telegram-TwixService,telegram-TwixService,telegram-TwixService?ed=8080&host=google.com.irancell.com.mci.ir.speedtest.ne.soft98.ir.cafebazaar.ir.zeblibala.site.&security=none#k24xszcs3
 vless://db7a5e4e-05b8-4111-ab6c-11a1ef87163d@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-fast.parmida.dpdns.org&fp=chrome&type=ws&sni=rayan-fast.parmida.dpdns.org#@warp_city
 vless://db989bb1-6ca5-4ce1-8b2e-39ad771ae736@www.speedtest.net:8080?path=/V_2raYngVpn?ed=8080&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=ws#@config_v2ray_vpn👈سرورهای‌+بیشتر
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@104.19.219.139:443?path=/api/v1&security=tls&alpn=h3&encryption=none&host=arc-448.pages.dev&fp=chrome&type=ws&sni=ARC-448.Pages.DEV#@vipV2rayNGnp
@@ -501,5 +503,3 @@ vless://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:80?encryption=non
 vless://f2a4624b-4efc-4409-bf2f-c7ec5f77503a@al.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=spirako.com#Telegram:@config_proxy 💦
 vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=/Telegram@server_free2/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=chrome&type=ws&sni=paS-kaLE-AGhA.pageS.deV#🟢 @server_free2 🟢
 vless://f316cd86-7125-4d6f-a7b1-15f64cb235e0@teslaafree.niceserver.sbs:1000?security=none&encryption=none&host=teslaafree.niceserver.sbs&headerType=http&type=tcp#🇩🇪 @TeslaaTeam - hamrahi🤍
-vless://f3242907-f8e4-4166-8156-c773430bd8a4@hf.tin9.ir:2052?encryption=none&security=none&type=ws&path=/#https://t.me/confing_chanel
-vless://f3405e4c-08b2-4a35-8443-f3d6b4359030@142.132.227.65:34560?security=&encryption=none&headerType=none&type=tcp#@varn_Net

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://655a6618-4d41-46e8-a8e1-9e9f47798985@45.80.230.190:65076?security=reality&encryption=none&pbk=F3vOEhZMIEs_djWjttPmQbv9MNAl3OTUWpDWLn5hTHw&headerType=none&fp=chrome&spx=/&type=tcp&sni=stackoverflow.com&sid=f481#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
-vless://655a6618-4d41-46e8-a8e1-9e9f47798985@45.80.230.190:65076?security=reality&encryption=none&pbk=F3vOEhZMIEs_djWjttPmQbv9MNAl3OTUWpDWLn5hTHw&headerType=none&fp=chrome&spx=/&type=tcp&sni=stackoverflow.com&sid=f481#SE 🇸🇬 | @v2xay
 vless://655a6618-4d41-46e8-a8e1-9e9f47798985@45.80.230.190:65076?security=reality&encryption=none&pbk=F3vOEhZMIEs_djWjttPmQbv9MNAl3OTUWpDWLn5hTHw&headerType=none&fp=chrome&spx=/&type=tcp&sni=stackoverflow.com&sid=f481#کانفیگ پرسرعت و ارزان همراه تست 🇩🇪 @ConfVip
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&spx=/&type=tcp&headerType=none#@meli_proxyy
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&spx=/&type=tcp&headerType=none#Sv1_@FF_crony🇺🇸
@@ -503,3 +501,5 @@ vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&secu
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#IRAN 323 (@Outline_Vpn) free
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#Telegram : @Alfa_v2ray_ng 🔥
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#🇮🇷 @ConfVip کانفیگ رایگان جوین شو تلگرام
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#🌩️ @FreakConfig
