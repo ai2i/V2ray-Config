@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-42
+vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-44
+vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-19
+vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-27
+vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-29
+vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-31
+vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-33
+vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-35
+vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-37
+vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-39
+vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-41
+vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-43
 vless://SVNTEAM1@SvnFree.GiSvn.ir:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#🇩🇪TCP-51
 vless://SVNTEAM3@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-22
 vless://SVNTEAM3@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-24
@@ -393,7 +405,6 @@ vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/proNG1---pr
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/proNG1?ed=2560&security=tls&encryption=none&host=gghdfa.pages.dev&fp=chrome&type=ws&sni=gGHDFa.pAgeS.Dev#@proNG1/parham929292
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/telegram@v2ray_alpha/?ed=2560&security=tls&encryption=none&host=gghdfa.pages.dev&type=ws&sni=gghdfa.pages.dev#@meli_proxyy
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/telegram@v2rayngzendegimamad/?ed=2560&security=tls&encryption=none&host=gghdfa.pages.dev&type=ws&sni=gghdfa.pages.dev#@v2rayngzendegimamad🕊️
-vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/telegram@v2rayngzendegimamad/?ed=2560&security=tls&encryption=none&host=gghdfa.pages.dev&type=ws&sni=gghdfa.pages.dev#Telegram:@config_proxy 🔥
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?security=tls&sni=gGHDFa.pAgeS.Dev&alpn=h2,http/1.1&fp=chrome&type=ws&path=/8WuhXm4QjK0L68Uf?ed=2560&host=gghdfa.pages.dev&packetEncoding=xudp&encryption=none#@NetAccount
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?security=tls&sni=gGHDFa.pAgeS.Dev&fp=chrome&type=ws&path=/8WuhXm4QjK0L68Uf?ed=2560&host=gghdfa.pages.dev&packetEncoding=xudp&encryption=none#MCI @NetAccount
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?type=ws&host=gghdfa.pages.dev&path=/8WuhXm4QjK0L68Uf?ed=2560&security=tls&fp=chrome&sni=gGHDFa.pAgeS.Dev#
@@ -469,7 +480,6 @@ vless://a671b069-6e09-49dd-8a36-4179e47881dd@62.60.192.166:2001?encryption=none&
 vless://a6bc389a-80df-43e4-adbc-e9d6ae018c43@library98.ir:54?path=/&security=none&encryption=none&type=ws#✅@FreakConfig
 vless://a6c4db3e-7785-429e-8bc5-9eaf7b1a79b1@45.8.146.207:80?path=/vless/&security=&encryption=none&type=ws#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://a6c4db3e-7785-429e-8bc5-9eaf7b1a79b1@45.8.146.207:80?path=/vless/&security=&encryption=none&type=ws#🔗 Telegram : @Viturey 🔒
-vless://a6c4db3e-7785-429e-8bc5-9eaf7b1a79b1@45.8.146.207:80?path=/vless/&security=none&encryption=none&type=ws#Telegram:@config_proxy 🔥
 vless://a6cd3631-4457-48da-bace-76c5e0bfa331@Lightning6.12speedtest.store:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=Lightning6.ir&type=ws#28 | @ConfigFast 🇮🇷💔 عضو بشید تلگرام و ایتا
 vless://a6d451e9-c206-4681-a42e-365c7aa3f4ca@j3s1i.proxyfire.xyz:8000?security=none&encryption=none&headerType=none&type=tcp#@SAVTEAM  | CONFIG
 vless://a6dd00f2-de2a-4c3c-bc0a-0e9818e95dde@172.67.75.172:443?security=tls&encryption=none&host=GErmaNy-exK.pAGEs.DEV&fp=chrome&type=ws&sni=GErmaNy-exK.pAGEs.DEV#@Selinc
@@ -493,13 +503,3 @@ vless://a80274e2-ff42-48b7-9817-41a5b56e0c72@Networknim.cam:34927?fragment=&secu
 vless://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?security=none&encryption=none&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?security=none&encryption=none&headerType=none&type=tcp#@Iran_V2RAY1
 vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
-vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
-vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?security=none&encryption=none&headerType=none&type=tcp#@v2rayngzendegimamad🕊️
-vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 @ConfVip کانفیگ رایگان جوین شو تلگرام
-vless://a812a015-a65b-4003-ac5f-266e141c6405@www.speedtest.net:80?security=&type=ws&path=/?ed=2048&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=Www.speedtest.net.developsp.ir.vegaskala.com.&encryption=none#🇩🇪@SRCVPN | All
-vless://a822ca43-6bf4-4df1-b991-2b4b675ca6c7@online.4zkaban.xyz:80?encryption=none&headerType=none&type=ws&path=@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config&host=13.ok-config-15.buzz#🇩🇪 @Freedom_Config تلگرام(1)
-vless://a822ca43-6bf4-4df1-b991-2b4b675ca6c7@online.4zkaban.xyz:80?encryption=none&headerType=none&type=ws&path=@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config&host=13.ok-config-16.buzz#🇩🇪 @Freedom_Config تلگرام(1)
-vless://a822ca43-6bf4-4df1-b991-2b4b675ca6c7@online.4zkaban.xyz:80?encryption=none&headerType=none&type=ws&path=@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config&host=13.ok-config-18.buzz#🇩🇪 @Freedom_Config تلگرام(1)
-vless://a83b52bd-8a99-4df5-a4c9-c82c043c1f8d@frad.webshecan.cloud:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=france.webshecan.cloud#@WebShecan-With❤️
-vless://a84263bb-49ab-43dc-a352-c464414e8a62@germany1.secretvibe.ru:443?security=reality&encryption=none&pbk=GHl0OQmUmM8JzAraDgnn2ic7lzuWhjUMkZus6DzSvys&host=@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede&headerType=none&fp=chrome&spx=/2JhYDrpVcIa4da5&type=tcp&flow=xtls-rprx-vision&sni=germany1.secretvibe.ru&sid=5660c4#آلمان 🇩🇪 @V2xay
-vless://a84263bb-49ab-43dc-a352-c464414e8a62@netherlands.secretvibe.ru:443?security=reality&encryption=none&pbk=IFgSZ6-4ceD0tPigCvDBPHtrb6YUNPfxf1EVGUfAwBA&host=@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede&headerType=none&fp=chrome&spx=/vmiSRoMfiNdUwkz&type=tcp&flow=xtls-rprx-vision&sni=netherlands.secretvibe.ru&sid=df9038e40a9b#هلند 🇳🇱 @V2xay
