@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=/?ed=2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&fp=chrome&type=ws&sni=pardazeshvpn-tg48.pages.dev#@V2rayNG3
 vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.17.104.45:80?path=/?ed=2560&security=none&encryption=none&host=lot.sosant.dpdns.org&type=ws#IRAN 12 (@Outline_Vpn) Free
 vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.18.30.65:80?path=/?ed=2560&security=none&encryption=none&host=lot.sosant.dpdns.org&type=ws#@AZARBAYJAB1
 vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.18.30.65:80?path=/?ed=2560&security=none&encryption=none&host=lot.sosant.dpdns.org&type=ws#IRAN 14 (@Outline_Vpn) Free
@@ -503,3 +502,4 @@ vless://SAVTEAMtv@www.speedtest.net:80?path=/@SavTeam----@SavTeam----@SavTeam---
 vless://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=/#SVNTEAM🇩🇪#2
 vless://SVNTEAM-3@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=/#SVNTEAM🇩🇪Free3
 vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-20
+vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-28

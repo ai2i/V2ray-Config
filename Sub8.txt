@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://17a7a43e-fc4d-4bce-94df-124e54026a72@panel1.zapserver.top:53217?security=none&encryption=none&headerType=none&type=tcp#🔥@AblNet7 🇮🇷 نت ملی 🔥
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?security=tls&encryption=none&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=/?ed=2560&sni=bpb-worker-panel-h5f.pages.dev&fp=chrome#[Awlix_ir]
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@www.speedtest.net:443?path=/Telegram-@V2ray_Alpha/?ed=2048&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=chrome&type=ws&sni=bpb-worker-panel-h5f.pages.dev#@V2rayNG3
 vless://17b62bb4-0b76-474b-9d7f-f0178e9518e5@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷1 tunnel: @EVAY_VPN 🚀
@@ -503,3 +502,4 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2096?path=/&security=t
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:8080/?type=httpupgrade&encryption=none&flow=&path=/#Telegram:@config_proxy 🔥
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:8080?path=/&security=none&encryption=none&type=httpupgrade#@meli_proxyy
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:8080?path=/&security=none&encryption=none&type=httpupgrade#Telegram:@config_proxy 🔥
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥

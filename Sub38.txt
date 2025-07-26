@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4e4a22ba-7a59-4a6f-9af4-2f9705fc4745@91.107.180.100:443?type=grpc&serviceName=@SobyV2ray&authority=&security=reality&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&sni=zula.ir&sid=f3&spx=/#SOB!X SHOP 🚀-@SobyV2ray
 vless://4e57e34d-fc11-486e-9dbb-bcce9db1c39d@178.162.244.226:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@varn_Net
 vless://4eab40da-ff08-40bb-9d8a-e059a2a6da0d@151.101.3.8:80?mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed=2560&security=&encryption=none=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=JoinMdVpnSec.com&type=xhttp#All² @ghalagyann 🇲🇫
 vless://4eab40da-ff08-40bb-9d8a-e059a2a6da0d@151.101.3.8:80?mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed=2560&security=&encryption=none=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=JoinMdVpnSec.com&type=xhttp#All¹ @ghalagyann 🇲🇫
@@ -503,3 +502,4 @@ vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&secu
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://75fde681-ec64-4654-86fa-30732e8e179c@162.159.129.11:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#Channel id: @ShadowProxy66 🇨🇦
 vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@Capoit
+vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@V2RAYROZ

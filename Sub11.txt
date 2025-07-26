@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://397d3af1-ab9e-4239-8494-cba34fc8534e@94.130.170.105:30864?security=none&encryption=none&host=ripe.net&headerType=http&type=tcp#Telegram+@vmessorg
 vless://39825f03-8181-4b0c-bc27-2097b70e14ec@vv.foxnt-telegram-foxnt.shop:80?type=tcp&security=none#@vpnlime
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.0.117:2053?type=ws&path=/&security=tls&sni=iran.akcovufun.ir&allowInsecure=true#Config🇬🇧@Do_itforyou
@@ -503,3 +502,4 @@ vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?flow=xtls-rprx-vis
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#Config🇺🇸@Do_itforyou
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&spx=/sinavm#@SaghiVpnX[🇺🇸]
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#@configMs
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----#🇷🇺@EVAY_VPN

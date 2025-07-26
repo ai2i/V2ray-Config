@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?path=/?ed=2048&security=none&encryption=none&host=arvancloud.com&type=ws#@V2rayNG3
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=/&security=&encryption=none&type=ws#@AblNet7🇩🇪 Germany ws (tal)
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=/&security=&encryption=none&type=ws#🔗 Telegram : @Viturey 🔒
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=/&security=none&encryption=none&type=ws#@V2RAYNG_1378
@@ -503,3 +502,4 @@ vless://735dd2a0-e40e-41aa-ad2c-e0ff4a5d1e62@51.89.10.101:2025?mode=gun&security
 vless://738c5a04-817a-4f50-b327-893595010155@all32-vip.f-sub.com:2434?security=reality&encryption=none&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA&headerType=none&fp=chrome&type=tcp&sni=chess.com#@Filter_breaker-FR
 vless://73a21609-8238-45c0-b2b0-0469e6c58ba3@213.176.95.70:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=pingless.com&pbk=y_kHGyJmpYqiGgeh5gTgDRda0d_l6p-_2at2HHBrWEU&sid=700c1d3ddf2f99&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪 @EVAY_VPN
 vless://73b10f12-d09e-4745-9c6d-75550f5e6253@www.speedtest.net:80?path=/&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=httpupgrade#@V_2rayngVpn
+vless://73b36329-f050-492c-907c-8695425d53dc@151.101.64.155:80?security=none&type=ws&headerType=&path=@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-?ed=2048&host=49.org#🚀 کانال تلگرام ما: @V2Safee
