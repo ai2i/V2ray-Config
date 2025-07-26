@@ -3,27 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotNVRVTTVDbTF5dGNEb3FCSG9tMUdR@62.60.216.61:1080#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.136:8080#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTU4NmFhYi0zYTM3LTRmNTUtYjhiNy01YWU2OTU3MmQ0MDM=@85.133.241.75:1935#t.me/entryNET/config=1837889763747462
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOXRlQTBvY1RpOHhqZFdDdHczejhz@192.36.57.23:8443#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZkhlTTY3d05mT3lGQk1WZVZNV3Zw@62.210.88.22:443#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozM0xwb1U4WC94SG5DRCtjYk5lKzdwMHBLL0puZ0RMTSs1K1JJTHJ4eWZWRlJXL25pS3o1RXUwcld5VmNEaG89@ct.uigame.space:2024#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@id.vpnsparta.pro:57456#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@rusrv.vpnsparta.pro:57456#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozVG5RZGdtMm1WSlFidVNDWG1SNVZj@81.19.141.45:443#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.207.175:443#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#Telegram:@config_proxy 🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSVpBQWhRTUtsa21XNjBJc3E4MlBH@81.19.141.45:52873#t.me/entryNET/config=1837891466093921
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEZDQ1OE1GeENsdnZLUXA5Z1pIWU9X@23.177.185.63:49454#Telegram:@config_proxy 🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMG8yaEU0ZUx1UjJ3d3lGYW8wbHNK@185.39.204.12:16297#Telegram:@config_proxy 🔥
@@ -503,3 +482,24 @@ vless://4603faec-ab2e-40dd-ac72-85b7b0ab390f@check-host.net:8080?path=/?v2ray_co
 vless://4603faec-ab2e-40dd-ac72-85b7b0ab390f@check-host.net:8080?path=/?v2ray_configs_poolsVPNTELEGRAM----@v2ray_configs_pools----@v2ray_configs_pools----@v2ray_configs_pools&security=none&encryption=none&host=china.pwteam.ir&type=ws#t.me/entryNET/config=1837883159930322
 vless://46677716-490d-4a51-8a68-c44090505da3@real-all2.sdcards.ir:8509?security=reality&encryption=none&pbk=LD--N4X5Fo6UKi8c6XIUGfFCuRWKmvLHk_bwacZVDD4&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=67ceba05200e42df#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@V2ray1ran2💛سرور رایگان جوین شو🔫
+vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=ali.tas-bazi.com&fp=chrome&type=xhttp&sni=ali.tas-bazi.com#@V2ray1ran2💛سرور رایگان جوین شو🔫
+vless://4f92d2a2-d9f3-4e46-abb9-3be3b68fcb95@46.38.143.249:4911?security=&encryption=none&headerType=http&type=tcp#t.me/entryNET/config=1837886176440812
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@V2ray1ran2💛سرور رایگان جوین شو🔫
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram🇨🇳@WangCai2/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@V2ray1ran2💛سرور رایگان جوین شو🔫
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80/?path=/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed=2560&security=&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.taraneh.dpdns.org#Telegram:@config_proxy 🔥
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=/yzejftqqvmhtztle?ed=2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#Telegram : @Confingman🦊2️⃣
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.12.30.165:2053?allowInsecure=0&sni=019309B7.XyZ0.PaGeS.dEV&type=ws&host=019309B7.XyZ0.PaGeS.dEV&path=/Telegram@V2ray_Alpha/?ed=2560fp=chrome&security=tls#Telegram:@config_proxy 🔥
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.12.30.165:2053?allowInsecure=0&sni=019309B7.XyZ0.PaGeS.dEV&type=ws&host=019309B7.XyZ0.PaGeS.dEV&path=/Telegram@v2ray_configs_pools/?ed=2560fp=chrome&security=tls#t.me/entryNET/config=1837887121580309
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.131.6.124:2053?allowInsecure=0&sni=019309B7.XyZ0.PaGeS.dEV&type=ws&host=019309B7.XyZ0.PaGeS.dEV&path=/Telegram@V2ray_Alpha/?ed=2560fp=chrome&security=tls#Telegram:@config_proxy 🔥
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.142.120.192:2053?allowInsecure=0&sni=019309B7.XyZ0.PaGeS.dEV&type=ws&host=019309B7.XyZ0.PaGeS.dEV&path=/Telegram@V2ray_Alpha/?ed=2560fp=chrome&security=tls#Telegram:@config_proxy 🔥
+vless://55bf4a5e-af61-44e3-b105-cb373c987d2a@172.67.181.173:80/?path=@Confingman @Confingman @Confingman @Confingman @Confingman @Confingman&security=none&alpn=h2,http/1.1&encryption=none&host=paMchall.cOm.&fp=chrome&type=ws&sni=PamcHalL.coM#Telegram:@config_proxy 🔥
+vless://55bf4a5e-af61-44e3-b105-cb373c987d2a@172.67.181.173:80?path=/ELiV2-RAY---ELiV2-RAY--ELiV2-RAY---ELiV2-RAY--ELiV2-RAY--ELiV2-RAY?ed=2560&security=none&alpn=h2,http/1.1&encryption=none&host=paMchall.cOm.&fp=chrome&type=ws&sni=PamcHalL.coM#t.me/entryNET/config=1837885234282255
+vless://55bf4a5e-af61-44e3-b105-cb373c987d2a@172.67.181.173:80?path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560&security=none&alpn=h2,http/1.1&encryption=none&host=paMchall.cOm.&fp=chrome&type=ws&sni=PamcHalL.coM#Telegram:@config_proxy 🔥
+vless://5879d109-8c92-448a-801b-3f3989019934@45.12.31.216:443?path=/Telegram-v2ray_configs_pools---Telegram-v2ray_configs_pools---Telegram-v2ray_configs_pools?ed=2048&security=tls&encryption=none&host=tbs-80p.pages.dev&type=ws&sni=pages.dev#Telegram:@config_proxy 🔥
+vless://6683e519-99b1-4df8-9d20-f39a2a7ed1b0@217.60.236.41:3134?path=/&security=none&encryption=none&type=ws#@V2ray1ran2💛سرور رایگان جوین شو🔫
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#@V2ray1ran2💛سرور رایگان جوین شو🔫
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=2560/?BIA_CHANEL@JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#@V2ray1ran2💛سرور رایگان جوین شو🔫
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encryption=none&host=/:@___&headerType=none&type=tcp#Telegram:@config_proxy 🔥
+vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?path=/ikhocbws&security=tls&encryption=none&host=638874929583581773.zagreb-prx-dnraaad.info&fp=chrome&type=ws&sni=638874929583581773.zagreb-prx-dnraaad.info#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://788175d0-e62d-4d36-b5f7-0cc8651df08f@151.101.130.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws/?ed=2052#t.me/entryNET/config=1837888129382511
+vless://7ec65d58-6c5a-48d2-8d50-a781d28dbdd3@one.soshon.in:5430?encryption=none&security=none&type=grpc#Telegram:@config_proxy 🔥
