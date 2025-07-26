@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vmess://eyJhZGQiOiIxMDQuMTYuMjE3LjI0MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmVsbHkuaG9tZXMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+RifCfhpQgQFYyTkVUX0lSQU4iLCJzY3kiOiJhdXRvIiwic25pIjoibmVsbHkuaG9tZXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjI0MDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBhdGgiOiIvZG93bmxvYWQifQ==@Filter_breaker | United States
-vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjIxMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBhdGgiOiIvZG93bmxvYWQifQ==@Filter_breaker | United States
-vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjIyMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBhdGgiOiIvZG93bmxvYWQifQ==@Filter_breaker | United States
 vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjIzMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBhdGgiOiIvZG93bmxvYWQifQ==@Filter_breaker | United States
 vmess://eyJhZGQiOiIxMDQuMjEuMTUuMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfkYnwn4aUIEBWMk5FVF9JUkFOIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMDQuMjEuMjAuMTYyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvcnZwczIuaG9yc2VubWEubmV0IiwiaWQiOiI1N2U1OTVlNi1lZjU0LTRlMGQtYjhkZi1lOTZkYjk2MTJiOTkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaG9yc2VuIiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCflJcgVGVsZWdyYW0gOiBAVml0dXJleSDwn5SSIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
@@ -503,3 +499,7 @@ vless://8a7b1cd0-883e-4cbb-bdf9-123669d45aab@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?path=%2F&security=&encryption=none&type=ws#%3E%3E%40DailyV2RY%3A%3ALV
 vless://878879e6-4f80-4e85-a415-85533b536d13@v19.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%3E%3E%40DailyV2RY%3A%3ADE
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=G53mRtZwS9.sAlAmGoJaI09-2.iNfO&type=ws&alpn=h3h2&host=G53mRtZwS9.sAlAmGoJaI09-2.iNfO&path=/#%3E%3E%40DailyV2RY%3A%3AGB
+vless://027f5bd9-4095-484c-b149-2fae488b457b@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638883051421404077.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638883051421404077.amsterdam-prx-dnraaal.info&path=/rlrsttws#%3E%3E%40DailyV2RY%3A%3AUS
+vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sid=974a74bf#%3E%3E%40v2ray1_ng%3A%3ADE
+vless://b79ee06f-d158-48c3-b32d-7ecb90f5f317@91.99.232.132:39954?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40vip_vpn_2022%3A%3ADE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU%3D@194.87.31.68:443#%3E%3E%40v2ray1_ng%3A%3ANL

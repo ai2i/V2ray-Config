@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://514508bd-7cad-45e8-bfd8-8bd37fc80d26@irani.yousefbn.com:8585?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#@freevpnn11_14
-vless://514508bd-7cad-45e8-bfd8-8bd37fc80d26@meet.fast.hosting-ip.com:80?mode=auto&path=/GoodLuck?ed=2560&security=&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=imam-reza.global.ssl.fastly.net.&type=xhttp#@freevpnn11_1
-vless://514508bd-7cad-45e8-bfd8-8bd37fc80d26@meet.fast.hosting-ip.com:80?mode=auto&path=/GoodLuck?ed=2560&security=&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=imam-reza.global.ssl.fastly.net.&type=xhttp#@freevpnn11_2
-vless://514508bd-7cad-45e8-bfd8-8bd37fc80d26@mtn.venzo.com.tr:8880?path=/&security=&encryption=none&host=ird2.serrjioo.ir&type=httpupgrade#@freevpnn11_3
 vless://514508bd-7cad-45e8-bfd8-8bd37fc80d26@mtn.venzo.com.tr:8880?path=/&security=&encryption=none&host=ird3.serrjioo.ir&type=httpupgrade#@freevpnn11_5
 vless://514508bd-7cad-45e8-bfd8-8bd37fc80d26@mtn.venzo.com.tr:8880?path=/&security=&encryption=none&host=ird4.serrjioo.ir&type=httpupgrade#@freevpnn11_6
 vless://514508bd-7cad-45e8-bfd8-8bd37fc80d26@mtn.venzo.com.tr:8880?path=/&security=&encryption=none&host=irf2.serrjioo.ir&type=httpupgrade#@freevpnn11_4
@@ -503,3 +499,7 @@ vless://78a668ab-17bc-4f0b-9684-4b31cf5d591d@151.101.64.155:80?path=/@aklisvpn@a
 vless://78f71e2a-f1c2-4576-bfef-f0f82ea65e4b@185.10.16.103:30618?mode=auto&path=/&security=reality&encryption=none&pbk=SO_Jw3ZcONC9tzsEsmxTUnDYfBMuXGgnE8BubslTCEA&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=45e9f9ee4d#@Selinc
 vless://795cb42f-3bb7-40ad-a7ce-8256ecefc3bd@65.109.219.163:8087?mode=gun&security=reality&encryption=none&pbk=Bcs7ta0FcUPw0_shHjnQY0Vdle4nbg5smmKM-nuteCc&fp=chrome&spx=/&type=grpc&sni=microsoft.com&sid=0b10e3#@Cook_Vpn_همراه اول پرسرعت
 vless://798a1af6-46cb-4183-93ae-d7e5b25039c3@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/boopqbws&security=tls&encryption=none&host=638880231667402586.madrid-prx-dnraaao.info&type=ws&sni=638880231667402586.madrid-prx-dnraaao.info#🌈انواع کانفیگ های رایگان در تلگرام : Viturey@
+vless://7FuseVPN----------ProxyPJ@pj.bestirstorei.top:62000?type=grpc&serviceName=32135vless&authority=@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN&security=reality&pbk=BiugAGWpcH4kTwIsUDeRh83FPxapxYfLuh4Gpi1Qb3s&fp=chrome&sni=journalofbigdata.springeropen.com&sid=116440bf&spx=/#@TeLPJ+تمام+نت+ها+🟦🟨
+vless://7a553af0-9d40-4b3c-aeaa-86aac323475f@209.250.246.91:35500?security=&encryption=none&headerType=none&type=tcp#DALTON
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ²⁰🇩🇪➣@V2rayNGcloud
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ¹⁸🇩🇪➣@V2rayNGcloud
