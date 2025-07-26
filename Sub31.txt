@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://auto@172.66.45.2:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=%2F#%3E%3E%40v2ray_configs_pool%3A%3AUS
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.18.48.116:443?encryption=none&security=tls&sni=VNGsUppLY.IP-ddnS.COm&fp=randomized&type=ws&path=%2F#%3E%3E%40v2ray_configs_pool%3A%3AUS
 vless://b97b8288-82fb-4a90-b4a1-1e36ab9988c7@172.67.86.123:443?encryption=none&security=tls&sni=divine-surf-b984.princess310.workers.dev&fp=random&type=ws&host=divine-surf-b984.princess310.workers.dev&path=%2F%3Fed%3D2560#%3E%3E%40v2ray_configs_pool%3A%3AUS
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.229.227:8880?encryption=none&security=none&sni=ð [By EbraSha] &alpn=http%2F1.1&fp=chrome&type=ws&host=vngsupply.ip-ddns.com&path=%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D#%3E%3E%40v2ray_configs_pool%3A%3AUS
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:4
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@171.22.254.17:989#%F0%9F%87%B2%F0%9F%87%B9MT-171.22.254.17-0318
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.28-0330
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#%F0%9F%87%B2%F0%9F%87%B0MK-46.183.185.37-0308
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#%F0%9F%87%B8%F0%9F%87%ACSG-103.36.91.23-0320

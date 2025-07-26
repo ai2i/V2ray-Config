@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.26.27.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#GB_speednode_0102
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.60:8880?allowInsecure=1&sni=kjgx.laoyoutiao.link&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram@WangCai2/?ed=2560#GB_speednode_0103
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.189:8880?allowInsecure=1&sni=kjgx.laoyoutiao.link&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram@WangCai2/?ed=2560#GB_speednode_0104
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@80.93.202.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#GB_speednode_0105
@@ -502,4 +503,3 @@ hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiateq.688997.xyz:20957?obfs=
 hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiaxg.688997.xyz:20057?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&sni=nexiaxg.688997.xyz&insecure=1#TEL > @SaghiVpnXBOT- 🍌
 hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiayg.688997.xyz:20657?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&sni=nexiayg.688997.xyz&insecure=1#TEL > @SaghiVpnXBOT- 🍌
 hysteria2://575d98a6-6b8f-4ee3-b682-b21efd5432cf@213.142.133.2:443?security=tls&obfs=salamander&obfs-password
-hysteria2://9f60e54d-d835-426a-937d-232d9930b236@213.142.133.2:443?security=tls&obfs=salamander&obfs-password=xu0SJY749OrXVi27YoOyTS&insecure=1&sni=telewebion.com#v2ray_market11

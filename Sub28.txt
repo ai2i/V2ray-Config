@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://mahanvpn-vip-chanell@172.67.160.192:2052?path=/mAhAnkarNanaNd.kouRdneTpluSedAte.iR,?ed=2560&security=none&encryption=none&host=mAhAnkarNanaNd.kouRdneTpluSedAte.iR.&type=httpupgrade#💫T.me/Asak_Vpn💫
 vless://n4o5p6q7-8e9f-4a0b-1c2d-3e4f5a6b7c8d@104.16.198.194:8080/?type=ws&encryption=none&flow=&host=CI3.6f6NRv37tT.zULaiR.oRg.&path=/?ed=2048#@Filter_breaker | United States
 vless://n8o9p0q1-9012-3bcd-4abc-5678abcdef34@45.76.123.390:8443?security=tls&type=ws&path=/vless#@Filter_breaker | Singapore
 vless://n8o9p0q1-9012-3bcd-4abc-5678abcdef34@45.76.123.390:8443?security=tls&type=ws&path=/vless#@Filter_breaker_45.76.123.390
@@ -502,4 +503,3 @@ vmess://eyJhZGQiOiIxNjkuMTUwLjIwOC44MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiJASGlCeWVWUE5O8J+RiOKdpO+4j+KAjfCflKXwn4yQIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiJAU2FnaGlWcG5YW1x1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNV0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
 vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiLwn4ev8J+HtSB8IEBFeHRlcm5hbF9OZXQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNzIuNjQuMTM0LjE4MyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI2MjQ5MjI0Ny0xYTk4LTQzMjQtYjE5Mi0yYjU1YzFjNjQwNzYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJWUjExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9 @Filter_breaker 🇺🇸

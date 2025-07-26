@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://50ced16f-78dd-5499-acf9-a57fe1895728@Free.Cconfigv2rayserv.workers.dev:443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&host=free.cconfigv2rayserv.workers.dev&fp=chrome&type=ws&sni=free.cconfigv2rayserv.workers.dev#%E2%9D%94%20XX%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40cconfig_v2ray%20%7C%209
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig94.usecharge.ir:443#%E2%9D%94%20XX%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40chestertm%20%7C%2012
 vless://b96fb229-78e8-49c4-ac4c-fba497acd100@bmi.raheaiande.ir:1001?security=reality&encryption=none&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&headerType=http&fp=edge&spx=%2Fjoin_telegram-%40vpnserverrr%2Fjoin_telegram-%40vpnserverrr+join_telegram-%40vpnserverrr&type=tcp&sni=ea.com&sid=c7bc4d#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40club_profsor%20%7C%2016
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40configasli%20%7C%206
@@ -494,7 +495,6 @@ hysteria2://0151af46-04a6-42da-a09c-c5940c57186b@nexiaxg.688997.xyz:20057/?insec
 hysteria2://0151af46-04a6-42da-a09c-c5940c57186b@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E9%A6%99%E6%B8%AF
 
 hysteria2://0151af46-04a6-42da-a09c-c5940c57186b@nexiayg.688997.xyz:20657/?insecure=1&sni=nexiayg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E8%8B%B1%E5%9B%BD
-
 
 
 

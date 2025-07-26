@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram:@V2RAYNG_1378/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@V2RAYNG_1378
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram@Selinc/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@Selinc
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram@V2RAYNG_1378/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@V2RAYNG_1378
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram🇨🇳@WangCai2/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@HIBYEVPNN
@@ -502,4 +503,3 @@ vless://7e313821-7d0d-442a-88e2-e6a30d89d01d@151.101.3.9:80?encryption=none&secu
 vless://7e313821-7d0d-442a-88e2-e6a30d89d01d@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@viturey 🇩🇪🇩🇪
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@LiGHT-PReseNce.oneEaT.Co:80?path=/&security=none&encryption=none&type=ws#🇳🇱 Netherlands https://t.me/ConfigX2ray
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@azadiiivpn 🎀
-vless://7e91c270-c067-4c9c-9231-9208471487ce@www.speedtest.net:8880?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=arm1.dollardoon.com&type=httpupgrade#All² @ghalagyann 🇩🇪

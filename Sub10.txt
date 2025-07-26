@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80?mode=auto&path=/&security=none&encryption=none&host=reza-aliyari722.global.ssl.fastly.net&type=xhttp#32 | @ConfigFast 🇮🇷💔 عضو بشید تلگرام و ایتا
 vless://306e217d-e75e-45b2-8a78-da78f13e3e2d@108.61.224.94:443?mode=stream-one&path=/rfghj&security=none&encryption=none&type=xhttp#@V2ray1_Ng
 vless://308a14d1-cfae-405f-9d69-2922f87ee79b@bestco.bestshop10.ir:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@V2rayNG3
 vless://3097ff27-3950-41e0-b330-81b868a25243@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#BINEXTIFY 🇩🇪 SPEED-kzhtidbsq
@@ -502,4 +503,3 @@ vless://3bcc6dbf-0ab4-4674-85c8-39bd994434f9@s3.esrtz.onl:46470?security=none&en
 vless://3bcc6dbf-0ab4-4674-85c8-39bd994434f9@s3.esrtz.onl:46470?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@FergalVpnMod All
 vless://3bcc6dbf-0ab4-4674-85c8-39bd994434f9@s3.esrtz.onl:46470?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#ski
 vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@104.17.148.22:443?path=/&security=tls&encryption=none&host=PpAL03.MRS-OTho-RoLFson.worKErS.dev&type=ws&sni=ppal03.mRs-otHO-rOLfsON.WOrkErS.DEv#کانال+ما+در+تلگرام+@Asak_Vpn+💛
-vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Zilor.ir&type=ws#@AZARBAYJAB1
