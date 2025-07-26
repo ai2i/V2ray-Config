@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@151.101.242.172:80?mode=auto&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&security=&alpn=http/1.1&encryption=none&host=sharkrt.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.ssl.fastly.net#@Capoit
-vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@151.101.242.172:80?mode=auto&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&security=none&alpn=http/1.1&encryption=none&host=sharkrt.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.ssl.fastly.net#@Alfa_v2ray_ng کانالمون 🫀
-vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@151.101.242.172:80?mode=auto&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&security=none&alpn=http/1.1&encryption=none&host=sharkrt.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.ssl.fastly.net#@v2ray313 کانالمون 🫀
 vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@ip.ir-sub.fun:80?mode=auto&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&security=none&alpn=http/1.1&encryption=none&host=sharkrt.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.ssl.fastly.net#@Alfa_v2ray_ng کانالمون 😱
 vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@ip.ir-sub.fun:80?mode=auto&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&security=none&alpn=http/1.1&encryption=none&host=sharkrt.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.ssl.fastly.net#@v2ray313 کانالمون 😱
 vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@ip.ir-sub.fun:80?mode=auto&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&security=none&alpn=http/1.1&encryption=none&host=sharkrt.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.ssl.fastly.net#🛡️ @FreakConfig
@@ -66,7 +63,6 @@ vless://3fc22129-8a43-4371-8d6b-59dd09b866c9@de.tsdom.cam:20000?mode=auto&securi
 vless://40105f76-dd3c-439e-ac34-a68ec83b26db@webshecan.webredirect.org:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sid=53242a95#@WebShecan-14 Mordad-3
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#🔗 Telegram : @Viturey 🔒
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#azadiiivpn 🎀
-vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#🔥𝗳𝗿𝗲𝗲 𝗰𝗼𝗻𝗳𝗶𝗴: @𝗮𝘇𝗮𝗱𝗶𝗻𝗲𝘁𝟮𝟱
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#🛡️ @FreakConfig
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#@CaV2ray ⚡️
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#آلمان 🇩🇪 @V2xay
@@ -180,7 +176,6 @@ vless://42cbed62-e83c-4239-a037-c905784505df@gr.dnszone.top:45500?security=none&
 vless://42e4edf7-efa5-4560-f4b3-a7e86a00dc86@FsV2ray.t-sub.site:12445?mode=gun&security=reality&encryption=none&pbk=vdoHcKwLMoMWsNzYOCAsituwxf1V21r2lW2Fto509Tc&fp=chrome&spx=/&type=grpc&serviceName=چنل سازنده @FsV2ray&sni=dash.cloudflare.com&sid=b909b451#چنل+سازنده+@FsV2ray
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=/?ed=2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.119:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#Telegram:@config_proxy 🔥
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
 vless://42f64a47-7b67-417c-8445-e5a823c9ec4a@185.209.21.36:41569?encryption=none&security=none&type=ws&host=tgju.org&path=/#t.me/entryNET/config=1838680723804328
 vless://42f64a47-7b67-417c-8445-e5a823c9ec4a@185.209.21.36:41569?path=/&security=none&encryption=none&host=tgju.org&type=ws#@AYMH19+کانال+تلگرام
@@ -503,3 +498,8 @@ vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDq
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed=2560&security=tls&encryption=none&host=azadnet05.pages.dev&fp=chrome&type=ws&sni=azadnet05.pages.dev#Telegram : @Alfa_v2ray_ng 🔥
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed=2560&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws#Telegram id : @Viturey
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed=2560&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#
+vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed=2560&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#@HiByeVPNN
+vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed=2560&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#@HiByeVPNN🩶
+vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed=2560&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#@NpvV2rayFilTer
+vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed=2560&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#@SaghiVpnX[🇨🇦]
+vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed=2560&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#@Selinc

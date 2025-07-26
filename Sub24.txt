@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#🛡️ @FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#@NetAccount
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&mode=gun&serviceName=&authority=#Config%25F0%259F%2587%25AB%25F0%259F%2587%25B7@Do_itforyou
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&mode=gun&serviceName=&authority=#Config%F0%9F%87%AB%F0%9F%87%B7@Do_itforyou
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&mode=gun&serviceName=&authority=#Config🇫🇷@Do_itforyou
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&security=none&mode=gun#🇫🇷|@V2BUX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?encryption=none&security=none&sni=TABRIZ.NET&alpn=h2,http/1.1&fp=chrome&type=grpc#@AZARBAYJAB1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&sni=TABRIZ.NET#@HiByeVPNN❤️‍🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&sni=TABRIZ.NET#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&type=grpc#@HiByeVPNN🌀
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&type=grpc#Config VIP @iran_v2ray1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 266 (@Outline_Vpn) free
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 332 (@Outline_Vpn) free
@@ -298,7 +288,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇺🇲TM-@AZARBAYJAB1(GPRS)
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?security=&encryption=none&type=grpc#🔗 Telegram : @Viturey 🔒
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?security=&type=grpc&encryption=none#t.me/entryNET/config=1838657131115251
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v7.waipdirect.shop#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v4.waipdirect.shop:8880?security=&encryption=none&type=grpc#t.me/entryNET/config=1838676257199441
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v8.vetmainconf.shop:8880?security=&encryption=none&type=grpc#t.me/entryNET/config=1838676767926008
@@ -503,3 +492,14 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@meli_proxyy
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=...&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@NETMelliAnti
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=...&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=...&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🇮🇷 @ConfVip کانفیگ رایگان جوین شو تلگرام
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=...&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=...&type=grpc&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@icv2ray
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=.../?V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram @v2rayng_fars
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@HiByeVPNN👈❤️‍🔥🌐
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@meli_proxyy
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#-1 https://t.me/ConfigX2ray
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@Capoit
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@HiByeVPNN
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@HiByeVPNN🩶

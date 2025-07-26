@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://655a6618-4d41-46e8-a8e1-9e9f47798985@45.80.230.190:65076?security=reality&encryption=none&pbk=F3vOEhZMIEs_djWjttPmQbv9MNAl3OTUWpDWLn5hTHw&headerType=none&fp=chrome&spx=/&type=tcp&sni=stackoverflow.com&sid=f481#کانفیگ پرسرعت و ارزان همراه تست 🇩🇪 @ConfVip
-vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&spx=/&type=tcp&headerType=none#@meli_proxyy
-vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&spx=/&type=tcp&headerType=none#Sv1_@FF_crony🇺🇸
-vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk2v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=businessmadesimple.com&fp=chrome&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA&spx=/&type=tcp&headerType=none#@meli_proxyy
-vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk2v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=businessmadesimple.com&fp=chrome&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA&spx=/&type=tcp&headerType=none#Sv2_@FF_crony🇺🇸
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk2v.tok8888.com:8443?security=reality&encryption=none&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA&host=/BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=businessmadesimple.com#@meli_proxyy
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk3v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.thewilliamvale.com&fp=chrome&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=/&type=tcp&headerType=none#@meli_proxyy
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk3v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.thewilliamvale.com&fp=chrome&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=/&type=tcp&headerType=none#Sv3_@FF_crony🇺🇸
@@ -192,7 +187,6 @@ vless://6c64eb8d-81bd-4a9b-932c-a470a15e68e2@84.32.190.251:2200?security=none&en
 vless://6c76ee27-5281-4d1f-9e28-9a33e0bb0820@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SVNTEAN🇩🇪TCP-46
 vless://6c816599-2e8b-427f-ad2f-f342d8c20a8b@91.107.170.231:31248?security=none&encryption=none&type=tcp&host=bmw.com&path=/&headerType=http# @confing_chanel
 vless://6c816599-2e8b-427f-ad2f-f342d8c20a8b@91.107.170.231:31248?security=none&encryption=none&type=tcp&host=bmw.com&path=/&headerType=http#https://t.me/confing_chanel
-vless://6c816599-2e8b-427f-ad2f-f342d8c20a8b@91.107.170.231:31248?security=none&type=tcp&path=/&headerType=http&host=bmw.com&packetEncoding=xudp&encryption=none#@NetAccount
 vless://6c8cc745-8719-48df-8b0d-647134e9823a@151.101.3.8:80?path=/containers/fi&security=none&encryption=none&host=tsvCY5W4AP61qVbo.net&type=ws#@v2rayngzendegimamad🕊️
 vless://6c8cc745-8719-48df-8b0d-647134e9823a@151.101.3.8:80?path=/containers/fi&security=none&encryption=none&host=tsvCY5W4AP61qVbo.net&type=ws#Join To @IRAN_V2RAY1
 vless://6c9bc0f8-b75b-4291-bcf4-e2feaa1df6bf@104.16.198.192:8080?path=/?ed=2048&security=none&encryption=none&host=Hg.L06m2f84Ap.ZULaIr.ORG.&type=ws#IRAN 215X (@Outline_Vpn) free
@@ -503,3 +497,9 @@ vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&secu
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#🇮🇷 @ConfVip کانفیگ رایگان جوین شو تلگرام
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#🌩️ @FreakConfig
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&encryption=none&host=NGINX.NSCl.IR&fp=chrome&type=ws&sni=NGINX.NSCl.IR#@V2RAY_VMESS_free
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&encryption=none&host=NGINX.NSCl.IR&fp=chrome&type=ws&sni=NGINX.NSCl.IR#G0DV2RAY
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&encryption=none&host=NGINX.NSCl.IR&fp=chrome&type=ws&sni=NGINX.NSCl.IR#IRAN 341 (@Cook_Vpn) free
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&encryption=none&host=NGINX.NSCl.IR&fp=chrome&type=ws&sni=NGINX.NSCl.IR#IRAN 341 (@Outline_Vpn) free
