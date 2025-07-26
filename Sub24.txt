@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=&encryption=none&type=grpc#🇨🇵 Join Telegram:@VPNSHOP011
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#@EmpireVpn7 🇫🇷 FR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#@HiByeVPNN🩶
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
@@ -502,4 +503,3 @@ vless://e7b1b989-83db-4420-aa6a-fb9a6a3b24e9@62.60.214.174:28819?security=none&e
 vless://e7b2d457-40e2-4f6e-d2d2-5de7f7ac180e@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#@melov2ray🇩🇪
 vless://e7b2d457-40e2-4f6e-d2d2-5de7f7ac180e@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#@melov2ray🇩🇪
 vless://e7b626f8-ebcc-4a24-ac32-4efb1d92340a@216.22.5.96:443?mode=stream-one&path=/sdf&security=none&encryption=none&type=xhttp#(@vmesskhodam)
-vless://e7cc66ec-4b16-42c9-bbc8-20283e67d656@power.dlmoviz.ir:2020?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#@Filter_breaker-IR

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://ZGUyZGM3RjGiMw==@94.182.172.166:3128?path=/fr/t/w/aE8ki-gyP7zZ9GzM?ed=2047&security=none&host=mail.nic.ir&type=ws#فرانسه 🇫🇷
 trojan://ZU)0ryc$VSrG@104.17.148.22:443?path=/trg2dhGAnG15ULOP7i?ed=2560&security=tls&alpn=http/1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=chrome&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#@Selinc
 trojan://ZU)0ryc$VSrG@104.17.148.22:443?path=/trg2dhGAnG15ULOP7i?ed=2560&security=tls&alpn=http/1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=chrome&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#Telegram @v2rayng_fars
 trojan://ZU)0ryc$VSrG@104.17.148.22:443?path=/trg2dhGAnG15ULOP7i?ed=2560&security=tls&alpn=http/1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=chrome&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#آلمان 🇩🇪 @V2xay
@@ -502,4 +503,3 @@ vless://09094697-6036-4097-a906-7a8ddb7ef839@151.101.2.219:80?mode=auto&path=/?e
 vless://09094697-6036-4097-a906-7a8ddb7ef839@151.101.2.219:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false, "xmux": {"maxConcurrency": "16-32", "maxConnections": 0, "cMaxReuseTimes": "64-128", "cMaxLifetimeMs": 0, "hMaxRequestTimes": "800-900", "hKeepAlivePeriod": 0}}&host=tesmarz.global.ssl.fastly.net&type=xhttp#@V2rayng_market_1378
 vless://090ac18d-09db-4abe-b525-52d361da0e1b@orancellll.outline-vpn.cloud:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=azaronline.com&sni=contact.my-contorol.com#@v2ryngfree+سرچ+کن+بیا+تو+کانال
 vless://09185766-9c9f-4ee7-a6f7-4b4709d3165e@poland.a1mshop2.xyz:49894?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#20-62467
-vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws&security=tls&encryption=none&type=ws#@AblNet7🇫🇷 France

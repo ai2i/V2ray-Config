@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://814c1910-4a61-44fc-d600-0df9cd9c2618@99.199.73.53:18616?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://8164bad2-5f17-4273-ad89-2cd1bfb1c94b@91.99.113.216:8080?type=xhttp&mode=auto&path=/Kitsune&security=reality&fp=chrome&sni=refersion.com&pbk=hG9KBeeA2zzWVIZq4EnigRVx8VUCvQeokU5_PnBK2Ds&sid=be8dc2a762216585#AKLISvpn🕊️🇵🇪VIP🔹
 vless://81744eb1-272e-4358-8b5d-617ea348e4a8@45.152.115.52:29064?path=/&security=none&encryption=none&type=ws#@VConfing
 vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch: @pPal03🤖جوین بدید🤖
@@ -502,4 +503,3 @@ vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087/?type=ws&encry
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@icv2ray
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@mehrosaboran
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@meli_proxyy
-vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#Telegram @v2rayng_fars
