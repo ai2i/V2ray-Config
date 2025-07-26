@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#Telegram+:+@Mrsoulb+🏳🏴
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#vipV2rayNGnp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🎀 @server_free2 🎀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
@@ -502,4 +503,3 @@ vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?security=&encry
 vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?security=none&encryption=none&headerType=none&type=tcp#@CanfigVip+🍕
 vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?security=none&encryption=none&headerType=none&type=tcp#Channel : @CaptalVpn 🏴
 vless://17953b21-65ee-4b59-bf8f-6ebe90601e85@51.38.207.189:2082?path=/&security=&encryption=none&host=refersion.com&type=ws#Channel id: @ShadowProxy66 🇫🇷
-vless://17953b21-65ee-4b59-bf8f-6ebe90601e85@51.38.207.189:2082?path=/&security=none&encryption=none&host=refersion.com&type=ws#Channel : @CaptalVpn 🏴🏳

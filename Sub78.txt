@@ -183,7 +183,6 @@
 
 
 
-
 #profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
@@ -503,3 +502,4 @@ vless://14FuseVPN----------ProxyPJ@pj.bestirstorei.top:62000?mode=gun&security=r
 vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com#Telegram:@config_proxy 🔥
 vless://15FuseVPN----------ProxyPJ@pj.bestirstorei.top:62000?mode=gun&security=reality&encryption=none&authority=@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN&pbk=BiugAGWpcH4kTwIsUDeRh83FPxapxYfLuh4Gpi1Qb3s&fp=chrome&spx=/&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=116440bf#Telegram:@config_proxy 🔥
 vless://15FuseVPN----------ProxyPJ@pj.bestirstorei.top:62000?type=grpc&serviceName=32135vless&authority=@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@ProxyPJ------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN------@FuseVPN&security=reality&pbk=BiugAGWpcH4kTwIsUDeRh83FPxapxYfLuh4Gpi1Qb3s&fp=chrome&sni=journalofbigdata.springeropen.com&sid=116440bf&spx=/#Telegram:@config_proxy 🔥
+vless://2d37cd89-d6e5-4d58-a688-8b0208a48e6e@vioVPN.viocompany.site:443?encryption=none&security=tls&sni=viowpn.viocompany.site&alpn=h3,h2,http/1.1&fp=chrome&allowInsecure=1&type=xhttp&host=viowpn.viocompany.site&mode=auto#t.me/entryNET/config=1837876176463027
