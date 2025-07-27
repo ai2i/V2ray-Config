@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.5:443?path=/proxyip=robin.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#@warp_city
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?encryption=none&security=tls&sni=simorgh.hpcode.ir&fp=chrome&type=ws&host=simorgh.hpcode.ir&path=/Javid-SHAH-KingRezaPahlavi/?ed=#@Daily_Configs
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#@Daily_Configs
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
@@ -503,3 +502,4 @@ vless://08cca313-4f8b-4389-8fab-63684675d52b@www.parspack.com:8080?type=httpupgr
 trojan://telegram-id-directvpn@13.37.64.205:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40directvpn%20%7C%2015
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&allowinsecure=0&type=ws&sni=vpn.stupidworld.web.id#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40dnsforyou%20%7C%208
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40elitevpnv2%20%7C%209
+vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?type=ws&path=%2F%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40evay_vpn%20%7C%2019

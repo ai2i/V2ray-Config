@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vmess://ewogICAgImFkZCI6ICJ0d2p4bG5ub2xqeGMyLmpraGtnai54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJmaWxlLmRpbmd0YWxrLmNvbSIsCiAgICAiaWQiOiAiM2NmNzliY2EtNDFlMy00N2Q1LWJhNjctODdhNjlhMWE5ZTU5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL21hcmtldC90dz9lZD01MTIiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e58J+HvFRXLTExMS4yNDcuNDEuMzgtMTA4OSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%F0%9F%87%A6%F0%9F%87%B7AR-38.54.45.129-0280
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@171.22.254.17:989#%F0%9F%87%B2%F0%9F%87%B9MT-171.22.254.17-0284
 vmess://ewogICAgImFkZCI6ICJ0d2p4bG5ub2xqeGMyLmpraGtnai54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ0d2p4bG5ub2xqeGMyLmpraGtnai54eXoiLAogICAgImlkIjogIjNjZjc5YmNhLTQxZTMtNDdkNS1iYTY3LTg3YTY5YTFhOWU1OSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9tYXJrZXQvdHc/ZWQ9NTEyIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HufCfh7xUVy0xMTEuMjQ3LjQxLjM4LTUwNjAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJmaWxlLmRpbmd0YWxrLmNvbSIKfQ==
@@ -485,6 +484,7 @@ vless://e2b05272-cd21-442b-a16c-a014eab6a00f@1750158741.tencentapp.cn:443?mode=m
 
 
 hysteria2://0151af46-04a6-42da-a09c-c5940c57186b@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A226.55%20GB
+
 
 
 

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@25.129.198.77:8880?path=/&security=none&encryption=none&host=free.cfdns.online&type=ws#@warp_city
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@88.216.69.77:8880?path=/&security=none&encryption=none&host=free.cfdns.online&type=ws#@warp_city
 vless://411c949a-1860-42c7-8ade-2d84cc3546c4@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=&encryption=none&host=Babakari.ir&type=ws#@varn_Net
 vless://411c949a-1860-42c7-8ade-2d84cc3546c4@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=&encryption=none&host=Zenedmm.ir&type=ws#دالتون
@@ -503,3 +502,4 @@ vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=/&security=
 vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=/&security=none&encryption=none&type=ws#🇷🇺Russia-@Filter_breaker
 vless://5e9c9edd-add9-4963-8c6b-ff0804f5dcca@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=&encryption=none&host=adddasaad.com&type=xhttp#دالتون🖤
 vless://5e9d0152-b022-400d-fd73-7c3a97b3f362@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#@V2RAYROZ
+vless://5eb0c157-07fc-4cf2-bc48-640a96a9f99c@104.17.148.22:443?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=pamchall.com&fp=chrome&type=ws&sni=PamcHalL.coM#@icv2ray

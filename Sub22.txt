@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🛡️ @FreakConfig
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@vipV2rayNGnp
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
@@ -503,3 +502,4 @@ vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=/azadnet1-
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&security=tls&encryption=none&host=azadnet1-706.pages.dev&fp=chrome&type=ws&sni=azadnet1-706.pages.dev#IRAN 176 (@Outline_Vpn) free
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&security=tls&encryption=none&host=azadnet1-706.pages.dev&fp=chrome&type=ws&sni=azadnet1-706.pages.dev#IRAN 263 (@Outline_Vpn) free
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&security=tls&encryption=none&host=azadnet1-706.pages.dev&fp=chrome&type=ws&sni=azadnet1-706.pages.dev#IRAN 314 (@Outline_Vpn) free
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&security=tls&encryption=none&host=azadnet1-706.pages.dev&fp=chrome&type=ws&sni=azadnet1-706.pages.dev#IRAN 331 (@Outline_Vpn) free

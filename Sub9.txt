@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://23b98ecb-e2be-481d-9708-f90259f925db@online.4zkaban.xyz:80?encryption=none&headerType=none&type=ws&path=@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config&host=13.ok-config-19.buzz#🇩🇪 @Freedom_Config تلگرام(1)
 vless://23c4b3a7-c254-4f59-b019-c0b50e211c20@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#✅ Telegram | @Green_WPN
 vless://23f340e3-1709-40e2-b4ec-c42cd57a05dd@151.101.3.8:80?type=xhttp&mode=auto&host=joinshhproxybede.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#🇩🇪 Telegram @SRCVPN
 vless://23f73698-810f-412d-a105-801a8d95725e@pishgam.sdcards.ir:8080?type=ws&path=/Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---@bluVPNir?ed=2087&host=amiri2.server-dev2.ir&security=none#𝑱𝒐𝒊𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎⧴ @bluVPNir
@@ -503,3 +502,4 @@ vless://2eb9c669-6ea3-42a1-861f-d30669cbfc01@172.66.40.99:8880?path=/telegram-CO
 vless://2ebdc8ed-7b96-4839-b32f-b5d21a11f320@181.214.99.36:443?security=reality&encryption=none&pbk=zguKemuiateh9w_YrRsbWEwm94KaNd-fAUxuZMR1p2c&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=docker.com&sid=781c#🇩🇪 | @External_Net
 vless://2ece0f4a-bb37-42ab-8a91-b6c43de8e6d5@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-25Mordad-Night
 vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@185.232.152.148:1501?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@185.232.152.148:1501?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Join To @IRAN_V2RAY1

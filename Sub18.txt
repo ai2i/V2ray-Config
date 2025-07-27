@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9a692899-635e-49d8-9f4b-4cf40c06235c@new.had.happen.unable.uneasy.drawings.can.connak.xyz:4434?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=picture.removal.detract.earnest.is.by.esteems.doit.connak.xyz&fp=chrome&type=ws&sni=picture.removal.detract.earnest.is.by.esteems.doit.connak.xyz#✅@v2rayngsupbot
 vless://9a75dcc5-c651-4e60-9b5e-f16ff412004f@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#3j3w5khl
 vless://9a75dcc5-c651-4e60-9b5e-f16ff412004f@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#3j3w5khl  🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 vless://9a7ac68e-d1c1-4544-8d85-f8a9f95e6060@94.232.168.16:30501?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
@@ -503,3 +502,4 @@ vless://Parsashonam-284@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsas
 vless://Parsashonam-284@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none=ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann&host=De.Parsashonam.CfD.&type=httpupgrade#Telegram:@config_proxy 🔥
 vless://Parsashonam-284@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam 🇩🇪
 vless://Parsashonam-284@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam 🇩🇪     حتما ipv6 فعال باشه
+vless://Parsashonam-284@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@v2rayNGcloud🇩🇪
