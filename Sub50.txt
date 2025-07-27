@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+
 vless://a01ca7c1-ecb0-44b6-9fe0-fbdfcc7f19bd@de-1-cbt.medicaldream.ir:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=de-1-cbt.medicaldream.ir&encryption=none#Rayan%20-%20CBT%20-%20DE%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
 
 
@@ -502,4 +503,3 @@ vless://375deee9-50a5-4e9b-be57-fa12908d5497@node.kesslershop.ir:8990?security=r
 vless://37c38568-d2fb-46f4-a107-ca15890f5cdf@em-3.webnama.com.tr:1429?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Telegram:@config_proxy 🔥
 vless://37c38568-d2fb-46f4-a107-ca15890f5cdf@em-3.webnama.com.tr:1429?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Telegram:@config_proxy 🔥
 vless://37c38568-d2fb-46f4-a107-ca15890f5cdf@em-3.webnama.com.tr:1429?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#t.me/entryNET/config=1838013076726960
-vless://3afb0e5d-5c7f-40e9-9d02-046fbd4c87aa@0ger.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#@Moft_Vpn کانال
