@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?encryption=none&security=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AUS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%3E%3E%40v2ray1_ng%3A%3ANL
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?encryption=none&security=tls&sni=JuOf8QfKy3.VpBeThOrVp002.InFo&type=ws&alpn=h3h2&host=JuOf8QfKy3.VpBeThOrVp002.InFo&path=/#%3E%3E%40DailyV2RY%3A%3ANL
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AFR
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#%3E%3E%40v2ray1_ng%3A%3AUS
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443#%3E%3E%40free4allVPN%3A%3AJP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@Peweza1.digipedia.shop:443#%3E%3E%40v2rayngvpn%3A%3AGB
@@ -476,6 +472,10 @@ vless://f0784a01-0a59-5711-a093-48add864588f@45.12.139.51:443?security=tls&sni=z
 vless://f0784a01-0a59-5711-a093-48add864588f@www.speedtest.net:443?security=tls&sni=lu-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lu-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20LU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
 vless://f9bac203-a7cd-561a-bc86-2c98cd68eea2@45.12.144.8:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.12.144.8&encryption=none#Rayan%20-%20SSM%20-%20LU%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
+
+
+
 
 
 

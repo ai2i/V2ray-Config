@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d6ef62e3-4a1a-57f5-b851-3151a124d85e@151.101.66.133:443?security=tls&sni=clearcreditrepair.com&type=ws&host=Eliv2-Elena.cOm&fp=chrome#t.me/entryNET/config=1838000244666442
-vless://da0cbc2d-a897-4ec8-a27c-4e56dab774ed@www.parsvds.com:2096?path=/2096/@V2RayyNGVpn&security=tls&alpn=h2,http/1.1&encryption=none&host=rEDzOnE.MirAcLehEaRTbIt.ICu&fp=chrome&type=ws&sni=rEDzOnE.MirAcLehEaRTbIt.ICu#🇨🇵@V2RayyNGvpn کانال ما در تلگرام 🇨🇵همراه‌اول-ایرانسل
-vless://db99effc-adc7-458c-ba49-8fb22d2af363@tnl4.lalash.ir:58519?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#عبور نت 🌐 | کانفیگ بیشتر: @Oboornet 🚀
-vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=&encryption=none&headerType=&type=tcp#Telegram:@config_proxy 🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc#@ff_kikor  🇲🇫
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820971350283180.belgrade-shledrc-acbs.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#t.me/entryNET/config=1837998859087457
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#t.me/entryNET/config=1837998857751437
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@ff_kikor  🇲🇫
@@ -404,6 +399,7 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:4447?sni=www.baidu.com#%
 ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:53248?sni=www.baidu.com#%E6%9C%AA%E7%9F%A59
 trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#%E6%9C%AA%E7%9F%A510
+ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://da631e61-bead-4c9c-8bd7-7bea82f736ae@js-12f83a8c.kaiqsz.com:12221?sni=nkrpjj.cn#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
 trojan://trojan@91.193.58.0:443?type=ws&sni=wahaha.yingyangkuaixian.dpdns.org&path=/&host=wahaha.yingyangkuaixian.dpdns.org#%E6%9C%AA%E7%9F%A511
 trojan://tg-fq521free@194.76.18.129:443?type=ws&sni=torjan.xn--xhq44j.eu.org&path=/&host=torjan.xn--xhq44j.eu.org#%E6%9C%AA%E7%9F%A512
@@ -503,3 +499,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@176.124.223.213:8880?allowInsecure=
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.8.211.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#RU_speednode_0108
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.174.138.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#RU_speednode_0109
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.142.120.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/#RU_speednode_0111
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.8.211.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/#RU_speednode_0112
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@91.209.253.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#SA_speednode_0113
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.83.2.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#SC_speednode_0114
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.83.2.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#SC_speednode_0115

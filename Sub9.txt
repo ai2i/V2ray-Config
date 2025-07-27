@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@138.199.232.36:2087?mode=gun&security=tls&encryption=none&type=grpc#@meli_proxyy
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.100.113:2020/?type=tcp&encryption=none&flow=#@SaghiVpnX[🇩🇪]
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.100.113:2020?security=none&encryption=none&headerType=none&type=tcp#@AblNet7🇩🇪 Germany tcp (4e0)
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.207.238:2020?security=none&encryption=none&headerType=none&type=tcp#@AblNet7🇩🇪 Germany tcp (4e0)
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.207.238:2020?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?security=none&encryption=none&headerType=none&type=tcp#@AblNet7🇩🇪 Germany tcp (4e0)
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.34.181.192:2020/?type=tcp&encryption=none#@SaghiVpnX[🇩🇪]
@@ -503,3 +499,7 @@ vless://2f6062b4-47a8-4e7e-a45f-890bd05b7964@65.109.208.147:46980?type=grpc&serv
 vless://2f622084-d2a9-4b7c-cffb-137397c2b855@dach.cloudflare.com.snaap.irazzkiiranhob.pleasecheckout.blaackgame.ir:29183?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@NETMelliAnti
 vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@01tu.speedgloobalontop.ir:2053?security=none&type=grpc&headerType=&serviceName=2053vless&authority=&mode=gun#https://t.me/confing_chanel
 vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@fran.speedgloobalontop.ir:2053?security=none&type=grpc&headerType=&serviceName=2053vless&authority=&mode=gun# https://t.me/confing_chanel
+vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@hibbb.fast.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=spuul.global.ssl.fastly.net&type=xhttp#لهستان 🇵🇱 @V2xay
+vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@hibbb.fast.hosting-ip.com:80?security=none&type=xhttp&headerType=&path=/&host=sdkdsd2.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}# https://t.me/confing_chanel
+vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@hibbb.fast.hosting-ip.com:80?security=none&type=xhttp&headerType=&path=/&host=spuul.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#https://t.me/confing_chanel
+vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@pscresearch.faculty.ucdavis.edu:443?path=ws/?ed=2048&security=tls&encryption=none&host=uivtfybyi.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#کانال+ما+در+تلگرام+@Asak_Vpn+💛

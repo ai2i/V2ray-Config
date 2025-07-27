@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://telegram-id-directvpn@63.179.35.160:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@63.180.0.166:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&host=pangpi.pages.dev&path=/#Telegram : @Ezaccess1 Server : USA
-vless://007d3ef7-b3cb-4681-917e-c5edeebdbb6c@94.183.158.12:8083?path=/&security=&encryption=none&type=ws#Telegram:@config_proxy 🔥
-vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@162.159.136.234:2053?security=tls&sni=sub1.ailreza.org.tr&type=grpc&serviceName=2053vless&fp=chrome#Telegram:@config_proxy 🔥
 vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@194.76.18.253:2087?security=tls&sni=qauuf2.telzirrr.com.tr&type=grpc&serviceName=2087vless&fp=chrome#Telegram:@config_proxy 🔥
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=/&security=none&encryption=none&type=ws#Telegram:@config_proxy 🔥
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=/&security=none&encryption=none&type=ws#t.me/entryNET/config=1838019307261450
@@ -502,4 +497,9 @@ vless://48cae1f8-87f9-4553-aa68-ac5c58175c3d@es-1-rvp.medicaldream.ir:443?securi
 vless://50be692b-06ba-5536-a993-556df69b96ab@lu-1-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lu-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20LU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://50be692b-06ba-5536-a993-556df69b96ab@www.speedtest.net:443?security=tls&sni=lu-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lu-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20LU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+
+vless://56ed7930-c400-5c8b-8eba-e888a329204b@ca-1-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ca-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20CA%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
+
+vless://57511480-2d8d-58db-bfff-7267260383f2@hu-1-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=hu-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20HU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 

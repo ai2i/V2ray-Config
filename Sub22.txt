@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=/&security=&encryption=none&type=ws#🔗 Telegram : @Viturey 🔒
-vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=/&security=none&encryption=none&type=ws#آلمان 🇩🇪 @V2xay
-vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=/&security=none&encryption=none&type=ws#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws#🅼🅴🅷🅳🅸
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/# @confing_chanel
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/#🅼🅴🅷🅳🅸
@@ -503,3 +499,7 @@ vless://cec135d5-fcce-4c9e-c5f4-d94744055291@tgju.org:80?path=/olem/ws?ed=1024&s
 vless://cec135d5-fcce-4c9e-c5f4-d94744055291@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://cec135d5-fcce-4c9e-c5f4-d94744055291@www.speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#🌐 @server_free2 🌐
 vless://cec135d5-fcce-4c9e-c5f4-d94744055291@www.speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://cec135d5-fcce-4c9e-c5f4-d94744055291@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
+vless://ced20efa-802d-4589-a91f-26947496c81f@172.67.21.2:80?path=/&security=&encryption=none&host=q3.19kala.co&type=ws#⚜️Telegram: @IP_CF
+vless://ced20efa-802d-4589-a91f-26947496c81f@172.67.21.2:80?path=/&security=none&encryption=none&host=q3.19kala.co&type=ws#@v2ray313 کانالمون 💞
+vless://ced20efa-802d-4589-a91f-26947496c81f@188.114.99.42:80?path=/&security=&encryption=none&host=q3.19kala.co&type=ws#⚜️Telegram: @IP_CF

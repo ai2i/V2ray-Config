@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=igap.net&headerType=none&type=tcp#Channel@vmessorg
-vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=igap.net&headerType=none&type=tcp#فنلاند 🇫🇮 @V2xay
-vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=igap.net/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
-vless://06618506-461f-46dc-a16d-1742e25e7f41@77.110.126.69:2052?security=none&encryption=none&host=gharar.ir&headerType=none&type=tcp#آمریکا 🇺🇸 @V2xay
 vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?flow=&type=tcp&headerType=none&security=none# https://t.me/confing_chanel
 vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?flow=&type=tcp&headerType=none&security=none#Channel : @Unlimiteddev ✅
 vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=&encryption=none=#@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&headerType=none&type=tcp#@bored_vpn
@@ -503,3 +499,7 @@ vless://16c851d3-49e8-4524-8ef5-50b8115c74c4@Www.speedtest.net:2095?type=httpupg
 vless://16d00cc0-90c9-4aa0-be1a-f862effc069a@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#@v2ray313 کانالمون 🫰🏻
 vless://16d00cc0-90c9-4aa0-be1a-f862effc069a@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org=e54b5ad736ae4c38#@Alfa_v2ray_ng کانالمون 🫰🏻
 vless://16d7a04d-e6f4-479f-8914-80d3817317f9@104.21.17.92:443?path=/azarbayjab1.tab.net?ed=2560&security=tls&encryption=none&host=ed19-dc7.pages.dev&type=ws&sni=ed19-dc7.pages.dev#@Alfa_v2ray_ng کانالمون 🇨🇦
+vless://16d7a04d-e6f4-479f-8914-80d3817317f9@104.21.17.92:443?path=/azarbayjab1.tab.net?ed=2560&security=tls&encryption=none&host=ed19-dc7.pages.dev&type=ws&sni=ed19-dc7.pages.dev#@HIBYEVPNN
+vless://16d7a04d-e6f4-479f-8914-80d3817317f9@104.21.17.92:443?path=/azarbayjab1.tab.net?ed=2560&security=tls&encryption=none&host=ed19-dc7.pages.dev&type=ws&sni=ed19-dc7.pages.dev#@ShadowProxy66 🇨🇦
+vless://16d7a04d-e6f4-479f-8914-80d3817317f9@104.21.17.92:443?path=/azarbayjab1.tab.net?ed=2560&security=tls&encryption=none&host=ed19-dc7.pages.dev&type=ws&sni=ed19-dc7.pages.dev#@meli_proxyy
+vless://16d7a04d-e6f4-479f-8914-80d3817317f9@104.21.17.92:443?path=/azarbayjab1.tab.net?ed=2560&security=tls&encryption=none&host=ed19-dc7.pages.dev&type=ws&sni=ed19-dc7.pages.dev#@v2ray313 کانالمون 🇨🇦
