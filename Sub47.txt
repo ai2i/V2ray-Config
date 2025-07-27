@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e2b05272-cd21-442b-a16c-a014eab6a00f@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A58.24+GB
-
-vless://e2b05272-cd21-442b-a16c-a014eab6a00f@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-09-18
-
-vless://e2b05272-cd21-442b-a16c-a014eab6a00f@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B8-%E9%98%BF%E4%BB%80%E6%9C%AC-CDN+%7C+1x
 
 vless://e2b05272-cd21-442b-a16c-a014eab6a00f@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A13+%E5%A4%A9
 
@@ -503,3 +498,8 @@ vless://0ee990e4-d854-483f-ac4b-d920d0909601@cellone.learn-new.ir:443?security=r
 vless://0ee990e4-d854-483f-ac4b-d920d0909601@cellone.learn-new.ir:443?security=reality&alpn=http/1.1&encryption=none&pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=khanacademy.org&sid=6acf3ba5790e4324#t.me/entryNET/config=1838021633174669
 vless://10bf842c-ff96-4460-b18c-55d4c3740fc9@91.98.21.58:18606?type=grpc&serviceName=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&authority=&security=reality&pbk=9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram:@config_proxy 🔥
 vless://11270c97-b53d-41af-ad40-25bc1b2713fd@nl1vip.vnetplus.click:20062?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
+vless://1404482e-8278-4df9-91e6-d8826a137a28@Svir1.craftedsmp.ir:443?security=none&encryption=none&host=anten.ir&headerType=none&type=tcp#Telegram:@config_proxy 🔥
+vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=/jmgjhhws#/Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=638874929583954786.zagreb-prx-dnraaad.info#@MARAMBASHI 🇧🇷🐳
+vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@198.62.62.4:2096?encryption=none&security=tls&sni=638878462229596707.ahvaz-prx-dnraaad.info&type=ws&host=638878462229596707.ahvaz-prx-dnraaad.info&path=/jmgjhhws#Telegram : @Ezaccess1 Server : USA
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560/?BIA_CHANEL@RK_VPS&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#ᴬᴸᴸ³🇩🇪➣@Cook_Vpn
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560/?BIA_CHANEL@RK_VPS&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#ᴬᴸᴸ³🇩🇪➣@Cook_Vpn
