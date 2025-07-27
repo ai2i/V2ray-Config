@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.19.174.68:443?path=/@Rayan_Config&security=tls&encryption=none&host=rayan-08.leila.dpdns.org&fp=chrome&type=ws&sni=rayan-08.leila.dpdns.org#@Viturey 🔒
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@188.42.89.145:443?path=/@Rayan_Config&security=tls&encryption=none&host=rayan-12.leila.dpdns.org&fp=chrome&type=ws&sni=rAyAn-12.LeIlA.DpDnS.OrG#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@sourceforge.net:443?path=/@warp_city&security=tls&encryption=none&host=rayan-09.leila.dpdns.org&fp=chrome&type=ws&sni=rAyAn-09.LeIlA.DpDnS.OrG#@warp_city
-vless://7b1d4b91-d013-44e2-9247-37ccbbb92dec@ced17edd8f84d2e7.speedtest.net:80?path=/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN?ed=1024&security=none&encryption=none&host=v2netiran.life.&type=ws#🆔@V2NET_IRAN
-vless://7b5ea382-cbc6-4169-9f88-8200ca80c31a@104.24.135.129:2087?path=/?ed=2560&security=tls&encryption=none&host=fandouhuayuan.pages.dev&type=ws&sni=fandouhuayuan.pages.dev#🌟 @AblNet7 🌊💥
-vless://7b5ea382-cbc6-4169-9f88-8200ca80c31a@104.24.135.129:2087?path=/?ed=2560&security=tls&encryption=none&host=fandouhuayuan.pages.dev&type=ws&sni=fandouhuayuan.pages.dev#🔥@AblNet7 🇮🇷 نت ملی 🔥
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.107.193.169:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪Germany-@Filter_breaker
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@G0Dv2ray
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2RAYNG_1378
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ¹⁷🇩🇪➣@V2rayNGcloud
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ¹⁴🇩🇪➣@V2rayNGcloud
@@ -503,3 +495,11 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.242.104:443?path=/?ed=2560&s
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.242.104:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#⚡@Viturey
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#@CanfigVip+🍕
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#@V2RAYNG_1378
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#Channel id: @ShadowProxy66 🇨🇦
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#Telegram : @Confingman🎀2️⃣
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#Telegram:@ 🔥
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#ae_proxy
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#⭐@Viturey⭐
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#🟢 @server_free2 🟢
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?sni=kawaiifreevpn-7ds.pages.dev&fp=chrome&host=kawaiifreevpn-7ds.pages.dev&type=ws&security=tls&path=/?ed=2560&encryption=none#Telegram-@vmesskhodam

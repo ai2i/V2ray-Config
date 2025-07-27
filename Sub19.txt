@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8080/?type=httpupgrade&encryption=none&flow=&path=/?---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/#🔷🆔@v2ray_configs_pool🔷
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?path=/&security=tls&encryption=none&type=ws#@AblNet7🇬🇧 United Kingdom ws tls (f69)
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.72:2052/?type=ws&encryption=none&flow=&path=/?---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.72:2082/?type=ws&encryption=none&flow=&path=/?---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.72:8080/?type=httpupgrade&encryption=none&flow=&path=/?---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=IaErIbZlCb.WaSaBi1.OrG&fp=chrome&type=ws&sni=IaErIbZlCb.WaSaBi1.OrG#🔗 Telegram : @Viturey 🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&encryption=none&host=EzPsSkBwR6.wAsAaBi2.OrG&type=ws&sni=EzPsSkBwR6.wAsAaBi2.OrG#@meli_proxyy
@@ -503,3 +498,8 @@ vless://V2RAXX-@speedtest.net:80?path=/Telegram,V2RAXX,Telegram,?ed=2048FILTERK0
 vless://V2rayNGFreeeV2rayNGFreee@151.101.67.8:80?mode=auto&path=/&security=none&encryption=none&host=V2rayNGFreee.global.ssl.fastly.net&type=xhttp#@EmpireVpn7🇩🇪
 vless://V2rayNGFreeeV2rayNGFreee@151.101.67.8:80?mode=auto&path=/&security=none&encryption=none&host=V2rayNGFreee.global.ssl.fastly.net&type=xhttp#@V2ray1_Ng
 vless://V2rayNGFreeeV2rayNGFreee@151.101.67.8:80?mode=auto&path=/&security=none&encryption=none&host=V2rayNGFreee.global.ssl.fastly.net&type=xhttp#Bya To @Iran_V2ray1
+vless://VIPNETWORK@85.133.253.243:443?security=&encryption=none&headerType=none&type=tcp#@HIBYEVPNN
+vless://VIPNETWORK@85.133.253.243:443?security=none&encryption=none&headerType=none&type=tcp#Config VIP @iran_v2ray1
+vless://VIPNETWORK@85.133.253.243:443?security=none&encryption=none&headerType=none&type=tcp#TELEGERAM : @PRUOXYI
+vless://VIPNETWORK@85.133.253.243:443?security=none&encryption=none&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay
+vless://VIPNETWORK@85.133.253.243:443?security=none&encryption=none&headerType=none&type=tcp#هلند 🇳🇱 @V2xay

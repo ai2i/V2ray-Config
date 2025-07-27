@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=&type=ws&path=/Etb1L6YUdZFZuTOr?ed=2560&host=VngSuPpLY.IP-Ddns.com&encryption=none#[🇺🇸]ae_proxy
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=&type=ws&path=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560&host=VngSuPpLY.IP-DdnS.com&encryption=none#[🇨🇦]ae_proxy
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=&type=ws&path=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560&host=VngSuPpLY.IP-DdnS.com&encryption=none#[🇹🇷]ae_proxy
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#⭐️ @server_free2 ⭐️
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&encryption=none&type=ws&host=VngSuPpLY.IP-DdnS.com&path=/Etb1L6YUdZFZuTOr?ed=2560#ChannelTelegram-@SpecialVpn
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&encryption=none&type=ws&host=VngSuPpLY.IP-DdnS.com&path=/Etb1L6YUdZFZuTOr?ed=2560#King_v2raay-code20
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&encryption=none&type=ws&host=VngSuPpLY.IP-DdnS.com&path=/Etb1L6YUdZFZuTOr?ed=2560#King_v2raay-code25
@@ -503,3 +498,8 @@ vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encr
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=ws#آلمان 🇩🇪 @V2xay
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=/Y-?ed&type=ws#@meli_proxyy
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=/Y-?ed&type=ws#Telegram : @Alfa_v2ray_ng 🔥
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?type=ws&path=/#ChannelTelegram-@SpecialVpn
+vless://f606713e-8725-417e-b055-0abd1d6608ae@185.143.234.120:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=arv46.digitalmanage.top&fp=chrome&type=ws&sni=arv46.digitalmanage.top#⚜️Telegram: @IP_CF
+vless://f6081d28-7147-4031-843e-c11a9b3a7d99@xs4.topsekan.site:39365?security=reality&encryption=none&pbk=INKAoULs5eGA2460GGQJbZEsNbhB6lDpiaej809IrRg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=f7#@meli_proxyy
+vless://f6081d28-7147-4031-843e-c11a9b3a7d99@xs4kh.topsekan.site:39365?security=reality&encryption=none&pbk=INKAoULs5eGA2460GGQJbZEsNbhB6lDpiaej809IrRg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com&sid=f7#@meli_proxyy
+vless://f633fabf-ee7e-4562-a2c2-459848818b29@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=Namaid4.global.ssl.fastly.net&path=/V3xhttp?ed=2048&mode=auto&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}#@CaV2ray ⚡️
