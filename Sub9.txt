@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2492c521-153a-40dd-8646-038d79b24487@87.248.152.60:26604?path=/&security=none&encryption=none&host=speedtest.net&type=ws#@ATOVPN
-vless://24a30783-adf9-4e8a-e072-fdaa3610115e@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#BINEXTIFY 🇩🇪 SPEED-bqh6pkj5w
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?path=/&security=tls&encryption=none&host=JuOf8QfKy3.VpBeThOrVp002.InFo&type=ws&sni=JuOf8QfKy3.VpBeThOrVp002.InFo#@KIA_NET👈کانال تلگرامی
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.124:2020?security=none&encryption=none&headerType=none&type=tcp#@AblNet7🇩🇪 Germany tcp (4e0)
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=none&encryption=none&headerType=none&type=tcp#@AblNet7🇩🇪 Germany tcp (4e0)
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@138.199.232.36:2087?mode=gun&security=tls&encryption=none&type=grpc#@meli_proxyy
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.100.113:2020/?type=tcp&encryption=none&flow=#@SaghiVpnX[🇩🇪]
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.100.113:2020?security=none&encryption=none&headerType=none&type=tcp#@AblNet7🇩🇪 Germany tcp (4e0)
@@ -503,3 +498,8 @@ vless://2f393071-ac9d-4510-916f-eed41b10d2b6@65.109.191.147:2087?security=none&e
 vless://2f4d52fd-b26c-4a4e-abd6-7b6777cb6ac5@37.152.183.131:35021?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@HiByeVPNN🩶
 vless://2f4d52fd-b26c-4a4e-abd6-7b6777cb6ac5@37.152.183.131:35021?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@NETMelliAnti
 vless://2f4d52fd-b26c-4a4e-abd6-7b6777cb6ac5@37.152.183.131:35021?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@i10VPN 🔥
+vless://2f52f66d-f375-45b1-8728-039675e43b2a@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-24Mordad-Night
+vless://2f6062b4-47a8-4e7e-a45f-890bd05b7964@65.109.208.147:46980?type=grpc&serviceName=/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray&authority=&security=reality&pbk=cLO22Vq2cIZoIKmLfvbNX5_PQi7G2QGY-XxzMFrGfRY&fp=chrome&sni=tgju.org&sid=6d58&spx=/#@BanV2ray🇫🇮 3
+vless://2f622084-d2a9-4b7c-cffb-137397c2b855@dach.cloudflare.com.snaap.irazzkiiranhob.pleasecheckout.blaackgame.ir:29183?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@NETMelliAnti
+vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@01tu.speedgloobalontop.ir:2053?security=none&type=grpc&headerType=&serviceName=2053vless&authority=&mode=gun#https://t.me/confing_chanel
+vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@fran.speedgloobalontop.ir:2053?security=none&type=grpc&headerType=&serviceName=2053vless&authority=&mode=gun# https://t.me/confing_chanel

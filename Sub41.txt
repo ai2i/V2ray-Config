@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a4a05a57-3eee-4566-9548-6363e780537b@45.93.168.118:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://a53dc24b-89ea-4d91-c9db-01f9c0f24e4d@bmi.raheaiande.ir:1001?security=reality&encryption=none&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&headerType=http&fp=chrome&spx=/join_telegram-@vpnserverrr/join_telegram-@vpnserverrr join_telegram-@vpnserverrr&type=tcp&sni=ea.com&sid=c7bc4d#🚀 @Alfa_v2ray_ng چنل تلگرام
 vless://a53dc24b-89ea-4d91-c9db-01f9c0f24e4d@bmi.raheaiande.ir:1001?type=tcp&path=/&headerType=http&security=reality&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&fp=chrome&sni=ea.com&sid=c7bc4d&spx=/join_telegram-@vpnserverrr/join_telegram-@vpnserverrr+join_telegram-@vpnserverrr#@vpnserverrr جوین شو لتگ نمونی
 vless://a544232b-b26e-4dee-a147-f77b2f66168e@172.235.136.133:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#@Merlin_ViP L887
@@ -503,3 +502,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.38:8080?path=/Telegram@
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.38:8080?path=/Telegram@Filter_breaker/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#جوین+شو+قطع+نشی+vpnserverrr@
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#@Selinc
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#@V2RAYROZ
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#@config_v2ray_vpn👈سرورهای

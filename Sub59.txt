@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=&encryption=none&host=TELEGRAM---@v2ray_configs_pools---@v2ray_configs_pools&headerType=none&type=tcp#✅@v2ray_configs_pools
-vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#Telegram:@config_proxy 🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc#✅@v2ray_configs_pools
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#✅@v2ray_configs_pools
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?encryption=none&security=none&type=grpc#✅@v2ray_configs_pools
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#✅@v2ray_configs_pools
@@ -503,3 +500,6 @@ vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=/L4h47GkKWsH
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@zzyd6dhd5.pet0er23mh21qq.com:8080?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=/&security=none&encryption=none&type=ws#Telegram:@config_proxy 💦
 vless://74569ce0-f8d2-4dd4-8081-13cf6ed39ecb@151.101.2.165:80?security=none&type=ws&host=leader-of-www.com&path=/@custom_config?ed=2048#Telegram:@config_proxy 🔥
+vless://7be6f000-96b7-401c-8241-7b79e9a74b01@185.143.233.120:80?type=ws&path=/#Telegram:@config_proxy 🔥
+vless://8d63bcfc-5759-4c6b-9189-9b32f2a10733@104.17.147.22:2086?security=none&type=httpupgrade&host=itsmymeowly.mashti.bloG.&path=/telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers?ed=2560#Telegram:@config_proxy 🔥
+vless://913e1424-c68d-4e96-ac5f-e7b6dfe79606@151.101.194.133:443?security=tls&sni=slate.com&type=ws&host=vpngaming.ir&path=/?ed=8192jokerrvpnTelegram :&fp=chrome&alpn=h2,http/1.1#Telegram:@config_proxy 🔥
