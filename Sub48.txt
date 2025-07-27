@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/8Zt3ENlar8SKeK3c/MTA5LjEyMC4xMzQuMTMz?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=sIMOWebSITEspEedtesT.Ir#t.me/entryNET/config=1838018548633295
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=simoWEbsiTESPEedTEST.ir#@MARAMBASHI 💚🌟
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=simoWEbsiTESPEedTEST.ir#Telegram:@config_proxy 🔥
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/F9Ngmzj1IMbW2Cyc/MTguMTgzLjE1OC4yMTE&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SiMOwEBsItESPEedTeSt.iR#t.me/entryNET/config=1838016165580383
@@ -501,5 +502,4 @@ vless://8de686ed-4e2e-46c5-b3b0-380a79d4f6fe@au-1-rvp.medicaldream.ir:443?securi
 vless://96312d09-772f-5a30-8ab6-1e056aec1536@za-1-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=za-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20ZA%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://97a87015-3c8f-578a-be69-72758aa86290@kr-1-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=kr-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20KR%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-
 

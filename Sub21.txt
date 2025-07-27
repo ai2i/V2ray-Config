@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b513838e-b2ed-41ed-a675-e4ca0428d6d1@78.109.193.198:59722?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp #[@Filter_breaker] vless-DE
-vless://b513838e-b2ed-41ed-a675-e4ca0428d6d1@78.109.193.198:59722?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#Telegram@vmessorg
-vless://b513838e-b2ed-41ed-a675-e4ca0428d6d1@78.109.193.198:59722?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#هلند 🇳🇱 @V2xay
-vless://b5283960-5edb-465b-95a2-3f431b9a9528@irc.testvp2.sbs:443?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=/?ed&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#Channel id: @ShadowProxy66 🇨🇷
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=/?ed=2560fp=chrome&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#@AZARBAYJAB1 🇨🇷
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=/?ed=2560fp=chrome&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#@ShadowProxy66 🇨🇷
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=/?ed=2560fp=chrome&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#Channel : @Mrsoulb 🏴🏳
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=/?ed=2560fp=chrome&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#IRAN 295 (@Outline_Vpn) free
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=/?ed=2560fp=chrome&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?security=tls&sni=bitget1.asdasd.click&type=ws&path=/?ed&host=bitget1.asdasd.click&packetEncoding=xudp&encryption=none#@NetAccount
@@ -503,3 +495,11 @@ vless://c372b7b3-f0b9-4769-fef8-f2a1e3f293c3@171.22.173.206:28931?security=none&
 vless://c372b7b3-f0b9-4769-fef8-f2a1e3f293c3@171.22.173.206:28931?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://c372b7b3-f0b9-4769-fef8-f2a1e3f293c3@171.22.173.206:28931?type=tcp&security=none#Hich Net・+Free 3
 vless://c38b34be-e8db-4595-b89a-305127bd5d8f@104.16.53.11:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇩🇪🇩🇪
+vless://c38b34be-e8db-4595-b89a-305127bd5d8f@104.18.26.90:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇩🇪🇩🇪
+vless://c3975f60-60d4-4f14-9780-070ce18c1dda@172.66.44.183:443?path=/DoA9bvFjD83ix3v9?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=a-4km.pages.dev&fp=chrome&type=ws&sni=A-4Km.PaGEs.dEV#Telegram: @Alfa_v2ray_ng
+vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.177.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
+vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.178.25:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Germany 🇩🇪™ @confingam 📡
+vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
+vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@v2ray313 کانالمون 🫁
+vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#TELEGERAM : @PRUOXYI
+vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥

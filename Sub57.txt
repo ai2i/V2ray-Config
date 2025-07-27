@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a242f6a7-8a84-427a-a0fb-cc3b99b95cd3@hpcdn.info:80?path=/59163/wsmmad&security=&encryption=none&host=hpcdn.info&type=ws#t.me/entryNET/config=1837979857232889
 vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.224:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#@Academi_vpn 🇫🇮
 vless://a9ba25fe-6964-4c8b-84d9-88c3ee97e5cb@172.67.69.216:2083?security=tls&sni=mah.ailreza.org.tr&type=grpc&serviceName=telegramchannel-@free_v2rayyy-@free_v2rayyy-@free_v2rayyy-@free_v2rayyy-@free_v2rayyy#t.me/entryNET/config=1837976535240777
 vless://acabbca-abac-bcaa-dbac-ccbaacabcbba@127.0.0.1:1080?security=tls&type=tcp#Telegram:@config_proxy 🔥
@@ -502,4 +503,3 @@ trojan://100b5163-fbb8-425d-9621-44d119555aa4@104.21.75.120:2053?path=/trWCuRIwS
 trojan://172b2279-f7f5-4542-ab6c-9e96ad7dd5be@ni.mjt000.com:443?security=tls&sni=ni.mjt000.com&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
 trojan://176196e4-7cf7-4561-87a9-21a1b4e344be@de.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@54.238.13.27:443/?type=tcp&security=tls&allowInsecure=1#✅@v2ray_configs_pools
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=rc8.freeguard.org#✅@v2ray_configs_pools
