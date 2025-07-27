@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://6d68ba70-489d-11f0-8821-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤍
-trojan://6fef5ff0-48a4-11f0-b000-1239d0255272@sg3.6n6.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤩
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@V2ray1_Ng
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@v2ray313 کانالمون 🇩🇪
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Bya To @IRAN_V2RAY1
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Bya To @Iran_V2ray1
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#T.me/Asak_Vpn
-trojan://703790e0-4684-11f0-8851-1239d0255272@sg2.6n6.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💖
-trojan://726a3b60-4213-11f0-b67d-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤎
 trojan://73ccc600-489e-11f0-bc86-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🩶
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?type=tcp&security=tls#🇬🇧英国
 trojan://7c95b300-4213-11f0-8e4e-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💞
@@ -83,8 +74,6 @@ trojan://aba831c0-4213-11f0-a2d6-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://amclubs@103.160.204.1:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#@V2rayNG3
 trojan://auto@104.20.19.168:2083?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@V2rayNG3
 trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&path=/#🔷🆔@v2ray_configs_pool🔷
-trojan://auto@104.21.48.61:443?security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=nameless-term-9c25.vpnconnect202020.workers.dev&path=/?ed=2560#t.me/entryNET/config=1838792900741318
-trojan://auto@104.21.48.61:443?security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=nameless-term-9c25.vpnconnect202020.workers.dev&path=/?ed=2560#🔷🆔@v2ray_configs_pool🔷
 trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&path=/#🔷🆔@v2ray_configs_pool🔷
 trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=/#🔷🆔@v2ray_configs_pool🔷
 trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=/Telegram-@V2ray_Alpha/?ed=2560#🔷🆔@v2ray_configs_pool🔷
@@ -107,6 +96,7 @@ trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.
 trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=/tr?ed=2560#@Daily_Configs
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
+trojan://bpb-trojan@86.38.214.132:443?sni=bpb.my79801.com#t.me/entryNET/config=1838798311599768
 trojan://bpb-trojan@www.vpslook.com:443?path=/tr?ed=2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=chrome&type=ws&sni=bpb-hd.aaronchin.xyz#@V2rayNG3
 trojan://c0b08970-489c-11f0-8e92-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=fr1.test3.net#@hopev2ra🩵
 trojan://c25c4610-489e-11f0-bd10-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤍
@@ -212,7 +202,6 @@ trojan://telegram-id-privatevpns@63.177.166.9:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://tg-fq521free@216.24.57.30:443?path=/&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 trojan://tgegXRzYrR@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-m2uv025p
-trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&host=pangpi.pages.dev&path=/#🔷🆔@v2ray_configs_pool🔷
 trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&host=pangpi.pages.dev&path=/?ed=2560#t.me/entryNET/config=1838794727209422
 trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&host=pangpi.pages.dev&path=/?ed=2560#🔷🆔@v2ray_configs_pool🔷
 trojan://trojan@109.234.211.66:8443?path=/&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#@V2ray1_Ng
@@ -278,6 +267,7 @@ vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?path=/?JOKERRVPN_BI
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?path=/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=tls&alpn=http/1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=chrome&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#@i10VPN 🔥
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=chrome&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#@HiByeVPNN
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=chrome&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#@meli_proxyy
+vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?path=/?Join---YamYamProxy---Join---YamYamProxy---Join---YamYamProxy---Join---YamYamProxy?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=chrome&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#t.me/entryNET/config=1838798248384144
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.7.18:443?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=chrome&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#@HiByeVPNN
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.7.18:443?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=chrome&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#@meli_proxyy
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.7.18:443?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=chrome&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#[🇺🇸]ae_proxy
@@ -470,6 +460,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.28.202:22224?security=tls&sn
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.223.183:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.66.125:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.77.32:22224?sni=trojan.burgerip.co.uk&type=ws&security=tls&path=/telegram-channel-vlessconfig&encryption=none#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.77.32:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.65.149:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Telegram:@config_proxy 🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.233.194:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.254.90:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
@@ -503,3 +494,12 @@ vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=none&encry
 vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=gharar.ir&headerType=none&type=tcp#Telegram: @FergalVpnMod 🇫🇮
 vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=igap.net&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=igap.net&headerType=none&type=tcp#Channel@vmessorg
+vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=igap.net&headerType=none&type=tcp#فنلاند 🇫🇮 @V2xay
+vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=igap.net/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://06618506-461f-46dc-a16d-1742e25e7f41@77.110.126.69:2052?security=none&encryption=none&host=gharar.ir&headerType=none&type=tcp#آمریکا 🇺🇸 @V2xay
+vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?flow=&type=tcp&headerType=none&security=none# https://t.me/confing_chanel
+vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?flow=&type=tcp&headerType=none&security=none#Channel : @Unlimiteddev ✅
+vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=&encryption=none=#@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&headerType=none&type=tcp#@bored_vpn
+vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#@vmesskhodam
+vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#Bya To @IRAN_V2RAY1
+vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
