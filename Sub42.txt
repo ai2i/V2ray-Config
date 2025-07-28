@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?path=/&security=none&encryption=none&host=onlytesla1.xz027.com&type=ws#Telegram+:+@Mrsoulb+🏳🏴
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?path=/&security=none&encryption=none&host=onlytesla1.xz027.com&type=ws#☁️ @server_free2 ☁️
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@cloud.sarasimano.com:80?path=/&security=&encryption=none&host=onlytesla4.sarasimano.com&type=ws#@varn_Net
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@cloud.sarasimano.com:80?path=/&security=none&encryption=none&host=onlytesla4.sarasimano.com&type=ws#@V2RAYROZ
@@ -503,3 +502,4 @@ vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=/@warp_city
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=/@warp_city&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#@warp_city
 vless://dbc9b263-f858-44c1-af4f-4e4ee1723490@193.151.137.17:4411?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://dc1985a0-76ce-486f-b571-4b210aadbc8c@146.190.17.238:59365?mode=gun&security=reality&encryption=none&authority=/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=/JOKERRVPNBIA_CHANEL@JOKERRVPN&type=grpc&serviceName=Telegram:@FergalVpnMod&sni=cloudflare.com&sid=1e#@HiByeVPNN❤️‍🔥🌋
+vless://dc1985a0-76ce-486f-b571-4b210aadbc8c@146.190.17.238:59365?mode=gun&security=reality&encryption=none&authority=/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=/JOKERRVPNBIA_CHANEL@JOKERRVPN&type=grpc&serviceName=Telegram:@FergalVpnMod&sni=cloudflare.com&sid=1e#⁹𝗝𝗼𝗶𝗻➠@Alfa_v2ray_ng
