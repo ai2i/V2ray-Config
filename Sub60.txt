@@ -32,6 +32,12 @@
 
 
 
+
+
+
+
+
+
 hysteria2://76b6c695-3529-4ad8-a689-dfc6aec414e8@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A297.58%20GB
 
 
@@ -497,9 +503,3 @@ vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&enc
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#✅@v2ray_configs_pools
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#✅@v2ray_configs_pools
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none=ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----&host=zula.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
-vless://88e51db8-dd45-4fc6-8be9-20b89421841e@146.103.42.200:30001?security=none&encryption=none&headerType=http&type=tcp#✅@v2ray_configs_pools
-vless://88e51db8-dd45-4fc6-8be9-20b89421841e@94.182.131.91:30001?security=none&encryption=none&headerType=http&type=tcp#✅@v2ray_configs_pools
-vless://88e51db8-dd45-4fc6-8be9-20b89421841e@t.v2-sajad.xnet.com.de:30001?security=none&encryption=none&headerType=http&type=tcp#✅@v2ray_configs_pools
-vless://88f9173d-09b1-463a-99c8-e39852693cba@300232332.webnama.com.tr.privatepack.ir:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#✅@v2ray_configs_pools
-vless://8b262468-6e0d-46bf-b54f-32e6fae5af8b@sn434.nikatel.uno:8080?encryption=none&security=none&type=tcp&headerType=http&host=avidmehregan.com#✅@v2ray_configs_pools
-vless://8b262468-6e0d-46bf-b54f-32e6fae5af8b@sn434.nikatel.uno:8080?security=&encryption=none&host=avidmehregan.com&headerType=http&type=tcp#✅@v2ray_configs_pools
