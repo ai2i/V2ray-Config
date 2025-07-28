@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@gleeful-error.seotoolsforyou.co.uk:80/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%8D%AC6%40oneclickvpnkeys
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880/?type=ws&encryption=none&flow=&host=vngsupply.ip-ddns.com&path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560#%F0%9F%8D%AC49%40oneclickvpnkeys
 vless://7b5ea382-cbc6-4169-9f88-8200ca80c31a@104.24.135.129:2087/?type=ws&encryption=none&flow=&host=fandouhuayuan.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=fandouhuayuan.pages.dev#%F0%9F%8D%AC9%40oneclickvpnkeys
 vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443/?type=ws&encryption=none&flow=&host=nkAnG2rEpLACE.airlineSHoma.Com&path=%2F%3Fed%3D2560&security=tls&sni=nkAnG2rEpLACE.airlineSHoma.Com&fp=randomized#%F0%9F%8D%AC51%40oneclickvpnkeys
 vless://56497add-68ca-4500-b8e2-9f7003382bbe@104.26.7.214:443/?type=ws&encryption=none&flow=&host=rayan-fg-5.medicalhistory.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=rayan-fg-5.medicalhistory.filegear-sg.me#%F0%9F%8D%AC44%40oneclickvpnkeys
