@@ -3,27 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://40aaea42-f5cc-4831-857e-d27e698e71f9@23.81.33.86:41713?encryption=none&security=none&type=tcp&headerType=none#✅@v2ray_configs_pools
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@meli1.dashvili.ir:80?path=/&security=&encryption=none&type=ws#✅@v2ray_configs_pools
-vless://cec135d5-fcce-4c9e-c5f4-d94744055291@chat.deepseek.com:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#🍃
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.222.98:8880?path=%2FuLF6HXZ7986oF7Yg%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram+%3A+%40V2rayEnglish`
-vless://cec135d5-fcce-4c9e-c5f4-d94744055291@tgju.org:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#🍃
-vless://b962948d-6d78-4810-a8df-1b062a23cafe@62.212.70.94:2026?type=tcp&security=reality&pbk=U3dj7hcbexG-SmeG88Mdzr7-4aHk-r_IShG2EXTvXFI&fp=chrome&sni=zhaket.com&sid=e9&spx=%2F-%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420#%F0%9F%87%B3%F0%9F%87%B1%20%40EXPRESSVPN_420
-vless://7094df26-af60-41c4-afac-857060d1bab0@jealous-competition.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40%E1%B4%85%E1%B4%80%C9%AA%CA%9F%CA%8F_%E1%B4%84%E1%B4%8F%C9%B4%EA%9C%B0%C9%AA%C9%A2%EA%9C%B1
-vless://b962948d-6d78-4810-a8df-1b062a23cafe@62.212.70.94:2026?security=reality&encryption=none&pbk=U3dj7hcbexG-SmeG88Mdzr7-4aHk-r_IShG2EXTvXFI&headerType=none&fp=chrome&spx=%2F-%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420---%40EXPRESSVPN_420&type=tcp&sni=zhaket.com&sid=e9#%40%E1%B4%85%E1%B4%80%C9%AA%CA%9F%CA%8F_%E1%B4%84%E1%B4%8F%C9%B4%EA%9C%B0%C9%AA%C9%A2%EA%9C%B1
-vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@gleeful-error.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40%E1%B4%85%E1%B4%80%C9%AA%CA%9F%CA%8F_%E1%B4%84%E1%B4%8F%C9%B4%EA%9C%B0%C9%AA%C9%A2%EA%9C%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#✅@v2ray_configs_pools
-vless://b20c84f3-988c-489d-a93f-a42c26aa0c59@165.232.83.84:1500?security=reality&encryption=none&pbk=r7NlMeNf86iG8M1DF9WnU53xVx35pg1rRhLiEeW-618&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=springer-professional.com&sid=a93110#Telegram+%3A+%40V2rayEnglish`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#✅@v2ray_configs_pools
-vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@172.67.141.140:8880?path=%2FQaaLdIiGgWNoIxOF%3Fed%3D2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#Telegram+%3A+%40V2rayEnglish`
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?security=&encryption=none&type=grpc#✅@v2ray_configs_pools
-vless://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.Co.Uk:80?type=ws&path=/?@v2ray_configs_pools----@v2ray_configs_pools----@v2ray_configs_pools&security=none#✅@v2ray_configs_pools
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
-vless://d4363b0e-8672-43c6-af2a-30824d60e435@91.107.155.155:443/?type=grpc&encryption=none&flow=&serviceName=%40Silver_v2ray%40Silver_v2ray%40Silver_v2ray%40Silver_v2ray#%F0%9F%8D%AC8%40oneclickvpnkeys
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@147.185.161.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#%F0%9F%8D%AC45%40oneclickvpnkeys
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880/?type=ws&encryption=none&flow=&host=VngSuPpLY.IP-DdnS.com&path=%2F34COh9NCiin5SJMk%3Fed%3D2560#%F0%9F%8D%AC48%40oneclickvpnkeys
-vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@gleeful-error.seotoolsforyou.co.uk:80/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%8D%AC6%40oneclickvpnkeys
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880/?type=ws&encryption=none&flow=&host=vngsupply.ip-ddns.com&path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560#%F0%9F%8D%AC49%40oneclickvpnkeys
 vless://7b5ea382-cbc6-4169-9f88-8200ca80c31a@104.24.135.129:2087/?type=ws&encryption=none&flow=&host=fandouhuayuan.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=fandouhuayuan.pages.dev#%F0%9F%8D%AC9%40oneclickvpnkeys
 vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443/?type=ws&encryption=none&flow=&host=nkAnG2rEpLACE.airlineSHoma.Com&path=%2F%3Fed%3D2560&security=tls&sni=nkAnG2rEpLACE.airlineSHoma.Com&fp=randomized#%F0%9F%8D%AC51%40oneclickvpnkeys
 vless://56497add-68ca-4500-b8e2-9f7003382bbe@104.26.7.214:443/?type=ws&encryption=none&flow=&host=rayan-fg-5.medicalhistory.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=rayan-fg-5.medicalhistory.filegear-sg.me#%F0%9F%8D%AC44%40oneclickvpnkeys
