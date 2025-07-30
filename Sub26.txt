@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.131.154:8880?path=/C5itOz6YmbLanD7F?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🟢 Telegram: @Proxy_Tunnel
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.210.16:8880?path=/TJhZjFeb0fQLVntH?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@Alfa_v2ray_ng 23
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=/reklaz1FsDrIv7mW?ed=#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=/reklaz1FsDrIv7mW?ed=#Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@HiByeVPNN
@@ -503,3 +502,4 @@ vless://f0d79af5-d998-4831-a1f8-8c78533ee807@www.speedtest.net:8880?path=/ELiV2-
 vless://f0db879c-492e-452b-8c36-2a95bc27c36a@speedy.mooo.info:80?mode=auto&path=/&security=none&encryption=none&host=telegramv2rayng-matsuri2.ir&type=xhttp#🇮🇳telegram ➠ @v2rayNG_Matsuri
 vless://f0f717ee-9726-4b55-acd1-99869373d277@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@v
 vless://f112d8ce-052c-4f30-bb16-fa1a77f3fa24@kafshu.ir:8080?path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=none&encryption=none&host=inFo.laLezaRanegomaNandish.sNap.ir.snapfoodsuppoRt.onlIne.&type=ws#All🇩🇪@Rk_VPS
+vless://f11b2b93-7ced-425b-97f9-b3439af05485@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
