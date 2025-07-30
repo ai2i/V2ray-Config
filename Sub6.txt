@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://527a7c04-9a2c-4fdb-aa18-37337e62e917@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国04 付费推荐：https://dafei.de
 trojan://527a7c04-9a2c-4fdb-aa18-37337e62e917@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国05 付费推荐：https://dafei.de
 trojan://527a7c04-9a2c-4fdb-aa18-37337e62e917@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
 trojan://56d167a0-4213-11f0-af38-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🩵
@@ -282,6 +281,7 @@ vless://----telegram--ISVvpn----1@172.66.40.99:443?path=/telegram-@ISVvpn-telegr
 vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=dEv.IsVcLoD.cOm&fp=chrome&type=ws&sni=dEv.IsVcLoD.cOm#TLS-ALL | @ISVvpn
 vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=dEv.IsVcLoD.cOm&fp=chrome&type=ws&sni=dEv.IsVcLoD.cOm#Telegram : @Alfa_v2ray_ng 🔥
 vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=eDg.IsVcLoD.cOm&fp=chrome&type=ws&sni=eDg.IsVcLoD.cOm#TLS-ALL-@ISVvpn
+vless://-KINGOFV2RAY-@ftp55.basalam.eu:80?type=xhttp&path=&host=kingofspeed.ir&mode=auto&security=none#Telegram:@config_proxy 🔥
 vless://0001691a-e408-461c-9a09-96e46c156bdb@hydrovpnsrv1.craftedrpg.ir:443?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://0043c18f-c3a8-4762-9815-b54989eabdd5@Hh.somo44.sbs:8080?path=/hhvghhv&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree-MCİ
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?path=/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=tls&alpn=http/1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=chrome&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#@Hddify |∆| چنل هدیفای 🪐
@@ -363,6 +363,7 @@ vless://01666769-86df-494b-8105-8be44fce856e@binex.tv.sedanor.ir:2053?path=/tele
 vless://01666769-86df-494b-8105-8be44fce856e@binex.tv.sedanor.ir:2053?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=chess.com&security=none#BinexTify 🌟-ngc6x20uj
 vless://01763caa-bd69-47f8-89c4-031b2f0bd8ff@91.107.180.100:443?mode=gun&security=reality&encryption=none&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=/&type=grpc&serviceName=@SobyV2ray&sni=zula.ir&sid=f3#Channel@vmessorg
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#🔷🆔@v2ray_configs_pool🔷
+vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2RAYROZ
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@v2rayngzendegimamad🕊️
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Bya To @IRAN_V2RAY1
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Irancell-@SRCVPN-5
@@ -415,7 +416,6 @@ vless://033bb687-202b-40f1-81e0-400182ffb617@Filter5050.nabxcsjghjs2004.shop:221
 vless://034a08f5-0816-4591-8bb3-3fdf237f2463@www.speedtest.net:2096?type=xhttp&path=/test?ed=2096&host=pars.stepson.ir&mode=auto&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=pars.stepson.ir#Telegram:@config_proxy 🔥
 vless://037e0bcf-b483-4bf2-a41a-39ef4d32a463@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/kcknkyws#Telegram:@config_proxy 💦
-vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/kcknkyws#🔷🆔@v2ray_configs_pool🔷
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=/kcknkyws&security=tls&encryption=none&type=ws#@AblNet7🇫🇷 France
 vless://03c93f49-d573-4889-a4bb-187047c5a314@172.67.158.146:443?security=tls&sni=m7rtTYu.777169.xyz&alpn=http/1.1&fp=chrome&type=ws&path=/bstMMelSTch7YcAPgiEbt&host=7rttyu.777169.xyz&encryption=none#@awlix_ir
 vless://03fce470-fc3c-11ed-8366-1239d0255272@199.247.0.77:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vlgrpc&sni=us4.socifiles.com#:@Nax_Tm
