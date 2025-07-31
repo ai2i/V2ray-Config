@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#@HiByeVPNN❤️‍🔥⚡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#@SaghiVpnX[🇳🇴]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#@V2RAY_VMESS_free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#[🏁]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#⚡@Volt_Network | Norway Core 🇳🇴
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#🇳🇴Telegram: @v2rayng_fars
@@ -503,3 +500,6 @@ trojan://2NZOyeag5BS0jCwzwOAEnplZ8gDpYjSSe53lY8uIp6Rcq3alOBSYA8CeFDAZS3R3Ky39D@1
 trojan://3058cb40-34de-11f0-92d9-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🥰
 trojan://3123deb0-4684-11f0-8fc7-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💗
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#FNET00
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&host=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&sni=nacho-rerun-crepe.stark-industries.solutions#2🇩🇪➣@EVAY_VPN
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&security=tls&sni=chop-wrist-bud.stark-industries.solutions#@EVAY_VPN🇧🇪
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&security=tls&sni=nacho-rerun-crepe.stark-industries.solutions#@EVAY_VPN 🇸🇰

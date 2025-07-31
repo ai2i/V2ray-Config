@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@al-akhbar.com:443?security=tls&sni=rAyAn-P11.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-p11.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-5
-
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@alhilal.com:443?security=tls&sni=rAyAn-p11.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-p11.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-5
 
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@cdnjs.com:443?security=tls&sni=rAyAn-S08.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-s08.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
 
@@ -503,3 +500,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443?path=%2Ftelegram%40v2ray_configs_pools%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=configmr.pages.dev&fp=randomized&type=ws&sni=ConFIgmr.PaGeS.dEV#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?path=%2Ftelegram%40v2ray_configs_pools%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=configmr.pages.dev&fp=randomized&type=ws&sni=ConFIgmr.PaGeS.dEV#✅@v2ray_configs_pools
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@rusrv.vpnsparta.pro:57456#🇫🇮[@rat_leak]
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=IyFpLkXk17.jOoLaJoOlA.OrG&alpn=h3%2Ch2&fp=chrome&type=ws&host=IyFpLkXk17.jOoLaJoOlA.OrG&path=%2F#%40Daily_Configs
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#opennet_ir
