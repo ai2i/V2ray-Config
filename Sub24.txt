@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
+vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ @V2ray_persian21 | کانال ما 🇮🇷
+vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&headerType=none&type=tcp#🔐 @AblNet7 🧨
 vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@meli_proxyy
 vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&type=tcp&headerType=none#t.me/entryNET/config=1839175547088131
@@ -499,7 +503,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?encryption=non
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@HiByeVPNN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@V2ray_confing33
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 458 (@Outline_Vpn) free
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 471 (@Outline_Vpn) free
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#TELEGERAM : @PRUOXYI
