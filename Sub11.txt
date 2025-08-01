@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&sni=yahoo.com&fp=chrome&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&sid=788456bc&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
-vless://34dc5416-0787-4f5d-9774-47a55018806f@94.183.233.116:3801?security=none&encryption=none&headerType=http&type=tcp#@CUSTOMVPNSERVER🇩🇪
 vless://34dc5416-0787-4f5d-9774-47a55018806f@94.183.233.116:3801?security=none&encryption=none&headerType=http&type=tcp#@v2rayNGcloud🇩🇪
 vless://34f8e5f4-bfa1-4032-a978-8f397a401d39@45.154.2.169:28784?flow=&type=tcp&headerType=none&security=none#@vmessorg
 vless://3509e168-6f3a-4198-c54f-2bd50722a707@llliraniv2raylll.norooz.online:2053?encryption=none&security=reality&sni=debian.org&fp=chrome&pbk=wscu9HAw8PxIKK99_dBQDHn-RH3_Y7rLWB4Ju93r8UE&sid=de&spx=/@iraniV2ray&type=grpc&serviceName=@iraniV2ray&mode=gun#@iraniV2ray-irancell-channel
@@ -503,3 +501,5 @@ vless://4417f251-9872-46fa-97db-59b62cc46e99@www.parspack.com:80?path=/&security
 vless://441efc96-ef68-4c4f-b3e5-28ccc6934127@www.speedtest.net:8880?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=www.dollardoon.com&type=httpupgrade#@v2rayfast_7❤️‍🔥
 vless://441efc96-ef68-4c4f-b3e5-28ccc6934127@www.speedtest.net:8880?security=none&encryption=none&type=httpupgrade#17•Tel: @Confing_chanel
 vless://442cf841-17b6-4d09-9b5f-7fad9a35776d@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#🇩🇪+@Alfa_v2ray_ng+Test+ir-hamrah
+vless://4432ed67-5714-42b3-b92a-345be16ec596@hh.green1.sbs:9808?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay
+vless://4446438f-0165-46b7-a34a-78f9fa05b858@165.140.166.78:80?type=xhttp&path=/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal&host=v2raybluecrystal2.global.ssl.fastly.net&mode=auto&security=reality&pbk=dqlkA9vdT4i44_6BPI3svMo-27Yu_nqwCaKR9ua2NB8&fp=chrome&sni=journalofbigdata.springeropen.com&sid=6ccf3547aa54&spx=/#@v2raybluecrystal نت ملی 🇺🇸برای اتصال دائمی جوین شو

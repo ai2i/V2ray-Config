@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=hvxoo.metahkh.com#@V2rayNG3
-vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#@External_Net
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?type=tcp&headerType=http&host=testspeed-foreign.tci.ir#@configMs
 vless://188f1242-b0c0-4992-b480-1da44dae1700@freenet.vizzpn.shop.online.vizzfrag.ir:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#telegram: @vizzpn -  عضو کانال شو قطع نشی
@@ -503,3 +501,5 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.12.97.174:2020?security=none&enc
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.12.97.174:2020?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.12.97.174:2020?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.216.199:2020?security=&encryption=none&headerType=none&type=tcp#@confing_chanel
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.216.199:2020?security=none&encryption=none&headerType=none&type=tcp#@AblNet7🇩🇪 Germany tcp (4e0)
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.216.199:2020?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
