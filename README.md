@@ -11,29 +11,46 @@
 ## Usage
 👉 To use one of these configurations, simply open the configs.txt file located in the root directory. This file contains a list of links to various 2ray configuration files that you can use with your V2ray client. Copy [THIS LINK](https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt) link of the configuration file you want to use from the configs.txt file and import it into your V2ray client. Refer to your client's documentation for more information on how to do this.
 
+
 ❕If upper link didnt work for you , use this link instead : [All_Config_base64_Sub.txt](https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt)
 
 Just Copy these links to your client to use :
 
 Subscription 1: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt
 
+<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt" />
+
 Subscription 2: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt
+
+<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt" />
 
 Subscription 3: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt
 
+<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt" />
+
 Subscription 4: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt
+
+<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt" />
 
 Subscription 5: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt
 
+<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt" />
+
 Subscription 6: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub6.txt
+
+<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub6.txt" />
 
 Subscription 7: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt
 
+<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt" />
+
 Subscription 8: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt
+
+<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt" />
 
 🔒 To ensure the best possible performance and security, we recommend subscribing to our latest configurations using the subscription link feature. Simply copy the subscription link from the configs.txt file and paste it into your V2ray client to receive automatic updates every 10 minutes.
 
-🗂️ For easier configuration management, we have split the configuration files into individual files for each protocol and added them to the Splitted folder. To have easy access to separated Configs use this : 
+🗂️ For easier configuration management, we have split the configuration files into individual files for each protocol and added them to the Splitted folder. To have easy access to separated Configs use this: 
 
 Vmess: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vmess.txt
 
@@ -45,7 +62,7 @@ ShadowSocks: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Split
 
 ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ssr.txt
 
-❕If upper links didnt work for you , Checkout this folder: [Base64 Folder](https://github.com/barry-far/V2ray-config/tree/dev/Base64)
+❕If upper links didnt work for you, Checkout this folder: [Base64 Folder](https://github.com/barry-far/V2ray-config/tree/dev/Base64)
 
 ℹ️ Additionally, we have created a Wiki with detailed instructions on how to set up V2ray on different operating systems. Visit our Wiki for more information.
 
@@ -59,7 +76,7 @@ On Windows, we recommend using [Nekoray](https://github.com/MatsuriDayo/nekoray)
 On Android, we recommend using [V2rayNG](https://github.com/2dust/v2rayNG) or [HiddifyNG](https://github.com/hiddify/HiddifyNG) or [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid). To import a configuration file, open the app and click on the "+" icon in the bottom right corner. Then, select "Import Config from Clipboard" and paste the configuration link.
 
 ### 🍎 Mac and 📱 iOS
-On you Apple Device, we recommend using the [Streisand](https://apps.apple.com/us/app/streisand/id6450534064). To import the subscription link, simply open the app then at the yop of the page click "+" and choose "import from clipboard" then test configs with holding "subscription" part and choose "Latency" to check all configs. At the end , choose first config & connect.
+On you Apple Device, we recommend using the [Streisand](https://apps.apple.com/us/app/streisand/id6450534064). To import the subscription link, simply open the app then at the yop of the page click "+" and choose "import from clipboard" then test configs with holding "subscription" part and choose "Latency" to check all configs. At the end, choose first config & connect.
 
 You can also use these apps : [Foxray](https://apps.apple.com/us/app/foxray/id6448898396) , [ShadowRocket](https://apps.apple.com/ca/app/shadowrocket/id932747118) , [V2BOX](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) , [Streisand](https://apps.apple.com/us/app/streisand/id6450534064)
 
