@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8880?security=&type=ws&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&host=mastomosir.motorphrotan.ir.&encryption=none#[🇵🇱]ae_proxy
-vless://TELEGRAM-NUFiLTER@151.101.3.8:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&host=asebemee.global.ssl.fastly.net&type=xhttp#🇩🇪 Telegram @SRCVPN
 vless://TELEGRAM-NUFiLTER@srcvpn.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&host=Aame.global.ssl.fastly.net&type=xhttp#🇩🇪 Telegram @SRCVPN
 vless://TELEGRAM-NUFiLTER@srcvpn.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&host=asebemee.global.ssl.fastly.net&type=xhttp#🇩🇪 Telegram @SRCVPN
 vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=Aame.global.ssl.fastly.net&type=xhttp#@CaV2ray ⚡️
@@ -503,3 +501,5 @@ vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@PRActiCaL-CoMPlaint.SEoToolsFoRYOu.
 vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@PRActiCaL-CoMPlaint.SEoToolsFoRYOu.cO.uK:80?path=/&security=none&encryption=none&type=ws#@Selinc
 vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@practical-complaint.seotoolsforyou.co.uk:80/?type=ws&encryption=none&flow=&path=/?---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@practical-complaint.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#IR-@Iran_V2ray1
+vless://aae00dbc-244b-4e05-9627-3ffd43963df2@reality.aliv1.ir:8443?security=reality&encryption=none&pbk=frzz0Lcg1ykDwEgi9kxbW58K8TLITE5jl7W_DlAB10w&headerType=none&fp=chrome&type=tcp&sni=www.apple.com.cn&sid=a7a8683cee3b72bc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://aae00dbc-244b-4e05-9627-3ffd43963df2@reality.aliv1.ir:8443?security=reality&encryption=none&type=tcp&sni=www.apple.com.cn&sid=a7a8683cee3b72bc&fp=chrome&pbk=frzz0Lcg1ykDwEgi9kxbW58K8TLITE5jl7W_DlAB10w&headerType=none#Telegram:@king_v2raay
