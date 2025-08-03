@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-hysteria2://338bb7db-e7e0-4279-bf97-ff21b4c3fc67@jphub.xg-hub.icu:25781?sni=jphub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1#@v2ray_configs_pool
-hysteria2://338bb7db-e7e0-4279-bf97-ff21b4c3fc67@ukhub.xg-hub.icu:25785?sni=ukhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1#@v2ray_configs_pool
-hysteria2://3ee091ca-ab9c-11ef-a791-f23c9164ca5d@107.167.18.102:8443?sni=3233ac27-swin40-sxh7iw-1ryup.hy2.gotochinatown.net&insecure=1#@v2ray_configs_pool
 hysteria2://3f6e4e25-9b9d-4433-8964-21fa356d8a5f@bx.dport.top:33654?sni=bx.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1#@v2ray_configs_pool
 hysteria2://3f6e4e25-9b9d-4433-8964-21fa356d8a5f@hl.dport.top:33659?sni=hl.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1#@v2ray_configs_pool
 hysteria2://3f6e4e25-9b9d-4433-8964-21fa356d8a5f@rb.dport.top:33657?sni=rb.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1#@v2ray_configs_pool
@@ -503,3 +500,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfbmw=@nl-1.s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfc2c=@sg-3.stunnel.cc:8444#@V2ray_confing33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfc2c=@sg-3.stunnel.cc:8444#AstroVPN_Official 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfdHI=@tr-1.stunnel.cc:8444#AstroVPN_Official 🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfdXM=@us-1.stunnel.cc:8444#@HIBYEVPNN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfdXM=@us-1.stunnel.cc:8444#AstroVPN_Official 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fcHQ=@pt-1.stunnel.cc:8444#AstroVPN_Official 🇵🇹
