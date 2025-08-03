@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+hysteria2://30cd031e-b4a6-4bc7-a99a-9642259fdeff@flyyg.flylink.cyou:35240?insecure=1&sni=flyyg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#%40meli_proxyy
 hysteria2://4VDmo53kWX@185.219.81.33:18865?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal2
 hysteria2://4VDmo53kWX@185.219.81.33:20675?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal
 hysteria2://4VDmo53kWX@185.219.81.33:50757?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal3
@@ -502,4 +503,3 @@ hysteria2://d84be3ca-d0b6-4bd0-9b61-db86d7c65969@212.115.41.93:443?security=tls&
 hysteria2://e2QEtNgU9v@5.133.102.59:13222?fastopen=0&insecure=1&obfs=salamander&obfs-password=xfvg@FFG#v2raybluecrystal4-tur
 hysteria2://e2QEtNgU9v@5.133.102.59:28958?fastopen=0&insecure=1&obfs=salamander&obfs-password=FF#@GVgg#v2raybluecrystal3-tur
 hysteria2://e2QEtNgU9v@5.133.102.59:30062?fastopen=0&insecure=1&obfs=salamander&obfs-password=xfvgb@ssV#v2raybluecrystal-tur
-hysteria2://e2QEtNgU9v@5.133.102.59:41250?fastopen=0&insecure=1&obfs=salamander&obfs-password=vbn@ffFF#v2raybluecrystal2-tur
