@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-vless://117a6f94-26ca-5879-8b3d-e45c5f14cee7@41.216.182.162:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=41.216.182.162&encryption=none#Rayan%20-%20SSM%20-%20SE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-
 vless://117a6f94-26ca-5879-8b3d-e45c5f14cee7@www.speedtest.net:443?security=tls&sni=se-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=se-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20SE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
 vless://120594d1-5464-45bb-a79c-8271023578ba@148.113.207.224:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=148.113.207.224&encryption=none#Rayan%20-%20RVP%20-%20CA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
