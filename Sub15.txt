@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://742079d9-e7aa-4205-ae0f-bd3a94ecac18@bmi.raheaiande.ir:1001?security=reality&encryption=none&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&headerType=http&fp=chrome&type=tcp&sni=ea.com&sid=c7bc4d#@Alfa_v2ray_ng کانالمون 💖
 vless://742079d9-e7aa-4205-ae0f-bd3a94ecac18@bmi.raheaiande.ir:1001?security=reality&encryption=none&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&fp=chrome&type=tcp&sni=ea.com&sid=c7bc4d#🇩🇪 | @External_Net
 vless://74276b6a-b5bb-47a1-ab5e-c67ae7866bb4@speedtest.net:80?type=xhttp&host=kiosyour-name.global.ssl.fastly.net&path=/=BeFreeWithUs?ed=2048&mode=auto&security=none#Channel:@BeFreeWithUs
 vless://7445df1e-b5ec-46c3-ba7e-9f315b274c3e@185.221.64.12:666?security=&encryption=none&headerType=none&type=tcp#@SAVTEAM  | 🇹🇷
@@ -419,6 +418,7 @@ vless://7f9f019f-0471-4f8f-bffb-13bb7dfce2c3@speedtest.net:80?type=ws&host=befre
 vless://7fb1a822-bd72-4a27-b987-89a4dd398142@188.245.167.113:465?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
 vless://7fb76be6-fd3a-46a7-a571-0de9980aee62@104.237.138.213:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#🔥 @AblNet7 🇺🇸
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.221.1.125:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#Telegram:@config_proxy 🔥
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.222.132.216:2222?security=none&type=tcp#Telegram:@config_proxy 🔥
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv4.cloudjetm.com:2222?security=none&encryption=none&headerType=none&type=tcp#🌟Telegram:@Asak_Vpn
 vless://7fc9bb4b-36de-48f9-896a-7f99593bd808@104.16.53.11:8080?path=/Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs?ed=1048&security=&encryption=none&host=de-websocket.m1.www.speedtest.net.api.edge.net.avaaCAdo.iR.&type=ws#WS | @ipV2Ray
 vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&spx=/&type=tcp&headerType=none#Sv1_@FF_crony🇺🇸
