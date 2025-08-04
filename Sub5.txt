@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyV0tFMVV5UWlkYkxtWUNMdkZOYXdW@147.45.178.15:53122#DE 5 🇩🇪 | @v2xay
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyV0tFMVV5UWlkYkxtWUNMdkZOYXdW@h110vpnde2.outlinekeys.net:53122#@V2rayNGVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyV0tFMVV5UWlkYkxtWUNMdkZOYXdW@h110vpnde2.outlinekeys.net:53122#DE 1 🇩🇪 | @v2xay
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyV0tFMVV5UWlkYkxtWUNMdkZOYXdW@h110vpnde2.outlinekeys.net:53122#🛡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyV0tFMVV5UWlkYkxtWUNMdkZOYXdW@h110vpnde2.outlinekeys.net:53122#🛡️ @FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaVAzYUMwM0F4dlVFbURzdXNsSHV3@89.110.85.176:16432#🇳🇱@vpnserverrr👈کانال تلگرامی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaVAzYUMwM0F4dlVFbURzdXNsSHV3@89.110.85.176:16432?note=Telegram---@NetifyVPN#🇳🇱[Telegram:NetifyVpn]
@@ -140,6 +136,7 @@ ss://YWVzLTI1Ni1nY206bFA4bVdna0JiWEBvdXRsaW5lLmNvbHN2cG4udG9wOjQyMzk3#@ColsVPN |
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.95:443#کانال+ما+در+تلگرام+@Asak_Vpn+🌟
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#@V2rayNG3
 ss://YWVzLTI1Ni1nY206dzdiQ3I4S0tMeW5DaHNPcVVzS0RRTUtidzRBMEZNS1ZETU8xdzVrcndyMVh3NHZDaUNkNkc4T2lOVkp2d3BGNA==@51.178.43.237:8443#@warp_city
+ss://bm9uZTpAYnVsaWFuZzAw@1.1.1.1:6666#t.me/entryNET/config=1839533405199554
 ss://bm9uZTpmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzE=@aio.unlimited.biz.id:443?encryption=none&type=ws&host=aio.unlimited.biz.id&path=/aioproxybot/129.150.49.58-18650&security=tls&sni=aio.unlimited.biz.id#@warp_city
 ss://bm9uZTpmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzE=@aio.xtradata.dpdns.org:80?encryption=none&type=ws&host=aio.xtradata.dpdns.org&path=/aioproxybot/129.150.49.58-18650&security=none&sni=aio.xtradata.dpdns.org#@warp_city
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#@awlix_ir
@@ -365,6 +362,7 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@CanfigVi
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#خرید سرو نامحدود با بهترین سرعت @V2rayCafe_Support 🪽
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#𝗝𝗼𝗶𝗻 ➠ @V2rayNG_CaFe | کانال ما 🫆
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🛡️ @FreakConfig
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#r♡ya
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@warp_city&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@warp_city
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@Configology🕊2
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@Daily_Configs
@@ -421,7 +419,6 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sn
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.nolimit.dpdns.org:443?encryption=none&type=ws&host=aio.nolimit.dpdns.org&path=/aioproxybot/146.190.192.43-80&security=tls&sni=aio.nolimit.dpdns.org#@warp_city
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.nolimit.dpdns.org:443?path=/aioproxybot/146.190.192.43-80&security=tls&host=aio.nolimit.dpdns.org&type=ws&sni=aio.nolimit.dpdns.org#@Configology🧡4
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.nolimit.dpdns.org:443?path=/aioproxybot/146.190.192.43-80&security=tls&host=aio.nolimit.dpdns.org&type=ws&sni=aio.nolimit.dpdns.org#🛡️ @FreakConfig
-trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.nolimit.dpdns.org:443?path=/aioproxybot/146.190.192.43-80&security=tls&host=aio.nolimit.dpdns.org&type=ws&sni=aio.nolimit.dpdns.org#🛡️دig
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?encryption=none&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650&security=tls&sni=aio.zipzap.biz.id#@warp_city
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#@Viturey : تلگرام 🪐
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#@warp_city
@@ -503,3 +500,6 @@ vless://-----v2ray_fark-----@103.160.204.88:2096?type=grpc&serviceName=@v2ray_fa
 vless://-----v2ray_fark-----@103.160.204.92:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
 vless://-----v2ray_fark-----@103.160.204.92:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#l🇩🇪@v2ray_fark
 vless://-----v2ray_fark-----@103.160.204.92:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@104.16.199.186:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#l🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@104.16.199.186:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@104.16.48.41:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
