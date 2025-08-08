@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.58.220:80?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
-vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.68.198:80?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Tunder_vpn
-vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@85.9.210.1:80?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=BJ_LJz-7XsQGArgoPaY2JLKUyFbYUakOMXEfSTGwny4&fp=chrome&sni=yahoo.com&sid=89&spx=/#@meli_proxyy
 vless://31e18807-9671-47b9-9dea-6e2f6ecd8c54@5.75.203.66:39216?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=Google.com&pbk=efkIZIpJH8HUqshKjh6qoI8EC_MkDUR4fk_rjeH2zh0&sid=c0113423&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪@EVAY_VPN
 vless://31e18807-9671-47b9-9dea-6e2f6ecd8c54@5.75.203.66:39216?security=reality&encryption=none&pbk=efkIZIpJH8HUqshKjh6qoI8EC_MkDUR4fk_rjeH2zh0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=Google.com&sid=c0113423#@ev2rayy
 vless://320bc89e-2a48-42c4-b7b2-0f982342a9fe@5.181.3.169:2040?security=reality&encryption=none&pbk=hOt5bCyO5AwK6aGZKIOBR0U-wPgu_13HjvTMAfBgAT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#@V2RAY_VMESS_free
@@ -503,3 +500,6 @@ vless://42808c59-4d9e-46ee-a9c4-33e7c31ce9e3@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://42a0e2dd-e229-457e-ad56-56615e200c46@159.89.102.25:443?mode=auto&path=/FreeLife&security=reality&encryption=none&pbk=Ss50ROIQ6SHZLT06JF8iIH2pefO70fU41_LVZsweuRc&fp=chrome&spx=/&type=xhttp&sni=daisyui.com&sid=e5ce3799e8#🇩🇪 | @External_Net
 vless://42c6ca3b-b298-47f2-958d-ad386cf8289b@217.60.38.40:47460?path=/&security=none&encryption=none&type=ws#3@ai_duet
 vless://42cbed62-e83c-4239-a037-c905784505df@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
+vless://42ead82d-d6d7-4a94-9365-5be73f5d1bcc@57.129.129.41:54974?security=reality&encryption=none&pbk=F2WLUHR5RU2d2zifwKALTGkLLbIut1AjDKEAmx7OEW0&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=2075#🇬🇧⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @V2WRAY
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=/?ed=2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
