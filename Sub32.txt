@@ -4,24 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-hysteria2://86373f23-4618-48b8-830e-ec132559f835@mg.dport.top:33650/?insecure=1&sni=mg.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E7%BE%8E%E5%9B%BD
-
-hysteria2://86373f23-4618-48b8-830e-ec132559f835@rb.dport.top:33657/?insecure=1&sni=rb.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E6%97%A5%E6%9C%AC
-
-hysteria2://86373f23-4618-48b8-830e-ec132559f835@teq.dport.top:33658/?insecure=1&sni=teq.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%9C%9F%E8%80%B3%E5%85%B6
-
-
-
-
-
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir
-
-
-
-
-
-
-
 
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#Ai-2
