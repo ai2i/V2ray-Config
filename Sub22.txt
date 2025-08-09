@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d7807075-738b-4032-8124-f11eb88dd097@best1.bestshop10.ir:16072?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@V2rayNG3
-vless://d79d0e0d-24b0-42d1-b900-d88fc19c7360@android.pakasak.com:2026?security=none&type=tcp&headerType=http&path=/&host=zula.ir#1404-05-13(Volt_Network)205.1 MB/30.0 GB (Dynamic IP)
-vless://d79d0e0d-24b0-42d1-b900-d88fc19c7360@bio.fpr.net:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=refersion.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#1 🇳🇱 Netherland (MCI)
-vless://d79d0e0d-24b0-42d1-b900-d88fc19c7360@cpu.soon.it:2087?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=refersion.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#2 🇺🇸 USA (MCi)
-vless://d79d0e0d-24b0-42d1-b900-d88fc19c7360@download.h-o-s-t.name:2086?security=none&type=tcp&headerType=http&path=/&host=next1.ir#3 🇷🇺 russ (youtube no ads)
 vless://d79d0e0d-24b0-42d1-b900-d88fc19c7360@end.pii.at:8855?security=none&type=tcp&headerType=http&path=/&host=zula.ir#4 🇩🇪 Germany (all net)
 vless://d79d0e0d-24b0-42d1-b900-d88fc19c7360@fun.120v.ac:2059?security=none&type=tcp&headerType=http&path=/&host=zula.ir#5 🇩🇪 Germany Hetzener (all net)
 vless://d79d0e0d-24b0-42d1-b900-d88fc19c7360@game.hpc.tw:2095?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=refersion.com&fp=chrome&pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&sid=a56f693ce784b4cc&spx=/example#6 🇹🇷 Turkey (all net)
@@ -503,3 +498,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#🛡️ @FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#.
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@Alfa_v2ray_ng کانالمون 🎉
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@Daily_Configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
