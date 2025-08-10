@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@bitbolajepe.vip:443?path=%2FTelegram%40V2ray_Alpha%3Dcitlali.shorekeeper.ir&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=random&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?path=%2Fproxyip%3Dcitlali.shorekeeper.ir&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=random&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?path=%2Fproxyip%3Dcitlali.shorekeeper.ir%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=random&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
 vless://bec44ac3-a662-4179-a9dd-2aa881706dde@157.173.127.224:443?security=reality&encryption=none&pbk=Ajk0QudeMVQocN88OG14PpsxparFuRJlvqzXDlW-gyQ&headerType=&fp=chrome&type=tcp&sni=analytics.google.com&sid=aba7bc9a#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh36v5.economy36top.shop#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v6.nature27.shop#@meli_proxyy
@@ -499,7 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#FNET00
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#Tunder
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1a2FMZ0duZHZWSTRRR2hJMjFoVWZQ@h110vpnus.outlinekeys.net:9483#US 🇺🇸 | @v2xay
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dXNhczB0MHVjS0pMcVoxWHNacXNl@h110vpnus.outlinekeys.net:9483#آمریکا 🇺🇸 @V2xay
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3cnlhbTZDd0pHY3NQdFV1Sk9Ibkw2@195.200.26.173:35333#@V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4OVhFS2VsZ1B6ZWV5ekw3Z3o1UzhC@h110vpnus.outlinekeys.net:9483#US 🇺🇸 | @v2xay
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TVVWZUtDQm1nd0pPakd0c2JRMkpG@68.183.226.95:52042#@Selinc
