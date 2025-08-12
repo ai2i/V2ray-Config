@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://telegram-id-privatevpns@51.44.102.239:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@51.44.118.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.47.54.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.59.100.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
@@ -502,4 +503,3 @@ vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?security=tls&encry
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&encryption=none&headerType=none&type=tcp#IRAN 401 (@Outline_Vpn) free
 vless://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://0cf19093-ba67-4ff6-b8d0-aa12a9e968d8@45.82.161.120:49415?mode=gun&security=reality&encryption=none&pbk=RLR_5eRZzCQjzr0dpY4-TW2C8EdNJuiGcq7RjHPQw3E&fp=chrome&spx=/&type=grpc&serviceName=Tel: NT_Safe&sni=microsoft.com#@mehrosaboran
-vless://0cf19093-ba67-4ff6-b8d0-aa12a9e968d8@sfs.ncidddia.site:49415?mode=gun&security=reality&encryption=none&pbk=RLR_5eRZzCQjzr0dpY4-TW2C8EdNJuiGcq7RjHPQw3E&fp=chrome&spx=/&type=grpc&serviceName=Tel: NT_Safe&sni=microsoft.com#@NT_Safe🇺🇸
