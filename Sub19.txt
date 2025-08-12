@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Parsashonam-290@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam 🇩🇪     حتما ipv6 فعال باشه
-vless://Parsashonam-290@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Parsashonam 🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-291@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#DE 7 🇩🇪 | @v2xay
 vless://Parsashonam-291@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#azadiiivpn 🎀
 vless://Parsashonam-291@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -503,3 +501,5 @@ vless://V2RAXX-@speedtest.net:80?path=/Telegram,V2RAXX,Telegram,?ed=2048FILTERK0
 vless://V2rayNGFreeeV2rayNGFreee@151.101.67.8:80?mode=auto&path=/&security=none&encryption=none&host=V2rayNGFreee.global.ssl.fastly.net&type=xhttp#@Tunder_vpn
 vless://V2rayNGFreeeV2rayNGFreee@151.101.67.8:80?mode=auto&path=/&security=none&encryption=none&host=V2rayNGFreee.global.ssl.fastly.net&type=xhttp#Bya To @Iran_V2ray1
 vless://VIPNETWORK@85.133.253.243:443?security=none&encryption=none&headerType=none&type=tcp#Config VIP @iran_v2ray1
+vless://VIPNETWORK@85.133.253.243:443?security=none&encryption=none&headerType=none&type=tcp#MCI-@configfu-9
+vless://VIPNETWORK@85.133.253.243:443?security=none&encryption=none&headerType=none&type=tcp#هلند 🇳🇱 @V2xay

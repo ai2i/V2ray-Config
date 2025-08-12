@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://301d049f-26d9-15ba-a83c-b1d5111d4444@62.60.244.252:25888?security=reality&encryption=none&pbk=1wWJ_HJdLChMyEqb1agU0pQr26966K5SK4u7ehst-VQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=8c5f97c86a710a#@V2RAY_VMESS_free
-vless://301d049f-26d9-15ba-a83c-b1d5111d4444@62.60.244.252:25888?security=reality&encryption=none&pbk=1wWJ_HJdLChMyEqb1agU0pQr26966K5SK4u7ehst-VQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=8c5f97c86a710a#@v2ray313 کانالمون 1😡
 vless://3034752b-a7bd-4562-ad0b-6f7f4d7e2aad@65.109.194.11:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@v2ray313 کانالمون ☘️
 vless://3048004a-d4e8-404b-a7da-23f54a5e07a1@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.147.22:443?path=/Telegram@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=hozori.ir&fp=chrome&type=ws&sni=hOZori.iR#@CaV2ray ⚡️
@@ -503,3 +501,5 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path==Join---Vit
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path==Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@i10VPN 🚀| با ما متصل بمون⚡
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path==Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram : @Alfa_v2ray_ng 🔥
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path==zani.yaemiko.ggff.net/?Join---@V2rayBaaz---Join---@V2rayBaaz---Join---@V2rayBaaz---Join---@V2rayBaaz?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@HIBYEVPNN
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path==zani.yaemiko.ggff.net/?Join---@V2rayBaaz---Join---@V2rayBaaz---Join---@V2rayBaaz---Join---@V2rayBaazed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Daily_Configs
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path==zani.yaemiko.ggff.net/?Join---@V2rayBaaz---Join---@V2rayBaaz---Join---@V2rayBaaz---Join---@V2rayBaazed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@HIBYEVPNN
