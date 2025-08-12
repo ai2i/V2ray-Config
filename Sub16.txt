@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?path=/&security=tls&encryption=none&type=ws#@ShadowProxy66 🇩🇪
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?path=/&security=tls&encryption=none&type=ws#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇩🇪
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.19:443?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇩🇪
@@ -502,4 +503,3 @@ vless://87edf1df-a6a1-4a06-e04d-1c7d7c29868d@t.irimcs.org:2087?type=grpc&service
 vless://87fd9297-5b0f-42aa-c01e-a196c9591daa@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
 vless://880adfbf-6098-5ed9-8e3d-7716caf63e72@104.17.147.22:2052?encryption=none&security=none&type=ws&host=sPeedtest2.sbs.lu.v2vless.sitespeedtest.net&path=/vless#@awlix_ir
 vless://881043ca-4194-439b-ffad-c7bb552b3edb@171.22.173.206:28931?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🤕
-vless://881043ca-4194-439b-ffad-c7bb552b3edb@171.22.173.206:28931?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
