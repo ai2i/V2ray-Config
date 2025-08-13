@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.6:443?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.8:443?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.9:443?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://785e05fc-66e4-4141-8587-72c4ee8ce65e@EVAY_VPN.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=medcezir5.global.ssl.fastly.net&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪 @Evay_vpn
@@ -503,3 +502,4 @@ vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&enc
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Bya To @IRAN_V2RAY1
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#IR-@configfu-5
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🛡️ @FreakConfig
+vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇨🇭]ae_proxy
