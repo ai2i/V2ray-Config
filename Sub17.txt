@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://83e1425c-7bf0-4d10-9296-40901f29f35d@gr.dnszone.top:45500?security=none&encryption=none&type=tcp&headerType=none#VayNora
-vless://83e1425c-7bf0-4d10-9296-40901f29f35d@nl.dnszone.top:45500?security=none&encryption=none&type=tcp&headerType=none# @confing_chanel
-vless://83e1425c-7bf0-4d10-9296-40901f29f35d@nl.dnszone.top:45500?security=none&encryption=none&type=tcp&headerType=none#VayNora
 vless://83f79baf-b03f-4fa3-be3e-f32ae64142a0@irani.yousefbn.com:6969?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#@External_Net
 vless://83f79baf-b03f-4fa3-be3e-f32ae64142a0@irani.yousefbn.com:8585?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#@External_Net
 vless://8415d954-275d-44b7-a551-8a80fe2e17a7@services.dissertationhelpspecialist.com:443?mode=gun&security=reality&encryption=none&pbk=ZV4e1OJFc5P1PH8pi6YN3mVzZ0G8WUOCNJZ6IibvT3Y&fp=chrome&spx=/&type=grpc&serviceName=twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice&sni=tgju.org&sid=a266fd8b85#Telegram:@config_proxy 🔥
@@ -503,3 +500,6 @@ vless://9404d7f9-9a28-4250-95de-1787bb6b30a9@188.114.98.112:2095?path=/ELiV2-RAY
 vless://941d092e-8313-452a-ba21-c9995dcba79d@101reel.com:80?path=/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN&security=none&encryption=none&host=havvas.shohreh.dpdns.org&fp=chrome&type=ws&sni=havvas.shohreh.dpdns.org#@AI_DUET 🚀 @V2rayNGsupBOT
 vless://941d092e-8313-452a-ba21-c9995dcba79d@104.16.110.49:80?path=/?ed=2570&security=none&encryption=none&host=havvas.shohreh.dpdns.org&type=ws#🔥T.me/Asak_Vpn🔥
 vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.151.58:80?path=/?ed=2560&security=none&encryption=none&host=havvas.shohreh.dpdns.org&fp=chrome&type=ws&sni=havvas.shohreh.dpdns.org#@CaV2ray ⚡️
+vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.26.90:443?path=/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN&security=tls&encryption=none&host=havvas.shohreh.dpdns.org&fp=chrome&type=ws&sni=havvas.shohreh.dpdns.org#✅@ai_duet | @v2rayngsupbot✅
+vless://941d092e-8313-452a-ba21-c9995dcba79d@172.67.65.42:80?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=&encryption=none&host=havvas.shohreh.dpdns.org&fp=chrome&type=ws&sni=havvas.shohreh.dpdns.org#Telegram:@config_proxy 🔥
+vless://9453d30f-cbd7-430e-8352-22e315b7d97f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/copbywws&security=tls&encryption=none&host=638894516851829772.yasuj-prx-dnraaao.info&type=ws&sni=638894516851829772.yasuj-prx-dnraaao.info#ALL@azadiiivpn ¹²

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://62fdb478-21bd-4e64-92f8-625149df3124@WWW.SPEEDTEST.NET:2095?type=httpupgrade&host=GE.SODOGODPING.IR&path=/?ed=2560/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪@EVAY_VPN
-vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?path=/telegram@v2ray_configs_pools/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=configmr.pages.dev&fp=chrome&type=ws&sni=ConFIgmr.PaGeS.dEV#@v2ray313 کانالمون 😻
-vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.47.138:443?path=/VrChX4o5oasIm4In?ed=2560&security=tls&encryption=none&host=ConFIgmr.PaGeS.dEV&fp=chrome&type=ws&sni=ConFIgmr.PaGeS.dEV#@V2RAY_VMESS_free
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443?path=/telegram@v2ray_configs_pools/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=configmr.pages.dev&fp=chrome&type=ws&sni=ConFIgmr.PaGeS.dEV#@v2ray313 کانالمون 😭
 vless://632e71fd-b756-9543-468b-680e87bbfed5@51.195.35.2:4768?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yandex.com&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪 @EVAY_VPN
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?security=reality&encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&headerType=none&fp=chrome&type=tcp&sni=ya.ru&sid=23103e1e#@Selinc
@@ -503,3 +500,6 @@ vless://75d13bb1-e7ec-4e67-9b5a-ff8debce695f@kafshu.ir:8080?type=ws&host=inFo.la
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@EXPRESSVPN_420 👈🥰قطع شدی بیا اینجا خوشتیپ
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@v2ray313 کانالمون ❄️
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@v2ray313 کانالمون ❤️‍🔥
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@v2ray313 کانالمون 👋🏻
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@v2ray313 کانالمون 💚
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@v2ray313 کانالمون 🥴
