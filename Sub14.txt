@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&spx=/&type=grpc&serviceName=Telegram : @PouRia_Cheat&sni=www.cloudflare.com&sid=8d9c20be72b4#Channel@vmessorg
+vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&spx=/&type=grpc&serviceName=Telegram : @PouRia_Cheat&sni=www.cloudflare.com&sid=8d9c20be72b4#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥:@EXPRESSVPN_420🏂⁹
 vless://54b4c039-7be6-448f-b704-820251b079db@pouriacheat.fergalvpnmod.com:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&spx=/&type=grpc&serviceName=Telegram : @PouRia_Cheat&sni=www.cloudflare.com&sid=8d9c20be72b4#Telegram : @PouRia_Cheat
 vless://54b5d081-8e34-4660-ec4f-6d7fddb7feb7@65.109.208.107:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
 vless://54c5231c-7379-4e7e-a63e-d50b4c72350c@31.58.144.49:6666?security=&encryption=none&type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy#@bored_vpn
@@ -501,5 +503,3 @@ vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=/&
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig
 vless://64fdaf06-bcfa-4bdc-8fb1-d8a9bd513f0c@109.122.249.131:3232?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷 MCI - @FREEV2RNG 2
 vless://64fdaf06-bcfa-4bdc-8fb1-d8a9bd513f0c@85.133.221.5:5151?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷 MCI - @FREEV2RNG 1
-vless://6501e93f-a458-4f3d-81bd-2f1e58c2bc3b@104.21.11.178:443?path=/wwtrfZKsmiJjvu6S?ed=2560&security=tls&encryption=none&host=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&fp=chrome&type=ws&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv#@V2RAY_VMESS_free
-vless://6513d3a4-55da-49e4-ae4b-acc30e8118d7@Arx.fast.hosting-ip.com:80?mode=auto&path=/ed?=2048&security=none&encryption=none&host=Lyour-name.global.ssl.fastly.net&type=xhttp#@Anty_Vpn سرورای بیشتر
