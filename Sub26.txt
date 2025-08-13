@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#@awlix_ir
-vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@45.77.136.208:443?security=reality&encryption=none&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com#@G0Dv2ray
-vless://e9158ed1-5df1-42ef-a4e7-a9e6d9547042@109.122.249.131:3232?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @ShadowProxy66 🇮🇷
-vless://e9158ed1-5df1-42ef-a4e7-a9e6d9547042@109.122.249.131:3232?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://e931b9e7-8f36-41a4-91f4-f896c6bc42c5@cf-assets-blog.cyberscaler.net:443?security=reality&encryption=none&pbk=WEf1JX6bG0hGjlSacn2r32T2IZhifBsl2g7qqZoUPAw&headerType=&fp=chrome&spx=/cdn-cgi/trace&type=tcp&sni=blog.cloudflare.com&sid=14#ViP RGB🚀
 vless://e93f923b-92b1-4009-aaeb-3691001347bd@104.17.147.22:80?mode=auto&path=/@Mr_Amirr_00/?ed=443&security=&encryption=none&host=de.tunnel.irangroupz.ir&type=xhttp#Cloudflare-Number 1
 vless://e9584352-e14d-42d8-91e3-bbdad7f8eb87@188.166.69.72:8990?security=reality&encryption=none&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=9912311de4630f2d#Channel : @Mrsoulb 🏴🏳
 vless://e96adc51-70f2-451d-83c5-77094b9d680f@canine.origamimarketings.com:9999?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=42c0b628ba6a42a9#FREE CONFIG 👉 @FergalVpnMod
@@ -503,3 +498,8 @@ vless://ec80ee4b-8c32-479e-b683-6612608e3437@www.speedtest.net:80?path=/@CUSTOMI
 vless://ec80ee4b-8c32-479e-b683-6612608e3437@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🟢 جوین بده کانکت بمونی: @STAPersiaNews
 vless://ec80ee4b-8c32-479e-b683-6612608e3437@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#Telegram-Tunder_vpn
 vless://ec833494-665d-4616-92f5-5cb397771f24@104.18.26.90:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&host=kk103.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&type=ws#🇳🇱 Telegram @SRCVPN
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.151:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560/?@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-&security=tls&alpn=h2,http/1.1&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#telegram 🇳🇱 @V2WRAY
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.176:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=rostam.29394900.xyz&fp=chrome&type=ws&sni=rostam.29394900.xyz#Telegram | @FNET00📱🇩🇪
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#@G0Dv2ray
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#Bya To @Iran_V2ray1
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#@CaV2ray ⚡️
