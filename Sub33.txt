@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-vless://7a1b3bd5-1130-45d0-8bb1-41cd05649170@57.128.219.105:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=57.128.219.105&encryption=none#Rayan%20-%20RVP%20-%20PL%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a04.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-config-telegram-a04.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-L-4
-
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@feedly.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a02.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a02.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-L-2
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@patient.co.uk:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a06.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a06.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-L-6
@@ -503,3 +499,7 @@ vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?path=%2Flinkws%3F
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?encryption=none&security=none&type=tcp&headerType=none#%40Daily_Configs`
 vless://427954ab-e6bd-4758-8793-7b129699068e@94.237.28.145:28392?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yelp.com&fp=chrome&pbk=Pq_a-rDvNROjMaNtA7v2tSSsfPR8KspHwKfu2tEv_F8&sid=cf34f84f37&type=tcp&headerType=none#%40Daily_Configs
 vless://a6c5638d-dc8d-4303-a64c-a7f08a6aa1d4@95.164.113.4:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#Join%20Telegram%20%F0%9F%86%94ibahad%20%F0%9F%87%AB%F0%9F%87%AE```
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.139:8080#%40V2rayMiner```
+vless://427954ab-e6bd-4758-8793-7b129699068e@94.237.28.145:28392?security=reality&sni=yelp.com&fp=chrome&pbk=Pq_a-rDvNROjMaNtA7v2tSSsfPR8KspHwKfu2tEv_F8&sid=cf34f84f37&type=tcp&flow=xtls-rprx-vision&encryption=none#%20%40Filter_breaker%20%7C%20Filter%20breaker%20-%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86
+vless://a4708c04-bfb8-40f9-8a76-8d6566be3c4d@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=he10.motorbazan.cOm&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%9A%80%20%40HajmVPN`
+vless://826f524a-cea1-4e44-9b49-3381d13b7593@172.66.46.247:443?path=%2FlaGekhA1Q1IhSqJe&security=tls&alpn=http%2F1.1&encryption=none&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=randomized&type=ws&sni=fk31lnDM4W8uJ0Yp1drWlTdTdkO6Y-Cu.pages.deV#%F0%9F%87%A9%F0%9F%87%AA%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%20%DA%A9%D8%A7%D9%86%DA%A9%D8%AA%20%D8%A8%D9%85%D9%88%D9%86%DB%8C%3A%20%40STAPersiaNews`
