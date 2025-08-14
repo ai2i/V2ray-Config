@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#🆔@PlanB_Proxy سرور های بیشتر جوین شو
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 @Freakconfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&mode=gun&security=none#
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&mode=gun&security=none#🇩🇪All³|@G0dV2RAY
@@ -37,7 +38,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 جوین بده کانکت بمونی: @STAPersiaNews
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#🛡️ @FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇫🇷[Telegram:NetifyVPN]
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encryption=none&type=grpc#Telegram:@config_proxy 🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#Channel id: @ShadowProxy66 🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#S567-197405
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
@@ -445,7 +445,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc#🆔@PlanB_Proxy سرور های بیشتر جوین شو
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc#🛡️ @FreakConfig
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?security=&encryption=none&type=grpc#Telegram:@config_proxy 🔥
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify |∆| چنل هدیفای 🌕
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=none&encryption=none&type=grpc#@Tunder_vpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Alfa_v2ray_ng 🔥
@@ -459,13 +458,11 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&sni=pqh26v3.sport26tennis.shop&type=grpc#🇺🇸[Telegram:NetifyVPN]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.152:8880?security=&sni=pqh33v6.cinema33.shop&type=grpc&encryption=none#@awlix_ir
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?security=&sni=pqh34v7.bloger34art.shop&type=grpc&encryption=none#@awlix_ir
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?security=&sni=pqh34v7.bloger34art.shop&type=grpc&encryption=none#Telegram:@config_proxy 🔥
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.167:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@EVAY_VPN🇳🇱
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?security=&sni=pqh32v6.film32western.shop&type=grpc&encryption=none#@awlix_ir
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@EVAY_VPN🇺🇸
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880/?type=grpc&encryption=none&flow=#🇨🇦@FNET00 ♻️ عضو شو
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇦@FNET00 ♻️ عضو شو
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?security=&encryption=none&type=grpc#Telegram:@config_proxy 🔥
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@EVAY_VPN🇩🇪
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#کانال+ما+در+تلگرام+@Asak_Vpn+🔥
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -503,3 +500,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#🇦🇺 جوین بده کانکت بمونی: @STAPersiaNews
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#🛡️ @FreakConfig
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?type=grpc&mode=gun&security=none#G0dV2RAY

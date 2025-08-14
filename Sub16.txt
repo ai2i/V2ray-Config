@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@v2ray313 کانالمون 🥴
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@v2ray313 کانالمون 🫀
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#Bya To @IRAN_V2RAY1
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#IRAN 284 (@Outline_Vpn) free
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#IRAN 323 (@Outline_Vpn) free
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#Telegram : @Alfa_v2ray_ng 🔥
@@ -111,7 +108,6 @@ vless://78fb517c-7faa-4fc9-a8bc-df865cf6f979@speedtest.net:80?type=ws&host=befre
 vless://790c2516-c744-46c5-98fd-541fe2a53bbb@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🤍
 vless://793cfe55-44d8-49be-a088-20474d6791d7@79.132.192.72:41343?path=/&security=none&encryption=none&type=ws#@V2rayNG3
 vless://79446fec-4083-488a-bef7-903545cf585d@68.183.155.178:443?security=reality&encryption=none&pbk=6cZDQMvhZhWTGiY-SwGwqQwfqKh9jrNtx1ZtwN6_rQA&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=692577f2f1e7#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
-vless://795aa3bb-9ad2-4117-8f77-a88521ef7403@tunnyl.ru:443?type=tcp&security=reality&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&fp=chrome&sni=yahoo.com&sid=5c0333ed45b1&spx=/&flow=xtls-rprx-vision#Telegram:@config_proxy 🔥
 vless://7969f5aa-ca87-47c6-eeb4-45d7e4d5873c@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://7969f5aa-ca87-47c6-eeb4-45d7e4d5873c@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://7969f5aa-ca87-47c6-eeb4-45d7e4d5873c@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
@@ -310,6 +306,7 @@ vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@Selinc
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@Tunder_vpn
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@V2ray1_Ng
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#⚜️Telegram: @IP_CF 🇨🇦
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#𝗝𝗼𝗶𝗻 ➠ @NormanV2ray | نیم ساعت دیگه قطع میکنم جدیدشو بردار از کانال
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#🆔@PlanB_Proxy سرور های بیشتر جوین شو
@@ -485,7 +482,6 @@ vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@V2RAYNG_1378
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#FR 1 🇫🇷 | @v2xay
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇫🇷[Telegram:@v2rayng_fars]
-vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?security=none&encryption=none&type=ws&path=/#Telegram:@king_v2raay
 vless://82db5ebc-7f11-5009-831b-9e9c5b5a22af@185.255.178.188:443?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&host=185.255.178.188&fp=chrome&type=ws&sni=zula.ir#🇪🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://82fd29e8-164f-43ce-ba5c-1f1485e8315b@ir-netherland.v2shop2.xyz:443?mode=stream-one&type=tcp&path=/&security=none&host=www.speedtest.net&headerType=http#50-50339
@@ -503,3 +499,7 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.144.28.247:2052?path=/&security=
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
+vless://83b1b380-b0cf-4b4a-910b-154420def5d7@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
+vless://83dc5c38-92fb-4d92-adb2-038575a12d49@194.182.79.250:52612?mode=gun&security=reality&encryption=none&authority=&pbk=tVPnI0CG8zT6VlwpceDzo2WqrNwBSUMbYk0_08ybxhs&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=78a48e1e#@icv2ray
+vless://83dc5c38-92fb-4d92-adb2-038575a12d49@194.182.79.250:52612?mode=gun&security=reality&encryption=none&pbk=tVPnI0CG8zT6VlwpceDzo2WqrNwBSUMbYk0_08ybxhs&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=78a48e1e#@Capoit
+vless://83dc5c38-92fb-4d92-adb2-038575a12d49@194.182.79.250:52612?mode=gun&security=reality&encryption=none&pbk=tVPnI0CG8zT6VlwpceDzo2WqrNwBSUMbYk0_08ybxhs&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=78a48e1e#Config VIP @iran_v2ray1
