@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6064efe5-2bc4-4694-933c-d3fe05e73da4@91.107.254.202:2096?type=xhttp&path=/Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---@bluVPNir&host=firebase.googleapis.com&mode=auto&security=reality&pbk=sPEQ8mlkuJQsGrMZux2g9EmXKztuXHwnyORJPwwznDQ&fp=chrome&sni=firebase.googleapis.com&sid=a0e13102&spx=/#𝑱𝒐𝒊𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎⧴ @bluVPNir
 vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@139.177.199.114:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.26.226:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://607d9703-8403-415c-a201-05178810530c@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
@@ -503,3 +502,4 @@ vless://7445df1e-b5ec-46c3-ba7e-9f315b274c3e@185.221.64.12:666?security=&encrypt
 vless://745e0663-483a-4817-9d7e-11190f4b3090@myfreexnum01tamiz.bazibazestan.ir:443?security=reality&encryption=none&pbk=Mtdk_nmm5mWBlKzjIOoDXN8nL4zHL-F40WNP5e2E4ko&headerType=http&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e1bc8e591c390c7c#🔥@AblNet7 🇮🇷 نت ملی 🔥
 vless://745e0663-483a-4817-9d7e-11190f4b3090@myfreexnum01tamiz.bazibazestan.ir:443?security=reality&encryption=none&pbk=Mtdk_nmm5mWBlKzjIOoDXN8nL4zHL-F40WNP5e2E4ko&headerType=http&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e1bc8e591c390c7c#🛜 @NETMelliAnti
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@65.109.183.203:10000?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@MARAMBASHI 🧡
+vless://747d4612-b3e5-4165-879a-42d861e4c4b7@65.109.183.203:10000?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@i10VPN&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
