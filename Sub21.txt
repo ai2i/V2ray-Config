@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.16.178.96:80?encryption=none&security=none&type=ws&host=sweet-glade-2430-ppal03.xasev15708.workers.dev&path=/?ed=2560#🔥Ch: @pPal03🔥جوین بدید عزیزانم🔥
+vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.24.254.125:80?encryption=none&security=none&type=ws&host=sweet-glade-2430-ppal03.xasev15708.workers.dev&path=/?ed=2560#🔥Ch: @pPal03🔥جوین بدید عزیزانم🔥
+vless://b8b27d0e-b084-4d7a-94e7-b6a548466a6f@www.speedtest.net:8080?path=/V_2raYngVpn?ed=8080&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=ws#@V_2rayngVpn+ایرانسل+و+رایتل
+vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.101.86:80?path=/BaRAyeIran?ed=2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&type=ws#@CaV2ray ⚡️
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80?path=/?ed=2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&type=ws#IRAN 210 (@Outline_Vpn) free
 vless://b8c59cae-73a8-4f44-88f9-4e40a7b94058@104.19.54.50:8080?type=grpc&serviceName=/@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh?ed&path=Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&alpn=h3,h2,http/1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=chrome&type=ws#All🇩🇪 | @FILTERK0SH
 vless://b8c73c6c-3f19-48d9-9f96-48dbdc42f913@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-19Mordad-1
@@ -455,7 +459,6 @@ vless://c44cdd92-af85-46ea-b38e-6fe5068a1271@ec2-40-172-235-190.me-central-1.com
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@104.26.8.156:443?security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=chrome&type=ws&sni=yx.yushan.dpdns.org#@Daily_Configs
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=/&security=tls&encryption=none&host=yx.yushan.dpdns.org&type=ws&sni=yx.yushan.dpdns.org#Telegram: @vpnbaz
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=/&security=tls&encryption=none&host=yx.yushan.dpdns.org&type=ws&sni=yx.yushan.dpdns.org#Telegram:@config_proxy 🔥
-vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=/&security=tls&encryption=none&host=yx.yushan.dpdns.org&type=ws&sni=yx.yushan.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=chrome&type=ws&sni=yx.yushan.dpdns.org#@CaV2ray ⚡️
 vless://c4710d0a-c646-4723-8c27-736fd27c167c@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://c4996af6-0c1b-4933-aaa9-5e5a209bf1b0@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#💚 Telegram | @Green_WPN
@@ -500,6 +503,3 @@ vless://c699685e-b072-4141-9406-ee22f89f13ed@x8-germany-amazon-v2-rug6e.we-are-t
 vless://c69af2a6-adbc-49e6-bb54-281b1ea18812@91.107.158.231:80?mode=auto&path=/telegram.migmigping&security=reality&encryption=none&pbk=onJ1zaTDbXbMMSfmp-wCt2ZwGDOK-VxvPQi3TPwPoTk&fp=chrome&spx=/&type=xhttp&sni=canva.com&sid=5517d782302df4#@Capoit
 vless://c69af2a6-adbc-49e6-bb54-281b1ea18812@91.107.158.231:80?mode=auto&path=/telegram.migmigping&security=reality&encryption=none&pbk=onJ1zaTDbXbMMSfmp-wCt2ZwGDOK-VxvPQi3TPwPoTk&fp=chrome&spx=/&type=xhttp&sni=canva.com&sid=5517d782302df4#@V2RAYROZ
 vless://c69af2a6-adbc-49e6-bb54-281b1ea18812@91.107.158.231:80?mode=auto&path=/telegram.migmigping&security=reality&encryption=none&pbk=onJ1zaTDbXbMMSfmp-wCt2ZwGDOK-VxvPQi3TPwPoTk&fp=chrome&spx=/&type=xhttp&sni=canva.com&sid=5517d782302df4#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://c73aa88b-fc3f-4179-8a6a-82621d7c1021@LIGHTNING6.speedtest2.sbs:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=li.testi21.ddns-ip.net&type=ws#tm⚡|@lightning6
-vless://c76e6274-30a0-445c-aaef-8e41ab910fbd@alman7.turbooserver.ir:55066?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://c78bce12-1796-466f-b8a0-800c32b06679@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷4 tunnel: @EVAY_VPN
