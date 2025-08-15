@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://305bb7a7-8255-4eca-80b3-16b712bd15df@91.107.170.231:2053/?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#@ZedBaz_vpn
-vless://305bb7a7-8255-4eca-80b3-16b712bd15df@91.107.170.231:2053/?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#@ZedBaz_vpn  ➖➖➖➖➖➖➖➖ ⭐ | @ZedBaz_vpn
-vless://305ee92e-b09e-4cae-92d3-fbbee519df28@93.127.180.76:32366?security=reality&encryption=none&pbk=7zQkfmylLlg4bGtYU7OwPl5qNwRUzeZaycUjcIsONUk&headerType=none&fp=chrome&spx=/&type=tcp&sni=journalofbigdata.springeropen.com&sid=36989f45e183f0#@v2rayng_fars
-vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80?mode=auto&path=/&security=none&encryption=none&host=reza-aliyari722.global.ssl.fastly.net&type=xhttp#32 | @ConfigFast 🇮🇷💔 عضو بشید تلگرام و ایتا
 vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80?mode=auto&path=/&security=none&encryption=none&host=reza-aliyari722.global.ssl.fastly.net&type=xhttp#@freevpnn11_2
 vless://306e217d-e75e-45b2-8a78-da78f13e3e2d@108.61.224.94:443?mode=stream-one&path=/rfghj&security=none&encryption=none&type=xhttp#@Tunder_vpn
 vless://306e217d-e75e-45b2-8a78-da78f13e3e2d@108.61.224.94:443?mode=stream-one&path=/rfghj&security=none&encryption=none&type=xhttp#@V2ray1_Ng
@@ -491,6 +487,7 @@ vless://3487ce43-b803-4770-97ff-f75880d7f9b4@104.16.92.169:80?encryption=none&se
 vless://3487ce43-b803-4770-97ff-f75880d7f9b4@104.24.175.2:80?encryption=none&security=none&type=ws&host=rough-mud-93b4-ppal03.wedane7745.workers.dev&path=/?ed=2560#🤡Ch: @pPal03🤡جوین بدید🤡
 vless://3487ce43-b803-4770-97ff-f75880d7f9b4@104.24.175.2:80?path=/...&security=none&encryption=none&host=rough-mud-93b4-ppal03.wedane7745.workers.dev&type=ws#IRAN 280 (@Outline_Vpn) free
 vless://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80?mode=auto&path=/path&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=Demon02.global.ssl.fastly.net&type=xhttp#@Anty_Vpn سرورای بیشتر
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.176.24.254:8880?encryption=none&security=none&type=ws&host=yg.bantony199.top&path=/telegram🇨🇳#Telegram:@config_proxy 🔥
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.193.29.254:8880?encryption=none&security=none&type=ws&host=yg.bantony199.top&path=/#Telegram:@config_proxy 🔥
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:2090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray ⚡️
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:5109?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray ⚡️
@@ -503,3 +500,6 @@ vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#@SAVTEAM  | JOIN
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#@V2RAY_VMESS_free
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#@v2ray313 کانالمون 🇧🇪
+vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#BE 🇧🇪 | @v2xay
+vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#Telegram : @Alfa_v2ray_ng 🔥
+vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#🆔@PlanB_Proxy سرور های بیشتر جوین شو
