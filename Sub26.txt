@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?mode=gun&security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#@V2RAY_VMESS_free
-vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?mode=gun&security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=t.me/entryNET&sni=yahoo.com&sid=a76e2f1d45#[🇩🇪]ae_proxy
-vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&spx=/&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#Telegram : @Alfa_v2ray_ng 🔥
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&spx=/&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#🇱🇰 | @External_Net
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?mode=gun&security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&spx=/&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#@NpvV2rayFilTer
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?mode=gun&security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&spx=/&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#@Tunder_vpn
@@ -503,3 +500,6 @@ vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&note=volt____network&sni=yahoo.com&sid=0e#🇦🇲⚡️Armenia | VOLT Network 🔥 🇦🇲لوکیشن
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#@V2RAY_VMESS_free
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#Telegram : @Alfa_v2ray_ng 🔥
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#🇦🇲𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://f67b1db2-8eab-429a-a95b-a611c1bd24a6@js.torplay.ir:443?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
+vless://f67b1db2-8eab-429a-a95b-a611c1bd24a6@thumbnails.torplay.ir:8443?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
