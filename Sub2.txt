@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@31.43.179.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#KZ_speednode_0081
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.176.26.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2#KZ_speednode_0082
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@31.43.179.251:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Telegram#KZ_speednode_0083
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@31.43.179.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2#KZ_speednode_0084
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.76.18.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#KZ_speednode_0085
@@ -503,3 +501,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VXp1dWxoTWNiZWVEdGFYbVdpUFdM@45.95.232.236:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VXp1dWxoTWNiZWVEdGFYbVdpUFdM@45.95.232.236:4248#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100#@CaV2ray ⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGUzNjMxMi0xNmQ0LTQ5YzItYWQxOC02MTBiZjZkMDVkNjM=@fr.fastsoonlink.com:40034#فرانسه 🇨🇵 @V2xay
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGUzNjMxMi0xNmQ0LTQ5YzItYWQxOC02MTBiZjZkMDVkNjM=@fr.fastsoonlink.com:40034#🛡️ @FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGUzNjMxMi0xNmQ0LTQ5YzItYWQxOC02MTBiZjZkMDVkNjM=@pr.fastsoonlink.com:40030#🛡️ @FreakConfig

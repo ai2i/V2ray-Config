@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@V2RAYNG_1378
-vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#FR 1 🇫🇷 | @v2xay
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇫🇷[Telegram:@v2rayng_fars]
 vless://82db5ebc-7f11-5009-831b-9e9c5b5a22af@185.255.178.188:443?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&host=185.255.178.188&fp=chrome&type=ws&sni=zula.ir#🇪🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://82fd29e8-164f-43ce-ba5c-1f1485e8315b@ir-netherland.v2shop2.xyz:443?mode=stream-one&type=tcp&path=/&security=none&host=www.speedtest.net&headerType=http#50-50339
@@ -503,3 +501,5 @@ vless://928c7c5b-5928-4b7c-98d7-dcfca65d02f3@3.79.61.93:20733?security=none&encr
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?encryption=none&security=none&type=xhttp&path=/awd&mode=stream-one#@Daily_Configs
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?encryption=none&security=none&type=xhttp&path=/awd&mode=stream-one#✅ @vistav2ray  👈👈کانال ما
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd&security=&encryption=none&type=xhttp#Channel id: @ShadowProxy66 🇩🇪
+vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd/??ed=2048&security=none&encryption=none&type=xhttp#DE 3 🇩🇪 | @v2xay
