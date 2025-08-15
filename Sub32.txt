@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-
-vless://1688039e-a45f-499e-b9f4-c098c87d3b32@1password.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a02.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a02.rayan.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-R-2
-
-vless://1688039e-a45f-499e-b9f4-c098c87d3b32@jquery.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a05.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a05.rayan.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-R-5
-
-vless://1688039e-a45f-499e-b9f4-c098c87d3b32@kraken.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a01.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a01.rayan.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-R-1
-
-vless://1688039e-a45f-499e-b9f4-c098c87d3b32@sourceforge.net:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a03.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a03.rayan.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-R-3
-
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@www.visa.com.tw:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a04.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-config-telegram-a04.rayan.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-R-4
 
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@www.visasoutheasteurope.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a06.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a06.rayan.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-R-6
@@ -503,3 +494,12 @@ vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@172.66.158.93:443?path=%2FFree-CF-P
 vless://d25456d9-eaad-4546-96a3-288410d2a09f@ru-0017.vpnvezdehod.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927#%40V2rayMiner```
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&sid=d5bfd6c4#%F0%9F%8C%B583%40oneclickvpnkeys
 vless://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=a249.mashkestan.com&type=ws#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
+hysteria2://FREEEE_7.87958795@91.107.251.13:443?security=tls&obfs=salamander&obfs-password=aA%408795&insecure=1&sni=fast.com#%40Daily_Configs
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@31.169.124.240:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40`
+vless://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.32.1:443?path=%2FvpghRaDdORhcsIFV%2FMzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE%3D%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=fqjedaza7b2vofj9ihemx319rmo41l7b.pages.dev&fp=randomized&type=ws&sni=FqJEDazA7b2VofJ9iHeMX319rmO41l7b.paGEs.DeV#Telegram+%3A+%40V2rayEnglish`
+vmess://eyJhZGQiOiAiMzguMTIuMjMuMjUxIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDA4NiwgImlkIjogIjhkNTc0MjAxLThiOTctNDUyNy04NmExLTljNmQwOTdjOWUxOCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#🇨🇭[@rat_leak]
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@108.162.198.143:8880?&sni=Telegram-channel-WangCai2&type=ws&headerType=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🇺🇸[@rat_leak]
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@108.162.198.251:8880?type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🏳[@rat_leak]
+vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&encryption=none&host=%2FHddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify&headerType=none&type=tcp#%E2%86%92%40Hddify%20%F0%9F%90%9C
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.42.142.247:34045/?type=tcp&encryption=none&flow=&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#%F0%9F%8C%B06%40oneclickvpnkeys
