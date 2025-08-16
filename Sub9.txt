@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.170.56:51615?security=none&encryption=none&host=zul/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHIa.ir&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.170.56:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.170.56:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪 @EXPRESSVPN_420
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -485,6 +483,7 @@ vless://316a0817-ecec-41bd-9e69-b20222153461@87.121.113.52:80?mode=multi&securit
 vless://3178c081-8819-4e2f-88db-7236ff25c88e@5.202.75.56:18688?mode=gun&security=reality&encryption=none&pbk=wy8Y887EPsw2zz8p_UoSYrG2-E8Tb2Pmixvk630cMSs&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=ba8fb5#@ev2rayy
 vless://31cc285f-5358-41df-8dca-d7f73a00f152@[2a01:4f9:c011:295a::1]:8880?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 🦉
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@v2ray313 کانالمون 😶‍🌫️
+vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#Telegram:@config_proxy 🔥
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.68.198:80?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Tunder_vpn
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.68.198:80?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@v2ray313 کانالمون 🤝
 vless://31e18807-9671-47b9-9dea-6e2f6ecd8c54@5.75.203.66:39216?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=Google.com&pbk=efkIZIpJH8HUqshKjh6qoI8EC_MkDUR4fk_rjeH2zh0&sid=c0113423&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪@EVAY_VPN
@@ -503,3 +502,4 @@ vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.ne
 vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?path=/?ed=2048&security=none&encryption=none&host=NIce-APartMEnt.ZULAir.ORg&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://3256d023-55cc-4a99-8713-98a21baa5a6a@104.21.43.168:8880?type=ws&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80&host=Kk78.4qwertyuiopasdfGhjklzxcvbnmmnbvccjzlkjhgfdsapoiuytre010751.Academigroup.IR.&security=none#🇳🇱@EXPRESSVPN_420 | All-1
 vless://3256d023-55cc-4a99-8713-98a21baa5a6a@172.66.40.99:8880?type=ws&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80&host=Kk78.4qwertyuiopasdfGhjklzxcvbnmmnbvccjzlkjhgfdsapoiuytre010751.Academigroup.IR.&security=none#🇳🇱@EXPRESSVPN_420 | All-2
+vless://3266907b-7061-4dcd-bedf-46d83f146618@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=tls&encryption=none&alpn=h2,http/1.1&host=A249.Mashkestan.coM&fp=chrome&allowinsecure=0&type=ws&sni=b249.Mashkestan.coM#[🇱🇺]@configLINE
