@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.223.115:8443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.223.115:8443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.223.115:8443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.223.115:8443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#🛡️ @FreakConfig
@@ -503,3 +502,4 @@ vless://cc874b0d-1597-4e65-b79c-a4227acede96@45.82.161.120:19011?security=none&e
 vless://cc874b0d-1597-4e65-b79c-a4227acede96@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone /  pc  ✈️
 vless://cc8f73a6-d35b-4358-98fb-351869dabe59@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🟩 Telegram | @Green_WPN
 vless://cca98505-8d1c-437b-86f1-1ed568fd5c50@104.21.43.168:8080?type=httpupgrade&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80&host=Kk78.4qwertyuiopasdfghjklzxcvbnmmnbvccjzlkjhgfdsapoiuytre0107252.sub420-mohamad.OnlinE.&security=none#🇳🇱 @EXPRESSVPN_420 | All
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=iphoster-quran-iran-5.coin.name.ng&fp=chrome&type=ws&sni=iphoster-quran-iran-5.coin.name.ng#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://51d85dda-7821-4bae-ac08-daaaf2299e70@Hi.somo44.sbs:8880?path=/bhvcgvvc&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#@EXPRESSVPN_420
 vless://51e51780-8820-4940-8c97-42969d524f2a@vip.filterchi.shop:2089?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram@Tunder_vpn
 vless://51e673c9-6e15-4268-802a-439fb27a542a@104.21.72.109:80?path=/ELiV2-RaY---ELiV2-RaY---ELiV2-RaY---ELiV2-RaY?ed=2560&security=none&alpn=h2,http/1.1&encryption=none&host=pamchall.com.&fp=chrome&type=ws&sni=pAmchALL.COm.#@CaV2ray ⚡️
 vless://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=/&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
@@ -503,3 +502,4 @@ vless://5d72af32-b620-4a7e-8e49-f6a159a20699@az7-sub.serverfreedom.com:20000?sec
 vless://5d8bc42a-d345-4bd3-a844-4b90afc44670@104.16.76.55:80?encryption=none&security=none&type=ws&host=patient-shadow-baf1-ppal03.hohel98085.workers.dev&path=/?ed=2560#💣Ch: @pPal03💣جوین بدید💣
 vless://5d8bc42a-d345-4bd3-a844-4b90afc44670@104.24.138.64:80?encryption=none&security=none&type=ws&host=patient-shadow-baf1-ppal03.hohel98085.workers.dev&path=/?ed=2560#💣Ch: @pPal03💣جوین بدید💣
 vless://5da27733-3527-479e-bb81-4c5a9c75d83f@viphamester.wolfmoon.ir:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=okala.com&sni=viphamester.wolfmoon.ir#@V2rayNG3
+vless://5da28a7c-df07-4a76-88bf-ede241471e06@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
