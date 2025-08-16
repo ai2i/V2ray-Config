@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:443?path=/&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:8443?path=/&security=tls&encryption=none&type=ws#🇫🇮 MCI - @FREEV2RNG 15
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
@@ -503,3 +501,5 @@ vless://b61ee73b-67ac-4403-8660-2163d5963b3c@164.92.196.95:27269?mode=gun&securi
 vless://b646e0d6-137b-49e1-90bc-3b9ad8a6484a@Russiatest-Tap.servers807.ir:13796?security=reality&pbk=AIUUKeq08usIla0uv-NTp5wVe4TMb3VkXWDLoutlFnM&fp=chrome&spx=/&-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPNtype=tcp&sni=tgju.org&sid=a3ac#🇩🇪 Telegram @SRCVPN
 vless://b646e0d6-137b-49e1-90bc-3b9ad8a6484a@test.ir:13796?security=reality&encryption=none&pbk=AIUUKeq08usIla0uv-NTp5wVe4TMb3VkXWDLoutlFnM&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=a3ac#🚀 @SkyShieldVpn
 vless://b6483285-7a02-4feb-b09c-540d0c6026fa@91.107.136.208:23114?security=&encryption=none&headerType=none&type=tcp#Channel id: @@proxy_kafee66 🇩🇪
+vless://b6483285-7a02-4feb-b09c-540d0c6026fa@91.107.136.208:23114?security=&encryption=none&headerType=none&type=tcp#Channel id: @@singbox166 🇩🇪
+vless://b6483285-7a02-4feb-b09c-540d0c6026fa@91.107.136.208:23114?security=&encryption=none&headerType=none&type=tcp#Channel id: @ShadowProxy66 🇩🇪
