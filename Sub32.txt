@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=%2FJoin---i10VPN%3Fed%3D2560&security=tls&encryption=none&host=bitget1.asdasd.click&fp=random&type=ws&sni=bitget1.asdasd.click#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
-vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#%40Daily_Configs
-vless://7caad1ea-c29d-4ed4-8055-f52a6b67d3f3@77.83.175.25:43644?security=reality&encryption=none&pbk=gMC-lb-c9zezjmlA89NXLeJKLGFjnb9PDnss4n0I4jo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=89e6599a89c8372b#%40Daily_Configs
 vless://df0e67fc-a6e5-41d8-95fd-97dfb96d2802@207.154.236.4:20087?security=none&encryption=none&headerType=none&type=tcp#%40Daily_Configs
 vless://f924939e-2d9a-46b7-a3c2-67a225b7c027@51.89.2.113:8081?security=reality&encryption=none&pbk=nT4JZTeUVOw-XZ-htdqbFi1je4ZHeg-ALICrDk2usFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d19d7a2d3da8595a#%40Daily_Configs
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@104.26.8.156:443?security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=chrome&type=ws&sni=yx.yushan.dpdns.org#%40Daily_Configs
