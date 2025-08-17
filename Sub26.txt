@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f0ce50ac-f469-457d-c0d0-309391439014@cumhuriyet.com.tr:8080?type=ws&host=join-to-unlimiteddev.sabadyt.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev…#Telegram:@config_proxy 🔥
 vless://f0ce50ac-f469-457d-c0d0-309391439014@www.speedtest.net:8080?type=ws&host=Unlimiteddev-join.paradoxone.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link2
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=/?ed=2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#@V2rayNG3
 vless://f0e825fb-6aa7-4825-e4ef-9a8e170b3a61@172.66.40.99:8080?path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480&security=none&encryption=none&host=join-to-unlimiteddev.sabadyt.ir&type=ws#@bored_vpn
@@ -502,4 +503,3 @@ vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality&encryption=none&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33#🇫🇮𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality&encryption=none&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33#🇫🇮 | @External_Net
 vless://fede9e1e-069e-4bfc-b4fb-34f92d075dd5@f.vcheat.ir:2530?security=none&encryption=none&host=f.vcheat.ir&headerType=none&type=tcp#@Daily_Configs
-vless://fede9e1e-069e-4bfc-b4fb-34f92d075dd5@f.vcheat.ir:2530?security=none&encryption=none&host=f.vcheat.ir&headerType=none&type=tcp#@one_shop_official
