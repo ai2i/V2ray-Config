@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=/&security=tls&encryption=none&host=F1.paRsa.fiLegEar-Sg.Me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#IRAN 456 (@Outline_Vpn) free
 vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=/&security=tls&encryption=none&host=F1.paRsa.fiLegEar-Sg.Me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#IRAN 470 (@Outline_Vpn) free
 vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=/&security=tls&encryption=none&host=F1.paRsa.fiLegEar-Sg.Me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#IRAN 513 (@Outline_Vpn) free
 vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=/&security=tls&encryption=none&host=F1.paRsa.fiLegEar-Sg.Me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#[🇨🇦]ae_proxy
@@ -503,3 +502,4 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?path=/?ed=2560&se
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#IRAN 251 (@Outline_Vpn) free
 vless://9dd8841f-ca19-47f4-a06b-dc2e9316f9c5@151.101.3.8:80?mode=auto&path=/V3xhttp?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=Nam2aid.global.ssl.fastly.net&type=xhttp#@freevpnn11
 vless://9dda23d6-52cb-435f-bfb7-9fb4d45d5ec4@104.16.64.38:2096?path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&security=tls&encryption=none&host=eiiim.danesh-bonyan.Store&type=ws&sni=J0in-Te1egram-eiiim.danesh-bonyan.Store#کانال تلگرام manzariyeh_rasht
+vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=/&security=none&encryption=none&type=ws#Telegram@Tunder_vpn

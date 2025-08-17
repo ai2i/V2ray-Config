@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://20cf8a2b-e301-4240-9c03-20883249a287@104.24.198.111:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
 vless://211bdee3-b5dc-43d3-b2a5-3716359fc79c@194.182.79.250:52611?mode=gun&security=reality&encryption=none&authority=&pbk=d027uiA4v1a-8IWN8T1Tjgdw4aUVkxPhDX-2UpojtB8&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=27e90618#@icv2ray
 vless://211bdee3-b5dc-43d3-b2a5-3716359fc79c@194.182.79.250:52611?mode=gun&security=reality&encryption=none&pbk=d027uiA4v1a-8IWN8T1Tjgdw4aUVkxPhDX-2UpojtB8&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=27e90618#@Tunder_vpn 🇨🇿 250
 vless://211bdee3-b5dc-43d3-b2a5-3716359fc79c@194.182.79.250:52611?mode=gun&security=reality&encryption=none&pbk=d027uiA4v1a-8IWN8T1Tjgdw4aUVkxPhDX-2UpojtB8&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=27e90618#Bya To @Iran_V2Ray1
@@ -503,3 +502,4 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.14:51615?security=none&en
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.14:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@ai_duet @v2rayngsupbot🛡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&encryption=none&host=zul/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHIa.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
