@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-roof.atena.dpdns.org&fp=chrome&type=ws&sni=rayan-roof.atena.dpdns.org#@v2ray313 کانالمون 💋
-vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-roof.atena.dpdns.org&fp=chrome&type=ws&sni=rayan-roof.atena.dpdns.org#IRAN 325 (@Outline_Vpn) free
-vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-roof.atena.dpdns.org&fp=chrome&type=ws&sni=rayan-roof.atena.dpdns.org#IRAN 481 (@Outline_Vpn) free
-vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-roof.atena.dpdns.org&fp=chrome&type=ws&sni=rayan-roof.atena.dpdns.org#IRAN 493 (@Outline_Vpn) free
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-roof.atena.dpdns.org&fp=chrome&type=ws&sni=rayan-roof.atena.dpdns.org#IRAN 516 (@Outline_Vpn) free
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-roof.atena.dpdns.org&fp=chrome&type=ws&sni=rayan-roof.atena.dpdns.org#IRAN 581 (@Outline_Vpn) free
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-roof.atena.dpdns.org&fp=chrome&type=ws&sni=rayan-roof.atena.dpdns.org#IRAN 581 (@manzariyeh_rasht) free
@@ -168,7 +164,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc#🛡️ @FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?type=grpc&mode=gun&authority=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#[🇫🇷]@Evay_vpn
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Alfa_v2ray_ng 🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#ski
@@ -227,7 +222,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&mode
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&mode=gun&security=none#🇩🇪All³|@G0dV2RAY
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&mode=gun&security=none#🇩🇪All³|@v2ray_cartel
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&mode=gun&security=none#🇫🇷 Join Tel : @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880/?type=grpc&encryption=none#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=&encryption=none&type=grpc#@HiByeVPNN👈⚡❤️‍🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=&encryption=none&type=grpc#IRAN 465 (@Outline_Vpn) free
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=&encryption=none&type=grpc#MCI-@V2ray_Alpha-11
@@ -486,6 +480,8 @@ vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@104.24.248.141:80?path=/Barayeiranm
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@104.24.248.141:80?path=/Barayeiranmahsang/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&security=none&encryption=none&host=barayeiranmahsang.juveitaly.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.juveitaly.dpdns.org#telegram🇩🇪@V2WRAY
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=chrome&type=ws&sni=tannaz.juveitaly.dpdns.org#@bad_raqs
 vless://dfe016f3-2ff9-401a-a373-75422528f681@t2.vipfastconnect.top:2299?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@vmesskhodam)تلگراممو
+vless://dfe4a8e3-609b-43f1-92d3-9921d09b875f@specxtech.ticketdatabase.info:53055?mode=auto&path=dfe4a8e3-609b-43f1-92d3-9921d09b875f-xh&security=reality&encryption=none&pbk=kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=15a19f76#🇩🇪 @SpecXtech
+vless://dfe4a8e3-609b-43f1-92d3-9921d09b875f@specxtech.ticketdatabase.info:56658?security=reality&encryption=none&pbk=kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=15a19f76#🇩🇪 @SpecXtech
 vless://dfe4a8e3-609b-43f1-92d3-9921d09b875f@specxtech.ticketdatabase.info:56658?security=reality&encryption=none&pbk=kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=15a19f76#🇩🇪 | @External_Net
 vless://e01387f6-e92e-464e-aa26-6b21611adc86@104.21.0.0:80?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=join-to-Vmessorg.sabadyt.ir&type=ws#@icv2ray
 vless://e01387f6-e92e-464e-aa26-6b21611adc86@104.21.0.0:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
@@ -503,3 +499,7 @@ vless://e0782d4d-246a-4832-88e1-6d7e73c8eb22@190.93.244.170:2082?path=/@v2ngnet-
 vless://e0782d4d-246a-4832-88e1-6d7e73c8eb22@190.93.244.170:2082?type=httpupgrade&host=v2ngnet.nanvrfood.ir&path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048#v2ray_cartel
 vless://e0845791-0bd0-4a66-b80d-74c55a815d81@172.66.46.246:443?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560&security=tls&encryption=none&host=elena.elena.ddns-ip.net&fp=chrome&type=ws&sni=elena.elena.ddns-ip.net#TLS-@ELiV2RaY
 vless://e09093b1-0d61-4a41-b15d-ab1fb075da58@213.176.66.228:37021?security=reality&encryption=none&pbk=Gk3eR3mV55k5P3tg-MzqMpNolmML8q9zBOf6A102e1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=bc721eb6#@V2rayNG3
+vless://e09213cf-9436-4d12-b098-ce4009c9abc9@fr.safeline.12.afterhav.ir:443?security=reality&encryption=none&pbk=4tDme1uoXqFrpHyDr2FdYQfpbYl3s19L6HeIZQW-fjA&headerType=none&fp=chrome&spx=/dncADOY6aeSOSsa&type=tcp&sni=www.apple.com.cn&sid=4105a07f7c#سرور های بیشتر --> @V2RET ♥️
+vless://e0dab845-5f26-4fe3-a158-1487adaa5389@ping.amirhossein.info:8443?path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&security=&encryption=none&host=ping.amirhossein.info&type=ws#🛰 Te
+vless://e0dab845-5f26-4fe3-a158-1487adaa5389@ping.amirhossein.info:8443?path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&security=&encryption=none&host=ping.amirhossein.info&type=ws#🛰 Telegram | @Green_WPN | @Vijra_dev
+vless://e100d3b3-e706-4093-ae07-b820b4a3c6e6@91.99.231.221:2020/?type=grpc&encryption=none&flow=&serviceName=telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE&sni=tgju.org&fp=chrome&security=reality&pbk=MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI&sid=809cb172dbede776#20🚜@oneclickvpnkeys
