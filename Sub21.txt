@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#IRAN 285 (@Outline_Vpn) free
-vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#IRAN 334 (@Outline_Vpn) free
-vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#Telegram : @Alfa_v2ray_ng 🔥
-vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&fp=chrome&type=tcp#@ELFV2RAY_3
 vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&fp=chrome&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
 vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&fp=chrome&type=tcp#@Selinc
 vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&fp=chrome&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -503,3 +499,7 @@ vless://d1bf6696-c690-49d8-8af5-3ba51a55bd3b@172.66.40.99:80?path=/@vmessorg----
 vless://d1bf6696-c690-49d8-8af5-3ba51a55bd3b@172.67.73.233:80?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=join-to-Vmessorg.sabadyt.ir&type=ws#@bored_vpn
 vless://d1bf6696-c690-49d8-8af5-3ba51a55bd3b@172.67.73.233:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪3-Join Tel : @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 vless://d1bf6696-c690-49d8-8af5-3ba51a55bd3b@cumhuriyet.com.tr:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbot خرید سرور
+vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=/&security=&encryption=none&type=ws#Telegram:@config_proxy 🔥
+vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80/?type=ws&encryption=none&flow=&host=small-meal.oneeat.co&path=/#🚜45@oneclickvpnkeys
+vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=/&security=none&encryption=none&host=small-meal.oneeat.co&type=ws#🛡️ @FreakConfig
+vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@azadiiivpn⁹MCI 🎀

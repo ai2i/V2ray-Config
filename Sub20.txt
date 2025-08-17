@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b435cdd4-5465-4e5e-81c4-c1757beab7cd@62.60.178.200:40792/?type=tcp&security=reality&pbk=I2gX0RY5PEXPm6shWotiQ5bVwoBs4cmGV_sQUryQ63w&fp=chrome&sni=www.latimes.com&sid=5a&spx=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec#MdVpnSec-zbclqma7
-vless://b435cdd4-5465-4e5e-81c4-c1757beab7cd@62.60.178.200:40792?type=tcp&security=reality&pbk=I2gX0RY5PEXPm6shWotiQ5bVwoBs4cmGV_sQUryQ63w&fp=chrome&sni=www.latimes.com&sid=5a&spx=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec#MdVpnSec
-vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095/?type=ws&encryption=none&flow=&host=shole.zarghamportal.ir&path=/@iSpeedTopVPN?ed=80#🍰29@oneclickvpnkeys
-vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#@AblNet7 🐔
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#💎 @AblNet7 💎
@@ -503,3 +499,7 @@ vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@home.acangame.site:4444?mode=gun&se
 vless://c2d3226b-6618-496d-bc0f-7b93f492169a@194.182.79.65:43238?mode=gun&security=reality&encryption=none&pbk=XT1LHVlN21T2ml8nULA18Y4REuyaBNF9FM9PPcx89xs&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=e165dc66#@bored_vpn
 vless://c2d3226b-6618-496d-bc0f-7b93f492169a@194.182.79.65:43238?mode=gun&security=reality&encryption=none&pbk=XT1LHVlN21T2ml8nULA18Y4REuyaBNF9FM9PPcx89xs&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=e165dc66#@icv2ray
 vless://c2dd4b7f-328f-4467-a70c-27036b417a68@www.speedtest.net:80?path=/&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=httpupgrade#@V_2rayngVpn+تمامی+نت+ها
+vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#IRAN 285 (@Outline_Vpn) free
+vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#IRAN 334 (@Outline_Vpn) free
+vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#Telegram : @Alfa_v2ray_ng 🔥
+vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&fp=chrome&type=tcp#@ELFV2RAY_3
