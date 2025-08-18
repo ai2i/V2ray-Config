@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.159:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.159:8443?path=/&security=tls&encryption=none&type=ws#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.218:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.218:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.229:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 @vlees_v2rayng¹³
@@ -503,3 +501,5 @@ vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?type=ws&host=bi
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@193.124.224.3:8880?path=/TelegramU0001F1E8U0001F1F3?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#@HiByeVPNN👈❤️‍🔥🧑‍💻
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@199.34.229.3:8880/?type=ws&encryption=none&flow=&host=bitget1.asdasd.click&path=/Telegram🇨🇳#Telegram:@config_proxy 🔥
 vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80?encryption=none&security=none&type=ws&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev&path=/?ed=2560#🐋Ch: @pPal03🐋جوین بدید🐋
+vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.24.201.19:80?encryption=none&security=none&type=ws&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev&path=/?ed=2560#🐋Ch: @pPal03🐋جوین بدید🐋
+vless://b556316c-df44-4ec1-975c-70fd03f95f04@151.101.67.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#XpnTeam-vj4watsd0
