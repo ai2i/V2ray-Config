@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#%3E%3E%40v2rayng_fast%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#%3E%3E%40V2RAY_VMESS_free%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#%3E%3E%40V2RAY_VMESS_free%3A%3ASI
 vless://739b7052-1e58-444d-b068-6cdbbe487663@188.114.97.3:443?path=%2FD7UhD7IgkjUTf9Hl%3Fed%3D2560&security=tls&encryption=none&host=DFb32Af2.panLO-eSCObaR0099269.Pages.deV&fp=chrome&type=ws&sni=DFb32Af2.panLO-eSCObaR0099269.Pages.deV#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
@@ -503,3 +502,4 @@ vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443/?type=ws&encrypt
 vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6Im5hc25ldC00NTE1MDE3NDc1Lm1hc2hhbGxhaGJldC5jb20iLCJpZCI6Im5hc25ldCIsIm5ldCI6IndzIiwicGF0aCI6Ii9OQVNORVQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://df649309-e4bd-4285-a211-8220b946f413@45.142.189.71:443?security=none&encryption=none&headerType=none&type=tcp#Unlimited%20Traffic%20%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF`
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sid=33#%F0%9F%9A%9C82%40oneclickvpnkeys
+vless://40d9faec-3130-4e69-bb77-210193e65598@51.222.87.29:8081/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=C4lraeO0FAYyFmDWbRmHmX53xTf4XMalv5kGefeWBmA&sid=4662ad#16%F0%9F%9A%9C%40oneclickvpnkeys
