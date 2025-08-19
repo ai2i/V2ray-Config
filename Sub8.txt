@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1e56e60a-f5b4-443f-81b0-9b8593c73e61@185.235.137.85:59549?security=reality&encryption=none&pbk=9Zsv8K_EsD5IlY2Tv-o88ON512N5Kye6ZGBfeL2TdWc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.1.dragonspeed.ir#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
 vless://1e610976-fef5-4ca4-a447-f3530e70603e@104.18.20.173:443?path=/proxyip=ayaka.shorekeeper.ir&security=tls&alpn=h2,http/1.1&encryption=none&host=escoffier.changli.ddns-ip.net&fp=chrome&type=ws&sni=escoffier.changli.ddns-ip.net#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.173:443
 vless://1e610976-fef5-4ca4-a447-f3530e70603e@172.67.144.232:443?path=/proxyip=ayaka.shorekeeper.ir&security=tls&alpn=http/1.1&encryption=none&host=escoffier.changli.ddns-ip.net&fp=chrome&type=ws&sni=escoffier.changli.ddns-ip.net#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.232:443
 vless://1e7eaa27-ff66-428d-f86c-7e39855b1637@104.16.1.106:80?path=/&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#@V2RAYROZ
@@ -503,3 +502,4 @@ vless://2a49cf84-ad09-405b-bb92-e8cc40234f17@www.speedtest.net:8080?path=/@V2RAY
 vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443/?type=tcp&encryption=none&flow=&sni=www.speedtest.net&fp=chrome&security=reality&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&sid=e2#🥤98@oneclickvpnkeys
 vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?security=reality&encryption=none&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=e2#Channel id: @@proxy_kafee 🇳🇱
 vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?security=reality&encryption=none&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=e2#Channel id: @@singbox1 🇳🇱
+vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?security=reality&encryption=none&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=e2#🛡️ @FreakConfig

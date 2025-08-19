@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@AblNet7 🧨
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@Hddify |~| چنل هدیفای 🚨
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@V2RAYNG_1378
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel-@vmesskhodam
@@ -503,3 +502,4 @@ vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.89.156:443?type=xhttp&mode=au
 vless://0f8c0fbf-ad24-42ea-b226-8b3e60f4df1b@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@104.18.26.90:443/?type=ws&encryption=none&flow=&host=maxnetvipap-cloud252.netkh3.site&path=/linkws&security=tls&sni=maxnetvipap-cloud252.netkh3.site#🍰68@oneclickvpnkeys
 vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@104.18.26.90:443?path=/linkws&security=tls&encryption=none&host=maxnetvipap-cloud252.netkh3.site&type=ws#Channel id: @@proxy_kafee 🇨🇦
+vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@104.18.26.90:443?path=/linkws&security=tls&encryption=none&host=maxnetvipap-cloud252.netkh3.site&type=ws#Channel id: @@singbox1 🇨🇦
