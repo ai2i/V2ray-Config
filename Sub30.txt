@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://zY0HGcoAcY2v@www.speedtest.net:443?path=%2FtrfrcjlzXxwTT5XGKk%2FNDQuMjI0LjI0LjkxLDE4LjE4My4xNTguMjEx%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=schqqn0yhrrs34qn3a2k4i6g9xap1tph.pages.dev&type=ws&sni=SCHQqN0Yhrrs34qn3a2K4i6g9XAp1tPh.PaGEs.dEv#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2aryng_vpn%20%5B12%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowS3pXR2lMSzZUUE5NcTlrOFRyT25W@92.118.112.101:9483#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40v2aryng_vpn%20%5B13%5D
+vmess://eyJhZGQiOiJhaW8udW5saW1pdGVkLmJpei5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWlvLnVubGltaXRlZC5iaXouaWQiLCJpZCI6ImYyODJiODc4LTg3MTEtNDVhMS04YzY5LTU1NjQxNzIxMjNjMSIsIm5ldCI6IndzIiwicGF0aCI6IlwvYWlvcHJveHlib3RcLzEyOS4xNTAuNDkuNTgtMTg2NTAiLCJwb3J0IjoiNDQzIiwic2N5IjoiemVybyIsInNuaSI6ImFpby51bmxpbWl0ZWQuYml6LmlkIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiJcdWQ4M2RcdWRlYTkgQ0YgfCBcdWQ4M2RcdWRkMTIgVk1FU1MgfCBAdjJhcnluZ192cG4gWzE0XSJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2graphy%20%5B11%5D
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2graphy%20%5B12%5D
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2graphy%20%5B13%5D
@@ -500,6 +503,3 @@ vless://0d9a6872-cc1b-4a1d-97c0-b26cfb0a2fab@fonts-edge.cyberscaler.net:3001?sec
 
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@androidauthority.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a05.tRaNeH.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a05.traneh.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-T-5
 
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@glassdoor.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a06.tRaNeH.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a06.traneh.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-T-6
-
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a04.tRaNeH.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a04.traneh.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-T-4
