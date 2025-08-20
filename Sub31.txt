@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@glassdoor.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a06.tRaNeH.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a06.traneh.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-T-6
-
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a04.tRaNeH.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a04.traneh.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-T-4
 
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@jquery.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a05.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a05.rayan.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-R-5
@@ -503,3 +501,5 @@ vless://df649309-e4bd-4285-a211-8220b946f413@45.142.189.71:443?security=&encrypt
 vless://583e3af8-a550-42a4-9301-5a689cfdbb1b@unlimited.spauu.web.id:443/?type=ws&encryption=none&flow=&host=unlimited.spauu.web.id&path=%2Fvl%3D129.150.49.58%3D18650&security=tls&sni=unlimited.spauu.web.id#%F0%9F%8D%B019%40oneclickvpnkeys
 vless://df649309-e4bd-4285-a211-8220b946f413@45.142.189.71:433?security=none&encryption=none&headerType=none&type=tcp#Unlimited%20Traffic%20%F0%9F%87%A9%F0%9F%87%AA`
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443/?type=ws&encryption=none&flow=&host=freexxx.ndeso.web.id&path=%2FFree-CF-Proxy-AM11&security=tls&sni=freexxx.ndeso.web.id&fp=chrome#%F0%9F%8D%B026%40oneclickvpnkeys
+vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443/?type=ws&encryption=none&flow=&host=yx.yushan.dpdns.org&path=%2F&security=tls&sni=yx.yushan.dpdns.org#%F0%9F%8D%B051%40oneclickvpnkeys

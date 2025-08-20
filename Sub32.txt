@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443/?type=ws&encryption=none&flow=&host=freexxx.ndeso.web.id&path=%2FFree-CF-Proxy-AM11&security=tls&sni=freexxx.ndeso.web.id&fp=chrome#%F0%9F%8D%B026%40oneclickvpnkeys
-vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443/?type=ws&encryption=none&flow=&host=yx.yushan.dpdns.org&path=%2F&security=tls&sni=yx.yushan.dpdns.org#%F0%9F%8D%B051%40oneclickvpnkeys
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617/?type=tcp&encryption=none&flow=#%F0%9F%8D%B059%40oneclickvpnkeys
 vless://for-MahsaNG-vpn@188.114.98.18:2082?security=&type=ws&path=/mahsa_net/&host=Q7.19kaLA.cO&encryption=none#X1-MCI
 vmess://eyJhZGQiOiIxODguMTE0Ljk4LjE2IiwiYWlkIjoiMCIsImhvc3QiOiJxNC4xOWtBbGEuY28iLCJpZCI6ImZvci1NYWhzYU5HLW9ubHkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJNQkQtdzgwIiwic2N5IjoiYXV0byIsInNuaSI6InE0LjE5a0FsYS5jbyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==```
