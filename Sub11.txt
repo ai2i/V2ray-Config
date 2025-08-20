@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=/id5?@&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=chrome&type=ws&sni=bakrie.ac.id.servpn.my.id#r♡ya
-vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=/id5?@&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=chrome&type=ws&sni=bakrie.ac.id.servpn.my.id#→ @Hddify
-vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=/id5?@?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=chrome&type=ws&sni=bakrie.ac.id.servpn.my.id#@HiByeVPNN👈⚡❤️‍🔥
 vless://41918f0b-d0c4-401c-841b-c78ea5e29898@ov-germany7.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#Telegram:@config_proxy 🔥
 vless://41918f0b-d0c4-401c-841b-c78ea5e29898@ov-germany7.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#Telegram:@config_proxy 🔥
 vless://41ab5551-7bbc-48de-979a-70266022dbfd@www.speedtest.net:2053?mode=auto&path=/test?ed=2096&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=pars.stepson.ir&fp=chrome&type=xhttp&sni=ham.stepson.ir#@configfu
@@ -503,3 +500,6 @@ vless://4d95d26c-7f45-4011-c168-4d85fc3f22f8@chat.openai.com:8080?encryption=non
 vless://4dbe9eda-2bb1-4223-95e1-63cff7459620@secure.soratpardaz.ir:15815?security=reality&encryption=none&pbk=YgXkFfG6tuU_qEYtompAi2LlgLRxobwbo5_1Whir3Ac&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=preview.redd.it&sid=e24f1d72d00da7#@NETMelliAnti
 vless://4def9b45-592c-43e5-a62b-987beffa5d33@5.75.192.185:35487?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&sid=0b886008af8942c3&type=tcp&headerType=none#SPDNET 🇩🇪
 vless://4def9b45-592c-43e5-a62b-987beffa5d33@5.75.197.204:35487?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&sid=0b886008af8942c3&type=tcp&headerType=none#SPDNET 🇩🇪
+vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?security=&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam
+vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 👇🏻
+vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@

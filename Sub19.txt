@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a93fc14d-9438-4f2f-9778-313e2c57031b@138.199.162.176:465?security=none&encryption=none&headerType=none&type=tcp#🌟Telegram:@Asak_Vpn
-vless://a94e065c-2966-4540-9620-9f44d15b5c46@172.66.46.246:443?path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560&security=tls&encryption=none&host=ELENA.ELENA.ddns-ip.net&fp=chrome&type=ws#Telegram@ConfingV2RaayNG
-vless://a9964b0e-a18f-48c9-bcd1-8f34b5092879@webshecan.webredirect.org:2083?type=tcp&security=reality&fp=chrome&pbk=TTyvgA7WXFTrzGfnc3n2thNNEcWc_GWReVsvs5Gd9D4&sni=www.theverge.com&flow=xtls-rprx-vision&sid=7f321171&spx=/#@Webshecan-test-mci
 vless://a9b1ceba-df8c-4791-9b22-f9bcae8d0e45@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🌴 Telegram | @Green_WPN
 vless://a9c9c197-c626-4667-f219-1575f26715ac@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
@@ -503,3 +500,6 @@ vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@zmaoz.faculty.ucdavis.edu:80?encryp
 vless://ba46706a-9ff3-4cd6-ab89-e54f6f8ece10@2.188.227.134:2070?type=tcp&security=none#@bolbolvpn 👈 چنل ما
 vless://ba491876-8698-4c7f-8532-5ceac9184d5f@nh.gpairnetwork369.de:3030?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=NVjEaDFrdzaFQHvMt8BPORsLFR3iD8NA31Dpn-1HRFk&sid=ecd8d10c1518fb7b&type=tcp&headerType=none#@Daily_Configs
 vless://ba56e95b-10fe-43d3-aaa2-417b0df52adf@de2.leperfume.ir:2323?mode=auto&path=/Bmarz&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=book.leperfume.ir&type=xhttp#@v2ray313 کانالمون 🤝
+vless://ba65ddb2-a8cd-413b-980d-709b3a3cfca3@151.101.194.133:80?type=xhttp&path=/&host=datisyour-name.global.ssl.fastly.net&mode=auto&security=none#DatisVPN-500g
+vless://ba8112db-293a-4e8c-bd10-a93c502a92ee@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&security=none&encryption=none&host=he10.motorbazan.com&type=ws#@confiig_hub
+vless://ba8112db-293a-4e8c-bd10-a93c502a92ee@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=he10.motorbazan.com&type=ws#[🇩🇪]@configLINE
