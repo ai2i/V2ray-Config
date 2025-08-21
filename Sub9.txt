@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#🇹🇷 @FREEV2RNG
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/?ed&security=none&encryption=none&host=NoDE24.VtNEt.InFO&type=ws#🇩🇪[Telegram:NetifyVpn]-2
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed&security=none&encryption=none&host=NoDE24.VtNEt.InFO&type=ws#Channel : @Mrsoulb 🏴🏳
@@ -503,3 +502,4 @@ vless://330e627f-3752-467a-b0a5-d46d07b5acf9@91.107.241.250:6000?mode=auto&path=
 vless://330e627f-3752-467a-b0a5-d46d07b5acf9@91.107.241.250:6000?mode=auto&path=/&security=reality&encryption=none&pbk=aNK-4Lg53CF9JKVv7LFTAGP9Bmha0HxY6ms1emd57nQ&fp=chrome&spx=/&type=xhttp&sni=wiredminds.de&sid=243e#@i10VPN 🚀| با ما متصل بمون⚡
 vless://330e627f-3752-467a-b0a5-d46d07b5acf9@91.107.241.250:6000?mode=auto&path=/&security=reality&encryption=none&pbk=aNK-4Lg53CF9JKVv7LFTAGP9Bmha0HxY6ms1emd57nQ&fp=chrome&spx=/&type=xhttp&sni=wiredminds.de&sid=243e#ALL@azadiiivpn
 vless://330e627f-3752-467a-b0a5-d46d07b5acf9@91.107.241.250:6000?mode=auto&path=/&security=reality&encryption=none&pbk=aNK-4Lg53CF9JKVv7LFTAGP9Bmha0HxY6ms1emd57nQ&fp=chrome&spx=/&type=xhttp&sni=wiredminds.de&sid=243e#Telegram : @Alfa_v2ray_ng 🔥
+vless://330e627f-3752-467a-b0a5-d46d07b5acf9@91.107.241.250:6000?mode=auto&path=/&security=reality&encryption=none&pbk=aNK-4Lg53CF9JKVv7LFTAGP9Bmha0HxY6ms1emd57nQ&fp=chrome&spx=/&type=xhttp&sni=wiredminds.de&sid=243e#✅ @manzariyeh_rasht  👈👈کانال ما
