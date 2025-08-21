@@ -284,7 +284,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=&encrypti
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#@AblNet7 🇩🇪
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#🇩🇪[Telegram:@v2rayng_fars]
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&headerType=none&type=tcp#@Alfa_v2ray_ng کانالمون 🫀
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&headerType=none&type=tcp#@Alfa_v2ray_ng کانالمون 🫵🏻
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&headerType=none&type=tcp#@configfu
@@ -487,7 +486,6 @@ vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#@v2ray313 کانالمون 💜
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#@v2ray313 کانالمون 🚀
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#ski
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#🇳🇱@FreakConfig
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#🇳🇱[Telegram:v2rayng_fars]
@@ -503,3 +501,5 @@ vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=/
 vless://2b1736d5-d838-4f39-8897-23fb78ea2463@vpnlime.fv2.site:2086?type=ws&path=/Channel:@vpnlime#Channel:@VPNLime
 vless://2b2219ab-707a-4773-af6c-539de4a76c89@217.144.186.49:38231?security=none&encryption=none&host=nature.com&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2b256b16-91f9-4374-856f-23f4d6753039@alhilal.com:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-dead.nastaran.dpdns.org&fp=chrome&type=ws&sni=rAyAn-dEAd.NasTarAn.DpDns.oRg#@i10VPN 🚀| با ما متصل بمون⚡
+vless://2b256b16-91f9-4374-856f-23f4d6753039@alhilal.com:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-dead.nastaran.dpdns.org&fp=chrome&type=ws&sni=rAyAn-dEAd.NasTarAn.DpDns.oRg#Telegram : @Alfa_v2ray_ng 🔥
+vless://2b256b16-91f9-4374-856f-23f4d6753039@alhilal.com:443?security=tls&sni=rAyAn-dEAd.NasTarAn.DpDns.oRg&fp=chrome&type=ws&path=/?ed=2560&host=rayan-dead.nastaran.dpdns.org&packetEncoding=xudp&encryption=none#@NetAccount
