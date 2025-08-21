@@ -3,15 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#ski
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#🇳🇱@FreakConfig
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#🇳🇱[Telegram:v2rayng_fars]
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?type=ws&path=/&security=none#🇳🇱 Join Tel :  @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80/?type=ws&encryption=none&flow=&path=/#🍰52@oneclickvpnkeys
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?encryption=none&security=none&type=ws&path=/#@Daily_Configs
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?encryption=none&security=none&type=ws&path=/#[🇨🇦]t.me/ConfigsHub
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=/&security=none&encryption=none&type=ws#IRAN 435 (@Outline_Vpn) free
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=/&security=none&encryption=none&type=ws#IRAN 464 (@Outline_Vpn) free
@@ -503,3 +500,6 @@ vless://3178c081-8819-4e2f-88db-7236ff25c88e@5.202.75.56:18688?mode=gun&security
 vless://318c375c-1f29-4b30-8875-2c4c54d7c38d@104.21.23.72:8080?path=/?ed=2048&security=&encryption=none&host=feng3.2n7y5pja.workers.dev&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.23.72:8080
 vless://31a8b6a5-e909-4042-ac4d-64e8067d42c3@world-of.ru:443?type=tcp&security=reality&pbk=9QOmx7k0-uCbUrgh7ee9x9qtLIOEVyeYiZI2aiimYEs&fp=chrome&sni=yahoo.com&sid=71e48a&spx=/&flow=xtls-rprx-vision#Telegram:@config_proxy 🔥
 vless://31cc285f-5358-41df-8dca-d7f73a00f152@[2a01:4f9:c011:295a::1]:8880?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 🦉
+vless://31cffb7a-a6f1-422b-b156-4360613ff720@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#@V2RAYNG_IP 🇩🇪 253
+vless://31cffb7a-a6f1-422b-b156-4360613ff720@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#🇩🇪@FreakConfig
+vless://31cffb7a-a6f1-422b-b156-4360613ff720@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#🇩🇪v2rayng (DE)🔐-confegraigan
