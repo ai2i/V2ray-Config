@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#IRAN 708 (@Outline_Vpn) free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#IRAN 714 (@Outline_Vpn) free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#Telegram : @V2rayTun0🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#Telegram+:+@V2rayEnglish
@@ -503,3 +502,4 @@ trojan://Kq0Pbl6wOh@79.137.195.203:80?type=ws&host=joker.ahang-alpha.ir&path=/TE
 trojan://LG7HKcZFIJ@45.155.54.117:110?security=tls&headerType=none&type=tcp&sni=sws.ftpcomand.com#🇨🇭@FreakConfig
 trojan://McCPa4vups6yAdDbGokjPA@172.67.203.79:2096?security=tls&sni=ge1.pandaservice.info&type=ws&host=ge1.pandaservice.info&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
 trojan://McCPa4vups6yAdDbGokjPA@172.67.203.79:2096?security=tls&sni=ge1.pandaservice.info&type=ws&host=ge1.pandaservice.info&fp=chrome&alpn=h3,h2,http/1.1#t.me/entryNET/config=1841100986635114
+trojan://NISHIKUITAN111@104.16.10.83:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
