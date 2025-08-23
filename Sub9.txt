@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.170.56:51615?security=none&encryption=none&host=zul/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHIa.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.170.56:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.170.56:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪 @EXPRESSVPN_420
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -59,7 +64,6 @@ vless://2f899c15-090f-4c76-8260-62be0d02d0f5@151.101.3.8:80?type=ws&host=befreew
 vless://2f8d61ee-b14d-475b-92fc-923b45b372e6@EXPRESSVPN_420.fastly80-2.hosting-ip.com:80?path=/Channel,SPDNET,SPDNET-V2?ed=1024&security=none&encryption=none&host=spdnetvip.ir&type=ws#@Hope_Net-join-us-on-Telegram
 vless://2fb8383b-2b12-463e-a20d-674c36d9b7d3@Filter5050.nabxcsjghjs2004.shop:27940?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#‌‌-یک
 vless://2fdb0d00-8515-40ba-c03d-110bafccf1ef@sky.raheaiande.ir:1001?type=tcp&path=/&headerType=http&security=reality&pbk=PJJAwYggwp2gu5_oXIr_1Q02OM6-DrCCEd0y1NF5vSs&fp=chrome&sni=ea.com&sid=&spx=/join_telegram-@vpnserverrr+join_telegram-@vpnserverrr+join_telegram-@vpnserverrr+join_telegram-@vpnserverrr+join_telegram-@vpnserverrr#Germany 🇩🇪-@vpnserverrr جوین شو لنگ نمونی
-vless://30062a25-707c-4060-b584-cbf01affcee7@151.101.2.133:80?sni=barkatc1.ir&type=ws&host=barkatc1.ir&allowInsecure=0#@Hope_Net-join-us-on-Telegram
 vless://3034752b-a7bd-4562-ad0b-6f7f4d7e2aad@65.109.194.11:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@v2ray313 کانالمون ☘️
 vless://3048004a-d4e8-404b-a7da-23f54a5e07a1@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.147.22:443?path=/Telegram@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=hozori.ir&fp=chrome&type=ws&sni=hOZori.iR#@CaV2ray ⚡️
@@ -499,7 +503,3 @@ vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&en
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&encryption=none&host=/JKVPN_BIA_CHANEL@JKVPN&headerType=none&type=tcp#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?type=tcp&headerType=none&security=none#🇺🇸2-Join Tel : @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@panbehnet.cinemapluss.ir:20321?security=none&encryption=none&headerType=none&type=tcp#فیلترشکن رایگان👈Prime_Verse@
-vless://363fc7cb-211e-4ee5-86dc-32cebcd729a2@46.226.162.144:443?mode=gun&security=reality&encryption=none&pbk=yCVJx0wmxNCquTou_VefSTUXBJ1gMBJyOcNViF1BVXw&fp=chrome&spx=/&type=grpc&serviceName=Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs&sni=tgju.org&sid=b6b65b76b5969271#@Daily_Configs
-vless://364aeeca-ff4f-49f5-bc2f-e71f1f5b7e57@x1-england-amazon-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?encryption=none&security=none&type=ws&path=/#@Daily_Configs
-vless://364aeeca-ff4f-49f5-bc2f-e71f1f5b7e57@x1-england-amazon-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?path=/&security=&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
-vless://364aeeca-ff4f-49f5-bc2f-e71f1f5b7e57@x1-england-amazon-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?path=/&security=&encryption=none&type=ws#در صورت قطع شدن کانفیگ؛ Fast78_channel@ در تلگرام سرچ کنید
