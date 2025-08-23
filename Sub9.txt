@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=&encryption=none&host=zula.ir/?TELEGRAM@VPN66&headerType=http&type=tcp#⚜️Telegram: @IP_CF
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@bad_raqs
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🌹@ai_duet / @v2rayngsupbot
@@ -442,6 +439,8 @@ vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@speedtest.net:443?path=/W0tvTq4oSbH
 vless://35a04287-2470-4fed-bc91-4d9779dedfe7@www.speedtest.net:8080?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&encryption=none#🇳🇱@Shh_Proxy | All¹
 vless://35a04287-2470-4fed-bc91-4d9779dedfe7@www.speedtest.net:8080?type=ws&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#🇳🇱 Join Tel : @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws&security=tls&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#Telegram:@config_proxy 🔥
+vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws&security=tls&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#[🇫🇷]t.me/ConfigsHub
+vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws&security=tls&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#t.me/entryNET/config=1841240718212007
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws&security=tls&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇫🇷 | @External_Net
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws&security=tls&encryption=none&type=ws#@V2RAYROZ
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&type=ws#@HiByeVPNN
@@ -470,6 +469,8 @@ vless://364aeeca-ff4f-49f5-bc2f-e71f1f5b7e57@x1-england-amazon-v2.we-are-team-xs
 vless://364aeeca-ff4f-49f5-bc2f-e71f1f5b7e57@x1-england-amazon-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?path=/&security=&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://364aeeca-ff4f-49f5-bc2f-e71f1f5b7e57@x1-england-amazon-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?path=/&security=&encryption=none&type=ws#در صورت قطع شدن کانفیگ؛ Fast78_channel@ در تلگرام سرچ کنید
 vless://364aeeca-ff4f-49f5-bc2f-e71f1f5b7e57@x1-england-amazon-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?path=/&security=none&encryption=none&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
+vless://364eee44-5c16-4ad7-b5c5-2cd7828c9ab9@104.17.207.36:8880?security=none&type=httpupgrade&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=/Daily_Configs?ed=80#@Hope_Net-join-us-on-Telegram
+vless://364eee44-5c16-4ad7-b5c5-2cd7828c9ab9@104.17.207.36:8880?security=none&type=httpupgrade&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=/Daily_Configs?ed=80#Telegram:@config_proxy 🔥
 vless://364eee44-5c16-4ad7-b5c5-2cd7828c9ab9@172.67.204.84:8880?security=none&type=httpupgrade&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=/Daily_Configs?ed=80#@Hope_Net-join-us-on-Telegram
 vless://36806339-220c-45de-9b8b-1cfe72f22adb@91.107.172.82:52204?security=none&encryption=none&headerType=none&type=tcp#@cofigfree20255
 vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?security=reality&encryption=none&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=229b2a94#[60881] - Telegram : @V2All
@@ -502,4 +503,3 @@ vless://376734bc-4db8-4317-b451-af0262cb01c7@104.21.75.120:2087?path=/Telegram@V
 vless://376734bc-4db8-4317-b451-af0262cb01c7@160.153.0.153:8443?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=invincible.fafa20.shop&fp=chrome&type=ws&sni=InviNCIble.FAfA20.shOP#@i10VPN 🚀| با ما متصل بمون⚡
 vless://376734bc-4db8-4317-b451-af0262cb01c7@160.153.0.153:8443?path=/KvNugxSUpljMOjgF/NzguNDcuMTU3LjY=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=invincible.fafa20.shop&fp=chrome&type=ws&sni=InviNCIble.FAfA20.shOP#IRAN 371 (@Outline_Vpn) free
 vless://3769c1f9-6686-4f70-952b-ec525378982c@panke1.dadasoratmolayi.com:2087?security=&encryption=none&headerType=none&type=tcp#Telegram:@madshopx
-vless://3769c1f9-6686-4f70-952b-ec525378982c@panke1.dadasoratmolayi.com:2087?security=&encryption=none&headerType=none&type=tcp#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
