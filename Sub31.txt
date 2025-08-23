@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://51e823ea-da11-43e7-89b0-32a729f14551@185.239.105.218:49098?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40uvpnir%20%5B2%5D
-vless://5d5c5ec2-d3fb-460d-bd07-23ba76e434a7@194.120.24.125:10431?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40uvpnir%20%5B3%5D
-vless://3a999fcf-bbb3-4f47-aeb5-cf2e03eb553c@194.120.24.125:21689?type=grpc&serviceName=&authority=&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40uvpnir%20%5B4%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?encryption=none&security=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v222ray%20%5B8%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?encryption=none&security=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v222ray%20%5B9%5D
 vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.114.25:443?encryption=none&security=none&type=xhttp&path=%2Fd%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&mode=stream-one#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v222ray%20%5B10%5D
@@ -503,3 +500,6 @@ vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visa.com.tw:443?security=tls&sn
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visasoutheasteurope.com:443?security=tls&sni=rAyAn-cOnFiG-06.rAyAn-iI.DnS-DyNaMiC.NeT&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-06.rayan-ii.dns-dynamic.net&encryption=none#@Rayan_Config%20-%20EU-R-NS-6
 
 vless://63c865a4-aedb-43eb-9177-828519561ea9@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20DE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://762397ec-790e-4c42-9a50-94d0c10a2b16@51.178.42.187:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20FR%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+

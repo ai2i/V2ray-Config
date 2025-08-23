@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#@V2RAYNG_1378
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#@V2RAYROZ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#@V2RAYROZ🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#@configfu+14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#@v2ray26:🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#@v2ray26:🇳🇱 جهت خرید سرور اختصاصی👇  @v2rayng64 استفاده بدون ری اکشن حرام است🌹  اینترنت آزاد
@@ -503,3 +500,6 @@ trojan://Xa4^l(;.;B#a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security
 trojan://Z2P0nBrc5d-54JXKPLQcGg@www.speedtest.net:2087?type=ws&host=jfkgfuiodghlf.ahmadinabaz.ir&path=/speedtest&security=tls&fp=chrome&sni=jfkgfuiodghlf.ahmadinabaz.ir&alpn=h2,http/1.1#@SaghiVpnXBOT[🇨🇦]
 trojan://a134e3de-b25a-4020-9998-05fa6b715f1a@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国04 付费推荐：https://dafei.de
 trojan://a134e3de-b25a-4020-9998-05fa6b715f1a@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国05 付费推荐：https://dafei.de
+trojan://a134e3de-b25a-4020-9998-05fa6b715f1a@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
+trojan://a17dec70-4213-11f0-8ece-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🧡
+trojan://a5655914-95bd-4834-9043-352245dec3b3@sla.cn.964e995b760.gogodns.xin:43591?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#Telegram:@config_proxy 💢
