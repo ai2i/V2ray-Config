@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-hy2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#Channel id: @ShadowProxy66🇬🇧
-hy2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#UK家宽
-hy2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414/?insecure=1&sni=bing.com#Channel id: @@proxy_kafee🇩🇪
-hy2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414/?insecure=1&sni=bing.com#Channel id: @ShadowProxy66🇩🇪
 hy2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414/?insecure=1&sni=bing.com#DE
 hy2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205/?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#🥤2@oneclickvpnkeys
 hy2://Cyi3TPih9FtQRwsZAh8aT6ynGJk@54.169.144.240:2166/?insecure=1#Channel id: @@proxy_kafee🇭🇰
@@ -503,3 +499,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFRXNqUUwwclh3UWdKZXozQVNqb09x@91.194.160.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFRXNqUUwwclh3UWdKZXozQVNqb09x@91.194.160.151:1235?note=--Telegram--@NetifyVPN--#🇯🇵[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFSlFmRkZMMnJtMXNHMDVmUlIxN0ZN@154.205.147.68:8443#@v2rayNGcloud🇴🇲
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFbEtIMUhLdVF1VzZ1UlR0c2VMWUI4@94.159.96.245:11902#t.me/entryNET/config=1841241662265495
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#@NpvV2rayFilTer
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#@proxy_kafee🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#Channel id: @ShadowProxy66 🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#Telegram:@config_proxy 💦

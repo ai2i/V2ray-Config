@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#🩵+@Azarakhsh_Proxy+🩷
-trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
-trojan://bpb-trojan@www.vpslook.com:443?path=/tr?ed=2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=chrome&type=ws&sni=bpb-hd.aaronchin.xyz#@V2rayNG3
 trojan://c0b08970-489c-11f0-8e92-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=fr1.test3.net#@hopev2ra🩵
 trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?mode=auto&path=/xhttp&security=tls&alpn=h2&type=xhttp&sni=nl.xtls.sitespeedtest.net#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://c25c4610-489e-11f0-bd10-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤍
@@ -503,3 +499,7 @@ vless://0503fa3c-f914-4421-a1e5-72c1f8d781a2@hpgbag3g9kik7ase4cn1tt8inexozr4nji7
 vless://0503fa3c-f914-4421-a1e5-72c1f8d781a2@hpgbag3g9kik7ase4cn1tt8inexozr4nji7.pages.dev:443?path=/D5DmXLFJw0WqKdoZ/dHVyay5yYWRpY2FsaXphdGlvbi5pciwxMDQuMTY4LjEwMi4xNjM=&security=tls&alpn=http/1.1&encryption=none&host=hpgbag3g9kik7ase4cn1tt8inexozr4nji7.pages.dev&type=ws&sni=HPgbaG3g9kIk7asE4cn1Tt8InExOZr4nji7.pages.dev#@v2ray313 کانالمون 💓
 vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@104.18.37.228:8080?security=&type=ws&path=/olem/ws?ed=1024&host=shad.ir.fin.test.digicyber.click.&encryption=none#Telegram:@config_proxy 🔥
 vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@104.18.37.228:8080?type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024&security=none#Telegram:@config_proxy 💢
+vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@104.18.37.228:8080?type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024&security=none#🇫🇮 Join Tel :  @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
+vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@104.21.112.1:8080?type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024&security=none#🇫🇮 Join Tel :  @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
+vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@cafearz.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
+vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@cafearz.com:8080?path=/olem/ws?ed=1024&security=none&encryption=none&host=shad.ir.fin.test.digicyber.click.&type=ws#@V2RAYROZ
