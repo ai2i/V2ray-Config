@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[35139] - Telegram : @V2All
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#T.me/Asak_Vpn
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -450,7 +446,6 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@147.78.140.254:8880/?type=ws&encryp
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@168.100.6.254:8880/?type=ws&encryption=none&flow=&host=yg.bantony199.top&path=/Telegram#🥨69@oneclickvpnkeys
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.148.107.254:8880/?type=ws&encryption=none&flow=&host=yg.bantony199.top&path=/Telegram#🥨61@oneclickvpnkeys
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.16.110.143:8880/?type=ws&encryption=none&flow=&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#🥨64@oneclickvpnkeys
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@25.129.197.254:8880?encryption=none&security=none&type=ws&host=yg.bantony199.top&path=/#Telegram:@config_proxy 🔥
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@5.182.84.254:8880/?type=ws&encryption=none&flow=&host=yg.bantony199.top&path=/Telegram🇨🇳#🥨65@oneclickvpnkeys
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:2090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray ⚡️
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:5109?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray ⚡️
@@ -503,3 +498,8 @@ vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&en
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&encryption=none&host=/Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify&headerType=none&type=tcp#→@Hddify 🐜
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&encryption=none&host=/JKVPN_BIA_CHANEL@JKVPN&headerType=none&type=tcp#@v2rayng_fars
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&encryption=none&host=/JKVPN_BIA_CHANEL@JKVPN&headerType=none&type=tcp#→ @Hddify 🕯️
+vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&encryption=none&host=/JKVPN_BIA_CHANEL@JKVPN&headerType=none&type=tcp#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
+vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?type=tcp&headerType=none&security=none#🇺🇸2-Join Tel : @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
+vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@panbehnet.cinemapluss.ir:20321?security=none&encryption=none&headerType=none&type=tcp#فیلترشکن رایگان👈Prime_Verse@
+vless://363fc7cb-211e-4ee5-86dc-32cebcd729a2@46.226.162.144:443?mode=gun&security=reality&encryption=none&pbk=yCVJx0wmxNCquTou_VefSTUXBJ1gMBJyOcNViF1BVXw&fp=chrome&spx=/&type=grpc&serviceName=Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs&sni=tgju.org&sid=b6b65b76b5969271#@Daily_Configs
+vless://364aeeca-ff4f-49f5-bc2f-e71f1f5b7e57@x1-england-amazon-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?encryption=none&security=none&type=ws&path=/#@Daily_Configs
