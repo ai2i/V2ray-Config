@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://52b3eea3-61a1-45f2-a060-da40c822d4a6@77.83.175.25:41080?security=reality&encryption=none&pbk=6Bmi0jb4B0iSRGLwWYN1M-XRr5ewPw_T1oRXBMX1yRI&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=02a26a760838267e#🇳🇱@FreakConfig
-vless://52b3eea3-61a1-45f2-a060-da40c822d4a6@77.83.175.25:41080?security=reality&encryption=none&pbk=6Bmi0jb4B0iSRGLwWYN1M-XRr5ewPw_T1oRXBMX1yRI&headerType=none&fp=chrome&spx=/@SkyShieldVPN&type=tcp&sni=refersion.com&sid=02a26a760838267e#@i10VPN 🚀| با ما متصل بمون⚡
-vless://52b3eea3-61a1-45f2-a060-da40c822d4a6@77.83.175.25:41080?security=reality&encryption=none&pbk=6Bmi0jb4B0iSRGLwWYN1M-XRr5ewPw_T1oRXBMX1yRI&headerType=none&fp=chrome&spx=/@SkyShieldVPN&type=tcp&sni=refersion.com&sid=02a26a760838267e#🇳🇱@FreakConfig
-vless://52b73082-d873-49ee-c0a9-574b083d859e@45.82.161.120:42671?security=&encryption=none&headerType=none&type=tcp#☁️telegram:@Fast78_channel
 vless://52b73082-d873-49ee-c0a9-574b083d859e@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸
 vless://52b73082-d873-49ee-c0a9-574b083d859e@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone
 vless://52b73082-d873-49ee-c0a9-574b083d859e@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
@@ -503,3 +499,7 @@ vless://607d9703-8403-415c-a201-05178810530c@speedtest.net:80?type=ws&host=befre
 vless://6080dd5c-20e7-4441-c442-7faad7ca9405@rayphoriahub.iran.soratpardaz.ir:2021?type=tcp&security=reality&pbk=cLTyHJdWOJnrsIwbB547idyIOs07W5PXxftfRC_880c&fp=chrome&sni=preview.redd.it&sid=&spx=/------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub&flow=xtls-rprx-vision#🇩🇪 RayphoriaHub-کانفیگ ویژه رایگان و اختصاصی فروشی
 vless://60882caa-4e74-42a2-be70-220755fc1551@104.19.173.68:443?encryption=none&security=tls&sni=rayan-olala.parvaneh.dpdns.org&type=ws&host=rayan-olala.parvaneh.dpdns.org&path=/?ed=2560#Telegram:@config_proxy 🔥
 vless://6090ccaa-aaaf-414c-81fe-c0b6eacd08a2@174.138.91.75:443?security=reality&encryption=none&pbk=isv0-h8thcIesJqsQJLcpvcJT91_WBrjD4syZVv5XiU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=e41c0d#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
+vless://60978552-841f-4682-8b4e-a78de6125475@Lightning6.12speedtest.store:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=Lightning6.ir&type=ws#30 | @ConfigFast 🇮🇷💔 عضو بشید تلگرام و ایتا
+vless://609cbb2a-8bd3-4c3d-ad54-220863b5d670@95.38.104.119:1919?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://609cbb2a-8bd3-4c3d-ad54-220863b5d670@95.38.104.119:1919?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@ai_duet @v2rayngsupbot🛡️
+vless://60b34da2-c471-4858-8602-c79bca501e89@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=&encryption=none&host=d.jOin.zEdMoDeOn.oNl.&type=ws#@Capoit
