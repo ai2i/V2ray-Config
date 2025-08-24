@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#@NpvV2rayFilTer
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#@V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#Channel id: @ShadowProxy66 🇳🇱
@@ -384,8 +383,8 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.46:6379#@Hope_Net
 ss://bm9uZTphYmFhY2NiLWNhYmEtYmFjYS1iZGFjLWJhY2JhY2FjY2JiYQ==@127.0.0.1:8080#@Hope_Net
 ss://bm9uZTpiY2FhY2JhLWJhY2EtYWJjYS1kY2FiLWFjY2FiYmFjYWJjYg==@127.0.0.1:8080#@Hope_Net
 ss://bm9uZTpiYWNhY2FiLWFhYmMtYWFjYi1kY2FiLWNiY2FjYWJiYmFjYQ==@127.0.0.1:8080#@Hope_Net
+ss://bm9uZTpiYWNhYWNiLWJjYWEtYWFjYi1hY2RiLWFhYmNjYmNjYmFiYQ==@127.0.0.1:1080#[🏁]t.me/ConfigsHub
 ss://bm9uZTpjYmNhYmFhLWFhY2ItYmNhYS1kYmFjLWFjYWFjY2JiYmNhYg==@127.0.0.1:1080#@Hope_Net
-ss://bm9uZTpjYmNhYmFhLWFhY2ItYmNhYS1kYmFjLWFjYWFjY2JiYmNhYg==@127.0.0.1:1080#[🏁]t.me/ConfigsHub
 ss://bm9uZTpjYmNhYmFhLWFhY2ItYmNhYS1kYmFjLWFjYWFjY2JiYmNhYg==@127.0.0.1:1080#t.me/entryNET/config=1841354657268688
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2WTJKa01USm1PVFF0WW1aaE1pMDBNRGM1TFRrMVltSXROVEJqTkRsa04yRmhaamRs@117.176.203.229:30017#@Hope_Net
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#@awlix_ir
@@ -503,3 +502,4 @@ trojan://?M|$pIEDnf8N@172.66.47.197:443?path=/tr5yHAfAceu4MQZYYW/YnBiLnlvdXNlZi5
 trojan://?M|$pIEDnf8N@www.speedtest.net:443?path=/trfTOD5pZ7bIEs3KNa/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==&security=tls&alpn=http/1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=chrome&type=ws&sni=gkH7iMomi--3t3XCStzt8pP4dLZUeskN.PagEs.Dev#Channel id: @@proxy_kafee 🇨🇦
 trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#@V2rayNG3
 trojan://Aimer@103.116.7.133:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#💯T.me/Asak_Vpn💯
+trojan://Aimer@104.19.60.99:2087?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#ᴬᴸᴸ𝗝𝗼𝗶𝗻➠@V2rayTun0
