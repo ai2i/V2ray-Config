@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
-vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#🇨🇵@FreakConfig
 vless://813e7fc5-2c9a-4967-802b-6443930ecb7e@13.229.182.176:20230/?type=grpc&encryption=none&flow=&serviceName=tj&sni=www.nvidia.com&fp=chrome&security=reality&pbk=Bkxd25PPovqeYw6AevM-L266KM2kLDJomgmorzvGFmM&sid=2c846487#Telegram:@config_proxy 🔥
 vless://814c1910-4a61-44fc-d600-0df9cd9c2618@99.199.73.53:18616?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://815d62b0-6838-424d-97c6-cca58ba97381@xpanel.panelfreedom.com:2090?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@V2RAYNG_1378
@@ -503,3 +501,5 @@ vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@HiByeVPNN👈⚡❤️‍🔥
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?security=tls&encryption=none&type=ws&host=vl.hongkong6.qzz.io&path=/telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou&sni=vl.hongkong6.qzz.io&fp=chrome#Config🇩🇪@Do_itforyou
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.122.80:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&type=ws&sni=kawaiifreevpn.pages.dev#IRAN 324 (@Outline_Vpn) free
