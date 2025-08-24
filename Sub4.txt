@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#@V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#🇦🇺 - @FREEV2RNG 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#Telegram:@config_proxy 💦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#@V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#IRAN 422 (@Outline_Vpn) free
@@ -503,3 +500,6 @@ trojan://:bC5^lakx>$d@www.speedtest.net:443?path=/trmwnHKV1e9tS6xrWn&security=tl
 trojan://?M|$pIEDnf8N@172.66.44.59:443?path=/trjlFIcjqAklnJcJjx/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==&security=tls&alpn=http/1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=chrome&type=ws&sni=gkH7imOMi--3t3xcStZT8pp4dlZUEsKN.PagEs.deV#@AblNet7 🇨🇦
 trojan://?M|$pIEDnf8N@172.66.47.197:443?path=/tr5yHAfAceu4MQZYYW/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==&security=tls&alpn=http/1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=chrome&type=ws&sni=gKh7ImOMi--3t3XCStzt8pP4DLZUesKN.paGes.dEv#Channel id: @@proxy_kafee 🇨🇦
 trojan://?M|$pIEDnf8N@172.66.47.197:443?path=/tr5yHAfAceu4MQZYYW/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==&security=tls&alpn=http/1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=chrome&type=ws&sni=gKh7ImOMi--3t3XCStzt8pP4DLZUesKN.paGes.dEv#Channel id: @ShadowProxy66 🇨🇦
+trojan://?M|$pIEDnf8N@www.speedtest.net:443?path=/trfTOD5pZ7bIEs3KNa/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==&security=tls&alpn=http/1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=chrome&type=ws&sni=gkH7iMomi--3t3XCStzt8pP4dLZUeskN.PagEs.Dev#Channel id: @@proxy_kafee 🇨🇦
+trojan://?M|$pIEDnf8N@www.speedtest.net:443?path=/trfTOD5pZ7bIEs3KNa/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==&security=tls&alpn=http/1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=chrome&type=ws&sni=gkH7iMomi--3t3XCStzt8pP4dLZUeskN.PagEs.Dev#Channel id: @ShadowProxy66 🇨🇦
+trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#@V2rayNG3
