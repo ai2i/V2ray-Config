@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk5v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4&spx=/&type=tcp&headerType=none#Sv5_@FF_crony🇺🇸
-vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk6v.tok8888.com:45445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.webilop.com&fp=chrome&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=/&type=tcp&headerType=none#Sv6_@FF_crony🇺🇸
-vless://65925d59-b895-4a25-80b6-47e8a20a12b2@www.speedtest.net:2095?type=httpupgrade&host=xn--nl8h.rastakvision.ir.&path=/?ed=2560&security=none#@SaghiVpnXBOT[🇨🇦]
 vless://65951889-54af-453f-a7a1-55b91e5a5ad5@46.101.199.91:8080?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.0.108:443?path=/sg3?ed&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=chrome&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram:@config_proxy 🔥
 vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.0.108:443?path=/sg3?ed=2560/?JKVPNTELEGRAM_CHANEL_JKVPN_JKVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=chrome&type=ws&sni=blog.ruangguru.com.servpn.my.id#12𝗝𝗼𝗶𝗻➠@JKVPN
@@ -503,3 +500,6 @@ vless://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.
 vless://7094df26-af60-41c4-afac-857060d1bab0@jealous-competition.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@Daily_Configs
 vless://7094df26-af60-41c4-afac-857060d1bab0@jealous-competition.seotoolsforyou.co.uk:80?path=/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=none&encryption=none&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://7094df26-af60-41c4-afac-857060d1bab0@jealous-competition.seotoolsforyou.co.uk:80?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&fp=chrome&type=ws#@HiByeVPNN👈⚡❤️‍🔥
+vless://709d1512-da43-487c-889d-50b84fa46e6c@91.107.170.231:24070/?type=grpc&serviceName=@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&authority=&security=reality&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&fp=chrome&sni=yahoo.com&sid=93&spx=/#@ZedBaz_vpn
+vless://709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#[🇨🇦]ae_proxy
+vless://70aefb56-53ca-4ad0-af97-4c742854aa4f@vip1.zxhost.sbs:80?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
