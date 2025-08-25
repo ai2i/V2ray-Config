@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?security=&encryption=none&headerType=none&type=tcp#@v2rayng_fars
 vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=&encryption=none&headerType=none&type=tcp#🇮🇳𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#@V2ray_confing33
@@ -503,3 +502,4 @@ vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.17.187.205:443?path=/@Rayan_Con
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@jquery.com:443?path=/telegram: @Eternal_Connect - telegram: @Eternal_Connect - telegram: @Eternal_Connect - telegram: @Eternal_Connect&security=tls&encryption=none&host=rayan-config-telegram-a05.rayan.dpdns.org&fp=chrome&type=ws&sni=rAyAn-cOnFiG-TeLeGrAm-a05.rAyAn.dPdNs.oRg#Telegram : @Alfa_v2ray_ng 🔥
 vless://169c5a68-9d6a-4129-b4f4-5a0089397ab0@www.parsvds.ir:8080?security=none&encryption=none&type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE?ed=8080#Awlix_ir
 vless://16b4fc8a-db23-4e3f-a610-1dccfe5d85d3@night-tr2.leperfume.ir:26985?security=none&type=ws&headerType=&path=/&host=web.rubika.ir#Telegram:@config_proxy 🔥
+vless://16b4fc8a-db23-4e3f-a610-1dccfe5d85d3@night-tr2.leperfume.ir:26985?security=none&type=ws&headerType=&path=/&host=web.rubika.ir#t.me/entryNET/config=1841426444193088
