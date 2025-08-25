@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a4f7b0c3-172e-4aa2-b8b9-9be08c68e43e@netehrs.hlewx.com:7005?security=reality&encryption=none&pbk=bAVPx_xARmg19lI2jrdGwJ3DtEB7z-xkKoDPkfCcHmE&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@manzariyeh_rasht
-vless://a4f7b0c3-172e-4aa2-b8b9-9be08c68e43e@netehrs.hlewx.com:7005?type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=bAVPx_xARmg19lI2jrdGwJ3DtEB7z-xkKoDPkfCcHmE#3. 🇳🇱 • NETHERLANDS - @SaghiVpnXBOT
 vless://a4f7b0c3-172e-4aa2-b8b9-9be08c68e43e@tr.iranfreedomserver.com:7005?type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=bAVPx_xARmg19lI2jrdGwJ3DtEB7z-xkKoDPkfCcHmE#2. 🇹🇷 • TURKEY - SaghiVpnXBOT
 vless://a51d095d-ae00-4213-a24c-e5239db416f3@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#@Capoit
 vless://a51d095d-ae00-4213-a24c-e5239db416f3@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn
@@ -503,3 +501,5 @@ vless://b1179209-9c7d-47d2-b71f-9df6378fc77e@172.66.40.99:8080/?type=ws&path=/Te
 vless://b131228a-b895-4237-ac4b-0edad7759468@65.109.221.186:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
 vless://b131228a-b895-4237-ac4b-0edad7759468@65.109.221.186:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&spx=/&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#@V2RAYNG_1378
 vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=none&encryption=none&headerType=none&type=tcp#@EXPRESSVPN_420
+vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=none&encryption=none&headerType=none&type=tcp#👉@ai_duet 🛒@v2rayngsupbot
+vless://b186e4de-9f54-426e-9a8d-fbd8927ae5ac@45.8.146.207:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇺🇸 | @External_Net
