@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=0OkKaMlV7m.WaSaBi9890.OrG&fp=chrome&type=ws&sni=0OkKaMlV7m.WaSaBi9890.OrG#Channel id: @ShadowProxy66 🇬🇧
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=0OkKaMlV7m.WaSaBi9890.OrG&fp=chrome&type=ws&sni=0OkKaMlV7m.WaSaBi9890.OrG#r♡ya
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=0OkKaMlV7m.WaSaBi9890.OrG&fp=chrome&type=ws&sni=0OkKaMlV7m.WaSaBi9890.OrG#🌻
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=1NoLuS4cZ4.iWiWiWjHeHsJsKnSdNnD.iNfO&fp=chrome&type=ws&sni=1NoLuS4cZ4.iWiWiWjHeHsJsKnSdNnD.iNfO#@@proxy_kafee
@@ -503,3 +502,4 @@ vless://f3371028-eb17-45b8-85a8-8fdf575164a9@ir.snappmarket-cdn.com:80?path=/uk-
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s1.1dnt.k-l.cloud:80?mode=auto&path=/123&security=none&encryption=none&type=xhttp#Nimbaha@FF_crony
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?encryption=none&security=none&type=xhttp&path=/123&mode=auto#@iSeqaro
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?mode=auto&path=/123&security=none&encryption=none&type=xhttp#Nimbaha@FF_crony
+vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?type=xhttp&mode=auto&path=/123?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇨🇦 @Evay_vpn
