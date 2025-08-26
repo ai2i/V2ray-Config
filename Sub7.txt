@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#⚡@AblNet7💥💥
-vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇩🇪@FreakConfig
-vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎 @AblNet7 💎
-vless://1d1e6598-1373-4dc2-a424-d289f2da5d25@85.90.207.183:54300?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://1d1e6598-1373-4dc2-a424-d289f2da5d25@85.90.207.183:54300?path=/&security=none&encryption=none&type=ws#🇦🇲[Telegram:@v2rayng_fars]
 vless://1d2252b8-f8a5-4d15-a146-e91de03a7f58@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://1d79ae59-02b4-402d-c529-4c0a7facec28@37.27.220.157:3810?security=reality&encryption=none&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=f830f6#🇫🇮 جوین بده کانکت بمونی: @STAPersiaNews
 vless://1d79ae59-02b4-402d-c529-4c0a7facec28@de-re.afteam.ir:3810?security=reality&encryption=none&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=f830f6#@v2ray313 کانالمون 🧠
@@ -503,3 +498,8 @@ vless://2b38bf86-8034-4d55-9257-67783f6746f6@172.66.40.99:8080?path=/-LiV2ry@LIG
 vless://2b4f6be4-32b4-495c-82d1-4d3093e5ddad@85.9.204.21:23328?security=reality&encryption=none&pbk=Za4d7M22mOEGXV23Tkb_STUCIznMbtlUS89ZAaECjU0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=@ZenixVPN_Channel.ilovepdf.com@ZenixVPN_Channel&sid=1af22e9c44f798bc#@ZenixVPN_Channel
 vless://2b4f6be4-32b4-495c-82d1-4d3093e5ddad@85.9.204.21:23328?security=reality&encryption=none&pbk=Za4d7M22mOEGXV23Tkb_STUCIznMbtlUS89ZAaECjU0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=1af22e9c44f798bc#@v2ray313 کانالمون 💯
 vless://2b4f6be4-32b4-495c-82d1-4d3093e5ddad@85.9.204.21:23328?security=reality&encryption=none&pbk=Za4d7M22mOEGXV23Tkb_STUCIznMbtlUS89ZAaECjU0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=1af22e9c44f798bc#@v2rayng_fars
+vless://2b4f6be4-32b4-495c-82d1-4d3093e5ddad@85.9.204.21:23328?security=reality&encryption=none&pbk=Za4d7M22mOEGXV23Tkb_STUCIznMbtlUS89ZAaECjU0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=1af22e9c44f798bc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=learn.microsoft.com&fp=chrome&security=reality&pbk=enVCnAoXILJUvAvwx8GNVOImPYFm3Jo-UHYHOlbDZW4&sid=63cace289fb97072#🧁83@oneclickvpnkeys
+vless://2b7c27b9-dfba-430b-9ee7-88eb1c85af27@51.38.237.113:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#Telegram : @Alfa_v2ray_ng 🔥
+vless://2b7c27b9-dfba-430b-9ee7-88eb1c85af27@51.38.237.113:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇫🇷 | @External_Net
+vless://2b854bf3-a8a2-4d90-9a1c-6b7f88835b10@speedtest.net:80?mode=auto&path=/@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF?ed=2048&security=&encryption=none&host=ip_cf001.global.ssl.fastly.net&type=xhttp#⚜️Telegram: @IP_CF
