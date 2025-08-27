@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ba26f084-9124-4524-add4-53fcfb928161@94.141.123.233:443?flow=xtls-rprx-vision&fp=chrome&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&security=reality&sid=fc7a526a7e61ba3b&sni=cdnjs.com&type=tcp#🇩🇪 @Geek_Spot
+vless://ba2def0c-37cc-417b-89fc-a15daeff639f@188.114.97.3:443?path=---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=nobn4mmes6ngtz69omncgukgspsgyd9wfuwabmsuup4h29wpba6dfefdfsfdsfd.uicd7i4r.workers.dev&type=ws&sni=nobn4mmes6ngtz69omncgukgspsgyd9wfuwabmsuup4h29wpba6dfefdfsfdsfd.uicd7i4r.workers.dev#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://ba340ba0-27e6-49de-81c0-56a2d4ab8b92@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@icv2ray
 vless://ba340ba0-27e6-49de-81c0-56a2d4ab8b92@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@151.101.3.8:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=/olem/ws?ed=1024#@melov2ray🇫🇮
@@ -501,5 +503,3 @@ vless://c9032a96-614a-4e8c-bc01-c96aa2ef749c@zarin8i.alireza031.pw:26734?path=/?
 vless://c918bc36-ea05-4b45-a3ba-3130508bbe0d@151.101.2.133:443?security=tls&sni=mio.splashthat.com&type=ws&host=barkatc2.ir&path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=2048#@Hope_Net-join-us-on-Telegram
 vless://c928cc14-4bb1-48bd-b4da-69448ec797ba@91.99.216.9:8443?type=tcp&headerType=none&host=mci.ir&security=reality&fp=chrome&sni=refersion.com&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#🇩🇪 @Evay_vpn
 vless://c935aba0-8835-426a-a585-225baee13f70@188.34.201.88:16072?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🌟Telegram:@Asak_Vpn
-vless://c936567b-58a8-43c9-ba12-a91f6bfb8a6d@zula.ir:8080?security=none&encryption=none&type=ws&host=waded.narcoshop.ir.&path=/#Awlix_ir
-vless://c95740bb-b3be-44f9-9fa4-260c3fbec6de@37.27.15.167:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e3c5c005cae07eb8#@V2rayNG3
