@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4629d0f8-cebf-40ea-bc5a-6906c2576ef1@159.65.180.242:2053?mode=auto&path=/&security=reality&encryption=none&pbk=WbL6cLSObdHDfF8_Pj50yq4tjgL3Pl_cYkoOZrUSaR4&fp=chrome&spx=/&type=xhttp&sni=openstreetmap.org&sid=d2dbbfffdd700aa1#telegram @v2rayng_fars
+vless://4629d0f8-cebf-40ea-bc5a-6906c2576ef1@159.65.180.242:2053?mode=auto&path=/&security=reality&encryption=none&pbk=WbL6cLSObdHDfF8_Pj50yq4tjgL3Pl_cYkoOZrUSaR4&fp=chrome&spx=/&type=xhttp&sni=openstreetmap.org&sid=d2dbbfffdd700aa1#→ @Hddify
 vless://4639162c-9296-4a28-8f52-84348f5c9e04@Hh.somo44.sbs:8080?path=/hhvghhv&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree-MCİ
 vless://464fd529-cb1e-4cfc-8dbe-f4ff1d86bc3f@93.115.240.88:20000?security=none&encryption=none&type=ws#@configfree_1
 vless://465b542a-15fa-4130-90d2-989e73192914@172.66.40.99:443?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=www.dollardoon.com&fp=chrome&type=ws&sni=www.dollardoon.com#@V2RAYNG_IP❤️‍🔥
@@ -501,5 +503,3 @@ vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encry
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#IRAN 629 (@Outline_Vpn) free
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=/?ed=2560&security=&encryption=none&host=abcd.taraneh.dpdns.org&type=ws#Telegram:@zede_filteri

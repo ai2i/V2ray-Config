@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b03df2ab-e657-4d94-a7b2-368dcffdbc5d@172.66.46.246:443?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560&security=tls&encryption=none&host=elena.elena.ddns-ip.net&fp=chrome&type=ws&sni=elena.elena.ddns-ip.net#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://b03df2ab-e657-4d94-a7b2-368dcffdbc5d@188.114.98.112:2095?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560&security=none&encryption=none&host=ELENA.ddNS-ip.net.&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All_@IRAN_V2RAY1
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=/&security=none&encryption=none&type=ws#IRAN 594 (@Outline_Vpn) free
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=/&security=none&encryption=none&type=ws#IRAN 653 (@Outline_Vpn) free
@@ -501,5 +503,3 @@ vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?security=reality&e
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?encryption=none&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&sid=bf517367267685&spx=/&type=tcp&headerType=none#@CaV2ray ⚡️
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&headerType=none&fp=chrome&spx=/&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#@CaV2ray ⚡️
 vless://beedfd16-efd6-4790-b555-9f6f080a2352@vip1.zxhost.sbs:80?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🎉
-vless://beedfd16-efd6-4790-b555-9f6f080a2352@vip1.zxhost.sbs:80?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🔥
-vless://bef98d0f-5015-4a2a-ab3b-8db160ef837f@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#✅ Telegram | @Green_WPN
