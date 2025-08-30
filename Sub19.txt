@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b1723c14-8180-4311-a65f-fc2665c6b51f@188.114.98.112:80?path=/JOIN---PLANB_PROXY?ed=2560&security=none&encryption=none&host=JOIN---ELiV2-RAY.cloudns.pro.&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://b1723c14-8180-4311-a65f-fc2665c6b51f@188.114.98.112:80?path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560&security=none&encryption=none&host=jOIN---ELiV2-RAY.cloudns.pro.&type=ws#Telegram@ConfingV2RaayNG
 vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=none&encryption=none&headerType=none&type=tcp#@EXPRESSVPN_420
 vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=none&encryption=none&headerType=none&type=tcp#👉@ai_duet 🛒@v2rayngsupbot
@@ -502,4 +503,3 @@ vless://c1694079-7243-4a2d-d634-c776e4ce0242@91.99.236.124:51479?security=realit
 vless://c1c15aa0-f5ce-4e1e-c9af-8eb80852166a@99.199.73.53:18716?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://c1d16861-5a8b-46d9-bfd3-032b9abcb68f@192.142.15.95:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#@v2ray313 کانالمون 🦠
 vless://c1d16861-5a8b-46d9-bfd3-032b9abcb68f@192.142.15.95:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#Telegram : @Alfa_v2ray_ng 🔥
-vless://c1d2e3f4-a5b6-1234-7890-0123456789ab@104.20.158.25:443?type=ws&encryption=none&host=iran.aslivpn.ir&path=/Telegram@V2rayNG&security=tls&sni=iran.aslivpn.ir&fp=chrome#@CaV2ray ⚡️
