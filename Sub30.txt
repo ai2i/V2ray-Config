@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV1J4WUtyMWZJa1FRalJnSklXZUNV@152.42.245.170:38450#%E2%9C%A898%40oneclickvpnkeys
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880/?type=grpc&encryption=none&flow=#%E2%9C%A811%40oneclickvpnkeys
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880/?type=grpc&encryption=none&flow=#%F0%9F%A5%A818%40oneclickvpnkeys
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&sni=telewebion.com&allowInsecure=1&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc=@144.126.146.38:30789
