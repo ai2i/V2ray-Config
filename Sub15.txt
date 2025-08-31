@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.114.25:443?mode=stream-one&path=/d/?@MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.147.163:443?mode=stream-one&path=/d&security=none&encryption=none&type=xhttp#Telegram : @Alfa_v2ray_ng 🔥
 vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.147.163:443?mode=stream-one&path=/d/?@MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&type=xhttp#@V2ray1_Ng
 vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.216.213:443?mode=stream-one&path=/d&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://82c51f47-3c1f-4d82-ad48-1e372eea1f12@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=sOp.IsVcLoD.cOm&fp=chrome&type=ws&sni=sOp.IsVcLoD.cOm#telegram-@ISVvpn
@@ -503,3 +501,5 @@ vless://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.16.179.157:80?path=/?ed=2560&se
 vless://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.24.132.5:80?encryption=none&security=none&type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=/#Telegram:@config_proxy 💦
 vless://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.24.132.5:80?encryption=none&security=none&type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=/?ed=2560#⚓️Ch: @pPal03⚓️جوین بدید گوگولیا⚓️
 vless://9471a8c4-2f95-4a95-b869-5e31b9bc4a9b@Hh.somo44.sbs:8080?path=/hhvghhv&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree-MCİ
+vless://949de04d-3f8e-4dfb-a652-cd2bde2f9848@193.9.16.37:54876?security=reality&encryption=none&pbk=GiJD-Fcy7f8Ec0jJ2bfKwjIgVJgdblJ-HUEVt0r8LCM&headerType=none&fp=chrome&spx=/&type=tcp&sni=Zula.ir&sid=ce1f64bf8464#@hopev2ray🩵
+vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.208.107:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
