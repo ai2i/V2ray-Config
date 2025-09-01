@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn28.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn28.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn28.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn28.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🍦@Outline_ir
@@ -76,7 +75,6 @@ vless://7ac2252d-a966-486a-bca9-fcd148e60078@45.158.127.84:443?security=reality&
 vless://7ac2252d-a966-486a-bca9-fcd148e60078@45.158.127.84:443?security=reality&encryption=none&pbk=W3lJRwhDFMycX3Q056SN4T9v_q_PvjBWEjmDF8Thsyc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=25#Telegram:@config_proxy 🔥
 vless://7ad8abae-f095-459d-c2d0-c76fdcc2eca2@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
-vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Telegram:@config_proxy 🔥
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[🇩🇪]@confegraigan
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
@@ -435,7 +433,6 @@ vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryptio
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776506.VtNeT.infO&type=ws&sni=6389113402676776506.VtNeT.infO#t.me/entryNET/config=1842072764053854
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776506.VtNeT.infO&type=ws&sni=6389113402676776506.VtNeT.infO#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776506.VtNeT.infO&type=ws&sni=6389113402676776506.VtNeT.infO#🇩🇪@FreakConfig
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776506.VtNeT.infO&type=ws&sni=6389113402676776506.VtNeT.infO#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.97ms
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776509.VtNeT.infO&type=ws&sni=6389113402676776509.VtNeT.infO#🇩🇪@FreakConfig
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776513.VtNeT.infO&type=ws&sni=6389113402676776513.VtNeT.infO#Telegram:@config_proxy 🔥
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=6389113402676776513.VtNeT.infO&allowInsecure=1&type=ws&path=/#@Daily_Configs
@@ -457,7 +454,6 @@ vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&securi
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776517.VtNeT.infO#@V2rayNGVPN <= کانفیگ رایگان
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776517.VtNeT.infO#@meli_proxyy
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776517.VtNeT.infO#Channel : @Mrsoulb 🏴🏳
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776517.VtNeT.infO@V2rayNGVPN <= کانفیگ رایگان#Telegram:@config_proxy 🔥
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776519.VtNeT.infO#@meli_proxyy
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776519.VtNeT.infO#Telegram : @Alfa_v2ray_ng 🔥
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?security=tls&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws&sni=6389113402676776517.VtNeT.infO#@MARAMBASHI 🐳
@@ -503,3 +499,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?path=Telegram:@S
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?path=Telegram:@ShadowProxy66/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@CaV2ray ⚡️
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?path=Telegram:@ShadowProxy66/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#آمریکا🇺🇸(سرور 05) | وصل شدی بیا  چنل @trust_v2config
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.2.165:80?path=/ivtW9Us1ysMoAvbL?ed=2560&security=none&encryption=none&host=Iran.mil&type=ws#🩵+@Azarakhsh_Proxy+🩷
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.248:443?allowInsecure=1&sni=backtory.com&alpn=h2,http/1.1&type=ws&host=backtory.com&path=/security=tls#@Hope_Net-join-us-on-Telegram
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.64.200.78:80?encryption=none&security=none&type=ws&host=white-sun-1317-ppal03.hofix12166.workers.dev&path=/?ed=2560#😨Ch: @pPal03😨جوین بدید😨
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.132.196:8443?encryption=none&security=tls&sni=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz&type=ws&host=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz&path=/#@Golestan_VPN - JOIN
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.106:443?allowInsecure=0&sni=MabdI.PAGeS.DEv&alpn=h2,http/1.1&type=ws&host=MabdI.PAGeS.DEv&path=/9GqWAHqtHAZpMxkq?ed=2560fp=chrome&security=tls#@Hope_Net-join-us-on-Telegram
