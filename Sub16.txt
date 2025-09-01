@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.101:443?allowInsecure=1&sni=mefa.ir&type=ws&host=mefa.ir&path=/H?ed=2560fp=chrome&security=tls#@Hope_Net-join-us-on-Telegram
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.79:443?allowInsecure=1&sni=mefa.ir&type=ws&host=mefa.ir&path=/security=tls#@Hope_Net-join-us-on-Telegram
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.79:443?allowInsecure=1&sni=mefa.ir&type=ws&host=mefa.ir&path=/security=tls#Telegram:@config_proxy 🔥
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?path=Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@CaV2ray ⚡️
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?path=Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@CaV2ray ⚡️
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.211.145:80?path=/&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@Golestan_VPN 👈 چنل
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?encryption=none&security=none&fp=chrome&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=/#@Golestan_VPN - JOIN
@@ -65,7 +69,6 @@ vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/?TELEGRAM-M
 vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#@meli_proxyy
 vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#@V2rayNGVPN <= کانفیگ رایگان
 vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#Telegram : @Alfa_v2ray_ng 🔥
-vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.53ms
 vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir@V2rayNGVPN <= کانفیگ رایگان#Telegram:@config_proxy 🔥
 vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none=&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#@bored_vpn
 vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none=&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#@mehrosaboran
@@ -173,8 +176,8 @@ vless://8e5604cd-0fa9-40c3-9bcd-70f96ce2c323@food.france-learns.ir:80?path=/down
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@104.17.148.22:8443?path=/&security=tls&encryption=none&host=server28.coin.name.ng&fp=chrome&type=ws&sni=server28.coin.name.ng#@v2ray313 کانالمون 🫠
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=server12.coin.name.ng&type=ws&sni=server12.coin.name.ng#@Daily_Configs
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=server12.coin.name.ng&type=ws&sni=server12.coin.name.ng#bia @v2rayng_fars @Pruuxi
+vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=server12.coin.name.ng&type=ws&sni=server12.coin.name.ng#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.69ms
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=server13.coin.name.ng&fp=chrome&type=ws&sni=server13.coin.name.ng#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=server13.coin.name.ng&type=ws&sni=server13.coin.name.ng#🇩🇪 Telegram: @configfree20255🚀💥
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=server13.coin.name.ng&type=ws&sni=server13.coin.name.ng#🇩🇪@FreakConfig
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=server28.coin.name.ng&type=ws&sni=server28.coin.name.ng#→ @Hddify
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=server13.coin.name.ng&fp=chrome&type=ws&sni=server13.coin.name.ng#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
@@ -500,6 +503,3 @@ vless://9748467e-b5d7-40cc-8ca2-51eca4aa6b3a@m71a.vip784.com:33801?note=---Teleg
 vless://9748467e-b5d7-40cc-8ca2-51eca4aa6b3a@m71a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@vmesskhodam
 vless://9748467e-b5d7-40cc-8ca2-51eca4aa6b3a@m71a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://9748467e-b5d7-40cc-8ca2-51eca4aa6b3a@m71a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
-vless://9751f7d3-213b-4bbf-8d77-f32b052e2fd2@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46153-2
-vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?encryption=none&security=none&type=tcp&headerType=http&host=exo.ir#@Golestan_VPN - JOIN
-vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🇩🇪 | @External_Net
