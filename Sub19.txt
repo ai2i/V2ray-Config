@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?security=none&encryption=none&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?security=none&encryption=none&headerType=none&type=tcp#@Iran_V2RAY1
-vless://a82def0b-92c5-450b-9fca-7f1b7f932e8e@63.141.128.16:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#@V2BOXV
 vless://a82def0b-92c5-450b-9fca-7f1b7f932e8e@63.141.128.16:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#Telegram:@config_proxy 🔥
 vless://a83b75d7-6b87-4201-a12a-8105fad6a8da@www.speedtest.net:2082?path=ð&security=none&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-6.RaYaN-6.ClOuDnS.ClUb&fp=chrome&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://a8749fa0-2f18-4ccd-a6d0-81c996e0fefa@Mopli.mciickoir.ir:9620?security=none&encryption=none&headerType=http&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
@@ -23,7 +20,6 @@ vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&en
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@V2rayNGVPN <= کانفیگ رایگان
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@meli_proxyy
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#Telegram : @Alfa_v2ray_ng 🔥
-vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇺🇲@FreakConfig
 vless://a88bf92d-4851-4eac-aad1-66e16247856a@104.16.1.106:80?path=/&security=&encryption=none&host=eng.vinamarketcenter.ir&type=ws#@FASTSHOVPN عضو شو
 vless://a88bf92d-4851-4eac-aad1-66e16247856a@104.16.1.106:80?path=/&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#Channel : @Mrdarc 🏴🏳
@@ -503,3 +499,7 @@ vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&securi
 vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=@UCIRANIR@UCIRANIR@Silver_v2ray#@TokaVpnALL
 vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=@UCIRANIR@UCIRANIR@Silver_v2ray#@V2RAYROZ
 vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=@UCIRANIR@UCIRANIR@Silver_v2ray#@V2ray1_Ng ALL
+vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=@UCIRANIR@UCIRANIR@Silver_v2ray#@V2rayNGVPN <= کانفیگ رایگان
+vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=@UCIRANIR@UCIRANIR@Silver_v2ray#All_@IRAN_V2RAY1
+vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=@UCIRANIR@UCIRANIR@Silver_v2ray#Telegram : @Alfa_v2ray_ng 🔥
+vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=@UCIRANIR@UCIRANIR@Silver_v2ray#[🇬🇧]ae_proxy
