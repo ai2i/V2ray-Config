@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7bda027c-cbc8-488f-864f-cfb415cd8d77@unique.bitiboot.com:443?security=reality&sni=analytics.google.com&fp=chrome&pbk=q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg&sid=40e3350da285&type=tcp&encryption=none#@Rayan_Config%2045
+
+vless://a00b3f51-36ec-4960-9668-a30ad2f68421@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://ce9751a0-fee7-402a-a887-bdc5f7bd1093@ru-0017.vpnvezdehod.net:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2019
 
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality&sni=wa.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2025
 
@@ -47,7 +52,6 @@ vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?security=tls&sni=
 vless://ff8d20d1-db9d-4cbe-9fef-ea10a474cd6c@83.217.9.233:443?security=reality&sni=cdnjs.com&fp=chrome&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2032
 
 vless://vw6hjp6qlg@npmjs.com:2053?security=tls&sni=vw6hjp6qlg-525340125.zamam.co&fp=randomized&type=httpupgrade&path=/download/cdn&host=vw6hjp6qlg-525340125.zamam.co&encryption=none#@Rayan_Config%2047
-
 
 
 
