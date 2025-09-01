@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?path=Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@CaV2ray ⚡️
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.211.145:80?path=/&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@Golestan_VPN 👈 چنل
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?encryption=none&security=none&fp=chrome&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=/#@Golestan_VPN - JOIN
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.80.111.55:80?path=/&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@Golestan_VPN 👈 چنل
@@ -502,4 +503,3 @@ vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&en
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?encryption=none&security=none&type=tcp&headerType=http&host=exo.irتعداد#@Golestan_VPN - JOIN
 vless://977d8d98-baed-4de3-d283-5c8128b7fee0@45.82.161.120:57276?path=/FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://979e4105-7b3a-4ce9-9fdf-992687869d1e@138.197.13.193:443?security=reality&encryption=none&pbk=xxBt4wWYurbjkEOZ1N4T1lOH9enyJ1GHdAynjdsw0hQ&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=7d5b4f2ce8bbef8b#@V2rayNG3
-vless://97adb6e3-5c84-493c-9de6-b093eb2708a1@172.66.40.99:8880?path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=none&encryption=none&host=inFo.laLezaRanegomaNandish.mdV.V2.onlineshopbb.org.&type=ws#@v2rayng_fars
