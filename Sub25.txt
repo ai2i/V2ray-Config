@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e8346e35-2be3-4743-d80b-95e460e7e86b@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
-vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=&encryption=none&headerType=none&type=tcp#[🇩🇪]ae_proxy
-vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&encryption=none&headerType=none&type=tcp#@NETMelliAnti : چنل کانفیگ
 vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
@@ -444,6 +441,7 @@ vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stre
 vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
 vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@v2ray26:🇩🇪
 vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#All Server ⚡𝐣𝐨𝐢𝐍-@V2rayTun0
+vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrdarc 🏴🏳
 vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪[Telegram:NetifyVpn]
@@ -503,3 +501,5 @@ vless://f0e563a5-f102-4368-b41c-ef0cecb60cfa@axe.soyet2j.ir:2053?path=/homepage?
 vless://f0e825fb-6aa7-4825-e4ef-9a8e170b3a61@172.66.40.99:8080?path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480&security=none&encryption=none&host=join-to-unlimiteddev.sabadyt.ir&type=ws#@icv2ray
 vless://f0e825fb-6aa7-4825-e4ef-9a8e170b3a61@cumhuriyet.com.tr:8080?type=ws&host=join-to-unlimiteddev.sabadyt.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link1
 vless://f0e825fb-6aa7-4825-e4ef-9a8e170b3a61@www.speedtest.net:8080?type=ws&host=join-to-unlimiteddev.sabadyt.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link2
+vless://f10086d6-dd38-46ee-8a20-a3ce49a07e5e@FL1.PersianYooz-IR.Xyz:222?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇮🇷 Finland 🇫🇮 T1
+vless://f10086d6-dd38-46ee-8a20-a3ce49a07e5e@FL2.PersianYooz-IR.Xyz:222?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇮🇷 Finland 🇫🇮 T2
