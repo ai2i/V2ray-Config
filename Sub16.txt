@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://84cec1f6-8312-40da-b17a-4511e11a6026@cyber.azar.ddns-ip.net:2083?security=reality&encryption=none&pbk=64ZzXuN3BNiYLcliMenVVbjdSX_jCpB-yvW7MTsz2n4&headerType=none&fp=chrome&spx=/azarandooz/login.aspx&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=4d932424dbe98b#🇷🇺@AzarAndoozVPNbot | نامحدود
-vless://850479d3-f804-4f12-a541-9bb3d083bf20@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
-vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.16.172.173:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#🐋Tel: @pPal03🐋Join🐋
 vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.24.52.41:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#🐋Tel: @pPal03🐋Join🐋
 vless://8523c3f2-d5c7-4cce-9342-5c48a1afb3b9@m59a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇫🇮@FreakConfig
 vless://8523c3f2-d5c7-4cce-9342-5c48a1afb3b9@m59a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#@meli_proxyy
@@ -503,3 +500,6 @@ vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stre
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd/?@i10VPN?ed=2048&security=none&encryption=none&type=xhttp#@V2rayTun0⚡
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd/?@i10VPN?ed=2048&security=none&encryption=none&type=xhttp#[🇩🇪]@confegraigan
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss75298.tas-bazi.com:443?encryption=none&security=none&type=xhttp&path=/awd&mode=stream-one#@Daily_Configs
+vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss75298.tas-bazi.com:443?mode=stream-one&path=/awd&security=&encryption=none&type=xhttp#Channel : @Mrdarc 🏴🏳
+vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss75298.tas-bazi.com:443?mode=stream-one&path=/awd&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss75298.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp#@Daily_Configs

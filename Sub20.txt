@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#🇩🇪@FreakConfig
-vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#🇮🇷 @netv2reyng کانفیگ رایگان جوین شو تلگرام
-vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@V2RAYROZ
 vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @V2rayTun0 سرور رایگان میخوای بیا🎁
 vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#کانفیگ رایگان،آیدی تلگرام 🇮🇷 @netv2reyng
@@ -503,3 +500,6 @@ vless://c1d2e3f4-a5b6-1234-7890-0123456789ab@104.20.158.25:443?type=ws&encryptio
 vless://c1d33a48-0a89-4ca6-81e7-e126123f3375@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=k.ft.ip-ddns.com&type=ws#@bored_vpn
 vless://c1d33a48-0a89-4ca6-81e7-e126123f3375@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=k.ft.ip-ddns.com&type=ws#@icv2ray
 vless://c1d33a48-0a89-4ca6-81e7-e126123f3375@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=k.ft.ip-ddns.com&type=ws#@mehrosaboran
+vless://c1d33a48-0a89-4ca6-81e7-e126123f3375@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=k.ft.ip-ddns.com&type=ws#tm⚡|@lightning6
+vless://c1eee103-9838-4944-b93d-8bad5c93dac7@armania.gojustore.site:3336?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#ارمنستان 🇦🇲
+vless://c1eee103-9838-4944-b93d-8bad5c93dac7@armania.gojustore.site:7033?path=/&security=&encryption=none&host=filimo.com&type=ws#ارمنستان 🇦🇲 3
