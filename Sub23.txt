@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d6bfe23e-f7a8-4beb-971c-c68ddd8fdd8c@speedtest.net:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#XpnTeam🇳🇱-w4ok8nw1w
+vless://d6df6ee1-a37a-42ca-8300-8de01e27d350@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=youmame.global.ssl.fastly.net&type=xhttp#@CaV2ray ⚡️
 vless://d6e145a0-81cf-42de-a1c1-e37c6d977598@order.dissertationhelpspecialist.com:443?mode=gun&security=reality&encryption=none&pbk=xI1IUDhIUaKY3qPE9CSOcNaiJ4sRc69ppRamFOMwgiI&fp=chrome&spx=/&type=grpc&serviceName=twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice&sni=tgju.org&sid=3da49e0b43#@V2rayTun0⚡
 vless://d6f4dbe6-3f05-47f5-aa17-4400fd611318@193.24.208.146:13683?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=server-11769.prod.hosts.ooklaserver.net&pbk=v5Nvx93Oe6L16tm7W1cJZC696VcywoIuhMBNa1CYHh8&sid=982264&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪@EVAY_VPN
 vless://d6fe0f23-71ec-446c-8ef0-7efc54dda13d@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#@AbriVPNbot :خرید کانفیگ اختصاصی
@@ -501,5 +503,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 475 (@Outline_Vpn) free
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 507 (@Outline_Vpn) free
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 637 (@Outline_Vpn) free
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 738 (@Outline_Vpn) free
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 745 (@Outline_Vpn) free
