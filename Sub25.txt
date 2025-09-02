@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&authority=/??ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&authority=/??ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&type=grpc#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@Daily_Configs
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@MARAMBASHI 🇧🇷
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@MARAMBASHI 🩵
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@V2RAYROZ
@@ -503,3 +500,6 @@ vless://ed1494f2-ea53-48fd-a26d-0b0b579f430a@www.speedtest.net:2082?path=/@spike
 vless://ed242313-b502-4a4a-97f4-336da621a837@45.12.134.217:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇯🇵 | @External_Net
 vless://ed242313-b502-4a4a-97f4-336da621a837@45.12.134.217:80?security=none&encryption=none&type=ws&path=/vless/#Telegram:@king_v2raay
 vless://ed242313-b502-4a4a-97f4-336da621a837@45.12.134.217:80?type=ws&path=/vless/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇯🇵 | @Evay_vpn
+vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&type=grpc&encryption=none#@awlix_i
+vless://ed2e498f-a4a7-4ee5-8965-348d6ee14b81@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=inFo.laLezaRanegomaNandish.sNap.ir.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46153-1
+vless://ed7a7629-09b5-4e9a-c56b-d418f1a1388e@37.27.254.247:80/?type=tcp&security=reality&pbk=BuoQdx6Rpxdhn58FNJ5PtW4TqsVZQtcZ9Zj7J_1aaFY&fp=chrome&sni=refersion.com&sid=&spx=/HAJIMAMADVPN#🌿 کانفیگ رایگان کانال حاجی ممد-@HAJIMAMADVPN-1
