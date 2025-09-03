@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3638ee37-de5b-4a01-9c06-4e34ab96a094@64.226.117.34:46970?type=ws&path=/@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel&host=&security=none#کانال ما @MrConfig_Channel🎴
 vless://3639fbba-e6ac-4447-9518-e1176466f6bb@172.66.40.99:8080?path=/Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs?ed=2048#=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&security=none&encryption=none&host=M.mangoap.org&type=ws#@confiig_hub
 vless://3639fbba-e6ac-4447-9518-e1176466f6bb@172.66.40.99:8080?path=/Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs?ed=2048&security=none&encryption=none&host=M.mangoap.org&type=ws#@bored_vpn
 vless://3639fbba-e6ac-4447-9518-e1176466f6bb@172.66.40.99:8080?path=/Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs?ed=2048&security=none&encryption=none&host=M.mangoap.org&type=ws#@mehrosaboran
@@ -502,4 +503,3 @@ vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@Academi_vpn 6
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-vless://43c06dde-b530-4536-a9d7-ba7bccb6d0dd@www.speedtest.net:80?path=/ali&security=none&encryption=none&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.&type=ws#@AYMH19+کانال+تلگرام

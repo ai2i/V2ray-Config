@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://69c6a83a-659b-4416-8e35-fa861a1fe39c@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46163-2
 vless://69de815f-ef95-4e7c-d5da-6c52babfba8b@171.22.173.206:28931?type=tcp&security=none#Hich Net・+Free 1
 vless://69ee8502-88fd-4514-bb67-610101c16871@164.90.193.44:4005?type=tcp&path=/login-e&host=cp.cloudflare.com&headerType=http&security=none#4005-c3rr41dt
 vless://69fa5a27-e6d3-4f3c-ba50-47dc95a40314@37.202.237.244:55094?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪] [Tunnel] [1] Codeclubir-hemayat
@@ -502,4 +503,3 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?path=/download&se
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=/Telegram@V2ray_Alpha&security=tls&alpn=h2,http/1.1&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#@CaV2ray ⚡️
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&sni=my.ski1plag.ir&alpn=h2,http/1.1&fp=chrome&type=ws&path=/Telegram@Config_Rayegan&host=my.ski1plag.ir&packetEncoding=xudp&encryption=none#@Mrconfig_Channel 🩵
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&sni=my.ski1plag.ir&alpn=h2,http/1.1&fp=chrome&type=ws&path=/Telegram@V2ray_Alpha&host=my.ski1plag.ir&packetEncoding=xudp&encryption=none#@Mrconfig_Channel 🩵
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=&encryption=none&host=my.ski1plag.ir&type=ws#@Mrconfig_Channel 🩵
