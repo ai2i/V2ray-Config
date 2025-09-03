@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bee3ac04-a986-4de1-9c2f-12dba6caa371@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Az136.Dr-MojtabA.iR&fp=chrome&allowinsecure=0&type=ws&sni=az136.dr-mojtaba.ir#@vipV2rayNGnp
-vless://bee3ac04-a986-4de1-9c2f-12dba6caa371@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Az136.Dr-MojtabA.iR&fp=chrome&allowinsecure=0&type=ws&sni=az136.dr-mojtaba.ir#[🇩🇪]@configLINE(5)
-vless://beedfd16-efd6-4790-b555-9f6f080a2352@vip1.zxhost.sbs:80?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🎉
 vless://beedfd16-efd6-4790-b555-9f6f080a2352@vip1.zxhost.sbs:80?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🔥
 vless://bef98d0f-5015-4a2a-ab3b-8db160ef837f@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#✅ Telegram | @Green_WPN
 vless://bf065f28-9028-4578-a3ba-7738e7b7f53c@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -503,3 +500,6 @@ vless://d14bf1cb-311f-4986-b7b5-2b5efb8c3652@172.66.40.99:443?path=/telegram-CON
 vless://d14d29dd-826f-4c0d-ad22-5091360f4861@Zula.ir:443?mode=auto&path=/ed?/hjjhfddyujh=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mci
 vless://d14d29dd-826f-4c0d-ad22-5091360f4861@Zula.ir:443?mode=auto&path=/ed?/hjjhfddyujh=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mtn
 vless://d14d29dd-826f-4c0d-ad22-5091360f4863@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mci
+vless://d14d29dd-826f-4c0d-ad22-5091360f4863@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mtn
+vless://d14d29dd-826f-4c0d-ad22-5091360f4869@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mci
+vless://d14d29dd-826f-4c0d-ad22-5091360f4869@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mtn
