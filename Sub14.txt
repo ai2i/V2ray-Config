@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://acbabca-cbaa-aabc-badc-accacabbbacb@127.0.0.1:8080?security=tls&type=tcp#t.me/entryNET/config=1842218979024882
-vless://acd867f1-a71b-4a17-a473-2b57930d8678@178.128.231.204:8080?type=tcp&security=reality&fp=chrome&sni=rEfErSion.Com.&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=8e36c7e79b74a6fa&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇨🇦@EVAY_VPN
 vless://ad02ae5c-55a7-4814-a58d-8da260ce7377@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#=@&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://ad02ae5c-55a7-4814-a58d-8da260ce7377@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://ad02ae5c-55a7-4814-a58d-8da260ce7377@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🇩🇪@v2rayng_fars
@@ -503,3 +501,5 @@ vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=/Telegram@V2
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=chrome&type=ws&sni=yx.yushan.dpdns.org#@v2ray313 کانالمون 🧡
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=chrome&type=ws&sni=yx.yushan.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=chrome&type=ws&sni=yx.yushan.dpdns.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?path=/?ed=2560&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=chrome&type=ws&sni=yx.yushan.dpdns.org#@v2ray313 کانالمون 🥲
+vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?path=/?ed=2560&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=chrome&type=ws&sni=yx.yushan.dpdns.org#@vmesskhodam
