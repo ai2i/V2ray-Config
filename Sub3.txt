@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#@V2RAYNG_1378
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#Telegram | @FNET00📱 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#WiFi-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -230,6 +231,7 @@ trojan://telegram-id-directvpn@18.159.140.57:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://telegram-id-privatevpns@16.171.204.132:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842256728010445
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
+trojan://telegram-id-privatevpns@52.31.49.208:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842265095213330
 trojan://tg-fq521free@198.62.62.67:443?path=/&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#Channel id: @proxy_kafee 🇺🇸
 trojan://tg-fq521free@198.62.62.67:443?path=/&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#Channel id: @singbox1 🇺🇸
 trojan://ttfang@45.131.4.216:2096?security=tls&sni=ttfang.fange.me&fp=chrome&type=ws&host=ttfang.fange.me&path=/Telegram#@Daily_Configs
@@ -500,6 +502,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.193.247:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.55.68:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.140.57:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.129.130:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.187.105:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.116.6:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.133.190:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842250872650519
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.240.83.42:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#t.me/entryNET/config=1842264277523120
