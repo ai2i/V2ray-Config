@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#%3E%3E%40free4allVPN%3A%3AXX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443#%3E%3E%40free4allVPN%3A%3AJP
 vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?path=%2Ftiger&security=tls&encryption=none&host=yutwm.gregory-sportage.info&type=ws&sni=yutwm.gregory-sportage.info#%3E%3E%40FreakConfig%3A%3AUS
 vless://18ce358e-b507-4cde-8c83-94806aedf467@85.239.53.46:443?security=reality&encryption=none&pbk=nyid7jiXERXF6qkkRVsub0wfX9xGKKAsVzQERxhqZHc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=c8e8e4b7#%3E%3E%40FreakConfig%3A%3AUS
@@ -198,9 +197,9 @@ vless://ee67c9fd-0dc1-4fca-ad59-4dfac221a9f2@77.110.113.214:443?security=reality
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%201
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%204
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172/?POST%20#Ainita%20Server%204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172/?POST%20#Ainita%20Server%202
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172/?POST%20#Ainita%20Server%203
 
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@38.54.112.154:808#%40s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc=@144.126.146.38:30789
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4#
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.135.9.223:443?security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2&type=grpc&encryption=none
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&authority=ZenixVPN_Channel&type=grpc#%40netmelli15
