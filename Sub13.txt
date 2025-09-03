@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://90bc095c-c23c-4599-f6fb-974d83bd2fb0@Www.Speedtest.net:2095?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=binextv.iransheep.web.tr.&security=none#BinexTiFy🥦-0agqiofz
-vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?encryption=none&security=tls&sni=vl.hongkong6.qzz.io&fp=chrome&type=ws&host=vl.hongkong6.qzz.io&path=/#@Daily_Configs
-vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@Selinc
-vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@TokaVpn
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@V2ray1_Ng
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@meli_proxyy
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#All_@IRAN_V2RAY1
@@ -59,7 +55,6 @@ vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss75298.tas-bazi.com:443?mode=stre
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss75298.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss75298.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp#@v2ray313 کانالمون 🧡
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss75298.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss75298.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp#Telegram: @vpnbaz
 vless://92d4bd40-68ed-4b1e-843c-f739ec536b2c@162.159.134.234:8080?security=none&encryption=none&type=ws&host=hrtv.numall.xyz.&path=/#mci-mtn🇬🇧[Awlix_ir]
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk:80?path=/?*VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY*&security=&encryption=none&type=ws#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey | تلگرام 🇺🇳
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/#@AYMH19 کانال تلگرام
@@ -503,3 +498,8 @@ vless://SVNTEAM3@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxm
 vless://SVNTEAM3@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-23
 vless://SVNTEAM4@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-26
 vless://SVNTEAM4@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-25
+vless://SVNTEAM@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=/#SVNTEAM🇩🇪#1
+vless://TEL: V2ray1_Ng@91.107.128.86:2050?mode=gun&security=reality&encryption=none&authority=V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&fp=chrome&spx=/&type=grpc&sni=journalofbigdata.springeropen.com&sid=3078f8f691b6b4#@v2rayng_fars
+vless://TELEGRAM-CONFiGLiNE-joiin@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=goldenpeshkel.com&type=xhttp#@vipV2rayNGnp
+vless://TELEGRAM-CONFiGLiNE-joiin@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=goldenpeshkel.com&type=xhttp#[🇩🇪]@configLINE(3)
+vless://TELEGRAM-CONFiGLiNE-joiin@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=goldenpeshkel.com&type=xhttp#proxy_kafee

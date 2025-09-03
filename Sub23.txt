@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6ddb0deb-2c1c-47ce-c2fe-85a30253093a@de.melobigg.site:2083?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=&sni=de.melobigg.site#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40red2ray%20%5B13%5D
-vless://56733cf9-f08d-43d9-8157-8e8ddbd0c06f@freeiranwebvip.ddns.net:80?path=%2Fgraphql&security=none&encryption=none&host=v20.smartyticket.click&type=ws#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40red2ray%20%5B14%5D
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.204.84:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40renetvpn%20%5B9%5D
-vless://6e569c43-f7e6-4ab7-b3a7-f616a39ff6a1@104.21.70.11:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dw.huondadalioshop.ir&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40renetvpn%20%5B10%5D
-vless://9dfe4105-ee73-4586-9d53-f0889a3767e6@173.245.58.31:2052?path=%2F&security=none&encryption=none&host=p1.abrarvan.xyz&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40renetvpn%20%5B11%5D
 vless://75ecef77-2050-4250-99f7-936d0188edf2@live.skornorth.com:80?path=%2Fws%2F%3Fed%3D2048&security=&encryption=none&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40rez1vpn%20%5B1%5D
 vless://channel-rezaw_server@v.Reza-punisher-shopv2n.fun:20906?mode=gun&security=reality&encryption=none&pbk=tCzRx3x5LfPe6xlYL9wYuJBNl4ERMkwiK01v4PhJEHY&fp=chrome&spx=%2F&type=grpc&serviceName=%40rezaw_server#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40rezaw_server%20%5B1%5D
 vless://channel-rezaw_server@v.Reza-punisher-shopv2n.fun:59519?security=reality&encryption=none&pbk=eFiSJk2KrONFWr2w3qXVNda1DVAlVrT5opUGFoOKj1M&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=42f1e4b6#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40rezaw_server%20%5B2%5D
@@ -503,3 +498,8 @@ vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?security=tls&fp=
 vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2028
 
 vless://464ec76e-fd60-4ad4-993e-d2c262f88ed1@89.185.85.219:8443?security=reality&sni=jd.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=41a4cee2c50c4fc3&type=grpc&serviceName=grpc-jd&encryption=none#@Rayan_Config%2029
+
+vless://49a7ef14-1b13-4aeb-baa3-775ddee2e334@195.42.233.13:443?security=tls&fp=chrome&type=ws&path=/yohyowws&encryption=none#@Rayan_Config%2030
+
+vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?security=reality&sni=ru.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%205
+
