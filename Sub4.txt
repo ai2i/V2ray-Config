@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0354ec40-a5f5-49d7-beb0-4624c923529e@37.202.237.244:55094?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪] [Tunnel] [1] CodeClubiR
 vless://0354ec40-a5f5-49d7-beb0-4624c923529e@37.202.237.244:55095?security=none&type=tcp&headerType=none&path=&host=#[🇹🇷] [Tunnel] [1] CodeClubiR
 vless://035a60d2-6f6b-41e6-a805-2b752c5a61aa@91.107.243.12:21379?security=none&encryption=none&headerType=none&type=tcp#bia @v2rayng_fars @Pruuxi
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=/kcknkyws&security=tls&encryption=none&type=ws#@Daily_Configs
@@ -92,7 +91,8 @@ vless://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801?security=none
 vless://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@meli_proxyy
 vless://058ee2d7-e79e-4acc-9996-d62cd275d7b7@freeconfig.fergalvpnmod.com:48388?security=reality&encryption=none&authority=@FergalVpnMod&pbk=YcokCTOrwj0MFEvKZVRZl25esRSF4Rjeq_A5qmboQRE&fp=chrome&spx=/&type=grpc&serviceName=@FergalVpnMod&sni=sony.com&sid=0c63f4c7ea#FREE CONFIG  1👉 @FergalVpnMod-1
 vless://0592915a-65da-4cd5-9960-cb9329a3c8a1@alman7.turbooserver.ir:55066?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://05a8836c-5737-45cd-8c21-991cfd7b5e6e@Holn.xmonys.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#t.me/entryNET/config=1842331785690302
+vless://05a8836c-5737-45cd-8c21-991cfd7b5e6e@Holn.xmonys.com:625?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-â-JOIN---AZADIV2RAYY-----bia-â--AZADIV2RAYY---Bia---AZADIV2RAYY&security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#t.me/entryNET/config=1842345561749585
+vless://05a8836c-5737-45cd-8c21-991cfd7b5e6e@Holn.xmonys.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🇳🇱  𝗝𝗼𝗶𝗻 ➠ @configfree20255 | کانال ما 🆔
 vless://05a8836c-5737-45cd-8c21-991cfd7b5e6e@Holn.xmonys.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🇳🇱@FreakConfig
 vless://05f3181c-ae29-480d-bc66-436f8f959005@194.156.66.29:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#@vpnserverrr- 🇳🇱-F2GXkw (windows)
 vless://05f3181c-ae29-480d-bc66-436f8f959005@38.135.122.152:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#@vpnserverrr- 🇺🇸-F2GXkw (windows)
