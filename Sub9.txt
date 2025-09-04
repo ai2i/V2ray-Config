@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://49aacdab-c9b9-4031-8e64-514e9cd72089@104.18.22.19:443?security=tls&encryption=none&type=ws&host=shAHaNShahi.pagES.deV&path=/Telegram@V2ray_Alpha/?ed=2048&sni=ShahANsHahi.paGEs.Dev&fp=chrome&alpn=h2,http/1.1#Awlix_ir
-vless://49bb56a1-f5fc-4bf3-a670-87a127b58d3e@150.241.108.219:46089/?type=grpc&serviceName=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&authority=&security=reality&pbk=xKbFr-SVOYz1Bgdkb4e3zPjZ7wGURx11ouN3Hoy29VQ&fp=chrome&sni=tgju.org&sid=3736e4ab65378d5c&spx=/#kw3dlrxu
-vless://49e77ea9-62bd-44c4-8a52-0d7569c305c5@63.141.128.28:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#@V2BOXV
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&type=tcp&headerType=none#@Daily_Configs
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#🇺🇸 @Evay_vpn
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@meli_proxyy
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇬🇧@FreakConfig
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇵🇰 جوین بده کانکت بمونی: @STAPersiaNews
@@ -291,6 +286,7 @@ vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?securit
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@Selinc
+vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@V2RAYROZ
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@meli_proxyy
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#r♡yaッ
@@ -365,6 +361,7 @@ vless://5687971f-8cd9-4e52-f4c5-4ff290a1f7f2@91.99.117.197:8443?type=grpc&servic
 vless://5690f021-86a7-4712-b143-7944c7380436@38.244.163.100:35048?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://5690f021-86a7-4712-b143-7944c7380436@38.244.163.100:35048?security=none&encryption=none&headerType=none&type=tcp#@vipV2rayNGnp
 vless://5690f021-86a7-4712-b143-7944c7380436@38.244.163.100:35048?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
+vless://56c3abea-507d-4559-b1bd-39f339fc4997@141.94.174.9:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@vpnAndroid2&headerType=http&type=tcp#🇫🇷 @vpnAndroid2
 vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Daily_Configs
 vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Selinc
 vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@v2rayng_fars
@@ -503,3 +500,6 @@ vless://5a9fa926-1ff7-48fe-e467-5d3e1e3a61b7@Www.speedtest.net:2095?type=httpupg
 vless://5aa20d0b-5570-4262-d5a8-9216c3eab070@99.199.73.53:18716?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://5aa9c9ce-d5b3-40be-8481-fe5ae953e5a9@51.195.101.222:443?path=/ws&security=tls&encryption=none&host=51.195.101.222&fp=chrome&type=ws&sni=zula.ir#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://5aae2184-92ee-4dda-b5b3-534ffb4182ef@80.85.157.242:57930?security=reality&encryption=none&pbk=1xTQXMd0_ZygT4DAc4WyMN6ecfUycgPHCTreMf9pAgI&headerType=none&fp=chrome&spx=/@SkyShieldVPN&type=tcp&sni=google.com&sid=fcd82977c1#@SkyShieldVPN روسیه
+vless://5aae2184-92ee-4dda-b5b3-534ffb4182ef@80.85.157.242:57930?security=reality&encryption=none&pbk=1xTQXMd0_ZygT4DAc4WyMN6ecfUycgPHCTreMf9pAgI&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=fcd82977c1#@HiByeVPNN👈⚡❤️‍🔥
+vless://5aae2184-92ee-4dda-b5b3-534ffb4182ef@80.85.157.242:57930?security=reality&encryption=none&pbk=1xTQXMd0_ZygT4DAc4WyMN6ecfUycgPHCTreMf9pAgI&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=fcd82977c1#@meli_proxyy
+vless://5aae2184-92ee-4dda-b5b3-534ffb4182ef@80.85.157.242:57930?security=reality&encryption=none&pbk=1xTQXMd0_ZygT4DAc4WyMN6ecfUycgPHCTreMf9pAgI&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=fcd82977c1#Join Telegram 🆔️ @Hddify
