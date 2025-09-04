@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://49401c3a-1a7a-4152-90e1-e1c1c224f157@95.179.255.236:443?mode=stream-one&path=/sef&security=reality&encryption=none&pbk=Qrzz-NI8UehZoMmtrIxPNFsux36hwtO26_C10A5sHAg&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com&sid=86d67be548#@meli_proxyy
-vless://49401c3a-1a7a-4152-90e1-e1c1c224f157@95.179.255.236:443?mode=stream-one&path=/sef&security=reality&encryption=none&pbk=Qrzz-NI8UehZoMmtrIxPNFsux36hwtO26_C10A5sHAg&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com&sid=86d67be548#Telegram : @Alfa_v2ray_ng 🔥
-vless://49401c3a-1a7a-4152-90e1-e1c1c224f157@95.179.255.236:443?mode=stream-one&path=/sef&security=reality&encryption=none&pbk=Qrzz-NI8UehZoMmtrIxPNFsux36hwtO26_C10A5sHAg&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com&sid=86d67be548#🪡 قطع شدی بیا گروه گوگولی @ProxyOrbit
-vless://494aa0ff-4824-4d23-a75e-ea8c3c6709cd@104.18.14.19:2082?path=/?ed=2560&security=none&encryption=none&host=0127.4zsuplo0.workers.dev&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://494e78ca-946e-405f-9b0b-495170cac89e@104.26.15.69:8880?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://4951f31b-dddf-4c7a-8399-cced1c10c4ed@wolf551.api-tel.xyz:14748?security=none&encryption=none&type=ws#@V2Ray_Tz [ ⚡ ]
 vless://496e91a6-c90c-483d-adb1-133d04d8e725@blog.ruangguru.com.servpn.my.id:443?path=/sg1/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=tls&encryption=none&type=ws&sni=blog.ruangguru.com.servpn.my.id#🇺🇸 | @External_Net
@@ -503,3 +499,7 @@ vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80?path=
 vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://5a40ab4a-8d75-4813-b22b-3569148eea48@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://5a469b32-5bd1-465c-b481-4cba9e2436ef@gozarfreebot.niniweblog.org:8443?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=b8hRkoInSqR5tSey-WAdsgSU5JySyKgYRaid1NUf0AE&sid=92604737065b8027&spx=/#☁️ WARP
+vless://5a519368-9dbb-4ab4-8967-a30fb39a8881@194.55.235.202:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mega.io&fp=chrome&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&sid=2c709739f487&spx=/&type=tcp&headerType=none#@Daily_Configs
+vless://5a519368-9dbb-4ab4-8967-a30fb39a8881@194.55.235.202:443?security=reality&encryption=none&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.io&sid=2c709739f487#Channel id: @ShadowProxy66 🇷🇺
+vless://5a519368-9dbb-4ab4-8967-a30fb39a8881@194.55.235.202:443?security=reality&encryption=none&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.io&sid=2c709739f487#Channel id: @proxy_kafee 🇷🇺
+vless://5a519368-9dbb-4ab4-8967-a30fb39a8881@194.55.235.202:443?security=reality&encryption=none&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.io&sid=2c709739f487#@HiByeVPNN👈⚡❤️‍🔥
