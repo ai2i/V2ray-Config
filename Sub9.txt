@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4801c19d-37aa-4704-921e-9ee9bab80f1d@speedtest.net:80/?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#سرور رایگان @HAJIMAMADVPN-3
 vless://4801c19d-37aa-4704-921e-9ee9bab80f1d@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=p30download.ir&type=xhttp#@EXPRESSVPN_420  کانال ما
 vless://482d80be-8538-7868-29ee-b4f70f4ad581@45.88.8.147:80?path=/IVApi/NL/1&security=none&encryption=none&type=ws#@v2ray313 کانالمون 🙅🏻
 vless://487b3b3a-aeeb-431a-b3e2-a541ae2fc27c@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🌳 Telegram | @Green_WPN
@@ -329,7 +328,6 @@ vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?securit
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#proxy_kafee
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#r♡yaッ
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#singbox1
-vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#t.me/entryNET/config=1842299885683377
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
@@ -503,3 +501,5 @@ vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&secur
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=smn2.gerlemondns.info&type=ws&sni=smn2.gerlemondns.info&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇬🇧]t.me/Raiv2mmr
 vless://598cb690-b398-40a9-be9d-9c629c32f613@188.114.96.1:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=binextv.iransheep.web.tr.&type=ws#@bored_vpn
 vless://598cb690-b398-40a9-be9d-9c629c32f613@188.114.96.1:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=binextv.iransheep.web.tr.&type=ws#@mehrosaboran
+vless://598cb690-b398-40a9-be9d-9c629c32f613@Zula.iR:80?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=binextv.iransheep.web.tr.&security=none#BinexTiFy🪸-sy8knn0q
+vless://598cb690-b398-40a9-be9d-9c629c32f613@Zula.ir:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&security=none&encryption=none&host=binextv.iransheep.web.tr.&type=ws#@confiig_hub
