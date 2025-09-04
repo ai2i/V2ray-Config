@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a82def0b-92c5-450b-9fca-7f1b7f932e8e@63.141.128.16:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#@V2BOXV
 vless://a82def0b-92c5-450b-9fca-7f1b7f932e8e@63.141.128.16:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn
 vless://a83b75d7-6b87-4201-a12a-8105fad6a8da@www.speedtest.net:2082?path=ð&security=none&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-6.RaYaN-6.ClOuDnS.ClUb&fp=chrome&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://a8749fa0-2f18-4ccd-a6d0-81c996e0fefa@Sd.mciickoir.ir:9620?flow=&type=tcp&headerType=http&host=&path=&security=none#@meli_proxyy
@@ -467,6 +466,7 @@ vless://bbfe34ff-1ca2-4ed9-8ac9-6ef9fd799320@212.23.214.148:47534?type=tcp&heade
 vless://bc0d283c-6ab6-4f33-b0e2-4a3d1179e4f5@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=aZ88.MoToRbaZan.CoM&fp=chrome&type=ws&sni=aZ88.MoToRbaZan.CoM#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://bc10bfa0-0b77-45c4-bacc-43a7cbc68ab5@easyflow5er.com:6033?security=reality&encryption=none&pbk=lm_pOODTRgSlqEcSsfebGhzYf-MfzEWEg2aZFPrnrXA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=e4sygoauth.com&sid=bf99917ac8b67654#@Selinc
 vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#@meli_proxyy
+vless://bc3120d9-8b56-4caa-b868-a110fbdbbfeb@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46177-2
 vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?flow=&type=xhttp&host=&path=/&mode=stream-one&security=none#@vmessorg
 vless://bc43bf3e-b1b2-458c-ad55-7d6a8fe3ed35@91.107.142.194:443?mode=multi&security=reality&encryption=none&authority=MYP_VPN_BOT&pbk=5ga6Mlx6zQN_73YIFOA_UDVSqAB5qRFslGhQDDFvRl4&fp=chrome&spx=/&type=grpc&serviceName=TELEGRAM: MYP_VPN&sni=google.com&sid=b9acf8d1#@Daily_Configs
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@Daily_Configs
