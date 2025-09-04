@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cbfaa4fa-8393-43db-a052-d86543462f0d@91.99.27.66:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
 vless://cbfaa4fa-8393-43db-a052-d86543462f0d@91.99.27.66:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@meli_proxyy
 vless://cbfaa4fa-8393-43db-a052-d86543462f0d@91.99.27.66:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://cbfaa4fa-8393-43db-a052-d86543462f0d@sss37704.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
@@ -502,4 +503,3 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.96.208:34045?security=realit
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.96.208:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&host=----@Dropcube----@Dropcube----@Dropcube----@Dropcube----@Dropcube----@Dropcube----@Dropcube----@Dropcube----@Dropcube----@Dropcube----@Dropcube&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Telegram : @Dropcube
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.96.208:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&host=----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Telegram : @Alfa_v2ray_ng 🔥
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.96.208:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&host=---@Dropcube---@Dropcube---@Dropcube---@Dropcube---@Dropcube&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#🇳🇱 | @Dropcube
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.96.208:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#🇳🇱 | @External_Net
