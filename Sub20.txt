@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss6000.tas-bazi.com:443?mode=stream-one&path=/rty&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
-vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss6000.tas-bazi.com:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#@EXPRESSVPN_420 |
-vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss6000.tas-bazi.com:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss6000.tas-bazi.com:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#Telegram : @Alfa_v2ray_ng 🔥
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss6000.tas-bazi.com:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#[🇩🇪]@confegraigan
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss6000.tas-bazi.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#🇩🇪[Telegram:NetifyVpn]
@@ -503,3 +500,6 @@ vless://mitivpn--@104.18.11.248:80?mode=auto&path=/---@MiTiVPN---@MiTiVPN---@MiT
 vless://mitivpn--@104.18.11.248:80?mode=auto&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&security=none&alpn=http/1.1&encryption=none&host=nl4.sharkpv.ir&fp=chrome&type=xhttp&sni=nl4.sharkpv.ir#[🇩🇪]@confegraigan
 vless://mitivpn--@104.18.11.248:80?mode=auto&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&security=none&alpn=http/1.1&encryption=none&host=nl4.sharkpv.ir&fp=chrome&type=xhttp&sni=nl4.sharkpv.ir#🇬🇧@FreakConfig
 vless://mmd@46.101.83.29:8443?type=tcp&security=reality&fp=chrome&sni=varzesh3.com&pbk=S2h_wiv94ugMyCeCd8Gy2iUfy1o0y0g43Ih4l1blLTg&sid=4a33&spx=/#@SaghiVpnXBOT[🇬🇧]
+vless://nvjgqcnbl1@nvjgqcnbl1-9199105194-direct.khastehnabashi.com:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nvjgqcnbl1-9199105194-direct.khastehnabashi.com#@Mrconfig_Channel 🩵
+vless://spec-x-technology@beththebird.online:2052?path=/cdn-specxtech-google.com.specxtech.com?ed=2560&security=none&encryption=none&host=cdn-specxtech-google.com.specxtech.com&type=httpupgrade#@specxtech
+vless://telegram-id-ArV2ray@test.fast.hosting-ip.com:80?mode=auto&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80&security=none&encryption=none&host=Mtkirand.com&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
