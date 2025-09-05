@@ -4,6 +4,22 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+vless://a7ea990f-c035-4af4-b310-f43881b577a1@78.47.239.61:8880?security=&fp=chrome&type=tcp&encryption=none#%40Rayan_Config%2073
+
+vless://b2d33ca0-4e31-4d1f-ae8c-278234f56f36@78.47.239.61:8880?security=&fp=chrome&type=tcp&encryption=none#%40Rayan_Config%2091
+
+vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&sni=www.bing.com&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&flow=xtls-rprx-vision&encryption=none#%40Rayan_Config%2070
+
+vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.202:443?security=reality&sni=www.bing.com&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&flow=xtls-rprx-vision&encryption=none#%40Rayan_Config%2071
+
+vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&sni=yahoo.com&fp=chrome&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&sid=d21e7c&type=tcp&encryption=none#%40Rayan_Config%2031
+
+vless://bfe1d637-3d9d-4ffb-b2dd-df32f8910932@78.47.239.61:8880?security=&fp=chrome&type=tcp&encryption=none#%40Rayan_Config%2077
+
+vless://c728f2a2-7c96-4291-a581-dac873e8e456@159.65.119.239:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20SE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none#%40Rayan_Config%2032
+
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none#%40Rayan_Config%2033
 
 vless://c954aaad-4db3-4817-bd72-447fa6d509c7@78.47.239.61:8880?security=&fp=chrome&type=tcp&encryption=none#%40Rayan_Config%2076
