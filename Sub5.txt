@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.3.139:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#@v2ray313 کانالمون 🩵
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.89.156:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#@vmesskhodam
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.89.156:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#Telegram : @Alfa_v2ray_ng 🔥
 vless://0f8bef13-2c43-4940-bbbc-90c37abd7302@rep.en.xpnvip.ir:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=chrome&type=grpc&serviceName=nama&sni=tgju.org&sid=b6c24852f86067a6#🇬🇧 | England
@@ -503,3 +502,4 @@ vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?p
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎 @AblNet7 💎
 vless://1d1e6598-1373-4dc2-a424-d289f2da5d25@85.90.207.183:54300?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://1d3b3c81-946a-4f64-8889-a16eb06f7690@Lqp.mciickoir.ir:9620?security=none&encryption=none&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
+vless://1d3b3c81-946a-4f64-8889-a16eb06f7690@Sd.mciickoir.ir:9620?security=none&encryption=none&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
