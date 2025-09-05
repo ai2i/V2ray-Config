@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 😎
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 🥲
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 🫠
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#@vipV2rayNGnp
@@ -497,9 +496,10 @@ vless://e4a4438f-585b-4555-b8e3-f032def5819c@138.68.67.153:443?mode=stream-one&p
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@138.68.67.153:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @proxy_kafee 🇩🇪
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@139.59.147.226:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@142.93.174.146:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
-vless://e4a4438f-585b-4555-b8e3-f032def5819c@142.93.174.146:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#t.me/entryNET/config=1842441694548913
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@159.223.17.117:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@159.65.120.137:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@159.65.120.137:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @proxy_kafee 🇩🇪
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@161.35.16.184:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#@meli_proxyy
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@161.35.192.172:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
+vless://e4a4438f-585b-4555-b8e3-f032def5819c@161.35.204.69:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
+vless://e4a4438f-585b-4555-b8e3-f032def5819c@161.35.71.211:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#@V2RAYROZ
