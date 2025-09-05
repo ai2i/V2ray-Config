@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@108.162.196.230:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#@Daily_Configs
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@162.159.253.39:443?path=/&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@172.67.147.20:443?path=/&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@172.67.206.234:443?path=/&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@188.114.96.78:443?path=/&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
@@ -332,7 +330,6 @@ vless://eda3f85f-abed-4533-8dec-630fa571a28f@65.109.211.210:8880?security=none&e
 vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@Academi_vpn 5
 vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@Academi_vpn⁵
 vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@V2rayNGVPN <= کانفیگ رایگان
-vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#این کانفیگ تستیه کانفیگ اصلی رو بردار ✅️NormanV2ray@
 vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://edc0a710-b736-455a-a9f2-d26150e624b2@enthusiastic-century.oneeat.co:80?encryption=none&security=none&type=ws&path=/#@Daily_Configs
 vless://edc0a710-b736-455a-a9f2-d26150e624b2@enthusiastic-century.oneeat.co:80?path=/&security=&encryption=none&type=ws#🇳🇱@FreakConfig
@@ -503,3 +500,6 @@ vless://f2c44225-736e-45a4-9cfb-490fa34e15a0@91.107.178.242:20087?security=none&
 vless://f2c44225-736e-45a4-9cfb-490fa34e15a0@91.107.178.242:20087?security=none&encryption=none&headerType=none&type=tcp#Join @Dropcube
 vless://f2c44225-736e-45a4-9cfb-490fa34e15a0@91.107.178.242:20087?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f2c44225-736e-45a4-9cfb-490fa34e15a0@91.107.178.242:20087?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://f2cab281-335d-4412-8756-539f9bb36d60@172.66.40.99:8880?type=ws&path=/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420&host=s6.inFo.laLezaRanegomaNandish.suB420-mohaMad.online.&security=none#🚀 @EXPRESSVPN_420-ws2
+vless://f2cab281-335d-4412-8756-539f9bb36d60@www.speedtest.net:8880?type=ws&path=/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420&host=s6.inFo.laLezaRanegomaNandish.suB420-mohaMad.online.&security=none#🚀 @EXPRESSVPN_420-ws1
+vless://f300338b-c2e3-46dd-9d3f-d54c010dc989@vall.codefyinc.com:8443?path=/vlessws&security=tls&encryption=none&host=vall.codefyinc.com&type=ws&sni=vall.codefyinc.com#Telegram | @FNET00📱
