@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e04e526c-5230-40e8-8af5-4103ed9c6024@5.75.199.161:27168?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-vless://e05482d4-ba12-41ac-af45-2bf2afc56b4a@46.31.76.3:80?mode=auto&path=/pwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#@CaV2ray ⚡️
-vless://e05806b7-ebb1-4eed-b196-e75af30f0901@rde.datgame.info:2087?encryption=none&security=tls&fp=chrome&type=xhttp&path=/&mode=auto#🇩🇪 - > @CodeClubiR Join us
 vless://e0782d4d-246a-4832-88e1-6d7e73c8eb22@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir&type=httpupgrade#🇩🇪 @v2ngnet
 vless://e0b88d14-dd44-43d3-93c4-0030d2aab153@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=inFo.laLezaRanegomaNandish.sNap.ir.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46148-1
 vless://e0dab845-5f26-4fe3-a158-1487adaa5389@ping.amirhossein.info:8443?path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&security=&encryption=none&host=ping.amirhossein.info&type=ws#🛰 Te
@@ -503,3 +500,6 @@ vless://e61636e0-d630-4596-db9d-407ae309ab47@104.16.1.106:80?path=/&security=non
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.16.77.87:443?path=/&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#@CaV2ray ⚡️
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.79.170:443?path=/&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@108.162.196.230:443?path=/&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@108.162.196.230:443?path=/?TELEGRAM-JKVPN_JKVPN_JKVPN?ed=512&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@108.162.196.230:443?path=/?TELEGRAM-JKVPN_JKVPN_JKVPN?ed=512&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#𝗝𝗼𝗶𝗻➠⁷@JKVPN
