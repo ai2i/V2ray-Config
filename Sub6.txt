@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1c7baa26-3890-4f01-bf93-c88ad9ed0495@m65a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@V2RAYROZ
 vless://1c7baa26-3890-4f01-bf93-c88ad9ed0495@m65a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@V2ray1_Ng
 vless://1c7baa26-3890-4f01-bf93-c88ad9ed0495@m65a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://1c7baa26-3890-4f01-bf93-c88ad9ed0495@m65a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
@@ -83,8 +82,10 @@ vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.181.110:80?encryption=none&s
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.114.48:443?path=/&security=tls&encryption=none&host=pari.parinazz.dpdns.org&fp=chrome&type=ws&sni=pari.parinazz.dpdns.org#@Golestan_VPN 👈 چنل
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.114.48:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&fp=chrome&type=ws&sni=pari.parinazz.dpdns.org#@Mrconfig_Channel 🩵
 vless://1f5056ca-fb4c-4b51-a31e-891083588351@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=pamchall.com.&type=ws#@CaV2ray ⚡️
+vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#@v2rayserverfreenet
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#t.me/entryNET/config=1842493033437312
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#🇩🇪[Telegram:NetifyVpn]
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss90869.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#@V2RAYNG_1378
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss90869.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -502,4 +503,3 @@ vless://2c102887-2209-42c3-ffb1-35a5ddd831a9@cumhuriyet.com.tr:80?flow=&type=ws&
 vless://2c102887-2209-42c3-ffb1-35a5ddd831a9@cumhuriyet.com.tr:80?flow=&type=ws&host=joinbdebe.vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://2c102887-2209-42c3-ffb1-35a5ddd831a9@cumhuriyet.com.tr:80?flow=&type=ws&host=joinbdebe.vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪 Telegram @SRCVPN
 vless://2c102887-2209-42c3-ffb1-35a5ddd831a9@numberland.ir:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbotخرید سرور شخصی
-vless://2c3b3e80-a2ec-459e-b898-206ead4edc9d@46.62.139.162:29752?security=reality&encryption=none&pbk=EXDIPc_-7wSk5LI0JH0fyaN3bc_kIgEe3fu2hIOBtWs&host=/JKVPN_TELEGRAM_JOin_JKVPN_JKVPN_JKVPN_JKVPN&headerType=none&fp=chrome&spx=/JKVPN_TELEGRAM_JOin_JKVPN&type=tcp&sni=www.tgju.org&sid=3dd812#@v2ray313 کانالمون 💛
