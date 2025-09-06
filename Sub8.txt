@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@172.67.203.57:443?path=/z0HrW-43pVRvOrQE?ed&security=tls&encryption=none&host=TEl-ppAL03.CHayA-DuRGAN.WoRkers.dEv&fp=chrome&type=ws&sni=TEl-pPAL03.chayA-duRGaN.workeRs.DeV#Telegram : @Alfa_v2ray_ng 🔥
 vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Zilor.ir&type=ws#@CaV2ray ⚡️
 vless://3c1d4f53-a6ba-407b-911a-ea195f4201c2@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
 vless://3c6ced9f-433e-4c68-8d99-fff39675158d@gozarfreebot.niniweblog.org:2087?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=bToazNcGgvtybnN6L9evetZSEDUUssCWdqNksaM4PT0&sid=fba5dcfdc1411d8e&spx=/#🇬🇧 England
@@ -503,3 +502,4 @@ vless://4728a141-e008-466b-bf99-119182d60ee0@TR.amirconfigpaanelllll.com:80?secu
 vless://4728a141-e008-466b-bf99-119182d60ee0@azizisearch.com:8880?encryption=none&security=none&type=httpupgrade&host=n-cloud.ip-venzo.com.&path=/?ed=2560#@Daily_Configs
 vless://4728a141-e008-466b-bf99-119182d60ee0@azizisearch.com:8880?encryption=none&security=none&type=httpupgrade&host=vips1.ip-venzo.com.&path=/?ed=2560#@Daily_Configs
 vless://4728a141-e008-466b-bf99-119182d60ee0@azizisearch.com:8880?encryption=none&security=none&type=httpupgrade&host=vips4.ip-venzo.com.&path=/?ed=2560#@Daily_Configs
+vless://4728a141-e008-466b-bf99-119182d60ee0@azizisearch.com:8880?path=/?ed=2560&security=none&encryption=none&host=n-cloud.ip-venzo.com.&type=httpupgrade#@Daily_Configs

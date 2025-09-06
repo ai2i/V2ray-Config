@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=/yfwhodws&security=tls&encryption=none&type=ws#🇫🇷 France[@vpnAndroid2
 vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=/yfwhodws?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=tls&encryption=none&fp=chrome&type=ws#@Dropcube⚡❤️‍🔥
 vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=/yfwhodws?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=tls&encryption=none&fp=chrome&type=ws#@Dropcube⚡❤️‍🔥
 vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=/yfwhodws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&fp=chrome&type=ws#@HiByeVPNN👈⚡❤️‍🔥
@@ -503,3 +502,4 @@ vless://2ec46576-4c69-44f2-9704-030fdc691e68@m66a.vip784.com:33801?note=---Teleg
 vless://2ec46576-4c69-44f2-9704-030fdc691e68@m66a.vip784.com:33801?note=---Telegram---@Raiv2mmr---Raiv2mmrRaiv2mmr&security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[🇫🇮]t.me/Raiv2mmr
 vless://2ec46576-4c69-44f2-9704-030fdc691e68@m66a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Hddify
 vless://2ec46576-4c69-44f2-9704-030fdc691e68@m66a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://2ec46576-4c69-44f2-9704-030fdc691e68@m66a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#𝘣𝘭𝘶𝘦 𝘮𝘰𝘰𝘯
