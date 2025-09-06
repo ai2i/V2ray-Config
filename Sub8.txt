@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=/hxwdnrws&security=tls&encryption=none&type=ws#🇫🇷 France[@vpnAndroid2
+vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=/hxwdnrws?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&type=ws&allowInsecure=1#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=/hxwdnrws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=/hxwdnrws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&fp=chrome&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=/hxwdnrws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
@@ -501,5 +503,3 @@ vless://4489552b-0a71-4067-ba16-d1eaed4b4b32@Www.speedtest.net:2095?path=/@IRAN-
 vless://44bda3cb-a8ed-4373-951e-7c018edd4e42@45.128.54.15:443?path=/inqabcws&security=tls&encryption=none&type=ws#🇲🇾 Malaysia [@vpnAndroid2
 vless://44d6d9ef-c842-4a52-a180-530200ac258a@www.speedtest.net:2052?path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&security=none&encryption=none&host=MdVpnSec-devops-iran.devgroup.fun.&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://44d6d9ef-c842-4a52-a180-530200ac258a@www.speedtest.net:2052?type=ws&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&host=MdVpnSec-devops-iran.devgroup.fun.&security=none#V2rayArgon-csoc2szw
-vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?mode=auto&path=/gfsfdsese?ed=2560&security=none&encryption=none&host=lake3.global.ssl.fastly.net&type=xhttp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥:@EXPRESSVPN_420🏂⁴
-vless://44fc47c2-87cb-4819-94ef-19cc2a934f96@azadnett1.set7.site:35420?type=tcp&security=none#Hedyeh.azadnet
