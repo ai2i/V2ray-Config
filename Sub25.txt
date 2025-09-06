@@ -4,6 +4,48 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none#@Rayan_Config%2032
+
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none#@Rayan_Config%2033
+
+vless://d3a0bbdf-9c59-4b48-8778-d2257aa8f594@78.47.239.61:8880?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2075
+
+vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?security=reality&sni=wa.sfasti.ru&fp=firefox&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&spx=/TELEGRAM_JKVPN_JKVPN&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2054
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2052
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2051
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2050
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2010
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2035
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2048
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2036
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2049
+
+vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?security=tls&fp=chrome&type=ws&path=/cdfighws&encryption=none#@Rayan_Config%208
+
+vless://e24e8c57-9ac5-4799-90c4-859f9b52e7d1@165.227.221.41:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20US%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://e26b0e3d-d5a8-49ed-ade7-1ca8551c830d@128.199.56.167:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20NL%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2018
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2017
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2037
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2011
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%206
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.199:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2012
+
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2038
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2015
