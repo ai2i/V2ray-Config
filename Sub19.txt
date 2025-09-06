@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e0f5135c-b407-4530-baab-be4f51cc6027@qwert.blog:443?security=reality&encryption=none&pbk=GldzvpoHVgXvQQWfUVvipXFo2Jl0uyHz8hDgpikibBQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=real.qwert.blog&sid=44baee35266d#sangarvpn
-vless://e0f5135c-b407-4530-baab-be4f51cc6027@qwert.blog:443?security=reality&encryption=none&pbk=GldzvpoHVgXvQQWfUVvipXFo2Jl0uyHz8hDgpikibBQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=real.qwert.blog&sid=44baee35266d#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-vless://e0f5135c-b407-4530-baab-be4f51cc6027@qwert.blog:443?security=reality&encryption=none&pbk=GldzvpoHVgXvQQWfUVvipXFo2Jl0uyHz8hDgpikibBQ&headerType=none&fp=chrome&type=tcp&sni=real.qwert.blog&sid=44baee35266d#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://e0f5135c-b407-4530-baab-be4f51cc6027@qwert.blog:443?security=reality&encryption=none&pbk=GldzvpoHVgXvQQWfUVvipXFo2Jl0uyHz8hDgpikibBQ&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&sni=real.qwert.blog&sid=44baee35266d#@i10VPN 🚀| با ما متصل بمون⚡
 vless://e100d3b3-e706-4093-ae07-b820b4a3c6e6@91.99.231.221:2020?mode=gun&security=reality&encryption=none&authority=&pbk=MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI&fp=chrome&spx=/&allowinsecure=0&type=grpc&serviceName=telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE&sni=tgju.org&sid=809cb172dbede776#[🇩🇪]@configLINE(3)
 vless://e100d3b3-e706-4093-ae07-b820b4a3c6e6@91.99.231.221:2020?mode=gun&security=reality&encryption=none&pbk=MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI&fp=chrome&spx=/&type=grpc&serviceName=telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE&sni=tgju.org&sid=809cb172dbede776#Telegram : @Alfa_v2ray_ng 🔥
@@ -174,6 +171,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=&encryption=none&type=grpc#Channel id: @proxy_kafee 🇺🇸
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?security=&encryption=none&type=grpc#t.me/entryNET/config=1842515556425164
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.240:8880?mode=gun&security=&encryption=none&type=grpc#azadiiivpn 🎀
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.240:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون ✌🏻
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.240:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 🍗
@@ -231,7 +229,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?mode=gun&security=none&encryption=none&type=grpc#@EXPRESSVPN_420 |5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 💌
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇲@FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.146:8880?encryption=none&security=none&type=grpc#@Golestan_VPN - 👈 خرید کانفیگ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.152:8880?security=&sni=pqh33v6.cinema33.shop&type=grpc&encryption=none#@awlix_ir
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?encryption=none&security=none&type=grpc#@Golestan_VPN - JOIN
@@ -285,7 +282,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#@vipV2rayNGnp
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#Academi_vpn2
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#Academi_vpn5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇲@FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -344,6 +340,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#🇩🇪@FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇲@FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?security=&encryption=none&type=grpc#t.me/entryNET/config=1842515744472441
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@AblNet7 🇺🇲
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh23v4.vetmainconf.shop#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
@@ -503,3 +500,6 @@ vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v05.vxlimir.com:1370?security=reali
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v06.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v07.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v08.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
+vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v09.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
+vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v10.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
+vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v11.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
