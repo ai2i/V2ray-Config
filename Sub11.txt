@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://65b71cc5-a34d-4efa-8af8-7a0d9bedd240@69.84.182.90:8880?security=&encryption=none&host=Aidjssnsjs.parspack.com.tr.&type=httpupgrade#Channel id: @proxy_kafee20🇺🇸
 vless://65b71cc5-a34d-4efa-8af8-7a0d9bedd240@69.84.182.90:8880?security=&encryption=none&host=Suddjsbsj.parspack.com.tr.&type=httpupgrade#Channel id: @ShadowProxy66 🇺🇸
 vless://65b71cc5-a34d-4efa-8af8-7a0d9bedd240@69.84.182.90:8880?security=&encryption=none&host=Suddjsbsj.parspack.com.tr.&type=httpupgrade#Channel id: @proxy_kafee 🇺🇸
 vless://65b71cc5-a34d-4efa-8af8-7a0d9bedd240@69.84.182.90:8880?security=none&encryption=none&host=Aidjssnsjs.parspack.com.tr.&type=httpupgrade#@V2ray1_Ng
@@ -47,7 +46,6 @@ vless://66cb0bf2-1413-4dcb-9cbb-d94e4df45f72@m46a.vip784.com:33801?note=---Teleg
 vless://66cb0bf2-1413-4dcb-9cbb-d94e4df45f72@m46a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://66cb0bf2-1413-4dcb-9cbb-d94e4df45f72@m46a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#@meli_proxyy
 vless://67007ba4-fadb-48c6-bf2f-125d18279d1b@104.24.40.146:443?path=/index.html?ed&security=tls&encryption=none&host=revest.maketunnelim.lat&type=ws&sni=revest.maketunnelim.lat#Telegram : @Alfa_v2ray_ng 🔥
-vless://67386427-2cfb-441d-9888-e0c5066ff8b2@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir.&type=httpupgrade#🇩🇪 @v2ngnet
 vless://676973db-f43b-48f6-0607-0fe1bed7266e@45.88.8.147:80?path=/IVApi/NL/2&security=none&encryption=none&type=ws#@v2ray313 کانالمون 💅🏻
 vless://677e802b-691a-44b2-9dda-4f9130c85594@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=inFo.laLezaRanegomaNandish.sNap.ir.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46160-1
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?encryption=none&security=tls&sni=blog.ruangguru.com.servpn.my.id&type=ws&host=blog.ruangguru.com.servpn.my.id&path=/id5?ed=2560/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#@Daily_Configs
@@ -404,8 +402,11 @@ vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087&secu
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#@V2rayBaaz
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
+vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#@v2ray313 کانالمون 🥵
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#[🇨🇦]
+vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#[🇨🇦]ae_proxy
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087?ed=2048&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#@meli_proxyy
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087?ed=2048&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#[🇨🇦]
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087?ed=2048&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#r♡yaッ
@@ -502,4 +503,3 @@ vless://73a6237b-4cdf-42e7-aab6-c80b5948eade@www.speedtest.net:8080?path=/@unlim
 vless://73a6237b-4cdf-42e7-aab6-c80b5948eade@www.speedtest.net:8080?type=ws&host=bia-to-unlimiteddev.unlimiteddev-service.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link2
 vless://73cbb67b-42c5-415a-adf1-a7ff765109ce@speedtestcustom.com:80?mode=auto&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
 vless://73cbb67b-42c5-415a-adf1-a7ff765109ce@speedtestcustom.com:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=&encryption=none&host=fotofactory.pk&type=xhttp#@vipV2rayNGnp
-vless://73cbb67b-42c5-415a-adf1-a7ff765109ce@speedtestcustom.com:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
