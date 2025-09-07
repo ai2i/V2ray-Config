@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#@Dropcube⚡❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#@NpvV2rayFilTer
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#@TokaVpn
@@ -66,7 +65,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443#🇹🇷@vlees_v2rayng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443#🇹🇷v2rayng (DE)🔐-confegraigan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppZ29GSFFQdlRQQ0dzVHNuTFZmbTFz@159.203.91.235:20541?note=--Telegram--@NetifyVPN--#🇺🇸[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#@netv2reyng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#Channel id: @singbox1 🇹🇷
@@ -262,6 +260,12 @@ ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#@ata_connect
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#🇮🇳@FreakConfig
 ss://YWVzLTEyOC1nY206NTE1NTJhN2MtYTdjZi00MTgyLWEwYWItZDgyNGU5NjU3MDdl@68.183.46.212:8885#t.me/entryNET/config=1842577843169835
+ss://YWVzLTEyOC1nY206OGFhMGIwM2ItZTRjNi00MzY1LWFkMmQtZjZlOGE2OTQxMWFh@156.244.1.59:13879?note=--Telegram--@NetifyVPN--#🇸🇨[Telegram:NetifyVpn]
+ss://YWVzLTEyOC1nY206OGFhMGIwM2ItZTRjNi00MzY1LWFkMmQtZjZlOGE2OTQxMWFh@38.54.4.176:13891?note=--Telegram--@NetifyVPN--#🇰🇭[Telegram:NetifyVpn]
+ss://YWVzLTEyOC1nY206OGFhMGIwM2ItZTRjNi00MzY1LWFkMmQtZjZlOGE2OTQxMWFh@38.54.88.237:13890?note=--Telegram--@NetifyVPN--#🇯🇵[Telegram:NetifyVpn]
+ss://YWVzLTEyOC1nY206OGFhMGIwM2ItZTRjNi00MzY1LWFkMmQtZjZlOGE2OTQxMWFh@38.60.134.26:13877?note=--Telegram--@NetifyVPN--#🇫🇷[Telegram:NetifyVpn]
+ss://YWVzLTEyOC1nY206OGFhMGIwM2ItZTRjNi00MzY1LWFkMmQtZjZlOGE2OTQxMWFh@38.60.196.46:13888?note=--Telegram--@NetifyVPN--#🇬🇧[Telegram:NetifyVpn]
+ss://YWVzLTEyOC1nY206OGFhMGIwM2ItZTRjNi00MzY1LWFkMmQtZjZlOGE2OTQxMWFh@38.60.196.46:13888?note=--Telegram--NetifyVPN--#t.me/entryNET/config=1842598981756168
 ss://YWVzLTEyOC1nY206OGFhMGIwM2ItZTRjNi00MzY1LWFkMmQtZjZlOGE2OTQxMWFh@jianpuzai.tmdns-sing.top:13891#t.me/entryNET/config=1842595268639276
 ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#@IRAN_V2RAY1
 ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#@Selinc
@@ -331,6 +335,7 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.51:8888#@awlix_ir
 ss://YWVzLTI1Ni1nY206WUhLODJUUjczMTE0Vk45Tw==@154.196.244.26:16016#@awlix_ir
 ss://YWVzLTI1Ni1nY206YTdmMDgyYzEtMGQxMi00NjA5LWI2YmYtZTc2MGI2NjhjZjIz@77.110.110.240:443#کانفیگ سریع و ارزان همراه تست 🇩🇪 @netv2reyng
 ss://YWVzLTI1Ni1nY206YWQ3ZjkyZmQtYmZiYS00ZmIyLTgzMmUtOGJmYTYyYzYxYjQ2@51.195.101.222:8443#ᴬᴸᴸ⁸🇩🇪➣@JKVPN
+ss://YWVzLTI1Ni1nY206YWQ3ZjkyZmQtYmZiYS00ZmIyLTgzMmUtOGJmYTYyYzYxYjQ2@51.195.101.222:8443?note=--Telegram--@NetifyVPN--#🇩🇪[Telegram:NetifyVpn]
 ss://YWVzLTI1Ni1nY206YmFiZWMyZjctZGE5Yi00NjFhLTgzZTktOWM3NTA3OTA5ZWNm@45.134.13.75:443#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240:443#All_@IRAN_V2RAY1
 ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240:443#Irancell--@IRAN_V2RAY1
@@ -425,7 +430,6 @@ trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#
 trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#⚜️Telegram: @IP_CF
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#@CaV2ray ⚡️
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@CaV2ray ⚡️
-trojan://slch2024@185.148.104.195:2096?path=/Telegram🇨🇳&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#t.me/entryNET/config=1842567021059130
 trojan://slch2024@185.148.105.195:2096?path=/Telegram🇮🇷ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇷🇺
 trojan://slch2024@185.148.107.195:2096?path=/Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇳🇱
 trojan://slch2024@185.148.107.195:2096?path=/Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @singbox1 🇳🇱
@@ -434,7 +438,6 @@ trojan://slch2024@185.174.138.195:2096?path=/Telegram🇮🇷ShadowProxy66&secur
 trojan://slch2024@185.18.184.195:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@Daily_Configs
 trojan://slch2024@185.18.184.195:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@V2rayNGVPN <= کانفیگ رایگان
 trojan://slch2024@185.221.160.195:2096?path=/Telegram🇮🇷ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇷🇺
-trojan://slch2024@188.42.145.195:2096?path=/Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#t.me/entryNET/config=1842567208442250
 trojan://slch2024@192.169.220.195:2096?path=Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇺🇸
 trojan://slch2024@192.169.220.195:2096?path=Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
 trojan://slch2024@193.124.224.87:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#t.me/entryNET/config=1842567649606846
@@ -442,7 +445,6 @@ trojan://slch2024@194.76.18.195:2096?path=Telegram&security=tls&host=ocost-dy.wm
 trojan://slch2024@194.76.18.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@V2rayNGVPN <= کانفیگ رایگان
 trojan://slch2024@198.202.211.195:2096?path=Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇺🇸
 trojan://slch2024@198.202.211.195:2096?path=Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
-trojan://slch2024@198.71.232.87:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#t.me/entryNET/config=1842567460585904
 trojan://slch2024@199.68.156.195:2096?path=/Telegram🇮🇷ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇺🇸
 trojan://slch2024@209.94.90.195:2096?path=/Telegram🇮🇷@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇺🇸
 trojan://slch2024@209.94.90.195:2096?path=/Telegram🇮🇷@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @singbox1 🇺🇸
@@ -501,5 +503,3 @@ trojan://tunnel-astrovpnvpn_official@fr-1.stunnel.cc:8441?security=tls&sni=zula.
 trojan://vip@www.pcmag.com:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=/#@Golestan_VPN - JOIN
 trojan://wQz5G4ybA9eC3BQDkd@ee-1.kamediorg.com:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=ee-1.kamediorg.com#@HiByeVPNN👈⚡❤️‍🔥
 trojan://🤠JKVPN_JKVPN🤠@www.speedtest.net:80?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#🇩🇪 Telegram @SRCVPN
-tuic://10822856-7452-43ec-b35b-6f24ea33530f:10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:23887?congestion_control=cubic&udp_relay_mode=native&alpn=h3&sni=chervhill.hajalii.com&insecure=0#@Mr_Config_Group✌️
-vless://-----v2ray_fark-----@103.160.204.88:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
