@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cf0e2b73-088d-4d2e-c95d-3a4002216831@cumhuriyet.com.tr:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbot خرید سرور
-vless://cf0e2b73-088d-4d2e-c95d-3a4002216831@opening-hours.nz:80?flow=&type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbot خرید سرور
-vless://cf0e7c1c-4d6a-4c78-ad8a-05f2dfa351d3@93.127.180.126:80?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🇦🇪v2rayng_fars
-vless://cf20441a-0ca5-4eeb-bda7-4b6cb5d8b207@185.137.27.165:443?path=/?ed=2048&security=tls&encryption=none&host=dl-it.eth0.lat&type=ws&sni=dl-it.eth0.lat#🇮🇹 pardazeshVPN
-vless://cf20441a-0ca5-4eeb-bda7-4b6cb5d8b207@night.dl.darinips.com:443?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=chrome&type=tcp&sni=docker.com#🇩🇪 pardazeshVPN
-vless://cf20441a-0ca5-4eeb-bda7-4b6cb5d8b207@tr.srv1.stafillo.com:443?security=reality&encryption=none&pbk=N5ndLLRlk4BhFYLJOdE_HDab9W0E0805KRdw0FEBjXg&headerType=none&fp=chrome&type=tcp&sni=refersion.com#🇹🇷 pardazeshVPN
-vless://cf5a73e1-e1ba-4a21-aadd-2ed60eae1b52@axe.djjw8292n.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.djjw8292n.ir&type=ws&sni=mojito.djjw8292n.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://cf6deb67-e7a5-4a8d-bc8e-11efd14817cc@63.141.128.15:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=d.jOin.zEdMoDeOn.oNl.&type=ws#@V2BOXV
 vless://cf92f705-4866-46b5-a167-cea8a9eb37dc@172.66.40.99:8080?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=www.dollardoon.com&type=ws#@V2RAYNG_IP❤️‍🔥
 vless://cf92f705-4866-46b5-a167-cea8a9eb37dc@172.66.40.99:8080?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=www.dollardoon.com&type=ws#@v2rayfast_7❤️‍🔥
@@ -503,3 +496,10 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?security=&type=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#@bad_raqs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#@bad_raqs   @bad_raqs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 💓
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇵@FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 @Vlees_v2rayng
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc#@AblNet7 🇫🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc#VayNora
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?type=grpc&mode=gun&authority=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#[🇫🇷]@Evay_vpn

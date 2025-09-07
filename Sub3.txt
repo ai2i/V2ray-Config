@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#@Selinc
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#@TokaVpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#@V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#All_@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@ltnl17.saint.ydns.eu:8080#🇳🇱 [@vpnAndroid2]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE=@45.128.151.67:31348#🇱🇻LV
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#@Mrconfig_Channel 🩵
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNXVMZVB6ZmNlWEQxOE9aY0NJQVBN@94.242.59.206:39762#🇸🇪@vpnserverrr- Vip -300
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTlTa1U4YUFaRmxsNDRpT0x4bnRM@159.89.173.112:42377?note=--Telegram--@NetifyVPN--#🇮🇳[Telegram:NetifyVpn]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkb0dBejlsUGZMaFM=@62.60.233.152:443#@Selinc
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkb0dBejlsUGZMaFM=@62.60.233.152:443#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkb0dBejlsUGZMaFM=@62.60.233.152:443#🇹🇷@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjYyY2FjYi01NjM3LTRlYTktYWQ2YS1mYTlmOTU4ZTUwZTE=@111.253.193.168:10122#@Dropcube⚡❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplaGMzUzJpUXFCa25Gckw2SWVjQXAy@213.111.128.57:443#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#@awlix_ir
@@ -33,7 +20,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990?note=--Telegram--@NetifyVPN--#🇬🇷[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#@V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#@V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#WiFi-@V2rayAlpha_18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#𝘣𝘭𝘶𝘦 𝘮𝘰𝘰𝘯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#🇨🇦@FreakConfig
@@ -58,6 +44,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYTh
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348#[🇹🇷]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348#[🇹🇷] @Hddify
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348#𝘣𝘭𝘶𝘦 𝘮𝘰𝘰𝘯
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348?type=tcp#@FREE_VPN02
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#💎 @AblNet7 💎
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443#🇹🇷v2rayng (DE)🔐-confegraigan
@@ -148,12 +135,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#Irancell--@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#WiFi-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#🇳🇱 [@vpnAndroid2]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#🇳🇱𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#🚀کانال تلگرام : injastvpn@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#🇦🇺 - @FREEV2RNG 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#Channel id: @ShadowProxy66 🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#🇳🇱 [@vpnAndroid2]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#Channel id: @ShadowProxy66 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#@EXPRESSVPN_420:🇳🇱
@@ -167,7 +152,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#فیلترشکن رایگان👈Prime_Verse@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#کانال+تلگرام+AYMH19@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 @Vlees_v2rayng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 [@vpnAndroid2]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#@Daily_Configs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#@Selinc
@@ -192,7 +176,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Channel id: @ShadowProxy66 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#VayNora
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#🇳🇱 [@vpnAndroid2]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#All_@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#کانفیگ سریع و ارزان همراه تست 🇩🇪 @netv2reyng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#@CodeClubiR Join us
@@ -215,7 +198,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#v2rayng (DE)🔐-confegraigan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#@V2RAYNG_1378
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#WiFi-@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl15.saint.ydns.eu:8080#🇳🇱 [@vpnAndroid2]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvaFM2RGdWUng4R0t5ck80VW94ZFc2@77.83.246.74:443#@V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvaFM2RGdWUng4R0t5ck80VW94ZFc2@77.83.246.74:443#TokaVpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443?note=--Telegram--@NetifyVPN--#🇺🇸[Telegram:NetifyVpn]
@@ -306,8 +288,6 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:15098#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.98:64759#@awlix_ir
 ss://YWVzLTI1Ni1nY206M0JHZExUM21YVw==@45.144.30.144:18873#@Golestan_VPN - JOIN
 ss://YWVzLTI1Ni1nY206MTI5ZmUwOTUtNmEzMy00OGFiLWExZTItYTIzYmRmZTkyMzA4@45.134.13.75:443#@IRAN_V2RAY1 🇦🇪
-ss://YWVzLTI1Ni1nY206MTI5ZmUwOTUtNmEzMy00OGFiLWExZTItYTIzYmRmZTkyMzA4@45.134.13.75:443#🇦🇪 Dubai, @vlees_v2rayng_³
-ss://YWVzLTI1Ni1nY206MTI5ZmUwOTUtNmEzMy00OGFiLWExZTItYTIzYmRmZTkyMzA4@45.134.13.75:443#🇦🇪 Dubai, @vlees_v2rayng_⁵
 ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@92.63.193.243:20#@Mrconfig_Channel 🩵
 ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@92.63.193.252:20#@Mrconfig_Channel 🩵
 ss://YWVzLTI1Ni1nY206Mjc3NzkxZDQtZGQ5MC00MGMxLTljN2UtZjIxZDgxYjMxZjg3@159.65.119.239:8443#t.me/entryNET/config=1842601874984181
@@ -503,3 +483,23 @@ vless://-----v2ray_fark-----@104.16.199.186:2096?type=grpc&serviceName=@v2ray_fa
 vless://-----v2ray_fark-----@104.16.48.41:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
 vless://-----v2ray_fark-----@metrix.anvary.ir:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#l🇩🇪@v2ray_fark
 vless://-----v2ray_fark-----@v2ray-fark.ddns.net:34671?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=philharmonie-konstanz.de&headerType=http&security=none#🇫🇮@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark.ddns.net:443?type=grpc&serviceName=Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark&security=reality&fp=chrome&pbk=bS3_rNSmRqWK1kNHSZuqkuwraRy4bVfxboLTUgpWalQ&sni=mihanyas.ir&sid=635627db&spx=/#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark.ddns.net:443?type=grpc&serviceName=Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark&security=reality&fp=chrome&pbk=nyGptHaMClkq97XJeaHEe53YDL-f7A7INsUvL6jTWSs&sni=www.speedtest.net&sid=9ec9a56b&spx=/#🇫🇮@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark.ddns.net:49819?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=kodular.io&headerType=http&security=none#🇫🇮@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark.ddns.net:58082?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=bmw.com&headerType=http&security=none#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark.ddns.net:58082?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=mihanyas.ir&headerType=http&security=none#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark.ddns.net:58270?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=fast.com&headerType=http&security=none#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark2.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark2.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http/1.1,h2&sni=uy.foxnt-telegram-foxnt.shop#🇫🇮@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark2.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http/1.1,h2&sni=uy.foxnt-telegram-foxnt.shop#🇫🇮@v2ray_fark  gRPC
+vless://-----v2ray_fark-----@v2ray-fark3.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark3.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http/1.1,h2&sni=uy.foxnt-telegram-foxnt.shop#🇫🇮@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark4.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark4.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=uy.foxnt-telegram-foxnt.shop#🇫🇮@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark5.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark5.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=uy.foxnt-telegram-foxnt.shop#🇫🇮@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark6.ddns.net:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark7.ddns.net:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark8.ddns.net:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@zula.ir:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@zula.ir:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
