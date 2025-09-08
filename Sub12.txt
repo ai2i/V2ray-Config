@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@indeed.com:443?encryption=none&security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=/cbde4058-6b81-432b-8689-dd7ce10e479c#@Daily_Configs
+vless://7d22d6f7-bd15-4ae3-a41c-707427f51753@63.141.128.13:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@vmesskhodam)تلگراممون
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://7d2c8254-db95-4795-b8f4-f929a4b8c261@almd2.northwestnorth.ir:2082?security=&encryption=none&type=httpupgrade#Alman D2 🇩🇪
+vless://7d2cbc04-b08c-4eba-925d-95ffff5ed1b3@sub.saforia.ru:443?security=reality&encryption=none&pbk=fHd4FVfuo67TyhC9xOr08EKzhUFmtytTE88vY7stBV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=901a59f4a0#🇩🇪@FreakConfig
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?path=/qnbufdws&security=tls&encryption=none&type=ws#@Daily_Configs
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?path=/qnbufdws&security=tls&encryption=none&type=ws#✅ @vistav2ray  👈👈کانال ما
 vless://7d5d4b4f-99b4-45ef-a8d7-24e805745b9e@172.67.196.23:443?path=/Ki5km8BGWTxThVEAefvkMj&security=tls&alpn=http/1.1&encryption=none&host=cdn.romil-ltd.co.uk&fp=chrome&type=ws&sni=cdn.romil-ltd.co.uk#@Dropcube
@@ -497,9 +503,3 @@ vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stre
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd&security=&encryption=none&type=xhttp#Channel id: @singbox1 🇩🇪
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp#@v2ray313 کانالمون 💘
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd/??ed=2048&security=none&encryption=none&type=xhttp#→@Hddify
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd/??ed=2048&security=none&encryption=none&type=xhttp#→@Hddify 🍽️
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd/??ed=2048&security=none&encryption=none&type=xhttp#→@Hddify 🥩
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd/?@MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&type=xhttp#[🇩🇪]@confegraigan
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd/?@i10VPN?ed=2048&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd/?@i10VPN?ed=2048&security=none&encryption=none&type=xhttp#[🇩🇪]@confegraigan

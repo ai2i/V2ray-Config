@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTUyZWY3OS01NDQ0LTQ0MzEtYWVkMS1mYTc2ZTY1MTI2M2Y=@125.230.21.104:10020#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjYyY2FjYi01NjM3LTRlYTktYWQ2YS1mYTlmOTU4ZTUwZTE=@111.253.193.168:10122#@Dropcube⚡❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplaGMzUzJpUXFCa25Gckw2SWVjQXAy@213.111.128.57:443#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#@awlix_ir
@@ -417,7 +416,6 @@ trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wm
 trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#WiFi-@IRAN_V2RAY1
 trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 trojan://telegram-id-directvpn@15.237.73.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842692283861753
-trojan://telegram-id-directvpn@3.135.55.241:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842678139905250
 trojan://telegram-id-directvpn@3.69.74.65:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842680959156214
 trojan://telegram-id-directvpn@63.179.50.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
@@ -503,3 +501,5 @@ vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegra
 vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=sOp.IsVcLoD.cOm&fp=chrome&type=ws&sni=sOp.IsVcLoD.cOm#telegram-@ISVvpn
 vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=sop.isvclod.com&fp=chrome&type=ws&sni=sop.isvclod.com#telegram-@ISVvpn
 vless://----telegram-id-ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=GeIm.IsVcLOd.CoM&fp=chrome&type=ws&sni=GeIm.IsVcLOd.CoM#@mehrosaboran
+vless://----telegram-id-ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=GeIm.IsVcLOd.CoM&fp=chrome&type=ws&sni=GeIm.IsVcLOd.CoM#telegram@ISVvpn
+vless://000aab6e-553b-4de8-93ef-cca2878f7cec@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn
