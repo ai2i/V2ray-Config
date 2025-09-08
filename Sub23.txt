@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ddb133fc-d277-4c27-d518-0966796c35dc@104.31.16.37:80?path=nameless-wave-c0e0-work-new.helloworldperianscript.workers.dev&security=none&encryption=none&host=cEnTer.kaSHTI.woRld&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxyfn%20%5B18%5D
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40proxyfn%20%5B19%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxyfull%20%5B14%5D
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@212.41.8.198:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxyfull%20%5B16%5D
@@ -503,3 +502,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v8.waipdirect.shop:8880?mode=g
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#%3E%3E%40v2ray1_ng%3A%3AXX
 vless://2988936d-3c33-4572-900c-40df2c63faa0@nl.horizongatex.org:2087?encryption=none&security=tls&sni=nl.horizongatex.org&fp=chrome&type=ws&path=%2F#%3E%3E%40VmessProtocol%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY%3D@5.188.168.230:31348#%3E%3E%40v2ray1_ng%3A%3ATR
+vless://3b950794-0%6146-419f-b%6546-f5dbc16156%65c@91.99.70.212:443?mode=gun&security=reality&encryption=none&authority=&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk&fp=chrome&spx=%2F&type=grpc&serviceName=%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM&sni=www.cdn77.com#%3E%3E%40mehrosaboran%3A%3AXX

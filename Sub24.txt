@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3b950794-0%6146-419f-b%6546-f5dbc16156%65c@91.99.70.212:443?mode=gun&security=reality&encryption=none&authority=&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk&fp=chrome&spx=%2F&type=grpc&serviceName=%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM&sni=www.cdn77.com#%3E%3E%40mehrosaboran%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#%3E%3E%40v2rayngvpn%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
@@ -503,3 +502,4 @@ vless://Parsashonam-306@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Pars
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=I78nThHk0Q.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=I78nThHk0Q.sOlEnTrAa.InFo#%28%40v2raytunn%29%20-%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B13
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#%28%40v2raytunn%29%20-%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B12
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.34.244.82:443#%40v2FreeHub%20%7C%20%F0%9F%87%B3%F0%9F%87%B1
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#%28%40v2raytunn%29-%20Germany%20%F0%9F%87%A9%F0%9F%87%AA3
