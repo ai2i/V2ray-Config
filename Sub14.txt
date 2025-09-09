@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a2b80bbf-a95d-4116-bee4-5538000ecf9c@194.58.66.146:443?security=reality&encryption=none&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5c0333ed45b1#Telegram : @Alfa_v2ray_ng 🔥
 vless://a2b80bbf-a95d-4116-bee4-5538000ecf9c@194.58.66.146:443?security=reality&encryption=none&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5c0333ed45b1#[🏁]
 vless://a2c536b8-9b1c-4aea-a6ec-35fdc407c84d@api.dayhostpro.com:57297?security=reality&encryption=none&pbk=DAkye38FaoQNbOpsdebtSJLM1VfbtKIdG6ujUGjkRi8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=assets01.surveymonkey.com&sid=60bd80#Telegram: @FergalVpnMod 🇩🇪
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@0lan.amazon-osishop.ir:8880?security=&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -361,6 +360,7 @@ vless://aec7d79a-8b42-43ad-ab44-23062a1a430b@185.146.173.39:2052?type=ws&host=De
 vless://aec7d79a-8b42-43ad-ab44-23062a1a430b@185.146.173.39:2052?type=ws&host=De.lemoex.ir.&path=/wsmmad&security=none#🇩🇪 @FREE_VPN02  حجم نامحدود زمان نامشخص ✅
 vless://af1c70ed-15cb-4f03-95eb-44383d227631@172.66.132.196:443?path=/wss&security=tls&alpn=http/1.1&encryption=none&host=1yrcg4nx.shemrons.com&type=ws&sni=1yrcg4nx.shemrons.com#@Mrconfig_Channel 🩵
 vless://af38c6b0-8a1b-407d-9617-f178ac20752e@188.114.98.68:80?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
+vless://af49c00f-a53b-4888-ba00-d9d021631dc2@159.65.20.117:80?mode=auto&path=/shahins2020hams?ed=2560&security=reality&encryption=none&pbk=apMp75KQjgaRWegaiPc_ufULi0B7Mz-oUnSCJU9hRmc&host=sha834ydtrfcvs2020hin3877.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=orderup.com&sid=0c4e1fcb8576e1#🟢اشتراک کانال-@LUNAVO_VPN-جهت تعمیرات🟢
 vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇩🇪 | @External_Net
 vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80?path=/vless/&security=none&encryption=none&host=google.com&type=ws#🇩🇪@FreakConfig
 vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80?type=ws&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&path=/vless/&security=none#🇩🇪 @Evay_vpn
