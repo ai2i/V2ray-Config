@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c1c15aa0-f5ce-4e1e-c9af-8eb80852166a@99.199.73.53:18716?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://c1d2e3f4-a5b6-1234-7890-0123456789ab@104.20.158.25:443?type=ws&encryption=none&host=iran.aslivpn.ir&path=/Telegram@V2rayNG&security=tls&sni=iran.aslivpn.ir&fp=chrome#@CaV2ray ⚡️
 vless://c1eee103-9838-4944-b93d-8bad5c93dac7@armania.gojustore.site:3336?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#ارمنستان 🇦🇲
 vless://c1eee103-9838-4944-b93d-8bad5c93dac7@armania.gojustore.site:7033?path=/&security=&encryption=none&host=filimo.com&type=ws#ارمنستان 🇦🇲 3
 vless://c2122a8d-914b-414b-e6b5-c1575c2b09e0@zula.ir:80?security=none&encryption=none&type=ws&host=44-rEFaQaT.yArAyaragAHi12.info&path=/df38fGe9tgDG0dkg84LsdfOdjg8.#Awlix_ir
@@ -167,6 +165,8 @@ vless://c81ce31e-0377-4fff-955b-9c9fa0be2eb1@www.speedtest.net:8080?security=&ty
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/majara&security=tls&encryption=none&type=ws&sni=telya.alphabet-funder.info#t.me/entryNET/config=1842903298288701
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/majara&security=tls&encryption=none&type=ws&sni=telya.alphabet-funder.info#🇺🇸[Telegram:NetifyVPN]
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=telya.alphabet-funder.info#Channel : @Mrsoulb 🏴🏳
+vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=telya.alphabet-funder.info#t.me/entryNET/config=1842907138779234
+vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=telya.alphabet-funder.info#✅ @vistav2ray  👈👈کانال ما
 vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Mrconfig_Channel 🩵
 vless://c87c8e4f-dd7e-41cc-c293-5de63e8b633b@104.26.11.194:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪 Telegram @SRCVPN
 vless://c87c8e4f-dd7e-41cc-c293-5de63e8b633b@104.26.11.194:80?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=Vmessorg.paradoxone.ir&type=ws#🇩🇪 Telegram @ata_connect
@@ -269,6 +269,7 @@ vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none
 vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 🩵💛
 vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇵🇱@FreakConfig
 vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
+vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&headerType=http&type=tcp#t.me/entryNET/config=1842907451813651
 vless://c9bd82f0-bd38-48b3-8ea9-afca79e024e9@FASTSHOVPNTELEGRAM2.vinamarketcenter.ir:80?type=ws&path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048&host=eng.vinamarketcenter.ir&security=none#@FASTSHOVPN عضو شو
 vless://c9c8dab5-7bdd-41be-a10d-d25acefd9a7d@65.109.241.94:13560?security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@172.66.40.99:2095?path=/&security=none&encryption=none&host=marzp.frsee.ir&type=httpupgrade#Telegram : @Alfa_v2ray_ng 🔥
@@ -463,7 +464,6 @@ vless://d14d29dd-826f-4c0d-ad22-5091360f486b@Zula.ir:443?mode=auto&path=/ed?/ooA
 vless://d157e3e3-cb2a-4fcf-9cff-6a4fe0b3f33b@bot.nourycazablanka1234nourycazablanka.top:26424?security=none&encryption=none&headerType=http&type=tcp#@Geek_Spot
 vless://d1a91d64-beaf-42f9-9b11-9829d4a277bf@138.199.239.38:58320?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://d1a91d64-beaf-42f9-9b11-9829d4a277bf@138.199.239.38:58320?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
-vless://d1a91d64-beaf-42f9-9b11-9829d4a277bf@49.13.138.252:58320?security=&encryption=none&headerType=none&type=tcp#📢+سرورای+بیشتر+ه
 vless://d1a94626-e2d7-4377-8410-a67d91d400b1@cdn.azkhaktakhane.ir:2070?security=&encryption=none&headerType=none&type=tcp#@Dropcube
 vless://d1a94626-e2d7-4377-8410-a67d91d400b1@cdn.azkhaktakhane.ir:2070?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://d1bf6696-c690-49d8-8af5-3ba51a55bd3b@cumhuriyet.com.tr:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbot خرید سرور
