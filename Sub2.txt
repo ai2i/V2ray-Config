@@ -3,6 +3,21 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
+vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+HrvCfh7MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&authority=/v2rayNplus&type=grpc#@meli_proxyy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&authority=/v2rayNplus&type=grpc#@meli_proxyy
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?path=%2Fproxyip%3Dcitlali.shorekeeper.ir&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=random&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?path=%2Fproxyip%3Dcitlali.shorekeeper.ir%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=random&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
+vless://bec44ac3-a662-4179-a9dd-2aa881706dde@157.173.127.224:443?security=reality&encryption=none&pbk=Ajk0QudeMVQocN88OG14PpsxparFuRJlvqzXDlW-gyQ&headerType=&fp=chrome&type=tcp&sni=analytics.google.com&sid=aba7bc9a#@meli_proxyy
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh36v5.economy36top.shop#@meli_proxyy
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v6.nature27.shop#@meli_proxyy
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh34v7.bloger34art.shop#@meli_proxyy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#v2raynplus |
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh31v7.hiddendom.shop#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?security=none&sni=pqh33v1.cinema33.shop&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#@meli_proxyy
@@ -163,22 +178,15 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aklGZzU5MWNyQVdpYmI5cDNFL3Q5V2NzUjFxWjhsalV
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206d2laamtMaXU3YWhHd0xORGdoZ1lYdHowRkhWMGxDQXFybHpqVFlUbXIvYz06ZGVtRWt5bVVrUnZHNjNFZDdGMmIxUDZwVHVHQUE5MEkwTGZLeGdiVUZkOD0=@139.162.102.16:46965#@CaV2ray ⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@185.55.240.101:8080#🇩🇪 Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@23.94.67.166:8080#t.me/entryNET/config=1842956776161186
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@23.94.67.166:8080#🇮🇪 @vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@ca07.giamping.com:8080#@HiByeVPNN👈⚡❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@ch03.giamping.com:8080#🇨🇭 Zurich, ZH, Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@de04.giamping.com:8080#🇩🇪³ @vpnserverrr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@de14.giamping.com:8080#🇩🇪² @vpnserverrr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@de15.giamping.com:8080#🇩🇪 @vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@de15.giamping.com:8080#🇩🇪 Nuremberg, BY, Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@fr09.giamping.com:8080#@NpvV2rayFilTer
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@fr09.giamping.com:8080#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@us32.giamping.com:8080#🇺🇸 United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@us32.giamping.com:8080#🇺🇸³ @vpnserverrr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@us33.giamping.com:8080#🇺🇸 @vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@us33.giamping.com:8080#🇺🇸 New York, NY, United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@us55.giamping.com:8080#🇺🇲@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@us55.giamping.com:8080#🇺🇸 Ashburn, VA, United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@us55.giamping.com:8080#🇺🇸² @vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#@V2rayBaaz
@@ -269,7 +277,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMGI5YTg1ZS1lYTZhLTQ1MDktYTkzNy0yY2JjMTVhYWE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySks4Q3doTkZ1eTN1UW81eUh3SHZSdUVYS0xubnJLVzdUM3NuWEZRMjV5dDI3UEdMS29MWE1GclNGRm9WZ0I1U1FNZUFIeDhaYVFYeDltQVk1NWNZc2tVeVZhUDZSdW0=@94.131.22.134:40565#🇪🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySks4Q3doTkZ1eTN1UW81eUh3SHZSdUVYS0xubnJLVzdUM3NuWEZRMjV5dDI3UEdMS29MWE1GclNGRm9WZ0I1U1FNZUFIeDhaYVFYeDltQVk1NWNZc2tVeVZhUDZSdW0=@94.131.22.134:40565#🇺🇸 New York, NY, United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySks4Q3doTkZ1eTN1UW81eUh3SHZSdUVYS0xubnJLVzdUM3NuWEZRMjV5dDI3UEdMS29MWE1GclNGRm9WZ0I1U1FNZUFIeDhaYVFYeDltQVk1NWNZc2tVeVZhUDZSdW0=@94.131.22.134:40565#🇺🇸⁴ @vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUFFWUEpFV1h4TWtrZEU4MkFXN3FFajdqeFFyWnhxRlVqM3poZUxqRkFydnRtdXpVWE5wOUpVd3pYR0QxeUpFSGNEeUg0MUhmUE5vMzd2SFd1TEJwM2d1aVJTdVVaNnY=@94.131.22.134:40565#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUFFWUEpFV1h4TWtrZEU4MkFXN3FFajdqeFFyWnhxRlVqM3poZUxqRkFydnRtdXpVWE5wOUpVd3pYR0QxeUpFSGNEeUg0MUhmUE5vMzd2SFd1TEJwM2d1aVJTdVVaNnY=@94.131.22.134:40565#wifI_@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#@awlix_ir
@@ -293,7 +300,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930#Wi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930#🇩🇪@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY#AZADIV2RAYY  جوین بده  🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUG5NMGNEc3FEbXM0QUNZVkUwNFoy@194.87.45.189:443#🇩🇪 - @FREEV2RNG 15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcHplNGx5ajhGRmREaXhPa2YySzJvUTRySFg3VnE5eEM5dUt3Qmd2UVlETnhMZjg=@180.149.44.105:31348#Azarbaijan🇦🇿-@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0bTZDUEpBRmozemxDSGNqNnc3cVNz@45.92.218.83:56275#@Dropcube⚡❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmY2lhbC1ubA==@nl-1.stunnel.cc:8444#[Shadowsocks] astrovpn_offcial-🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtYWU=@188.208.110.58:8444#AstroVPN_Official 🇦🇪
@@ -364,7 +370,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@74.177.119.255:443#@Ca
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#@CaV2ray ⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@EVAY_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@Mrconfig_Channel 🩵
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDR0pFTExFUmd1bWVKVEE4eVNPWHhP@89.185.84.206:53895#🇬🇧@vpnserverrr- Vip -arad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#@NpvV2rayFilTer
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#@Selinc
@@ -384,7 +389,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdGMxN1ZIOVpYUU9ONXZzbEpDWW12@91.186.217.246:31764#🇩🇪 - @FREEV2RNG 9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHaFlFdWZucTlNOXl2Z0FjMXlsdmZx@165.22.61.177:18336#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVzVCclA0OFFVNFE5VlBkSldzLVB3@84.234.31.193:1080#🇩🇪 - @FREEV2RNG 14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNDhhZmpBMzlheGxZMnh6b2NKMGh6@151.236.4.225:60538#🇩🇪 @vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@NpvV2rayFilTer
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@V2RAYROZ
@@ -452,7 +456,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#@AYMH19 کانال تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#🇫🇮𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#@HiByeVPNN👈⚡❤️‍🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#Poland🇵🇱@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#🇵🇱@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#@AYMH19 کانال تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#All--@IRAN_V2RAY1
@@ -500,6 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfYjZ4NXRmTzF3WlV4T2J1Ul9BSVhn@150.241.86.252
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfYjZ4NXRmTzF3WlV4T2J1Ul9BSVhn@150.241.86.252:1080#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMng5b25wZFRxVkZtWXNQV1JGZDMx@178.128.114.43:6365?note=--Telegram--@NetifyVPN--#🇸🇬[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#🇩🇪DE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#@Golestan_VPN - JOIN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#@V2ray1_Ng
