@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&host=TELEGRA&headerType=none&type=tcp#@AblNet7 🇺🇲
-vless://Parsashonam-298@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://Parsashonam-298@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#💎 @AblNet7 💎
 vless://Parsashonam-299@185.146.173.39:8880?encryption=none&security=none&type=httpupgrade&host=De.Parsashonam.CfD.&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#@AYMH19 کانال تلگرام
 vless://Parsashonam-299@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#Telegram : @Dropcube
@@ -472,7 +470,6 @@ vless://ad02ae5c-55a7-4814-a58d-8da260ce7377@www.speedtest.net:80?path=/@CUSTOMI
 vless://ad02ae5c-55a7-4814-a58d-8da260ce7377@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Hddify
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
-vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#r♡yaッ
 vless://ad22e7bf-91f6-4cd9-9df8-7aba16a5658d@172.66.40.99:8080?path=/Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=2048&security=none&encryption=none&host=K.mangoap.org&type=ws#@bored_vpn
 vless://ad523240-c254-41da-b624-07356ffc38eb@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir&type=httpupgrade#🇩🇪 @v2ngnet
 vless://ad537844-b268-49a7-8ab1-70619ca42ecb@servers.xvon.in:5000?mode=gun&security=tls&encryption=none&type=grpc&sni=servers.xvon.in#@EXPRESSVPN_420
@@ -503,3 +500,6 @@ vless://afc70422-f320-4523-bd14-4ee01f53ba3e@62.212.70.94:2026?type=tcp&security
 vless://afea8fb8-1b5b-42bb-ea18-22bdcef1bcee@162.55.191.57:2053?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=miro.com&type=ws#@bored_vpn
 vless://afea8fb8-1b5b-42bb-ea18-22bdcef1bcee@172.66.40.99:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=speeeDeio.xpnvip.ir.&type=ws#@bored_vpn
 vless://afea8fb8-1b5b-42bb-ea18-22bdcef1bcee@172.66.40.99:80?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=speeeDeio.xpnvip.ir.&security=none#BinexTiFy🪸-oub56dna
+vless://afea8fb8-1b5b-42bb-ea18-22bdcef1bcee@binex.tc.azinpsn.ir:2053?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=miro.com&security=none#BinexTiFy🪸-oub56dna
+vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#🇹🇷@FreakConfig
+vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#SvnTeam-WIFI-irancell
