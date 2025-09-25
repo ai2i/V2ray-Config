@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443/?type=ws&encryption=none&flow=&host=6389113402676776505.rtxiran.info&path=%2F&security=tls&sni=6389113402676776505.rtxiran.info#%F0%9F%92%BC38%40oneclickvpnkeys
-hy2://8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6@5f6a56-20-co.9966661.xyz:3000/?sni=5f6a56-20-co.9966661.xyz#%F0%9F%A5%8F63%40oneclickvpnkeys
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v1.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh24v1.vetrkot.com#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 vless://5a846738-daf1-45ee-ab4a-05483bd8dfdd@185.138.164.145:2096/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=0XD-I_UKKectQQI4Wfaivn3Ls_2S2qceti2MQaDB-W4&sid=343af53b0233#%F0%9F%A7%AC32%40oneclickvpnkeys
 vless://94685add-cda8-403d-871e-06c7a38e9d1d@185.138.164.146:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=VVOAvVRuU3_LxiftduxnMbUNKHSOoR08erDTtwAMfUA&sid=d361d6e2cdff#%F0%9F%92%BC50%40oneclickvpnkeys
