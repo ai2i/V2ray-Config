@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+vless://432f95cd-0e8b-449a-b61d-e1d57b15c3b9@141.227.130.32:18885?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2083
+
 vless://49ffd741-9736-40fb-9217-76a8fcfb3ffd@141.227.138.82:18541?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2079
 
 vless://4d7fdb66-eff3-4949-882b-d1115e1bc1e4@141.227.178.223:34935?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2071
@@ -207,8 +209,6 @@ vless://edd716ae-7d5a-44f7-a0ed-a615eab0c766@141.94.168.171:32647?security=&fp=c
 vless://eeb94a25-8f00-458f-b857-34736edc97d4@141.227.172.59:14078?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2075
 
 vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
-
-
 
 
 
