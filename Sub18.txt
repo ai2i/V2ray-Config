@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%3E%3E%40free4allVPN%3A%3ACZ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
@@ -503,3 +502,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?security=&fp=chro
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.253:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20128
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2026
+
