@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.107.147.174:55778?security=reality&encryption=none&headerType=&type=tcp#telegram 🌈 v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.107.171.123:443?security=reality&encryption=none&type=xhttp#telegram ☂️ v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.107.171.123:443?security=reality&encryption=none&type=xhttp#telegram 🌟 v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.107.171.123:443?security=reality&encryption=none&type=xhttp#telegram 🌺 v2ray_configs_pools
@@ -503,3 +502,4 @@ vless://ad7666ba-a2f0-4bc0-a591-c2b5c71defc8@login.dayhostpro.com:25685?security
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://ae5a0404-af2d-482a-9d81-44156c6a3a98@ispeedtop.serantek.site:29563?type=xhttp&mode=auto&host=www.ups.com&path=/@iSpeedTopVPN&security=none#@iSpeedtopVPN-@iSpeedTopVpN
 vless://ae7bf20c-fe06-4603-ae03-c7df3eccfe21@babakapa.space:8443?security=reality&encryption=none&pbk=-d9loMrW9hPzXKc-HrMZ5-5UlKYUUDHtQzSSOqD84GQ&headerType=none&fp=chrome&spx=/y9CClJbl7HHja6j&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=ec#🇳🇱
+vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?mode=auto&path=/&security=reality&encryption=none&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&fp=chrome&spx=/&type=xhttp&sni=cloudflare.com&sid=354b9cbe48#🇩🇪 | @External_Net
