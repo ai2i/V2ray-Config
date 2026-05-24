@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://944a0133-3ffc-4772-8bd3-6125ad0683fa@193.24.120.186:8080?security=none&type=tcp#🇦🇲Armenia, Yerevan | 🌐 IP: 178.160.230.46 | ⏳ping:788.29ms | 📢 @NamazVPN
 vless://944a0133-3ffc-4772-8bd3-6125ad0683fa@193.24.120.186:8080?security=none&type=tcp#🇦🇲Armenia, Yerevan | 🌐 IP: 178.160.230.46 | ⏳ping:948.87ms | 📢 @NamazVPN
 vless://944a0133-3ffc-4772-8bd3-6125ad0683fa@193.24.120.186:8080?security=none&type=tcp#🇮🇷28516 | ⚡️Telegram = t.me/SOSkeyNET
 vless://944a0133-3ffc-4772-8bd3-6125ad0683fa@zodvaslt.v2shah.shop:8080?security=none&encryption=none&headerType=none&type=tcp#@BliitzUp |🇸🇪
@@ -503,3 +502,4 @@ vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=non
 vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=/?ed=2560&host=sv-1.jservices.ir#speedtunnel
 vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=/?ed=2560&host=sv-1.jservices.ir#تلگرام : V2ynpv @
 vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=/?ed=2560&host=sv-1.jservices.ir#🇮🇷28631 | ⚡️Telegram = t.me/SOSkeyNET
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?path=/?ed=2560&security=none&encryption=none&host=sv-1.jservices.ir&type=ws#@icv2ray
