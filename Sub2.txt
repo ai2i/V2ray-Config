@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?encryption=none&type=tcp&headerType=none#@electvpn0
 vless://2c7d8e9d-d40a-49f8-b150-2d9cf4d69f4d@212.80.8.212:38941?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://2cc4844a-c21a-4130-ad50-32c7d36b66c3@snapp.ir:8080?encryption=none&host=plusgame.gameidlc.sbs&path=/&security=none&type=ws#3814783_iraneclips_100-30.00MB📊-4D⏳
 vless://2d4379d1-887d-4f43-b9ad-ba1ad2a93ee4@snapp.ir:80?path=/&security=&encryption=none&host=sayanstoree.tel.goleij.ir&type=ws#@canfigiop
@@ -503,3 +502,4 @@ vless://98875208-5356-4bb4-9e1a-d0eed4a53844@45.90.72.231:30760?type=tcp#@canfig
 vless://98d677be-b14b-4c14-a96b-4a39a3be645a@cfcdn.zopli.ir:443?path=/eyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#@v2rayngzendegimamad🕊️
 vless://98e85ab7-5ed2-c5a5-f734-226074d50aa3@193.176.240.115:80?security=none&type=ws&path=/#🇮🇷29000 | ⚡️Telegram = t.me/SOSkeyNET
 vless://98e85ab7-5ed2-c5a5-f734-226074d50aa3@sdl.ciliko.ir:80?path=/&security=none&encryption=none&type=ws#@Proxy_Vpney v+p (2)
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#IR-@V2rayAlpha-16
