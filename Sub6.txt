@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.35.112:443?security=tls&sni=pPAL03.DimeG97449.wOrkeRs.DEv&type=ws&host=Ppal03.dImEG97449.WORkErs.deV&path=/ZhvFRxroD7TdXrS5?ed=2560&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.35.112:443?security=tls&sni=pPAL03.DimeG97449.wOrkeRs.DEv&type=ws&host=Ppal03.dImEG97449.WORkErs.deV&path=/ZhvFRxroD7TdXrS5?ed=2560&fp=chrome&alpn=h2,http/1.1#[72988] - Telegram : @V2All
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.35.112:443?security=tls&sni=pPAL03.DimeG97449.wOrkeRs.DEv&type=ws&host=Ppal03.dImEG97449.WORkErs.deV&path=/ZhvFRxroD7TdXrS5?ed=2560&fp=chrome&alpn=h2,http/1.1#🇨🇦53599 | ⚡️Telegram = t.me/SOSkeyNET
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.35.112:443?security=tls&sni=pPAL03.DimeG97449.wOrkeRs.DEv&type=ws&host=Ppal03.dImEG97449.WORkErs.deV&path=/ZhvFRxroD7TdXrS5?ed=2560&fp=chrome&alpn=h2,http/1.1#🚀@VPNine1
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.152.12:80?security=none&type=ws&host=en.mfa.gov.ir&path=@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ED#@Hope_Net-join-us-on-Telegram
@@ -501,5 +503,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?securi
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#@HajmVPN_Config 🚀
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#@meliproxyy
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#🔵@chillguy_vpn
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443/?type=tcp&encryption=none&security=tls#🇷🇺 روسیه | https://t.me/FREECONFIGSPLUS ✨
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn9-33.vk-cdnvideo.com&fp=chrome&allowInsecure=0#13https://t.me/ConfigX2ray

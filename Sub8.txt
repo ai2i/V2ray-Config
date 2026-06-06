@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b30855bb-fd19-4794-8272-953ade5fda2e@snapp.ir:80?type=ws&path=/&host=simorgh.garfar.ir&security=none#V2rayng_Fast
+vless://b3204336-fcfd-46e0-8b13-d3c3532f9f64@141.101.120.52:2053?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&fp=chrome&host=usb.mamadraza.shop&mode=auto&path=/&security=tls&sni=usb.mamadraza.shop&type=xhttp&x_padding_bytes=100-1000#@Ap_Ir6
 vless://b3204336-fcfd-46e0-8b13-d3c3532f9f64@141.101.120.52:2053?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&fp=chrome&host=usb.mamadraza.shop&mode=auto&path=/&security=tls&sni=usb.mamadraza.shop&type=xhttp&x_padding_bytes=100-1000#🚀@VPNine1
 vless://b3211ae9-536b-4b1d-92eb-8a8bcac9dcf8@158.160.99.145:443?security=reality&encryption=none&pbk=1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=moon1.realm-of-ultramar.ru#@v2ray313 کانالمون 🇫🇷
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#@KAFING_2
@@ -501,5 +503,3 @@ vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=/Channel---
 vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?path=/&security=tls&encryption=none&host=jp.aniua.qzz.io&fp=chrome&type=ws&sni=jp.aniua.qzz.io#telegram:@FVPNProxy
 vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?path=/&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#telegram:@FVPNProxy
 vless://e277ac9b-3225-4381-a9fb-3585419f7142@173.245.58.209:443?path=/37cdnws&security=tls&encryption=none&insecure=0&host=37cdnws.iamali.info&type=ws&allowInsecure=0&sni=37cdnws.iamali.info#@fastkanfig
-vless://e277ac9b-3225-4381-a9fb-3585419f7142@nelly.ns.cloudflare.com:443?path=/37cdnws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=37cdnws.iamali.info&fp=chrome&type=ws&allowInsecure=0&sni=37cdnws.iamali.info#@iguanaVPN
-vless://e2bb298a-3c77-4c42-a5b0-614ed0470491@185.143.233.234:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=cyrus2.frtshop.ir&fp=chrome&type=ws&sni=cyrus2.frtshop.ir#V2RFA

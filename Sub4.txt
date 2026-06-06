@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://347a56c2-a453-4b32-86cd-7522943df88c@45.83.182.102:2087?security=reality&encryption=none&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=493c3d4e37c23c28#@hi_proxy_iran :👈کانال تلگرام
+vless://347a56c2-a453-4b32-86cd-7522943df88c@45.83.182.102:2087?security=reality&encryption=none&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=493c3d4e37c23c28#@meliproxyy
 vless://347a56c2-a453-4b32-86cd-7522943df88c@45.83.182.102:2087?security=reality&encryption=none&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=493c3d4e37c23c28#All--@V2rayAlpha--15
 vless://347a56c2-a453-4b32-86cd-7522943df88c@45.83.182.102:2087?security=reality&encryption=none&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=493c3d4e37c23c28#@hi_proxy_iran :👈کانال تلگرام
 vless://348b9173-d353-48d7-82bc-8f15d4c7cd37@18.194.140.98:443?security=&encryption=none&headerType=none&type=tcp#@bored_vpn
@@ -501,5 +503,3 @@ vless://59d727ec-03b4-4cd7-b9ab-667a659ef87d@snappfood.ir:2086?encryption=none&t
 vless://5a563b3b-7fe5-4e56-a1db-790925eec6a2@fhucccxruijvds.iramkemax.ir:17449?security=none&encryption=none&headerType=none&type=tcp#@Ap_Ir6
 vless://5a563b3b-7fe5-4e56-a1db-790925eec6a2@fhucccxruijvds.iramkemax.ir:17449?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://5a563b3b-7fe5-4e56-a1db-790925eec6a2@fhucccxruijvds.iramkemax.ir:17449?security=none&encryption=none&headerType=none&type=tcp#telegram @mtmvpn 19
-vless://5a563b3b-7fe5-4e56-a1db-790925eec6a2@fhucccxruijvds.iramkemax.ir:17449?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
-vless://5aa02d95-185d-4205-9d5d-306440cce49f@poli.appleseraj.ir:2083?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=russia2.appleseraj.ir&type=ws&allowInsecure=0&sni=russia2.appleseraj.ir#@KAFING_2
