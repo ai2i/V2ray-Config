@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://396c904b-4b62-4334-b793-ee25fc0c61cc@188.114.96.3:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#🚀@VPNine1
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@188.114.96.3:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#@KAFING_2
 vless://39ca56f3-2e71-45c0-b2d5-6ea048923cc1@snapp.ir:80?path=/&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#@mtproto_proserver
 vless://39def2c7-56e5-452a-87aa-fad7cb10bef6@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=nleiyajji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#@HajmVPN_Config ⚡
@@ -502,4 +503,3 @@ vless://65167c7a-4177-4d6c-a69c-8b8f32a4d325@em-5.speedmizban.net:2044?encryptio
 vless://651bc3e5-a865-4ff9-b8e7-c37d9bdeb0fc@104.252.19.150:58954?mode=gun&security=reality&encryption=none&pbk=_TiHbvy4uav53YSFnKjvZSN1xx4ISwsWHV82vk49cGM&fp=chrome&spx=/2I7VJlmLptju93i&type=grpc&sni=www.apple.com&sid=c40ade#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆
 vless://6535bd8d-1958-4a33-beeb-2184e31289ae@ru.bubibubibu.com:443?security=reality&encryption=none&pbk=RK0ddk0SXfK_xi2NlztjcpzXoUbActqlwr637jDWK2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.bubibubibu.com&sid=3f9cc886565a08c9&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
 vless://653b782e-dbd8-4293-b950-b05128e8ac08@irpro.samanpy.ir:17555?security=&encryption=none&headerType=none&type=tcp#@HiByeVPNN ❤️‍🔥🧧🔥 13
-vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
