@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://Config0plus@104.16.75.127:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
-trojan://Config0plus@104.16.75.127:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در #5
-trojan://Config0plus@104.16.75.127:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#@meliproxyy
-trojan://Config0plus@104.19.229.21:443?path=/in-pdr&security=tls&host=investors.spotify.com.cyylr.eu.cc&type=ws&sni=investors.spotify.com.cyylr.eu.cc#⚡@V2ray_official
-trojan://Config0plus@104.19.229.21:443?path=/in-pdr&security=tls&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#🎮 @v2ray313
 trojan://Config0plus@104.19.229.21:443?path=/in-pdr&security=tls&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
 trojan://Config0plus@185.18.250.252:443?path=/sg-melbi&security=tls&host=unnes.ac.id.cyylr.eu.cc&type=ws&sni=unnes.ac.id.cyylr.eu.cc#🛸@V2ray_official
 trojan://Config0plus@45.130.125.0:443?path=/id-tksi&security=tls&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc#@hi_proxy_iran :👈کانال تلگرام
@@ -503,3 +498,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.183.223:22224?type=ws&securi
 vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#@KAFING_2
 vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
 vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=1&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=1&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
+vless://05d79f12-6a07-47ce-a566-5d5f571b8c59@82.117.87.213:443?security=reality&encryption=none&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slopllex.app&sid=fa#@v2ray313 کانالمون 🇫🇮
+vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#Telegram : @V2ynpv
+vless://05e09c8a-a3a9-4bd5-acf9-2c3c87bab827@145.239.173.163:443?type=tcp&encryption=none&security=none#test france
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=/proxyip=ProxyIP.CMLiussss.net&security=tls&encryption=none&insecure=1&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=1&sni=sni.skylee4.cloudns.ch#@free_conf_iran 👈 کانفیگ رایگان
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@64.186.225.13:8443?&security=tls&sni=sni.skylee4.cloudns.ch&type=ws&headerType=none&host=sni.skylee4.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.net#telegram:@FVPNProxy
