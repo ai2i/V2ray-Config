@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://10484bee-8516-400a-9b1e-efb5144ad324@185.245.40.71:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&host=/&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d82fb387#@confiig_hub
-vless://1066d253-ee38-47d8-a599-a431c7f658ee@fast1.mrsf.ir:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=1&host=netUuuu.gLobAl.sSl.Fastly.nEt.&fp=chrome&type=xhttp&allowInsecure=1&sni=digikala.com.#@KAFING_2
-vless://106b7ce2-bd92-4c10-837e-236757694115@cfa.sororain.com:443?type=xhttp&encryption=none&host=usbad.osaip.net&path=/api/v1/upload&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=usbad.osaip.net&mode=auto#🇨🇦58442 | ⚡️Telegram = t.me/SOSkeyNET
-vless://106b7ce2-bd92-4c10-837e-236757694115@cfa.sororain.com:443?type=xhttp&encryption=none&host=usbad.osaip.net&path=/api/v1/upload&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=usbad.osaip.net&mode=auto#🚀@VPNine1
 vless://106b7ce2-bd92-4c10-837e-236757694115@cfb.sororain.com:443?type=xhttp&encryption=none&host=usbad.osaip.net&path=/api/v1/upload&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=usbad.osaip.net&mode=auto#🇨🇦58443 | ⚡️Telegram = t.me/SOSkeyNET
 vless://106b7ce2-bd92-4c10-837e-236757694115@cfb.sororain.com:443?type=xhttp&encryption=none&host=usbad.osaip.net&path=/api/v1/upload&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=usbad.osaip.net&mode=auto#🚀@VPNine1
 vless://106b7ce2-bd92-4c10-837e-236757694115@cfc.sororain.com:443?type=xhttp&encryption=none&host=usbad.osaip.net&path=/api/v1/upload&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=usbad.osaip.net&mode=auto#🇨🇦58444 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +499,7 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?encryption=none&type=tcp&headerType=none#@meliproxyy
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=&encryption=none&headerType=none&type=tcp#@confiig_hub
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=&encryption=none&headerType=none&type=tcp#@icv2ray
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#@NoxTunnel irancell 2
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#@hex_proxy ¹
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#@v2rayNplus
