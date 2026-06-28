@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://daff1228-8d1a-4812-a57a-09604faa5e0c@gt-ch-02.live:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=cf9d145ad8f1ea55&sni=storage.yandex.net&type=tcp#☀️84@oneclickvpnkeys
 vless://db1b568f-8847-42bf-84e5-a51e2e49a786@130.185.121.145:55375?security=none&encryption=none&headerType=none&type=tcp#germany 🇩🇪
 vless://db1b568f-8847-42bf-84e5-a51e2e49a786@66.92.161.218:15403?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=ubwMiU_PBeeE72DXIaDXbhKIveIgrBHxmQPsQ5OUn3A&host=66.92.161.218&fp=chrome&spx=/VEQP8rwR3uqkh47&type=xhttp&sni=www.sony.com&sid=ee#canada 🇨🇦
 vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?mode=auto&path=/&security=reality&encryption=none&pbk=HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ&fp=chrome&type=xhttp&sni=vk.com&sid=938f14cf6757a249#Telegram : @V2ynpv
@@ -503,3 +502,4 @@ vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@www.speedtest.net:2053?security=tls
 vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@www.speedtest.net:2053?security=tls&type=ws&headerType=&path=&host=noone.bingnet.online&sni=noone.bingnet.online&fp=#🇩🇪SV1
 vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@www.speedtest.net:2053?security=tls&type=ws&headerType=&path=&host=uiz2001.bingnet.online&sni=uiz2001.bingnet.online&fp=&allowInsecure=1#🇩🇪 SV8
 vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@www.speedtest.net:2086?security=none&type=httpupgrade&headerType=&path=/?ed=2086&host=a3ssa.vaslbsh.com#🇩🇪 VIP 7
+vless://f6c9ef00-feb2-456e-ac54-11fd5a996cc3@fanlandv1.sorcepack.ir:52077?mode=gun&security=reality&encryption=none&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&fp=chrome&type=grpc&sni=yahoo.com&sid=ace2abf9f3eb99c6#🇫🇮@FreakConfig
