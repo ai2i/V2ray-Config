@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://917fe3da-69ed-4e59-b185-431ea872b033@3.72.41.95:61857?mode=stream-up&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000","xPaddingObfsMode":true}&pbk=LBBHUEs4l_HWG8wvI0kGH3lC7t-dlB-p8YxHTR3W1EI&fp=chrome&type=xhttp&sni=genshin.hoyoverse.com&sid=8dd2ec15d12e900f#✅ 🇩🇪 named @namedzadim ∞
 vless://91ec0ca2-6847-4165-ac44-db1968251dad@85.198.12.224:43317?encryption=none&security=none&type=ws&host=myket.ir&path=/#Tel: @Daily_Configs
 vless://91ec0ca2-6847-4165-ac44-db1968251dad@85.198.12.224:43317?path=/&security=none&encryption=none&host=myket.ir&type=ws#@NetFlowTools
 vless://91ec0ca2-6847-4165-ac44-db1968251dad@85.198.12.224:43317?path=/&security=none&encryption=none&host=myket.ir&type=ws#@one_shop_official
@@ -502,4 +503,3 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.193:443?path=/LiL?ed=#TE
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.193:443?path=/LiL?ed=#TELEGRAM-NetFlowTools?ed=512&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=kingcloud.biack.ir#✅  @vistav2ray  👈👈کانال ما ✅
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.193:443?path=/LiL?ed=#TELEGRAM-NetFlowTools?ed=512&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Proxy_Se7en
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.193:443?path=/LiL?ed=#TELEGRAM-NetFlowTools?ed=512&security=tls&alpn=h3&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#@prrofile_purple  ♥️👈 تلگرام
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.193:443?path=/LiL?ed=#TELEGRAM-NetFlowTools?ed=512&security=tls&alpn=h3&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#telegram:@sil3nt_network
