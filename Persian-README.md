@@ -2,7 +2,7 @@
 💻 این مخزن مجموعه‌ای از کانفیگ‌های V2ray رایگان است که می توانید با اپلیکیشن کلاینت V2ray خود برای دسترسی به اینترنت به صورت امن و ناشناس استفاده کنید. 
 
 
-[ENGLISH VERSION](https://github.com/barry-far/Free-V2ray-Config) | [中文版](https://github.com/barry-far/Free-V2ray-Config/blob/main/Chinese-README.md) | [Русская версия](https://github.com/barry-far/V2ray-config/blob/main/Russian-README.md) | [Türkçe Versiyon](https://github.com/barry-far/V2ray-config/blob/main/Turkish-README.md)
+[ENGLISH VERSION](https://github.com/barry-far/V2ray-Config) | [中文版](https://github.com/barry-far/V2ray-Config/blob/main/Chinese-README.md) | [Русская версия](https://github.com/barry-far/V2ray-config/blob/main/Russian-README.md) | [Türkçe Versiyon](https://github.com/barry-far/V2ray-config/blob/main/Turkish-README.md)
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/barry-far/V2ray-config.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/barry-far/V2ray-config.svg)](https://github.com/barry-far/V2ray-config/stargazers) [![Update Configs](https://github.com/barry-far/V2ray-config/actions/workflows/main.yml/badge.svg)](https://github.com/barry-far/V2ray-config/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/barry-far/V2ray-config) 
