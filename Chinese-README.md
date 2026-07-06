@@ -50,7 +50,7 @@ ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Spli
 📲 以下是在不同操作系统上使用 V2ray 的推荐方式：
 
 ### 💻 Windows 和 🐧 Linux
-在 Windows 上，我们推荐使用 [Nekoray](https://github.com/MatsuriDayo/nekoray) 或 [V2rayN](https://github.com/2dust/v2rayN) 客户端。在 `nekoray` 中导入配置文件时，只需打开应用程序，点击程序图标，选择"从剪贴板添加配置文件"，然后粘贴配置链接。在 `V2rayN` 中导入配置文件时，右键点击系统托盘中的 V2rayN 图标，选择"从剪贴板导入"，然后粘贴配置链接。使用官方客户端时，点击系统托盘中的"V"图标，然后选择"导入配置"。
+在 Windows 上，我们推荐使用 [Hiddify](https://github.com/hiddify/hiddify-app) 或 [V2rayN](https://github.com/2dust/v2rayN) 客户端。在 `Hiddify` 中导入配置文件时，只需打开应用程序，点击程序图标，选择"从剪贴板添加配置文件"，然后粘贴配置链接。在 `V2rayN` 中导入配置文件时，右键点击系统托盘中的 V2rayN 图标，选择"从剪贴板导入"，然后粘贴配置链接。使用官方客户端时，点击系统托盘中的"V"图标，然后选择"导入配置"。
 
 ### 🤖 Android
 在 Android 上，我们推荐使用 [V2rayNG](https://github.com/2dust/v2rayNG)、[HiddifyNG](https://github.com/hiddify/HiddifyNG) 或 [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid)。导入配置文件时，打开应用程序，点击右下角的"+"图标，选择"从剪贴板导入配置"，然后粘贴配置链接。
