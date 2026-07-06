@@ -50,7 +50,7 @@ ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Spli
 📲 İşte farklı işletim sistemlerinde V2ray'yi kullanmanın en iyi yolları:
 
 ### 💻 Windows ve 🐧 Linux
-Windows'ta [Nekoray](https://github.com/MatsuriDayo/nekoray) veya [V2rayN](https://github.com/2dust/v2rayN) istemcisini kullanmanızı öneririz. `nekoray`'da bir yapılandırma dosyasını içe aktarmak için, uygulamayı açın ve program simgesinde "Add profile from clipboard"ı seçin ve yapılandırma bağlantısını yapıştırın. `V2rayN`'de bir yapılandırma dosyasını içe aktarmak için, sistem tepsisindeki V2rayN simgesine sağ tıklayın, "Import from clipboard"ı seçin ve yapılandırma bağlantısını yapıştırın. Resmi istemci için, sistem tepsisindeki "V" simgesine tıklayın ve "Import Config"i seçin.
+Windows'ta [Hiddify](https://github.com/hiddify/hiddify-app) veya [V2rayN](https://github.com/2dust/v2rayN) istemcisini kullanmanızı öneririz. `Hiddify`'da bir yapılandırma dosyasını içe aktarmak için, uygulamayı açın ve program simgesinde "Add profile from clipboard"ı seçin ve yapılandırma bağlantısını yapıştırın. `V2rayN`'de bir yapılandırma dosyasını içe aktarmak için, sistem tepsisindeki V2rayN simgesine sağ tıklayın, "Import from clipboard"ı seçin ve yapılandırma bağlantısını yapıştırın. Resmi istemci için, sistem tepsisindeki "V" simgesine tıklayın ve "Import Config"i seçin.
 
 ### 🤖 Android
 Android'de [V2rayNG](https://github.com/2dust/v2rayNG), [HiddifyNG](https://github.com/hiddify/HiddifyNG) veya [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) kullanmanızı öneririz. Bir yapılandırma dosyasını içe aktarmak için, uygulamayı açın ve sağ alt köşedeki "+" simgesine tıklayın. Ardından, "Import Config from Clipboard"ı seçin ve yapılandırma bağlantısını yapıştırın.
