@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.130:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#telegram @mtmvpn
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.169:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@Soul737
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.169:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@erfanandroid
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.193:443?encryption=none&security=tls&sni=kingcloud.biack.ir&fp=chrome&alpn=h3&insecure=0&allowInsecure=0&type=ws&path=/LiL?ed#✅  @vistav2ray  👈👈کانال ما ✅
@@ -502,4 +503,3 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.198:443?security=tls&sni
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.106:443?path=/?ed&security=tls&encryption=none&type=ws&sni=ve.ylkszy.eu.org#@Hope_Net-join-us-on-Telegram
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.219:443?path=/?ed&security=tls&encryption=none&type=ws&sni=ve.ylkszy.eu.org#@Hope_Net-join-us-on-Telegram
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@hopev2ray💚
-vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn

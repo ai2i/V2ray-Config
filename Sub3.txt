@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none@NebulaVPNx
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Proxy_Se7en
 trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.toughapp.click#@hopev2ray🧡
 trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.107.157:17005?sni=www.nintendogames.net#@Hope_Net-join-us-on-Telegram
@@ -502,4 +503,3 @@ vless://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?security=reality&
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@103.160.204.56:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#🎲69@oneclickvpnkeys
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@103.160.204.56:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0#@vmesskhodam
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@103.160.204.56:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#@Ap_Ir6
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@103.160.204.56:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🚀 t.me/iProxyChannel 2
