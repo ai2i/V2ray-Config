@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vmess://eyJhZGQiOiI1Ny4xNTEuMTAwLjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU1MGU4NDAwLWUyOWItNDFkNC1hNzE2LTQ0NjY1NTQ0MDAwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoxMDA4NiwicHMiOiJWMiAtIDE3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://3935c2dc-dbb0-43f7-b367-fe89abe87fdf@173.249.209.146:20086?encryption=auto&path=/&security=none&type=ws#💡98@oneclickvpnkeys
 vmess://d9c36b55-447a-4484-882b-d799f5301681@phoenix0202.zgjok.com:443?encryption=auto&host=phoenix0202.zgjok.com&path=/d9c36b55-447a-4484-882b-d799f5301681&security=tls&sni=phoenix0202.zgjok.com&type=ws#🎍72@oneclickvpnkeys
 vmess://dbc464ad-e674-4078-a983-265184a487f5@193.36.84.146:6281?encryption=auto&path=/arki&security=none&type=ws#💡5@oneclickvpnkeys

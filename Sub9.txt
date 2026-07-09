@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@Soul737
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Proxy_Se7en
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#کانال ما : @internet_azad_2026
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Proxy_Se7en
@@ -502,4 +503,3 @@ vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alp
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
 vless://ca792b0f-013c-45d0-98e9-3b10ac713c82@69.46.46.74:443?path=/unicorn&security=tls&encryption=none&insecure=0&host=unicorn1.up.railway.app&type=ws&allowInsecure=0&sni=unicorn1.up.railway.app#𝗝𝗼𝗶𝗻 ➠ @MoOon_proxy 🇳🇱
 vless://ca792b0f-013c-45d0-98e9-3b10ac713c82@69.46.46.74:443?path=/unicorn&security=tls&encryption=none&insecure=0&host=unicorn1.up.railway.app&type=ws&allowInsecure=0&sni=unicorn1.up.railway.app#𝗝𝗼𝗶𝗻 ➠ @Viturey 🇳🇱
-vless://caa0f615-2598-4b78-b339-2824658a602b@www.baipiao.eu.org:8880?encryption=none&host=soft-dream-429a.319.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&type=ws#💡91@oneclickvpnkeys
