@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5905d91f-c3bc-4e80-bd66-4b17beb166cb@38.244.20.203:443?security=reality&encryption=none&pbk=8BglmwULIVotYAbGXx3Vd1fXiGJbKSsWnZCGvm4Exl0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=aebdb601b1371778#🔵@chillguy_vpn
+vless://fd410906-cb49-760c-8c7b-64e230f8d4d4@1405-4-19-ansooyefilter-telegram.up.railway.app:443?path=%2Fws%2Ffd410906-cb49-760c-8c7b-64e230f8d4d4&security=tls&encryption=none&insecure=0&host=1405-4-19-ansooyefilter-telegram.up.railway.app&type=ws&allowInsecure=0&sni=1405-4-19-ansooyefilter-telegram.up.railway.app#🔵@chillguy_vpn
 vless://fb9da2e5-aee6-4108-ab57-ffc36ce85656@89.150.57.196:8443?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://5e9709cb-bfc3-0152-a8e1-7beea7dd72d8@xnod3x.artemida.live:8443?security=reality&encryption=none&pbk=ZRTNgwFRP8viY4SQOgPTfWlLWJCwY3dr0aawA7vHwhU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=xnod3x.artemida.live&sid=a1b2c3d4e5f6a7b8#🔵@chillguy_vpn
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@104.105.106.147:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#🔵@chillguy_vpn
