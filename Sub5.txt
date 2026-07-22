@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4760f592-045d-4f13-a49f-7984eae1a9a8@37.49.224.93:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a#@routel1🦋
 vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori.up.railway.app&path=/Telegram2:@Configfori#Telegram: @Configfori
 vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=ws&host=configfori.up.railway.app&path=/Telegram1:@Configfori#Telegram: @Configfori
 vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=configfori.up.railway.app&path=/Telegram3:@Configfori&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#Telegram: @Configfori
@@ -503,3 +502,4 @@ vless://7512ace9-cdf2-40d2-9f7f-55a91c0193ca@dk.sv.temas-bor.ir:22007?encryption
 vless://7512ace9-cdf2-40d2-9f7f-55a91c0193ca@es.sv.temas-bor.ir:22009?encryption=none&security=reality&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/&type=tcp&headerType=none#🇩🇪DE-🚀@VPNine1
 vless://7512ace9-cdf2-40d2-9f7f-55a91c0193ca@fi.sv.temas-bor.ir:22010?encryption=none&security=reality&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/&type=tcp&headerType=none#🇩🇪DE-🚀@VPNine1
 vless://7512ace9-cdf2-40d2-9f7f-55a91c0193ca@fr.sv.temas-bor.ir:22011?encryption=none&security=reality&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/&type=tcp&headerType=none#🇩🇪DE-🚀@VPNine1
+vless://7512ace9-cdf2-40d2-9f7f-55a91c0193ca@ie.sv.temas-bor.ir:22014?encryption=none&security=reality&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/&type=tcp&headerType=none#🇩🇪DE-🚀@VPNine1

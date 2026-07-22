@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7512ace9-cdf2-40d2-9f7f-55a91c0193ca@ie.sv.temas-bor.ir:22014?encryption=none&security=reality&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/&type=tcp&headerType=none#🇩🇪DE-🚀@VPNine1
 vless://7512ace9-cdf2-40d2-9f7f-55a91c0193ca@in.sv.temas-bor.ir:22015?encryption=none&security=reality&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/&type=tcp&headerType=none#🇩🇪DE-🚀@VPNine1
 vless://7512ace9-cdf2-40d2-9f7f-55a91c0193ca@tun.temas-bor.ir:443?encryption=none&security=reality&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/&type=tcp&headerType=none#🇩🇪DE-🚀@VPNine1
 vless://756702ad-3df1-fe31-176b-325500000000@ez-733129.nova-b6ad66.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=1&host=ez-733129.nova-b6ad66.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=ez-733129.nova-b6ad66.workers.dev#@prrofile_purple  ♥️👈 تلگرام
@@ -503,3 +502,4 @@ vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?encryption=none&fl
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#@M4DVPN
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@Ap_Ir6
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@confing_v2rayy کانفینگ بیشتر در چنل 👈
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@icv2ray
