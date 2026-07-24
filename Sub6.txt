@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://77718c86-89ed-4275-b867-308b5825b8f4@188.245.114.208:15080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#🇩🇪121096 | ⚡️Telegram = t.me/SOSkeyNET
-vless://77718c86-89ed-4275-b867-308b5825b8f4@188.245.114.208:15080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#🇩🇪DE-🚀@VPNine1
 vless://777bcc23-6bc8-5819-a40d-7f2a743419a1@193.247.81.254:443?security=reality&encryption=none&pbk=gEcRhgxPiqPdtnq2lGNE4GLHwVn-h7pBViTq4uTQ_Ak&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl1.sky-cloud.online&sid=bc90eca8#@hex_proxy ³
 vless://77aafb39-8f3f-40e6-824d-3cbeab468283@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#🇫🇮 AzadMarz [ Irancell / Rightel ]-JOIN  : @AzadMarz
 vless://77c9a41e-70bd-47c2-b5e1-bff49df325d9@pizzashop.dearhossein-taktaz.ir:443?path=/&security=tls&encryption=none&insecure=0&host=pizzashop.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=pizzashop.dearhossein-taktaz.ir#@prrofile_purple  ♥️👈 تلگرام
@@ -503,3 +501,5 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?mode=gun&secur
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?mode=gun&security=&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc&sni=sca30.mysilipdir.com#🇮🇹121250 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?mode=gun&security=&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc&sni=sca30.mysilipdir.com#🔵@chillguy_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.233:8880?mode=gun&security=&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#Proxy_Se7en
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.233:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en

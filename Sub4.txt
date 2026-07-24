@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#TEL:Father_vpn
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.191:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=2560&fp=chrome&alpn=h3#@Hope_Net-join-us-on-Telegram
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.191:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=2560&fp=chrome&alpn=h3#[3064] - Telegram : @V2All
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.191:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=TELEGRAM-MARAMBASHI/?ed=2048&fp=chrome&alpn=h3#🇨🇦120867 | ⚡️Telegram = t.me/SOSkeyNET
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.182:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=TELEGRAM-MARAMBASHI/?ed=2048&fp=chrome&alpn=h3#@Hope_Net-join-us-on-Telegram
@@ -503,3 +501,5 @@ vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?encryption=n
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&security=reality&sid=c84f&sni=deepl.com&type=tcp#🇳🇱NL-🚀@VPNine1
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&security=reality&sid=c84f&sni=deepl.com&type=tcp#🧩90@oneclickvpnkeys
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#%FREE_VPN02
+vless://4c63b81f-24cc-4419-b050-7cee37a393b0@46.245.72.13:20589?type=tcp&path=/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray&host=Webmail.yjc.ir&headerType=http&security=none#@Hope_Net-join-us-on-Telegram
+vless://4c63b81f-24cc-4419-b050-7cee37a393b0@46.245.72.13:20589?type=tcp&path=/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray&host=Webmail.yjc.ir&headerType=http&security=none#@v2ray_configs_pools-join-us-on-Telegram
