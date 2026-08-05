@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dbe85a41-4f66-4874-89b2-580c7896951c@cf2.coixconqwe1.ir:2086?encryption=none&type=xhttp&path=/?ed=2082&host=Afk.1.cafearen.ir&mode=auto#🚀@VPNine1
-vless://dbe85a41-4f66-4874-89b2-580c7896951c@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&path=/?ed=2082&host=xx.francee1.postshup.ir#🇮🇷133685 | ⚡️Telegram = t.me/SOSkeyNET
 vless://dbe85a41-4f66-4874-89b2-580c7896951c@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&path=/?ed=2082&host=xx.francee1.postshup.ir#🇳🇱NL-🚀@VPNine1
 vless://dbe85a41-4f66-4874-89b2-580c7896951c@hub.docker.com:2086?encryption=none&type=xhttp&path=/?ed=2082&host=En.2.cafearen.ir&mode=auto#🇨🇦133682 | ⚡️Telegram = t.me/SOSkeyNET
 vless://dbe85a41-4f66-4874-89b2-580c7896951c@hub.docker.com:2086?encryption=none&type=xhttp&path=/?ed=2082&host=En.2.cafearen.ir&mode=auto#🚀@VPNine1
@@ -503,3 +501,5 @@ vless://ecc1e369-4aaf-441a-b919-6e7455dd8354@152.233.31.80:16923/?type=grpc&encr
 vless://eccc1f9d-985f-4ab0-a15c-9f4df0ef4b6e@karandish.mahkocholo.com:58055?security=reality&encryption=none&pbk=eiDyRuMGa0Jyb2Ff4w1Pb7zTri5h38R2w0kZj0uksF4&headerType=none&fp=chrome&spx=/OzLl67MiAbKxcpj&type=tcp&sni=play.google.com&sid=374b32ed91f8f023#⚫ 45 • @spotfyhits ❤
 vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/139.99.124.165=443&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/139.99.124.165=443&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
+vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/194.127.193.124=24467&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
+vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/194.127.193.124=24467&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12

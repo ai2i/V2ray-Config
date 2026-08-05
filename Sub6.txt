@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5910d5d4-d670-4cf2-b875-72bfef693c56@104.17.108.1:443?encryption=none&type=xhttp&mode=packet-up&host=aa.farxmode.ir&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=aa.farxmode.ir&alpn=h2,http/1.1#@EVAY_VPN
-vless://59260bc4-8672-4573-b805-a372efc200b8@germany1.fastly80-2.hosting-ip.com:80?path=/?ed=1024&security=none&encryption=none&host=iranvpn.com.&type=ws#@V2rayi_net
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.16.203.166:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel: @pPal03🥸جوین بدید گوگولیا🥸
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel: @pPal03🥸جوین بدید گوگولیا🥸
 vless://5930c920-c5b4-4211-a861-fdb3c4c65e04@104.248.136.146:48654?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪133706 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +501,5 @@ vless://7fc1ee8b-3abf-4b4e-ab73-007460d767bd@91.107.182.197:25520/?type=tcp&encr
 vless://7fc1ee8b-3abf-4b4e-ab73-007460d767bd@91.107.182.197:25520?encryption=none&fp=&pbk=CdbZitEgBioklscSAiU8eGR_sRvzLPrH3davu5DrNBc&security=reality&sid=a8de8bc1e9f5ef&sni=yahoo.com&type=tcp#🤖68@oneclickvpnkeys
 vless://7fc1ee8b-3abf-4b4e-ab73-007460d767bd@91.107.182.197:25520?encryption=none&type=raw&security=reality&sni=yahoo.com&pbk=CdbZitEgBioklscSAiU8eGR_sRvzLPrH3davu5DrNBc&sid=a8de8bc1e9f5ef&spx=/HesarWeb#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch: @pPal03😛جوین بدید😛
+vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch: @pPal03😛جوین بدید😛
+vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@159.69.192.171:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs
