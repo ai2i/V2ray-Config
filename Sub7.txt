@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://71286f3b-ec0f-4d12-9d3b-8d2941dee6ae@192.71.82.2:8443?mode=stream-up&path=/dl-assets&security=tls&alpn=h2&encryption=none&extra={"headers":{"User-Agent":"firefox"},"xPaddingBytes":"100-1000","scMaxBufferedPosts":30,"scStreamUpServerSecs":"20-80"}&insecure=0&host=dl.eloctroforce.com&fp=chrome&type=xhttp&allowInsecure=0&sni=dl.eloctroforce.com#@vmess_ir
-vless://71286f3b-ec0f-4d12-9d3b-8d2941dee6ae@75.119.151.16:80?mode=stream-one&path=/?ed=2048&security=none&encryption=none&host=de.samanehha.io&type=xhttp#@outline_ir
-vless://712af74a-c9bf-4ff3-8bae-7024b1ec0a24@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in8&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#United Kingdom-gb-client
 vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?security=tls&encryption=none&headerType=none&type=tcp&sni=proxy.wastech.org#@v2rayng3
 vless://717ef6a0-1c29-11f1-9350-92000723b4ab@dlc-new11.persianpinggame.com:5111?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#کانال تلگرام : Free_VPN_CH@
 vless://71c92c65-61d4-445a-a307-aa163a41c180@germany.avrilon.us:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.gujz8w_24dfztN4inkaIAOa9Fw8u-hXxE0Axd-4zsC0&pbk=wXs2Zk6eIv4p2Rj1MQqXeT8h7z6-ff6ALExacKW71DQ&headerType=none&fp=chrome&spx=/35463cdcc69c3b2&type=tcp&flow=xtls-rprx-vision&sni=semiconductor.samsung.com&sid=60e1#@bored_vpn
@@ -503,3 +500,6 @@ vless://888193f6-6818-42f4-b223-64c9fd323b76@151.101.56.6:443?encryption=none&ty
 vless://888193f6-6818-42f4-b223-64c9fd323b76@151.101.56.6:443?encryption=none&type=xhttp&security=tls&path=/&host=blueb.global.ssl.fastly.net&mode=auto&sni=ssl.fastly.com&fp=chrome&insecure=1&allowInsecure=1#vpnsal
 vless://888193f6-6818-42f4-b223-64c9fd323b76@31.15.18.92:42538?encryption=none&type=tcp&headerType=none&host=play.google.com#@meliproxyy
 vless://888193f6-6818-42f4-b223-64c9fd323b76@31.15.18.92:42538?encryption=none&type=tcp&headerType=none&host=play.google.com#vpnsal
+vless://888193f6-6818-42f4-b223-64c9fd323b76@45.13.119.221:20513?encryption=none&type=tcp&security=reality&headerType=none&host=play.google.com&sni=updates.cdn-apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=CTfSuRE6fUPYVBJGsmOYnP3UketmmTJSQP45OcoGI2k&sid=285db1978fd0d8c1#@meliproxyy
+vless://888193f6-6818-42f4-b223-64c9fd323b76@45.13.119.221:20513?encryption=none&type=tcp&security=reality&headerType=none&host=play.google.com&sni=updates.cdn-apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=CTfSuRE6fUPYVBJGsmOYnP3UketmmTJSQP45OcoGI2k&sid=285db1978fd0d8c1#vpnsal
+vless://888193f6-6818-42f4-b223-64c9fd323b76@45.65.112.228:20513?encryption=none&type=tcp&security=reality&headerType=none&sni=updates.cdn-apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=CTfSuRE6fUPYVBJGsmOYnP3UketmmTJSQP45OcoGI2k&sid=285db1978fd0d8c1#@meliproxyy
