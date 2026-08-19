@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://35a44601-69f4-4f80-a287-c9f2f4d6df16@188.114.98.224:8080?type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev#@Hope_Net-join-us-on-Telegram
+vless://35aa4cf8-c13c-58db-bd62-9de92225030f@95.164.38.6:2052?path=/vless/Telegram@V2ray_Alpha&security=none&encryption=none&host=www-domain.no1.v2vless.sitespeedtest.net&type=ws#@V2rayi_net
 vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?security=&encryption=none&headerType=none&type=tcp#@confiig_hub
 vless://35d2a009-4f71-4b99-85ef-369bb75908e1@172.66.213.38:2096?path=/?u&security=tls&encryption=none&insecure=0&host=golden-garden-d12d.sazrerd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=golden-garden-d12d.sazrerd.workers.dev#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://35d60353-8aaa-4b8a-d2db-b9270cd763cd@inetchnl-production-676b.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=auto&host=inetchnl-production-676b.up.railway.app&path=/xhttp-siz10/35d60353-8aaa-4b8a-d2db-b9270cd763cd&sni=inetchnl-production-676b.up.railway.app&fp=chrome&alpn=h2,http/1.1#🇺🇸@iNetChnl-XHTTP
@@ -501,5 +503,3 @@ vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:
 vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:443?path=/stream/PANEL_ZEUS/d536262105ae&security=tls&encryption=none&insecure=0&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-30c541.aliminaie277.workers.dev#@meliproxyy
 vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:443?path=/stream/PANEL_ZEUS/d536262105ae&security=tls&encryption=none&insecure=0&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-30c541.aliminaie277.workers.dev#[25715] - Telegram : @V2All
 vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:80?path=/stream/PANEL_ZEUS/d536262105ae&security=none&encryption=none&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws#@freenettir
-vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:80?path=/stream/PANEL_ZEUS/d536262105ae&security=none&encryption=none&host=ez-30c541.aliminaie277.workers.dev&fp=chrome&type=ws#@meliproxyy
-vless://5046e28c-5d06-4d5b-927f-269a83371f2c@146.75.119.82:80?path=ws/?ed=2048/@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR/?2048&security=none&encryption=none&host=rb24.ir&type=ws#@spiddy_ir
