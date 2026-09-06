@@ -48,7 +48,7 @@ Subscription 8: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Su
 
 <img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt" />
 
-🔒 To ensure the best possible performance and security, we recommend subscribing to our latest configurations using the subscription link feature. Simply copy the subscription link from the configs.txt file and paste it into your V2ray client to receive automatic updates every 10 minutes.
+🔒 To ensure the best possible performance and security, we recommend subscribing to our latest configurations using the subscription link feature. Simply copy the subscription link from the configs.txt file and paste it into your V2ray client to receive automatic updates every 15 minutes.
 
 🗂️ For easier configuration management, we have split the configuration files into individual files for each protocol and added them to the Splitted folder. To have easy access to separated Configs use this: 
 
@@ -70,7 +70,7 @@ ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Spli
 📲 Here are best ways to use V2ray on different operating systems:
 
 ### 💻 Windows and 🐧 Linux
-On Windows, we recommend using [Nekoray](https://github.com/MatsuriDayo/nekoray) or [V2rayN](https://github.com/2dust/v2rayN) client. To import a configuration file in `nekoray`, simply open the app then on the Program icon, select "Add profile from clipboard", and paste the configuration link. To import a configuration file in `V2rayN`, simply right-click on the V2rayN icon in the system tray, select "Import from clipboard", and paste the configuration link. For the official client, click on the "V" icon in the system tray and select "Import Config".
+On Windows, we recommend using [Hiddify](https://github.com/hiddify/hiddify-app) or [V2rayN](https://github.com/2dust/v2rayN) client. To import a configuration file in `Hiddify`, simply open the app then on the Program icon, select "Add profile from clipboard", and paste the configuration link. To import a configuration file in `V2rayN`, simply right-click on the V2rayN icon in the system tray, select "Import from clipboard", and paste the configuration link. For the official client, click on the "V" icon in the system tray and select "Import Config".
 
 ### 🤖 Android
 On Android, we recommend using [V2rayNG](https://github.com/2dust/v2rayNG) or [HiddifyNG](https://github.com/hiddify/HiddifyNG) or [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid). To import a configuration file, open the app and click on the "+" icon in the bottom right corner. Then, select "Import Config from Clipboard" and paste the configuration link.

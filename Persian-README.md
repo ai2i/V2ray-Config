@@ -2,7 +2,7 @@
 💻 این مخزن مجموعه‌ای از کانفیگ‌های V2ray رایگان است که می توانید با اپلیکیشن کلاینت V2ray خود برای دسترسی به اینترنت به صورت امن و ناشناس استفاده کنید. 
 
 
-[ENGLISH VERSION](https://github.com/barry-far/Free-V2ray-Config) | [中文版](https://github.com/barry-far/Free-V2ray-Config/blob/main/Chinese-README.md) | [Русская версия](https://github.com/barry-far/V2ray-config/blob/main/Russian-README.md) | [Türkçe Versiyon](https://github.com/barry-far/V2ray-config/blob/main/Turkish-README.md)
+[ENGLISH VERSION](https://github.com/barry-far/V2ray-Config) | [中文版](https://github.com/barry-far/V2ray-Config/blob/main/Chinese-README.md) | [Русская версия](https://github.com/barry-far/V2ray-config/blob/main/Russian-README.md) | [Türkçe Versiyon](https://github.com/barry-far/V2ray-config/blob/main/Turkish-README.md)
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/barry-far/V2ray-config.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/barry-far/V2ray-config.svg)](https://github.com/barry-far/V2ray-config/stargazers) [![Update Configs](https://github.com/barry-far/V2ray-config/actions/workflows/main.yml/badge.svg)](https://github.com/barry-far/V2ray-config/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/barry-far/V2ray-config) 
@@ -52,7 +52,7 @@ ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Spli
 📲 انواع مختلف راه‌ها برای استفاده از V2ray در سیستم عامل‌های مختلف به شرح زیر است:
 
 ### 💻 ویندوز و 🐧 لینوکس
-در ویندوز، ما پیشنهاد می کنیم از [Nekoray](https://github.com/MatsuriDayo/nekoray) یا [V2rayN](https://github.com/2dust/v2rayN) استفاده کنید. برای import کردن یک فایل کانفیگ در `nekoray`، به سادگی برنامه را باز کنید، سپس در آیکون برنامه، "Add profile from clipboard" را انتخاب کرده و لینک فایل کانفیگ را paste کنید. برای import کردن یک فایل کانفیگ در `V2rayN`، به سادگی روی آیکون V2rayN در system tray کلیک راست کرده، "Import from clipboard" را انتخاب کرده و لینک فایل کتنفیگ را paste کنید. برای اجرای برنامه رسمی، روی آیکون "V" در system tray کلیک کرده و "Import Config" را انتخاب کنید.
+در ویندوز، ما پیشنهاد می کنیم از [Hiddify](https://github.com/hiddify/hiddify-app) یا [V2rayN](https://github.com/2dust/v2rayN) استفاده کنید. برای import کردن یک فایل کانفیگ در `Hiddify`، به سادگی برنامه را باز کنید، سپس در آیکون برنامه، "Add profile from clipboard" را انتخاب کرده و لینک فایل کانفیگ را paste کنید. برای import کردن یک فایل کانفیگ در `V2rayN`، به سادگی روی آیکون V2rayN در system tray کلیک راست کرده، "Import from clipboard" را انتخاب کرده و لینک فایل کتنفیگ را paste کنید. برای اجرای برنامه رسمی، روی آیکون "V" در system tray کلیک کرده و "Import Config" را انتخاب کنید.
 
 ### 🤖 اندروید
 در اندروید، ما پیشنهاد می کنیم از [V2rayNG](https://github.com/2dust/v2rayNG) یا [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) استفاده کنید. برای import کردن یک فایل کانفیگ، برنامه را باز کرده و روی آیکون "+" در گوشه پایین سمت راست کلیک کنید. سپس، "Import Config from Clipboard" را انتخاب کرده و لینک فایل کانفیگ را paste کنید.
